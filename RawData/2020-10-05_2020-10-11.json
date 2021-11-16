@@ -1,0 +1,122 @@
+[
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-10-05T21:03:29.425Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-05T21:03:29.533Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-05T21:03:43.495Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-05T21:03:44.633Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "About",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-05T21:03:46.751Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-05T21:04:15.373Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-05T21:04:24.407Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-05T21:04:43.827Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-05T21:04:49.527Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-05T21:04:59.011Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-10-08T19:09:18.822Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-08T19:09:18.933Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-08T19:09:23.614Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-08T19:09:26.147Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-08T19:14:26.811Z"
+    }
+]

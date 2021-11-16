@@ -1,0 +1,42 @@
+aid,evDesc1,evDesc2,evDesc3,evType,ts
+4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios","(35.051366873052984,-79.04818778145427)",evStart,2020-10-01T15:07:24.784Z
+4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03,1.0.4 (34),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios","(47.698238762977404,-122.37032847610278)",evStart,2020-10-01T16:45:43.458Z
+500dd2b54014d386757dc147ef076d0b43ad04ed79691c4a844bcc747d452fd3,1.0.4 (34),"android,phablet,cordova,capacitor,mobile,hybrid,Google,Pixel 3a XL,android,10,android","(47.7150931,-122.292522)",evStart,2020-10-01T23:57:41.569Z
+d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios",n/a,evStart,2020-10-02T15:45:00.002Z
+8d88324e0d8c9b76cd8eb8e62de4625eb07f91e5f38ab12d68cca0be5ce89a6d,1.0.0 (30),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.5.1,ios",n/a,evStart,2020-10-02T23:42:54.217Z
+d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",n/a,evStart,2020-10-03T04:48:23.382Z
+80ec79baf03cf80bb521aa8becbc5762edc665f879abc24350c99ae7c2a7d65c,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios",n/a,evStart,2020-10-04T22:35:07.941Z
+d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",n/a,evStart,2020-10-05T21:03:29.425Z
+d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",n/a,evStart,2020-10-08T19:09:18.822Z
+4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios","(35.05139093907041,-79.04810525826915)",evStart,2020-10-12T13:50:40.545Z
+7684a8e4774b0ff9242b11266d1ccb56c3d841f1732849a04eade9eb9ab8bf70,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0,ios","(38.46237961895477,-121.95144244870771)",evStart,2020-10-13T19:12:43.511Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios","(47.70627949522234,-122.3195822573156)",evStart,2020-10-13T20:00:10.287Z
+5a9d26e00be39496869424cdc7006bb3c0651b739065351e143f2a0d33688111,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2,ios",n/a,evStart,2020-10-15T14:11:04.958Z
+0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",n/a,evStart,2020-10-15T16:01:59.979Z
+5a9d26e00be39496869424cdc7006bb3c0651b739065351e143f2a0d33688111,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2,ios","(41.98061712194082,-88.28660987690138)",evStart,2020-10-15T16:44:23.105Z
+905b4cdc0418d04b4e19ef8178be1f109e4627ba0b84509bc56c50b58b577051,1.0.6 (35),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0,ios",n/a,evStart,2020-10-16T00:05:57.756Z
+d20ea0ef33386afcead14ec7695850166f0a64077c9e726f05d4c654b576ae39,1.0.6 (35),"android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,8.1.0,android",n/a,evStart,2020-10-16T04:57:16.339Z
+d20ea0ef33386afcead14ec7695850166f0a64077c9e726f05d4c654b576ae39,1.0.6 (35),"android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,8.1.0,android",n/a,evStart,2020-10-16T05:07:41.149Z
+905e8d35b907e1b9b87cf2c112eac9697cbc79a16b2706ee639746b4a1a649b7,1.0.6 (35),"android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,10,android","(NaN,NaN)",evStart,2020-10-16T05:15:02.729Z
+d20ea0ef33386afcead14ec7695850166f0a64077c9e726f05d4c654b576ae39,1.0.6 (35),"android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,8.1.0,android",n/a,evStart,2020-10-16T05:34:29.843Z
+905b4cdc0418d04b4e19ef8178be1f109e4627ba0b84509bc56c50b58b577051,1.0.6 (35),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0,ios",n/a,evStart,2020-10-16T17:09:12.833Z
+89184bd196ceb1838efb264be11f794135c91578ae6ca72fab81bb1206c9533b,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios","(30.040095940923713,-89.98841071108032)",evStart,2020-10-17T16:42:38.152Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios","(47.70626603541095,-122.31955225359111)",evStart,2020-10-19T21:30:49.741Z
+4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03,1.0.4 (34),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios","(47.69827102384255,-122.37027999120507)",evStart,2020-10-19T21:31:30.161Z
+4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03,1.0.4 (34),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios","(47.698289141233275,-122.37023450434337)",evStart,2020-10-19T22:00:42.741Z
+4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03,1.0.4 (34),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios","(47.69834416106912,-122.37041258571325)",evStart,2020-10-19T22:48:12.000Z
+2e19c82e9d1d1ccafeb0c4e911430e23e094324e997971fff23fe683c5c33a2c,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",n/a,evStart,2020-10-20T01:57:32.842Z
+6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios","(47.698307895902765,-122.37026024373971)",evStart,2020-10-21T00:04:05.057Z
+6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios","(47.69862915996936,-122.37061522469325)",evStart,2020-10-21T00:09:38.417Z
+d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.1,ios",n/a,evStart,2020-10-22T20:03:45.382Z
+a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332,1.0.4 (34),"android,cordova,capacitor,mobile,hybrid,samsung,SM-G973U,android,10,android",n/a,evStart,2020-10-25T00:03:54.195Z
+6a3a4d62c689e7a602574c27b793de8e9dee9b1f1aebc24aebaef75da762a1c5,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios","(32.65916741643992,-85.36869970133965)",evStart,2020-10-28T02:58:58.068Z
+6360231f4ea9b489f227f6ce708a896a061787140d722a6e2571e1d795d1bc1a,1.0.4 (34),"android,cordova,capacitor,mobile,hybrid,TCL,5032W,android,9,android","(37.4676268,-122.2266211)",evStart,2020-10-28T03:30:41.942Z
+6360231f4ea9b489f227f6ce708a896a061787140d722a6e2571e1d795d1bc1a,1.0.4 (34),"android,cordova,capacitor,mobile,hybrid,TCL,5032W,android,9,android","(37.4676288,-122.226626)",evStart,2020-10-28T05:27:37.900Z
+6360231f4ea9b489f227f6ce708a896a061787140d722a6e2571e1d795d1bc1a,1.0.4 (34),"android,cordova,capacitor,mobile,hybrid,TCL,5032W,android,9,android","(37.4676434,-122.226616)",evStart,2020-10-28T09:37:54.389Z
+ba7ee3e77c35b8e5516b9ccb475f54295394cee9f6ae93912f61e5a11b8af20d,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",n/a,evStart,2020-10-29T01:07:19.450Z
+ba7ee3e77c35b8e5516b9ccb475f54295394cee9f6ae93912f61e5a11b8af20d,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",n/a,evStart,2020-10-29T02:11:35.547Z
+ba7ee3e77c35b8e5516b9ccb475f54295394cee9f6ae93912f61e5a11b8af20d,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",n/a,evStart,2020-10-29T15:58:00.184Z
+6360231f4ea9b489f227f6ce708a896a061787140d722a6e2571e1d795d1bc1a,1.0.4 (34),"android,cordova,capacitor,mobile,hybrid,TCL,5032W,android,9,android","(37.4676309,-122.2266211)",evStart,2020-10-29T23:36:51.966Z
+ba7ee3e77c35b8e5516b9ccb475f54295394cee9f6ae93912f61e5a11b8af20d,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",n/a,evStart,2020-10-30T12:38:46.371Z
+fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a,1.0.4 (34),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios","(32.33040932251175,-95.30083452063657)",evStart,2020-10-30T14:44:42.635Z

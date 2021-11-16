@@ -1,0 +1,3074 @@
+[
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T00:41:06.084Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:06.192Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "51934-12",
+        "evDesc2": "CIDETRAK\u00ae DA MEC\u2122",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T00:41:26.401Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "CIDETRAK\u00ae DA MEC\u2122 | epa: 51934-12",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:27.121Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:30.327Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:30.681Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:31.742Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T00:41:51.340Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:51.436Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:57.147Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:57.725Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:58.606Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:41:59.896Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "66330-234",
+        "evDesc2": "Captan 50 Wettable Powder",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T00:42:01.019Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Captan 50 Wettable Powder | epa: 66330-234",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:42:01.669Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Captan 50 Wettable Powder | epa: 66330-234",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T00:42:02.425Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "62719-621",
+        "evDesc2": "Entrust\u00ae SC Naturalite\u00ae   Insect Control",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T00:42:10.840Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Entrust\u00ae SC Naturalite\u00ae   Insect Control | epa: 62719-621",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:42:11.437Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Entrust\u00ae SC Naturalite\u00ae   Insect Control | epa: 62719-621",
+        "evDesc3": "Category: Engineering Controls",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T00:42:11.626Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Entrust\u00ae SC Naturalite\u00ae   Insect Control | epa: 62719-621",
+        "evDesc3": "Category: Physical or Chemical Hazards",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T00:42:12.460Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T00:42:42.774Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:42:58.029Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:42:58.537Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T00:44:58.920Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T00:48:38.138Z"
+    },
+    {
+        "aid": "c53c627735d1055f67ee1c1c9d58c5ce7e853ad925af042d5fcdf69b21f79840",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T00:50:16.257Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T00:50:38.766Z"
+    },
+    {
+        "aid": "1f5e9e06ec50978746f4d046877d7a5a1204d0ae139268fff5066a5f7ea0d9d7",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T00:51:15.348Z"
+    },
+    {
+        "aid": "c073fb05fb746eacacb02e831193eda2d135974c0968fd0e2f200c86b73658ff",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T00:51:24.667Z"
+    },
+    {
+        "aid": "c073fb05fb746eacacb02e831193eda2d135974c0968fd0e2f200c86b73658ff",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T00:51:24.751Z"
+    },
+    {
+        "aid": "c073fb05fb746eacacb02e831193eda2d135974c0968fd0e2f200c86b73658ff",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T00:51:42.576Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "QuestionPage1",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T01:08:50.868Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.6,ios",
+        "evDesc3": "(47.69766937586161,-122.3701323238165)",
+        "evType": "evStart",
+        "ts": "2021-07-14T01:08:53.390Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T01:08:53.547Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T01:09:03.364Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "Update News",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T01:09:07.590Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-14T01:09:20.513Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-14T01:09:22.142Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T01:09:28.477Z"
+    },
+    {
+        "aid": "17b494cfa0f35114a29f8664c1de0448dd2db7b27a43e45ca94247ecbaf6ba9f",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T02:36:05.908Z"
+    },
+    {
+        "aid": "17b494cfa0f35114a29f8664c1de0448dd2db7b27a43e45ca94247ecbaf6ba9f",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T02:36:05.984Z"
+    },
+    {
+        "aid": "17b494cfa0f35114a29f8664c1de0448dd2db7b27a43e45ca94247ecbaf6ba9f",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T02:36:20.022Z"
+    },
+    {
+        "aid": "17b494cfa0f35114a29f8664c1de0448dd2db7b27a43e45ca94247ecbaf6ba9f",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T02:37:17.324Z"
+    },
+    {
+        "aid": "17b494cfa0f35114a29f8664c1de0448dd2db7b27a43e45ca94247ecbaf6ba9f",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T02:37:20.445Z"
+    },
+    {
+        "aid": "17b494cfa0f35114a29f8664c1de0448dd2db7b27a43e45ca94247ecbaf6ba9f",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T02:37:34.142Z"
+    },
+    {
+        "aid": "17b494cfa0f35114a29f8664c1de0448dd2db7b27a43e45ca94247ecbaf6ba9f",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T02:37:41.595Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "1.0.14 (46)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T14:20:31.743Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T14:20:31.813Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T14:22:31.192Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T14:37:31.378Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T14:38:12.488Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T14:53:51.445Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T14:53:51.525Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T14:55:17.513Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T14:56:59.156Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T14:56:59.608Z"
+    },
+    {
+        "aid": "9c8cde8933c15141b22ed79a7eb3ec0b1f9b4ab2fb20471a50f0db10ed485c35",
+        "evDesc1": "QuestionPage1",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T17:39:28.009Z"
+    },
+    {
+        "aid": "9c8cde8933c15141b22ed79a7eb3ec0b1f9b4ab2fb20471a50f0db10ed485c35",
+        "evDesc1": "1.0.14 (46)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T17:40:53.001Z"
+    },
+    {
+        "aid": "9c8cde8933c15141b22ed79a7eb3ec0b1f9b4ab2fb20471a50f0db10ed485c35",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T17:40:53.077Z"
+    },
+    {
+        "aid": "9c8cde8933c15141b22ed79a7eb3ec0b1f9b4ab2fb20471a50f0db10ed485c35",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T17:41:39.083Z"
+    },
+    {
+        "aid": "9c8cde8933c15141b22ed79a7eb3ec0b1f9b4ab2fb20471a50f0db10ed485c35",
+        "evDesc1": "83100-4-83979",
+        "evDesc2": "ABACUS AGRICULTURAL MITICIDE/INSECTICIDE",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2021-07-14T17:41:39.973Z"
+    },
+    {
+        "aid": "9c8cde8933c15141b22ed79a7eb3ec0b1f9b4ab2fb20471a50f0db10ed485c35",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "ABACUS AGRICULTURAL MITICIDE/INSECTICIDE | epa: 83100-4-83979",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T17:41:40.652Z"
+    },
+    {
+        "aid": "9c8cde8933c15141b22ed79a7eb3ec0b1f9b4ab2fb20471a50f0db10ed485c35",
+        "evDesc1": "83100-4-83979",
+        "evDesc2": "ABACUS AGRICULTURAL MITICIDE/INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-14T17:48:50.041Z"
+    },
+    {
+        "aid": "9c8cde8933c15141b22ed79a7eb3ec0b1f9b4ab2fb20471a50f0db10ed485c35",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T17:49:31.316Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "1.0.14 (46)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T18:19:04.969Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T18:19:05.052Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T18:19:21.501Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T18:19:22.150Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T18:19:30.574Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T18:21:58.148Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T18:23:21.503Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T18:25:40.829Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T18:52:43.959Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T18:53:19.167Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-14T19:02:22.918Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T19:02:22.995Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T19:02:42.915Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T19:02:48.510Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T19:03:45.566Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T19:03:46.254Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:03:50.446Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Producer Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:20:35.064Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:20:40.699Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:23:13.347Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:33:12.054Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Engineering Controls",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:39:00.879Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Physical or Chemical Hazards",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:39:18.438Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Storage and Disposal",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:39:57.879Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Environmental Protection",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:43:27.622Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Spray Drift Prevention",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:44:54.381Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "100-938",
+        "evDesc2": "Actara\u00ae",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T19:51:55.940Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Actara\u00ae | epa: 100-938",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T19:51:56.542Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T19:51:57.952Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T19:54:04.515Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T19:54:24.511Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Producer Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:00:06.406Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:00:11.382Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:01:12.930Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:02:03.276Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:02:06.307Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Engineering Controls",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:05:25.370Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Physical or Chemical Hazards",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:06:09.750Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Storage and Disposal",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:06:14.410Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Environmental Protection",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:06:34.364Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Spray Drift Prevention",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:08:41.770Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "45002-8",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T20:13:54.434Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T20:13:55.041Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:13:56.014Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: Producer Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:16:05.499Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:16:09.276Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:19:34.783Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:20:28.989Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: Engineering Controls",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:27:13.551Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: Storage and Disposal",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:28:00.806Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: Environmental Protection",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:28:11.404Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: Spray Drift Prevention",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:28:54.070Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T20:29:59.851Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T20:30:00.441Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:30:04.163Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Producer Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:32:33.012Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:32:41.112Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:34:07.672Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:34:56.436Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Engineering Controls",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:39:27.744Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Physical or Chemical Hazards",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:39:32.200Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Storage and Disposal",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:39:57.672Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Environmental Protection",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:40:31.541Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Spray Drift Prevention",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:41:26.365Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "10163-169",
+        "evDesc2": "Imidan\u00ae 70-W Agricultural Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T20:44:50.336Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Imidan\u00ae 70-W Agricultural Insecticide | epa: 10163-169",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T20:44:50.929Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Imidan\u00ae 70-W Agricultural Insecticide | epa: 10163-169",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T20:44:53.699Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T20:46:50.300Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T22:28:19.364Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T22:28:58.216Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T23:19:42.656Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T23:19:44.333Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T23:19:46.765Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "66330-234",
+        "evDesc2": "Captan 50 Wettable Powder",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-14T23:19:55.002Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Captan 50 Wettable Powder | epa: 66330-234",
+        "evType": "evViewPage",
+        "ts": "2021-07-14T23:19:55.647Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Captan 50 Wettable Powder | epa: 66330-234",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-14T23:19:59.857Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T23:22:29.177Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T23:22:41.322Z"
+    },
+    {
+        "aid": "d19adb986cc8c4693416b00ecf2215a1ad428c3d8060176c45280e7405070cd5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-14T23:22:42.007Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "1.0.14 (46)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-15T00:16:23.878Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T00:16:24.058Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T00:16:26.569Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T00:16:27.280Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T00:16:30.514Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T00:16:47.997Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T01:08:56.809Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T01:08:58.378Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "1.0.14 (46)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.6,ios",
+        "evDesc3": "(47.69969337275386,-122.3728851806688)",
+        "evType": "evStart",
+        "ts": "2021-07-15T01:11:33.593Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T01:11:33.777Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "as",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T01:13:04.549Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T01:13:05.294Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T01:13:30.467Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T01:13:36.484Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T01:14:04.247Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T01:14:50.472Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T01:15:53.490Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T01:16:59.875Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T01:18:04.308Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T01:18:25.873Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T01:18:26.055Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T01:18:45.574Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T01:18:59.026Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "62562-4",
+        "evDesc2": "ACOIDAL MICRONIZED WETTABLE SULFUR WDG /ORGANIC PRODUCTION",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2021-07-15T01:19:27.494Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "ACOIDAL MICRONIZED WETTABLE SULFUR WDG /ORGANIC PRODUCTION | epa: 62562-4",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T01:19:28.226Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "62562-4",
+        "evDesc2": "ACOIDAL MICRONIZED WETTABLE SULFUR WDG /ORGANIC PRODUCTION",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T01:19:39.118Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T01:19:46.161Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T01:20:26.141Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T01:20:37.846Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T01:20:45.679Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T01:21:04.372Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "QuestionPage1",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T02:55:59.032Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.6,ios",
+        "evDesc3": "(47.69812085042325,-122.3724245689141)",
+        "evType": "evStart",
+        "ts": "2021-07-15T02:56:00.466Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T02:56:00.674Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T02:56:06.118Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T02:56:10.505Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:09:59.318Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "51934-12",
+        "evDesc2": "CIDETRAK\u00ae DA MEC\u2122",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T03:10:00.702Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "CIDETRAK\u00ae DA MEC\u2122 | epa: 51934-12",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:10:01.343Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T03:10:08.194Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:10:08.805Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:10:10.766Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:12:03.913Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:13:19.696Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:14:28.959Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:15:03.245Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:16:27.203Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T03:16:28.537Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:16:28.654Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:20:56.059Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:21:03.438Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:21:05.154Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:21:22.832Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T03:21:28.188Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T03:21:28.800Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:21:40.520Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:21:46.661Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:22:06.043Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:22:15.228Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:22:18.505Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:22:49.219Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:22:58.216Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:29:01.226Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:29:32.043Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:29:43.727Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:30:07.180Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:30:13.731Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:30:24.618Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:30:31.864Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:42:06.224Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "QuestionPage2",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:43:55.614Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.6,ios",
+        "evDesc3": "(47.69997138877044,-122.37041869778264)",
+        "evType": "evStart",
+        "ts": "2021-07-15T03:43:57.262Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:43:57.439Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "as",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T03:44:52.942Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:44:53.663Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T03:45:13.102Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T03:45:16.357Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:45:24.790Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "as",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T03:45:57.038Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:45:57.667Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T03:46:07.784Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T03:46:10.726Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:46:42.360Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:47:44.596Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:48:30.234Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:49:11.575Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T03:49:55.238Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T03:50:13.885Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:50:14.009Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:50:40.103Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:50:45.057Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:50:59.715Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T03:51:28.333Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T03:51:29.513Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:51:30.951Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:51:34.372Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:51:59.407Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:52:18.743Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:52:31.311Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:52:42.256Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T03:53:11.915Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "QuestionPage1",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:58:32.812Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "(46.24667442531543,-119.11559281876623)",
+        "evType": "evStart",
+        "ts": "2021-07-15T03:58:34.950Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:58:35.012Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:59:07.688Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "7969-336",
+        "evDesc2": "NEALTA MITICIDE",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2021-07-15T03:59:57.337Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "NEALTA MITICIDE | epa: 7969-336",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T03:59:58.072Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "7969-336",
+        "evDesc2": "NEALTA MITICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T04:00:01.277Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:00:20.634Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "QuestionPage3",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:26:25.250Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.6,ios",
+        "evDesc3": "(47.69908172846544,-122.36937056251121)",
+        "evType": "evStart",
+        "ts": "2021-07-15T04:26:27.451Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:26:27.585Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "as",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T04:27:28.558Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:27:29.298Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T04:27:53.175Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T04:27:55.696Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:28:07.725Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:29:24.418Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:30:09.233Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:31:04.778Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:32:10.730Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T04:32:34.404Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:32:34.623Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:32:57.952Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:33:37.921Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:34:00.457Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:34:25.360Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:34:28.586Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:34:50.504Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:35:05.247Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:35:19.711Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:45:39.470Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:49:59.283Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:50:03.335Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.6,ios",
+        "evDesc3": "(47.69752188784846,-122.36972360994356)",
+        "evType": "evStart",
+        "ts": "2021-07-15T04:51:56.185Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:51:56.386Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "as",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T04:53:06.564Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T04:53:07.310Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T04:53:33.949Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T04:53:36.106Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:54:07.181Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: First Aid",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:55:27.687Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:56:26.183Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:57:24.014Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T04:58:38.644Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-07-15T04:58:39.600Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T04:58:47.894Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T04:59:04.376Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:59:04.548Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T04:59:31.432Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T05:00:14.589Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T05:00:47.946Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T05:01:42.804Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T05:01:51.646Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T05:02:29.095Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T05:02:43.639Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T05:02:55.304Z"
+    },
+    {
+        "aid": "4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T05:53:10.396Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-15T06:27:12.872Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T06:27:12.948Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T06:27:50.404Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T06:27:51.053Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Carbaryl 4L | epa: 34704-447",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:27:54.228Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T06:28:05.713Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T06:28:06.312Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Carbaryl 4L | epa: 34704-447",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:28:21.272Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T06:28:26.675Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T06:28:26.756Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T06:28:43.230Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T06:28:49.719Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T06:28:54.317Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T06:29:04.062Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "62719-220-71058",
+        "evDesc2": "Eraser\u2122",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T06:29:18.142Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Eraser\u2122 | epa: 62719-220-71058",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T06:29:18.743Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Eraser\u2122 | epa: 62719-220-71058",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:29:23.581Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Eraser\u2122 | epa: 62719-220-71058",
+        "evDesc3": "Category: Producer Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:30:07.797Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "5905-368",
+        "evDesc2": "Omni Supreme Spray",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T06:30:30.158Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Omni Supreme Spray | epa: 5905-368",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T06:30:30.755Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Omni Supreme Spray | epa: 5905-368",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:30:32.116Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Omni Supreme Spray | epa: 5905-368",
+        "evDesc3": "Category: Producer Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:31:05.975Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Omni Supreme Spray | epa: 5905-368",
+        "evDesc3": "Category: Physical or Chemical Hazards",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:31:20.700Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Omni Supreme Spray | epa: 5905-368",
+        "evDesc3": "Category: Spray Drift Prevention",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:31:33.441Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Omni Supreme Spray | epa: 5905-368",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T06:31:45.272Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "5905-368",
+        "evDesc2": "Omni Supreme Spray",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T06:31:48.892Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T06:31:48.958Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T06:35:04.795Z"
+    },
+    {
+        "aid": "a1e8b080f52d79be2cbeeba77247f0dd064312987f10a10555273dceaa8522e8",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T06:35:08.472Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "QuestionPage1",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T13:09:15.214Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-15T13:09:17.731Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T13:09:17.790Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T13:10:33.540Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T13:44:11.399Z"
+    },
+    {
+        "aid": "eca4f1c06779d64b3c534e3dae776e2414192bfc64d30d77119f90aa67b1c29e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T13:44:11.773Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T14:47:45.329Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "279-3557",
+        "evDesc2": "Topguard\u00ae Fungicide Specialty Crops",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T14:47:57.453Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Topguard\u00ae Fungicide Specialty Crops | epa: 279-3557",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T14:47:58.220Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Topguard\u00ae Fungicide Specialty Crops | epa: 279-3557",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T14:48:02.234Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T14:48:18.375Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T14:48:18.999Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T14:48:19.250Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T14:48:19.868Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Topguard\u00ae Fungicide Specialty Crops | epa: 279-3557",
+        "evDesc3": "Category: Engineering Controls",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T14:48:23.036Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Topguard\u00ae Fungicide Specialty Crops | epa: 279-3557",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T14:48:28.326Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Topguard\u00ae Fungicide Specialty Crops | epa: 279-3557",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T14:48:29.156Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T14:48:34.514Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "QuestionPage2",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T15:32:23.613Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "1.0.15 (50)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.6,ios",
+        "evDesc3": "(46.27564699465527,-119.45437554596697)",
+        "evType": "evStart",
+        "ts": "2021-07-15T15:32:41.325Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T15:32:41.382Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T15:32:49.290Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "7969-336",
+        "evDesc2": "NEALTA MITICIDE",
+        "evDesc3": "nea",
+        "evType": "evViewPICOL",
+        "ts": "2021-07-15T15:32:56.166Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "NEALTA MITICIDE | epa: 7969-336",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T15:32:56.787Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "7969-336",
+        "evDesc2": "NEALTA MITICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-07-15T15:33:12.131Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T15:33:19.181Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T15:33:21.123Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T15:33:21.542Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T15:33:39.331Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T15:33:53.835Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T16:23:19.157Z"
+    },
+    {
+        "aid": "caf813a58243b05e08d747ff22d6da5900e340a5ef5cd16070ef8017a85ece89",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T16:23:19.734Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T20:18:28.341Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "45002-8",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T20:18:37.838Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T20:18:38.472Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Agri Star\u2122 BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T20:18:47.432Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "QuestionPage1",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T20:30:17.672Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "1.0.15 (49)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,samsung,SM-G920R4,android,7.0,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-07-15T20:30:26.897Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T20:30:27.133Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T20:30:58.267Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T20:30:58.859Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "352-834",
+        "evDesc2": "DuPont\u2122 Fontelis\u00ae FUNGICIDE",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T20:31:08.192Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "DuPont\u2122 Fontelis\u00ae FUNGICIDE | epa: 352-834",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T20:31:08.865Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "HSLabel",
+        "evDesc2": "DuPont\u2122 Fontelis\u00ae FUNGICIDE | epa: 352-834",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T20:31:13.282Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T20:32:33.829Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T20:32:53.624Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T20:33:06.599Z"
+    },
+    {
+        "aid": "4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-07-15T20:33:07.841Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "100-938",
+        "evDesc2": "Actara\u00ae",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T20:37:07.186Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Actara\u00ae | epa: 100-938",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T20:37:07.794Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Actara\u00ae | epa: 100-938",
+        "evDesc3": "Category: Spray Drift Prevention",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T20:37:58.476Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-07-15T20:56:39.734Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2021-07-15T20:56:40.338Z"
+    },
+    {
+        "aid": "b93bdd6f96c40dd142c0b28f97a9981bf35d560d49adfb6dbc154667b8a7e8ad",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Health and Safety",
+        "evType": "evCategoryOpen",
+        "ts": "2021-07-15T20:57:17.710Z"
+    }
+]

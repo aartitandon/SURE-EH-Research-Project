@@ -1,0 +1,1314 @@
+[
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.3,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-12-29T15:35:46.535Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-29T15:35:46.632Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-29T15:36:59.787Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-29T15:40:25.086Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "triplet fs",
+        "evType": "evViewHS",
+        "ts": "2020-12-29T15:40:33.827Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2020-12-29T15:40:34.561Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "triplet fs",
+        "evType": "evViewHS",
+        "ts": "2020-12-29T15:40:43.857Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2020-12-29T15:40:44.463Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-29T15:40:56.195Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-29T15:40:56.654Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-29T15:41:00.672Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "1001-81",
+        "evDesc2": "3336 70EG TURF & ORNAMENTAL SYSTEMIC FUNGICIDE",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2020-12-29T15:41:06.134Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "3336 70EG TURF & ORNAMENTAL SYSTEMIC FUNGICIDE | epa: 1001-81",
+        "evType": "evViewPage",
+        "ts": "2020-12-29T15:41:06.785Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "1001-81",
+        "evDesc2": "3336 70EG TURF & ORNAMENTAL SYSTEMIC FUNGICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-12-29T15:41:19.239Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-29T15:43:14.113Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-29T15:43:17.440Z"
+    },
+    {
+        "aid": "a6a903e24d0f8ebe07036e3eb8fe95f8ecfc9b89a4d9cce56f2da9b5e2eae143",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-29T15:43:20.850Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2,ios",
+        "evDesc3": "(46.603080037814735,-120.47677863299427)",
+        "evType": "evStart",
+        "ts": "2020-12-30T17:43:09.443Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T17:43:09.535Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T17:43:13.374Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T17:43:31.481Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T17:43:37.526Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T17:43:38.299Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T17:43:47.054Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T17:43:49.077Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T17:43:50.550Z"
+    },
+    {
+        "aid": "75810c7cf1f1f278200ff5a48e528bc8572b6e25d4d08191d57c57389d26b01d",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T17:43:52.221Z"
+    },
+    {
+        "aid": "b82a9a67376adf5715692d16473e9be6661cded5a9836445eef12a23e3986b50",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.2,ios",
+        "evDesc3": "(47.69830044463599,-122.37049204260138)",
+        "evType": "evStart",
+        "ts": "2020-12-30T18:12:27.419Z"
+    },
+    {
+        "aid": "b82a9a67376adf5715692d16473e9be6661cded5a9836445eef12a23e3986b50",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T18:12:27.550Z"
+    },
+    {
+        "aid": "b82a9a67376adf5715692d16473e9be6661cded5a9836445eef12a23e3986b50",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T18:12:31.722Z"
+    },
+    {
+        "aid": "b82a9a67376adf5715692d16473e9be6661cded5a9836445eef12a23e3986b50",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T18:12:35.312Z"
+    },
+    {
+        "aid": "b82a9a67376adf5715692d16473e9be6661cded5a9836445eef12a23e3986b50",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T18:17:03.827Z"
+    },
+    {
+        "aid": "b82a9a67376adf5715692d16473e9be6661cded5a9836445eef12a23e3986b50",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T20:12:31.537Z"
+    },
+    {
+        "aid": "b82a9a67376adf5715692d16473e9be6661cded5a9836445eef12a23e3986b50",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T20:12:35.841Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-30T22:04:46.253Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:04:46.359Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:05:13.138Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:05:37.610Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:05:39.212Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:05:40.199Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:05:40.869Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:05:41.868Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:05:42.786Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:05:43.980Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:05:44.900Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:06:14.426Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:06:15.298Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:06:18.603Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:06:58.484Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:07:09.286Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:07:12.613Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:07:15.114Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "264-806",
+        "evDesc2": "Calypso\u00ae 4 Flowable Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-12-30T22:07:27.678Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Calypso\u00ae 4 Flowable Insecticide | epa: 264-806",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:07:28.051Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-30T22:18:03.764Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:18:03.872Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-30T22:19:46.105Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:19:46.211Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "19713-49",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-12-30T22:20:09.921Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Carbaryl 4L | epa: 19713-49",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:20:10.570Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-30T22:25:43.220Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:25:43.322Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-12-30T22:26:38.335Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T22:26:38.736Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:27:28.083Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:27:29.835Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:27:30.847Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:27:31.811Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:27:32.718Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:27:33.661Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:27:37.088Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-30T22:27:38.350Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-12-30T23:27:07.153Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T23:27:07.480Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T23:27:36.674Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T23:27:37.626Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T23:27:42.089Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-30T23:27:48.518Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-30T23:33:08.292Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-31T01:21:06.146Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "5481-502",
+        "evDesc2": "Ambush\u00ae 25W Insecticide Wettable Powder",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-12-31T01:21:07.126Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Ambush\u00ae 25W Insecticide Wettable Powder | epa: 5481-502",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T01:21:08.089Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "71096-6",
+        "evDesc2": "Rex Lime Sulfur Solution",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-12-31T01:21:20.764Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Rex Lime Sulfur Solution | epa: 71096-6",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T01:21:21.482Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "7001-7781",
+        "evDesc2": "PHT 440 Supreme Spray Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-12-31T01:21:27.700Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "PHT 440 Supreme Spray Oil | epa: 7001-7781",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T01:21:28.314Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T01:21:32.710Z"
+    },
+    {
+        "aid": "7258d2a235408d3d0cacc1e915711eab9a3dbb7575d25afffda14933b5c2204d",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-31T01:22:00.627Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T18:45:13.557Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T18:45:13.709Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:34:15.564Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:34:15.621Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:34:25.076Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:34:29.015Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:36:31.349Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:36:31.403Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:36:37.853Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:37:38.155Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:37:39.920Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:37:40.740Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:37:41.494Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:37:53.274Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:38:54.409Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:38:54.461Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:39:00.431Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:39:11.191Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:45:37.099Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:45:37.143Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:48:00.041Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:48:00.088Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:48:57.741Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:48:57.795Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:49:58.588Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:49:58.636Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:03.217Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:04.804Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:05.982Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:07.064Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:08.211Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:09.257Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:10.427Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:20.337Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:21.564Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:22.689Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:50:23.645Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:56:29.948Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:56:29.999Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:58:34.297Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:58:34.349Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:58:38.315Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:58:42.422Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T19:58:53.877Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Privacy",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:58:59.291Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T19:58:59.680Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:58:59.706Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T19:59:00.008Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T20:09:37.121Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T20:09:37.181Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T20:09:44.217Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:10:14.409Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:10:15.240Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:10:16.039Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:10:16.883Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:10:30.011Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:10:31.441Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T20:10:35.805Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T20:10:35.830Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T20:10:36.636Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T20:10:36.662Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T20:20:12.931Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T20:20:12.980Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T20:26:07.295Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T20:26:07.333Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": " ()",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T20:26:20.922Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T20:26:20.970Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T20:26:24.132Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:26:27.013Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:26:28.947Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:26:29.780Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-12-31T20:26:30.545Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-31T20:55:53.740Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-12-31T21:47:31.668Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (35)",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2020-12-31T21:57:32.462Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-12-31T21:57:32.523Z"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-02T15:27:26.412Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-02T15:27:28.560Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-02T15:27:29.932Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-02T15:27:31.720Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "(47.706255699819444,-122.31956886703136)",
+        "evType": "evStart",
+        "ts": "2020-11-03T01:25:48.101Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-03T01:25:48.191Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "264-1025",
+        "evDesc2": "Belt\u00ae SC Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-03T01:25:50.665Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Belt\u00ae SC Insecticide | epa: 264-1025",
+        "evType": "evViewPage",
+        "ts": "2020-11-03T01:25:51.328Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-03T01:26:51.033Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-03T01:29:21.739Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-03T01:29:22.161Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.1,ios",
+        "evDesc3": "(46.2801341194622,-119.09736052328552)",
+        "evType": "evStart",
+        "ts": "2020-11-04T23:31:42.435Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-04T23:31:42.507Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-04T23:31:55.222Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-04T23:31:57.918Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-04T23:32:00.905Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-04T23:32:02.849Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-04T23:32:05.441Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "62719-591",
+        "evDesc2": "Lorsban\u00ae Advanced",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-04T23:32:18.306Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Lorsban\u00ae Advanced | epa: 62719-591",
+        "evType": "evViewPage",
+        "ts": "2020-11-04T23:32:18.955Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "62719-591",
+        "evDesc2": "Lorsban\u00ae Advanced",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-11-04T23:32:28.611Z"
+    },
+    {
+        "aid": "d48504143c883249cf5bc2486efffbc0bf09632b0a98eb4c42c7a8a4081a25e7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-04T23:32:28.674Z"
+    }
+]

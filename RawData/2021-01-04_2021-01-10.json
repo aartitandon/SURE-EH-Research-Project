@@ -1,0 +1,2074 @@
+[
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T18:37:11.958Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T18:37:12.017Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T18:37:17.845Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T18:38:36.169Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T18:38:37.360Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T18:38:38.069Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T18:38:38.699Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T18:38:39.217Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T18:38:39.812Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T18:38:40.453Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T18:38:41.579Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T18:48:00.111Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T18:48:00.164Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T18:48:04.431Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T18:50:29.402Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T18:50:29.465Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T18:50:34.437Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-04T18:51:20.690Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:26:22.020Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:26:22.082Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:26:25.372Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:28:12.116Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:28:12.212Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:28:20.434Z"
+    },
+    {
+        "aid": "0246f7568df181c9140e38948b4cfb707793f325b78aef30ed4d100511f94cc7",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "desktop,Google Inc.,Macintosh,mac,11.1.0,web",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:29:25.167Z"
+    },
+    {
+        "aid": "0246f7568df181c9140e38948b4cfb707793f325b78aef30ed4d100511f94cc7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:29:25.264Z"
+    },
+    {
+        "aid": "0246f7568df181c9140e38948b4cfb707793f325b78aef30ed4d100511f94cc7",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:29:31.359Z"
+    },
+    {
+        "aid": "0246f7568df181c9140e38948b4cfb707793f325b78aef30ed4d100511f94cc7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-04T19:29:51.943Z"
+    },
+    {
+        "aid": "0246f7568df181c9140e38948b4cfb707793f325b78aef30ed4d100511f94cc7",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,Google Inc.,iPhone,ios,13.2.3,web",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:30:00.587Z"
+    },
+    {
+        "aid": "0246f7568df181c9140e38948b4cfb707793f325b78aef30ed4d100511f94cc7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:30:00.668Z"
+    },
+    {
+        "aid": "0246f7568df181c9140e38948b4cfb707793f325b78aef30ed4d100511f94cc7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-04T19:30:19.325Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:31:22.382Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:31:22.483Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:31:26.933Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:31:36.057Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:31:37.745Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:31:39.298Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:31:40.558Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:31:41.806Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:31:42.942Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:31:43.809Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:31:44.808Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:32:36.551Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:35:06.668Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:35:06.782Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:35:13.059Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:41:53.634Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:41:53.749Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:42:00.232Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:57:05.298Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:57:05.388Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:57:10.209Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:57:15.871Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:57:17.532Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:57:18.872Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T19:57:20.247Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:57:24.472Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:57:28.072Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T19:57:28.634Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T19:57:28.662Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T20:01:17.122Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:01:17.209Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:01:22.376Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:01:46.913Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:01:48.059Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T20:09:15.457Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:09:15.545Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:09:22.968Z"
+    },
+    {
+        "aid": "e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,LGE,LM-Q730,android,10,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-01-04T20:11:24.922Z"
+    },
+    {
+        "aid": "e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:11:25.460Z"
+    },
+    {
+        "aid": "e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-04T20:11:49.677Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T20:12:59.966Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:13:00.073Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:13:05.376Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T20:18:17.762Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:18:17.876Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:18:22.208Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:18:25.815Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:18:29.301Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T20:23:05.895Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:23:05.982Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:23:10.285Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:23:14.182Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:23:16.723Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:23:17.882Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:23:19.223Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T20:28:42.676Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:28:42.773Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T20:28:49.459Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:29:03.648Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:29:06.132Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:29:08.148Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:29:09.608Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:29:11.183Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:29:43.748Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:31:38.912Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T20:31:40.859Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T21:25:05.951Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T21:25:06.071Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T21:25:12.442Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-04T21:28:37.986Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T21:28:38.077Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-04T21:28:42.580Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-04T21:28:45.746Z"
+    },
+    {
+        "aid": "e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,LGE,LM-Q730,android,10,android",
+        "evDesc3": "(46.7156685,-119.9351538)",
+        "evType": "evStart",
+        "ts": "2021-01-05T04:06:28.948Z"
+    },
+    {
+        "aid": "e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T04:06:29.497Z"
+    },
+    {
+        "aid": "e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T04:06:40.069Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,samsung,SM-G973U,android,10,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-01-05T05:04:41.632Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T05:04:41.773Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-01-05T05:04:58.333Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T05:04:58.747Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T05:06:49.383Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T05:06:52.135Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T05:06:57.371Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T05:06:59.468Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T05:07:38.626Z"
+    },
+    {
+        "aid": "a7482d6dda33f2d97e9654ee54856f576ae91b8ff43018ca110f806d89bc7332",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T05:07:58.045Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2,ios",
+        "evDesc3": "(32.3585698515691,-95.35861494444697)",
+        "evType": "evStart",
+        "ts": "2021-01-05T17:33:01.710Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:33:01.828Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:33:11.290Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:33:11.860Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "9779-96",
+        "evDesc2": "120 HERBICIDE",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2021-01-05T17:33:31.543Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "120 HERBICIDE | epa: 9779-96",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:33:32.420Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "9779-96",
+        "evDesc2": "120 HERBICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-01-05T17:33:34.291Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:33:40.306Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:33:41.203Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:33:42.755Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:33:44.689Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:34:08.812Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T17:34:18.683Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T17:34:19.529Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:34:28.432Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "81943-11",
+        "evDesc2": "HAWK-I 2L INSECTICIDE",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2021-01-05T17:34:35.877Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "HAWK-I 2L INSECTICIDE | epa: 81943-11",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:34:36.576Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "81943-11",
+        "evDesc2": "HAWK-I 2L INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-01-05T17:34:38.084Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:34:48.945Z"
+    },
+    {
+        "aid": "fc762934fc2ba3879c515370a86abb21f4f84ea315735c56531dac468aeed03a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T17:34:49.997Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T17:54:34.951Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:54:35.061Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T17:54:43.251Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T17:57:11.226Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T17:57:14.118Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T17:57:15.456Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T17:57:28.615Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:12:12.815Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:12:12.924Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:12:19.159Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:13.279Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:17.143Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:18.076Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:18.917Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:19.762Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:20.618Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:21.312Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:26.599Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:28.254Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:29.326Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:30.233Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:30.964Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:31.845Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:13:32.786Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:33:45.658Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:33:45.776Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:33:51.200Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:34:33.570Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:34:37.396Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:40:05.661Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:40:05.778Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:47:37.753Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:47:37.875Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:47:44.099Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:49:35.589Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:49:35.694Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:49:40.278Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:50:06.683Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:50:08.380Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:50:09.447Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:50:10.281Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:50:47.609Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:50:47.713Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:50:53.431Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:52:05.305Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:52:05.329Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:52:24.638Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:52:24.732Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:52:29.223Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T18:57:52.242Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:57:52.333Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T18:57:57.353Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:58:42.709Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T18:58:44.667Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:17:38.073Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:17:38.195Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:17:43.485Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T19:18:03.507Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T19:18:05.078Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:26:46.727Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:26:46.834Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:26:51.252Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:30:41.275Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:30:41.388Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:30:45.862Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:31:54.668Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:31:54.760Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:32:00.248Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:33:54.285Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:33:54.402Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:34:01.779Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:37:13.039Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:37:13.137Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:37:18.031Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T19:38:09.098Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T19:38:14.611Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:47:35.842Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:47:35.875Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:47:40.439Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:49:00.762Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:49:00.793Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:49:04.745Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T19:50:08.599Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:50:08.664Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T19:50:12.194Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T19:55:42.511Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T19:55:58.356Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2,ios",
+        "evDesc3": "(47.70630395317993,-122.31958646911674)",
+        "evType": "evStart",
+        "ts": "2021-01-05T21:38:19.452Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T21:38:19.522Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "5481-502",
+        "evDesc2": "Ambush\u00ae 25W Insecticide Wettable Powder",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-01-05T21:38:28.850Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Ambush\u00ae 25W Insecticide Wettable Powder | epa: 5481-502",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T21:38:29.505Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T21:39:13.760Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T21:39:24.240Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T21:40:24.578Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "1.0.6 (34)",
+        "evDesc2": "tablet,desktop,,Macintosh,mac,Intel Mac OS X 10.16,web",
+        "evDesc3": "(NaN,NaN)",
+        "evType": "evStart",
+        "ts": "2021-01-05T21:43:07.147Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T21:43:07.220Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-05T21:43:13.006Z"
+    },
+    {
+        "aid": "4e3d64e61cb39f1faa79ab4608deea66b7bb3f1a8c6a0c7093f6a77108b8e475",
+        "evDesc1": "Update News",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-05T21:43:26.068Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T21:50:56.031Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T21:50:56.297Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T21:57:16.047Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T21:58:32.127Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T22:55:14.894Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-05T22:55:15.105Z"
+    },
+    {
+        "aid": "49eb2724421673bac1611a36295c9a125042ead202d3d683146abaa4a24fcb19",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.3,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-01-07T16:14:58.211Z"
+    },
+    {
+        "aid": "49eb2724421673bac1611a36295c9a125042ead202d3d683146abaa4a24fcb19",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-07T16:14:58.498Z"
+    },
+    {
+        "aid": "49eb2724421673bac1611a36295c9a125042ead202d3d683146abaa4a24fcb19",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-07T16:15:10.420Z"
+    },
+    {
+        "aid": "49eb2724421673bac1611a36295c9a125042ead202d3d683146abaa4a24fcb19",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-07T16:16:16.467Z"
+    },
+    {
+        "aid": "915d4078d9d958dc36640b12f35f5c0c804b71184c0640bf7270f44a98b72d85",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2.1,ios",
+        "evDesc3": "(46.59711474791363,-120.57695659936121)",
+        "evType": "evStart",
+        "ts": "2021-01-08T06:09:26.455Z"
+    },
+    {
+        "aid": "915d4078d9d958dc36640b12f35f5c0c804b71184c0640bf7270f44a98b72d85",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-08T06:09:26.534Z"
+    },
+    {
+        "aid": "915d4078d9d958dc36640b12f35f5c0c804b71184c0640bf7270f44a98b72d85",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-08T06:09:26.881Z"
+    },
+    {
+        "aid": "915d4078d9d958dc36640b12f35f5c0c804b71184c0640bf7270f44a98b72d85",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-08T06:09:26.896Z"
+    },
+    {
+        "aid": "915d4078d9d958dc36640b12f35f5c0c804b71184c0640bf7270f44a98b72d85",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-08T06:09:28.891Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2,ios",
+        "evDesc3": "(46.276368458273645,-119.45393965482049)",
+        "evType": "evStart",
+        "ts": "2021-01-08T16:44:25.216Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-08T16:44:25.281Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-08T16:45:01.625Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-08T16:45:03.442Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-08T16:45:07.657Z"
+    },
+    {
+        "aid": "2504973e894342048906abc57b223d15b465df5caf408bb1e044de8f29a41391",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.2,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-01-09T20:29:39.114Z"
+    },
+    {
+        "aid": "2504973e894342048906abc57b223d15b465df5caf408bb1e044de8f29a41391",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-01-09T20:29:39.308Z"
+    },
+    {
+        "aid": "2504973e894342048906abc57b223d15b465df5caf408bb1e044de8f29a41391",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-01-09T20:29:54.506Z"
+    },
+    {
+        "aid": "2504973e894342048906abc57b223d15b465df5caf408bb1e044de8f29a41391",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-01-09T20:29:59.309Z"
+    }
+]

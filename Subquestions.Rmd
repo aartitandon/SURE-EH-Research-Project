@@ -1,0 +1,458 @@
+---
+title: "Pesticide Labels Now Report"
+subtitle: "Draft"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    toc: yes
+    toc_depth: 4
+  html_document:
+    code_folding: hide
+    self_contained: yes
+    toc: no
+    toc_depth: 4
+    toc_float: yes
+  md_document:
+    toc: yes
+  word_document:
+    toc: yes
+    toc_depth: '4'
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r packages, warning=F, message=F, echo=F, results=F}
+
+if(!require(pacman)) {install.packages("pacman")}
+pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr)
+
+```
+
+```{r setup, include=F, results='asis'}
+
+st_options(plain.ascii = F, # Always use this option in Rmd documents
+style        = "rmarkdown", # Always use this option in Rmd documents
+footnote     = NA,          # Makes html-rendered results more concise
+subtitle.emphasis = F)  # Improves layout with some rmarkdown themes
+
+```
+
+```{r upload-clean-data, warning=F, message=F, echo=F, results=F}
+
+temp <- list.files(path='Outputs', pattern="*.csv", full.names = T)
+
+list2env(lapply(setNames(temp, make.names(gsub("*.csv$", "", temp))), read.csv), envir = .GlobalEnv)
+
+colnames(Outputs.evStart.1)[1] <- "aid"
+colnames(Outputs.evStart.1)[2] <- "evDesc1"
+colnames(Outputs.evStart.1)[3] <- "evDesc2"
+colnames(Outputs.evStart.1)[4] <- "evDesc3"
+colnames(Outputs.evStart.1)[5] <- "evType"
+colnames(Outputs.evStart.1)[6] <- "ts"
+
+Outputs.evStart <- do.call(rbind, lapply(ls(pattern = "Outputs.evStart"), get))
+
+rm(list = ls()[grep("^Outputs.evStart.", ls())])
+
+#Filter out ignores
+
+ignores <- read.csv("ignores.csv")
+
+evDownload.01 <- filter(Outputs.evDownload.01,!(aid %in% ignores$aid))
+
+evStart <- filter(Outputs.evStart,!(aid %in% ignores$aid))
+
+evViewPage.01 <- filter(Outputs.evViewPage.01,!(aid %in% ignores$aid))
+
+rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
+
+```
+
+# Executive Summary
+
+A data dictionary and descriptive statistics were prepared based on the Pesticide Labels Now (PLN) [analysis plan](https://docs.google.com/document/d/1mUHPYdpWljCWroODGenUjYlyae2ZWwqN4MScBLXlr2U/edit). For a better representation of users, we ignored a list of random identifiers ('aid' in *ignores.csv*) associated with the project team members and generated descriptive statistics for three subsets:
+
+- evDownload.01
+- evStart
+- evViewPage.01
+
+# Data Dictionary 
+
+## evDownload.01 subset
+
+Unique devices (aid)
+
+```{r unique-evDownload-users, warning=F, message=F}
+print(n_distinct(evDownload.01$aid), style="rmarkdown")
+```
+
+```{r evDownload-dictionary, echo=F, message=F, warnings=F, results='asis'}
+tabl <- "
+| Variable      | Description                    |
+|---------------|--------------------------------|
+| aid           | Random device identifier       |
+| epaReg        | EPA regsistration number       |
+| prodName      | Pesticide product name         |
+| sourcePage    | App page visited?              |
+| evType        | Action taken on app (download) |
+| ts            | Timestamp yyy:mm:dd:hh:mm:ss   |
+"
+cat(tabl)
+```
+
+## evStart subset
+
+Unique users (aid)
+
+```{r unique-evStart-users, warning=F, message=F}
+print(n_distinct(evStart$aid), style="rmarkdown")
+```
+
+```{r evStart-dictionary, echo=F, message=F, warnings=F, results='asis'}
+tabl <- "
+| Variable      | Description                     |
+|---------------|---------------------------------|
+| aid           | Random device identifier        |
+| evDesc1       | App version?                    |
+| evDesc2       | Device type                     |
+| evDesc3       | GPS coordinates                 |
+| evType        | Action taken on app (start page) |
+| ts            | Timestamp yyy:mm:dd:hh:mm:ss    |
+"
+cat(tabl)
+```
+
+## evViewPage.01 subset
+
+Unique users (aid)
+
+```{r unique-evViewpage-users, warning=F, message=F}
+print(n_distinct(evViewPage.01$aid), style="rmarkdown")
+```
+
+```{r evViewPage.01-dictionary, echo=F, message=F, warnings=F, results='asis'}
+tabl <- "
+| Variable      | Description                     |
+|---------------|---------------------------------|
+| aid           | Random device identifier        |
+| evDesc1       | First action on app             |
+| evDesc2       | English or Spanish              |
+| evDesc3       | Pesticide label viewed          |
+| evType        | Action taken on app (view page) |
+| ts            | Timestamp yyy:mm:dd:hh:mm:ss    |
+"
+cat(tabl)
+```
+
+## Detailed variable descriptions
+
+- Device = identified by a randomly assigned identifier. = Person. Person = device. There is no way to distinguish individual users. One device can be used by ≥ 1 person and 1 person can use ≥ 1 device.
+- Access = accessed app = put PLN on device and opened app (app opens to label List).
+- Session = time from when the app opened until just before next time it is opened.
+- PICOL Searches = PICOL results viewed.
+- Label searches = Label menu viewed.
+- View = accessed and viewed information (any combination of ≥ 1 of the following)
+- Label view = accessed + [(opened ≥ 1 label) + (opened ≥ 1 menu bar)] 
+Label view + PDF = accessed + [(opened ≥ 1 label) + (opened ≥ 1 menu bar)+ (downloaded label PDF)] 
+- PICOL view = accessed + [(conducted ≥ 1 PICOL search) + (viewed ≥ 1 PICOL result)]
+- PICOL view + PDF  = accessed app + [(conducted ≥ 1 PICOL search) + (viewed ≥ 1 PICOL result) + (downloaded app)]
+- General  view = accessed +(viewed label search page + selected a label, but did not open menu bar) and/or ( viewed PICOL search page) and/or viewed more pages
+General  view + links
+- Location = GPS coordinates. de-identified location in that it is somewhere within the ~ 500 ft radius. We will only report by broad areas. Agricultural regions if they are defined. Currently, many iPhone users are declining location as Apple is asking users if they want the location turned on/off with each update.  We may only be able to evaluate this up to the April release date.
+ App is only available to devices registered in the US, CA, and MX. However, phones registered in these countries can be used anywhere. For example, we had a user connect from S. America from a US registered phone. 
+- Population A definition: anyone that has accessed the app.  There is 1 excluded population and 3 study subpopulations (based on gps location coordinates at time the app is opened.)
+    - Device used in WA state GPS data. (Not Seattle or King County)
+    - Device used outside of WA state
+    - No location (location services are off.)
+    - Exclude. King County or at least the Seattle metropolitan area locations.  These are likely team and PNASH staff. Exclusion list. Selected random devices IDs are on an exclusion list. These are test devices. 
+
+- Population B definition: (Only use if enough people respond to in app questions). Those users that respond to the location in-app question. (This response can be linked to app analytic data as it has the same random unique ID). This will be implemented very soon.
+    - Response I work in WA state (not quite the same as where they downloaded it)
+    - Response I work outside of Washington state
+    - Do not want to answer
+    - Skips answering the question.  (will combine with c)
+
+# Descriptive Statistics
+
+## evDownload.01
+
+```{r evDownload-summary, warning=F, message=F, echo=F, results='asis'}
+
+print(freq(evDownload.01$prodName, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+print(freq(evDownload.01$sourcePage, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+print(freq(evDownload.01$evType, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+#print(ctable(x = evDownload.01$evType, y = evDownload.01$sourcePage, prop = "r", style='rmarkdown'))
+
+#print(freq(evDownload.01$aid, report.nas = F, totals = T, cumul = F, headings = T, order="freq"), method="render")
+
+```
+
+## evStart
+
+```{r evStart-summary, warning=F, message=F, echo=F, results='asis'}
+
+print(freq(evStart$evDesc1, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+#Tally device type using evDesc2 (all sessions)
+
+evStart$evDesc2 <- as.character(evStart$evDesc2)
+
+s <- strsplit(evStart$evDesc2, split = ",")
+
+evStart$device_cat <- unlist(purrr::map(s, 1))
+
+rm(s)
+
+#Tally device types using evDesc2 (unique aid)
+
+evStart.unique.device <- evStart %>%
+  distinct_at(vars(aid), .keep_all = TRUE)
+
+print(freq(evStart.unique.device$device_cat, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+#print(freq(evStart$evDesc3, report.nas = F, totals = T, cumul = F, headings = T, order="freq"), method="render")
+
+#print(freq(evStart$evType, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+#print(freq(evStart$aid, report.nas = F, totals = T, cumul = F, headings = T, order="freq"), method="render")
+
+```
+
+## evViewPage.01
+
+```{r evViewPage-summary, warning=F, message=F, echo=F, results='asis'}
+
+print(freq(evViewPage.01$evDesc1, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+print(freq(evViewPage.01$evDesc2, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+print(freq(evViewPage.01$evDesc3, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+
+#print(freq(evViewPage.01$aid, report.nas = F, totals = T, cumul = F, headings = T, order="freq"), method="render")
+
+```
+
+# App use by location 
+
+evStart; Aug 2020 - April 2021
+
+```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+
+#extract locations from evStart
+
+## Remove parthenthesis from evDesc3 lat, long
+evStart$evDesc3sub <- gsub("[()]", "", evStart$evDesc3)
+
+## Separate lat/long
+evStart <- evStart %>%
+     filter(evDesc3sub != '0,0') %>%
+     separate(evDesc3sub, into = c('lat','lon'), sep=",")
+
+gps <- select(evStart, lat, lon)
+gps <- na.omit(gps)
+gps <- gps[gps$lat != NaN, ]
+gps$lat <- as.numeric(gps$lat)
+gps$lon <- as.numeric(gps$lon)
+
+pln_sf <- gps %>% st_as_sf(coords = c("lon","lat"), crs=4326)
+pln_sf_t <- st_transform(pln_sf, crs=2163)
+
+states_sf <- get_urbn_map(map = "states", sf = T)
+
+#Plot for US sessions
+
+ggplot() + 
+  geom_sf(data = pln_sf_t, color="red", size=1) + 
+  geom_sf(data = states_sf, fill=NA, color="black", size=0.1, alpha=0) +
+  coord_sf(datum = st_crs(2163)) +
+  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(-3e+06, 3e+06)) +
+    scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
+
+
+```
+
+```{r user-map-wa, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+
+#Plot for WA sessions
+
+counties_sf <- get_urbn_map(map = "counties", sf = T)
+
+pln_sf_t <- st_transform(pln_sf, crs=2285)
+counties_sf_t <- st_transform(counties_sf, crs=2285)
+
+t <- counties_sf_t %>%
+  filter(state_name == "Washington")
+
+ggplot() + 
+  geom_sf(data = pln_sf_t, color="red", size=1) + 
+  geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
+  coord_sf(datum = st_crs(2285)) +
+  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
+    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
+
+# https://spatialreference.org/ref/epsg/?search=washington&srtext=Search
+
+# https://www.nceas.ucsb.edu/sites/default/files/2020-04/OverviewCoordinateReferenceSystems.pdf
+
+#+ annotation_scale(location = "bl") + annotation_north_arrow(location = "bl", which_north = "true", style = north_arrow_fancy_orienteering)
+
+```
+
+
+# Device time use patterns
+
+```{r heat-map-time-series, warning=F, message=F, echo=F} 
+
+#all accesses by date
+
+#https://towardsdatascience.com/time-series-calendar-heatmaps-9f576578fcfe
+
+#calendar day x individual
+
+#https://www.littlemissdata.com/blog/heatmaps
+
+```
+
+# Dataframe summaries
+
+```{r summary, warning=F, message=F, echo=F}
+
+print(dfSummary(evDownload.01), method = "render")
+print(dfSummary(evStart), method = "render")
+print(dfSummary(evViewPage.01), method = "render")
+print(dfSummary(Outputs.h.s.label.view.counts), method = "render")
+print(dfSummary(Outputs.HS.DLS.2021), method = "render")
+print(dfSummary(Outputs.PICOL.DLS.2021), method = "render")
+
+```
+
+```{r upload-merged-monthly-csvs, warning=F, message=F, echo=F, results=F}
+# merged.csv dataframe 
+
+temp <- list.files(path='CSV', pattern="*.csv", full.names = T)
+list2env(lapply(setNames(temp, make.names(gsub("*.csv$", "", temp))), read.csv), envir = .GlobalEnv)
+rm(CSV.qAnswers)
+merged.csv <- do.call(rbind, lapply(ls(pattern = "CSV"), get))
+ignores <- read.csv("ignores.csv")
+merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
+```
+```
+
+```{r}
+# Objective: To understand the 'Pesticide Labels Now' movile application user audience and their preferences for app utility. 
+
+# Primary Research Question: How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
+```
+
+
+```{r}
+# SubQuestion #1: Which operating systems are utilized to access the application? 
+table(evStart$device_cat)
+
+str(evStart)
+per_data <- evStart %>%
+  count(device_cat) %>% 
+  mutate(per = n / sum(n),
+         per_label = paste0(round(per*100), "%"))
+
+ggplot(per_data, aes(x = reorder(n, -per), y=per)) + 
+  geom_bar(stat = "identity", fill = "darkseagreen1", color = "black") + 
+  geom_text(aes(label=per_label), vjust=-0.25) + 
+  labs(x = "Devices", y = "Count",  
+       title = "Operating Systems Utilized to Access the Application") + 
+  theme_bw() + 
+  scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
+```
+
+```{r}
+# SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
+install.packages("breakDown")
+install.packages ("dplyr")
+install.packages("expm")
+
+library("dplyr")
+count_Language <- evViewPage.01 %>%
+  count(evDesc2)
+
+str(evViewPage.01)
+per_data <- evViewPage.01 %>%
+  count(evDesc2) %>% 
+  mutate(per = n / sum(n),
+         per_label = paste0(round(per*100), "%"))
+
+ggplot(per_data, aes(x = reorder(n, -per), y=per)) + 
+  geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
+  geom_text(aes(label=per_label), vjust=-0.25) + 
+  labs(x = "Language", y = "Count",  
+       title = "Frequency of Each Language Accessed on the Application") + 
+  theme_bw() + 
+  scale_x_discrete(labels = c("English", "Spanish"))
+  
+  
+```
+
+```{r}
+#Subquestion #3: What is the relationship between location and utilization of the application? 
+```
+
+
+```{r}
+# Subquestion #4: What is the average number of labels looked at per session? 
+# meet with Dennis regarding codes 
+
+#Notes from Dennis on ‘How to find Number of Labels Search Per User in a Session’:
+# 1. Sort the list by aid 
+# 2. Sort by time stamp (not that it matters)
+# 3. Iterate through the list from (1) evStart 
+# 4. Set up a counter - evViewHS , from one evStart to the next evStart 
+```
+
+```{r}
+# Heatmap 
+
+# Attempt 2 
+# (x = time spent on app per individual, y = 503 users )
+install.packages("dplyr")
+install.packages("str_detect")
+
+device <- filter(merged.csv, (str_detect(evDesc2, 'Pixel|iphone|ipad|android'))) %>% 
+  distinct_at(vars(aid), .keep_all = TRUE) 
+
+unique.aid.time <- device %>%
+  distinct_at(vars(aid), .keep_all = TRUE) 
+unique.aid.time <- unique.aid.time %>% 
+  select(aid, ts, device_cat)
+  
+  
+ggplot(unique.aid.time, aes(x=aid, y=ts)) + 
+  geom_tile() + 
+  scale_fill_gradient(low="white", high="darkgreen", name="=Legend")
+  
+# Attempt 3
+# compare user usage of each month 
+# x = months, y = users (evStart)
+
+evStart.aid.ts <- evStart %>% 
+  select(aid, ts)
+install.packages("lubridate")
+library("lubridate")
+evStart.aid.ts$ts <- ymd_hms(evStart.aid.ts$ts)
+
+ggplot(evStart.aid.ts, aes(x = ts, y = aid))+
+  geom_tile()+
+  scale_x_date(date_labels = "%b %Y")+
+  scale_fill_gradient(low="red", high="green") +
+  labs(x="Week of Month",
+       y="",
+       title = "Time-Series Calendar Heatmap", 
+       subtitle="Potato Price", 
+       fill="Price")
+```
+
+

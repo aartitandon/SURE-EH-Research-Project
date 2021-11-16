@@ -1,0 +1,2898 @@
+[
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,phablet,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0,ios",
+        "evDesc3": "(39.52099059620665,-74.93376931654633)",
+        "evType": "evStart",
+        "ts": "2020-09-28T07:49:01.710Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:49:01.831Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-28T07:49:07.062Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T07:51:02.750Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T07:52:20.525Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:52:24.846Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:53:08.704Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:53:59.727Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:54:15.713Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:54:20.137Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:54:41.860Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "61842-18",
+        "evDesc2": "Surround\u00ae WP Crop Protectant",
+        "evDesc3": "rou",
+        "evType": "evViewHS",
+        "ts": "2020-09-28T07:55:08.767Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Surround\u00ae WP Crop Protectant | epa: 61842-18",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:55:09.484Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:55:56.743Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T07:56:02.625Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T07:56:32.050Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T08:01:45.712Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T08:01:59.596Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "61842-18",
+        "evDesc2": "Surround\u00ae WP Crop Protectant",
+        "evDesc3": "round",
+        "evType": "evViewHS",
+        "ts": "2020-09-28T08:02:40.194Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Surround\u00ae WP Crop Protectant | epa: 61842-18",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T08:02:40.847Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T08:02:50.116Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T08:02:52.075Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T08:02:54.927Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T08:02:56.477Z"
+    },
+    {
+        "aid": "3567230674b52f9d80087c896227d03f6ae51da87b34d54da2b482cb4435c8ec",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T08:02:56.905Z"
+    },
+    {
+        "aid": "77cb5e219c9785a805649667f2752192b061db9a8021f0e879a29ed986bdba59",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,Moto G (5) Plus,android,7.0,android",
+        "evDesc3": "(47.5350197,-122.2327952)",
+        "evType": "evStart",
+        "ts": "2020-09-28T20:21:40.436Z"
+    },
+    {
+        "aid": "77cb5e219c9785a805649667f2752192b061db9a8021f0e879a29ed986bdba59",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T20:21:40.699Z"
+    },
+    {
+        "aid": "77cb5e219c9785a805649667f2752192b061db9a8021f0e879a29ed986bdba59",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T20:21:44.108Z"
+    },
+    {
+        "aid": "77cb5e219c9785a805649667f2752192b061db9a8021f0e879a29ed986bdba59",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T20:21:46.133Z"
+    },
+    {
+        "aid": "77cb5e219c9785a805649667f2752192b061db9a8021f0e879a29ed986bdba59",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T20:21:56.268Z"
+    },
+    {
+        "aid": "15d55fef0f67632950529098ba3abbc4549707e9d1c35cdcc038e350018bfb53",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,tablet,cordova,capacitor,mobile,hybrid,samsung,SM-T350,android,7.1.1,android",
+        "evDesc3": "(47.1080259,-122.2541653)",
+        "evType": "evStart",
+        "ts": "2020-09-28T20:26:13.522Z"
+    },
+    {
+        "aid": "15d55fef0f67632950529098ba3abbc4549707e9d1c35cdcc038e350018bfb53",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T20:26:14.183Z"
+    },
+    {
+        "aid": "15d55fef0f67632950529098ba3abbc4549707e9d1c35cdcc038e350018bfb53",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T20:26:22.382Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T22:19:09.597Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T22:19:16.460Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T22:19:46.718Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "66222-28",
+        "evDesc2": "GALIGAN 2E HERBICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-28T22:20:09.906Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "100-1431",
+        "evDesc2": "GRAMOXONE SL 2.0 HERBICIDE",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-28T22:21:14.006Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "GRAMOXONE SL 2.0 HERBICIDE | epa: 100-1431",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T22:21:14.845Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-28T22:21:21.209Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-28T22:21:22.757Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-28T22:21:23.757Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-28T22:21:24.389Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "100-1431",
+        "evDesc2": "GRAMOXONE SL 2.0 HERBICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-28T22:21:28.986Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "100-1431",
+        "evDesc2": "GRAMOXONE SL 2.0 HERBICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-28T22:21:33.632Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T22:23:53.991Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T22:23:54.169Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios",
+        "evDesc3": "(47.698286785427435,-122.37042454340359)",
+        "evType": "evStart",
+        "ts": "2020-09-28T23:43:03.576Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T23:43:03.638Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "400-503",
+        "evDesc2": "Acramite\u00ae - 50WS",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-28T23:43:08.682Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Acramite\u00ae - 50WS | epa: 400-503",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T23:43:09.321Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "400-503",
+        "evDesc2": "Acramite\u00ae - 50WS",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-28T23:43:14.576Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:43:14.652Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:43:21.228Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "264-1025",
+        "evDesc2": "Belt\u00ae SC Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-28T23:43:26.596Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Belt\u00ae SC Insecticide | epa: 264-1025",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T23:43:27.245Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "264-1025",
+        "evDesc2": "Belt\u00ae SC Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-28T23:43:32.331Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:43:32.377Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:43:36.246Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-28T23:43:44.081Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T23:43:44.740Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-28T23:43:54.076Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:43:54.128Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:43:58.198Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "62719-541",
+        "evDesc2": "Delegate\u00ae WG",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-28T23:44:03.946Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Delegate\u00ae WG | epa: 62719-541",
+        "evType": "evViewPage",
+        "ts": "2020-09-28T23:44:04.610Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "62719-541",
+        "evDesc2": "Delegate\u00ae WG",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-28T23:44:08.079Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:44:08.126Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:44:29.843Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-28T23:45:31.739Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:18:28.529Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "62719-541",
+        "evDesc2": "Delegate\u00ae WG",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:18:35.281Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Delegate\u00ae WG | epa: 62719-541",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:18:35.930Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "73049-39",
+        "evDesc2": "DiPel\u00ae DF Biological Insecticide Dry Flowable",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:18:54.346Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "DiPel\u00ae DF Biological Insecticide Dry Flowable | epa: 73049-39",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:18:54.978Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "19713-674",
+        "evDesc2": "Drexel\u00ae Sulfur 80 WDG",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:19:02.976Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Drexel\u00ae Sulfur 80 WDG | epa: 19713-674",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:19:03.591Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "19713-674",
+        "evDesc2": "Drexel\u00ae Sulfur 80 WDG",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:19:12.513Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Drexel\u00ae Sulfur 80 WDG | epa: 19713-674",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:19:13.125Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:19:19.381Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "DuPont\u2122 Altacor\u00ae | epa: 352-730",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:19:19.992Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "352-834",
+        "evDesc2": "DuPont\u2122 Fontelis\u00ae FUNGICIDE",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:19:48.332Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "DuPont\u2122 Fontelis\u00ae FUNGICIDE | epa: 352-834",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:19:48.943Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:20:03.582Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "DuPont\u2122 Altacor\u00ae | epa: 352-730",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:20:04.195Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "62719-621",
+        "evDesc2": "Entrust\u00ae SC Naturalite\u00ae   Insect Control",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:22:35.756Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Entrust\u00ae SC Naturalite\u00ae   Insect Control | epa: 62719-621",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:22:36.369Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "62719-220-71058",
+        "evDesc2": "Eraser\u2122",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:22:53.741Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Eraser\u2122 | epa: 62719-220-71058",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:22:54.353Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "80990-1",
+        "evDesc2": "FireLine\u2122 17 WP fungicide/bactericide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:23:06.839Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "FireLine\u2122 17 WP fungicide/bactericide | epa: 80990-1",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:23:07.437Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "71058-6",
+        "evDesc2": "IAP HI SUPREME 440 SPRAY OIL-NW",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:23:21.543Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "IAP HI SUPREME 440 SPRAY OIL-NW | epa: 71058-6",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:23:22.154Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:23:29.007Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Intruder\u00ae Max 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:23:29.605Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:24:29.843Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Intruder\u00ae Max 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:24:30.441Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:25:41.554Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:25:55.452Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:25:56.715Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Intruder\u00ae Max 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:25:57.377Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:26:29.615Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:26:31.662Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:26:33.396Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:26:46.117Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios",
+        "evDesc3": "(47.69864326214284,-122.37001296410149)",
+        "evType": "evStart",
+        "ts": "2020-09-29T00:28:32.917Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:28:32.996Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:29:48.387Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "e",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:29:59.874Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Intruder\u00ae Max 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:30:00.552Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:30:03.207Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:30:36.409Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:30:39.887Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios",
+        "evDesc3": "(47.69829773625004,-122.37029593776738)",
+        "evType": "evStart",
+        "ts": "2020-09-29T00:31:01.189Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:31:01.332Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:31:06.987Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:31:20.854Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:31:25.340Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:31:37.389Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:31:46.789Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:31:51.843Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:31:57.759Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:32:29.346Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:32:42.626Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:32:46.418Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:32:51.196Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:33:06.447Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:33:18.988Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:33:54.237Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:34:24.772Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:34:28.884Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "int",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:34:32.253Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Intruder\u00ae Max 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:34:33.112Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:34:46.045Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:34:49.352Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:34:49.989Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:34:56.806Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:01.680Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:19.123Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:24.132Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T00:35:25.203Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:31.317Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:40.833Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:42.278Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:45.012Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:45.568Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:50.294Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:35:51.354Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:39:30.324Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:39:33.512Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios",
+        "evDesc3": "(47.698297025208696,-122.37029418326144)",
+        "evType": "evStart",
+        "ts": "2020-09-29T00:41:51.456Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:41:51.598Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "71058-6",
+        "evDesc2": "IAP HI SUPREME 440 SPRAY OIL-NW",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:41:58.577Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "IAP HI SUPREME 440 SPRAY OIL-NW | epa: 71058-6",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:41:59.302Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:42:37.488Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Intruder\u00ae Max 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:42:38.128Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-29T00:42:43.053Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:42:43.228Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios",
+        "evDesc3": "(47.698347896035514,-122.37033901154899)",
+        "evType": "evStart",
+        "ts": "2020-09-29T00:44:54.575Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:44:54.701Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "71058-6",
+        "evDesc2": "IAP HI SUPREME 440 SPRAY OIL-NW",
+        "evDesc3": "oil",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:45:11.370Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "IAP HI SUPREME 440 SPRAY OIL-NW | epa: 71058-6",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:45:12.112Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "7001-7781",
+        "evDesc2": "PHT 440 Supreme Spray Oil",
+        "evDesc3": "oil",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:45:21.694Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "PHT 440 Supreme Spray Oil | epa: 7001-7781",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:45:22.321Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "71058-6",
+        "evDesc2": "IAP HI SUPREME 440 SPRAY OIL-NW",
+        "evDesc3": "oil",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:45:31.190Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "IAP HI SUPREME 440 SPRAY OIL-NW | epa: 71058-6",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:45:31.805Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "oil",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:45:38.233Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:45:38.856Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "71058-6",
+        "evDesc2": "IAP HI SUPREME 440 SPRAY OIL-NW",
+        "evDesc3": "o",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:46:07.768Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "IAP HI SUPREME 440 SPRAY OIL-NW | epa: 71058-6",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:46:08.373Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "5905-368",
+        "evDesc2": "Omni Supreme Spray",
+        "evDesc3": "o",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T00:46:24.429Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Omni Supreme Spray | epa: 5905-368",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T00:46:25.076Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:46:43.021Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:46:51.767Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:46:51.800Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:50:03.145Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T00:50:03.954Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:27:56.663Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Pixel 3a,android,11,android",
+        "evDesc3": "(47.6984304,-122.37046)",
+        "evType": "evStart",
+        "ts": "2020-09-29T21:30:05.871Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T21:30:06.083Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T21:30:12.928Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "DuPont\u2122 Altacor\u00ae | epa: 352-730",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T21:30:13.406Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T21:30:47.532Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T21:30:51.309Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T21:31:23.771Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T21:31:27.086Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T21:32:26.426Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:32:53.234Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:33:26.973Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:33:33.192Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:00.525Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:09.476Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:10.982Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:11.507Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:17.266Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-29T21:53:18.719Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:19.462Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:23.978Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:30.330Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:32.925Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:39.082Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:40.552Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:45.032Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:53:57.081Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:54:08.454Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:54:32.056Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:54:37.493Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-29T21:55:21.768Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T21:55:21.897Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "264-1065",
+        "evDesc2": "Ultor\u00ae",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T21:55:48.164Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Ultor\u00ae | epa: 264-1065",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T21:55:48.847Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:56:48.684Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:10.886Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:32.720Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:34.951Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:37.103Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:38.274Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:42.983Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:46.646Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:50.115Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:50.657Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:53.374Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T21:58:59.172Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "279-3557",
+        "evDesc2": "Topguard\u00ae Fungicide Specialty Crops",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T21:59:01.208Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Topguard\u00ae Fungicide Specialty Crops | epa: 279-3557",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T21:59:01.923Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,moto g(6),android,9,android",
+        "evDesc3": "(47.698436,-122.370476)",
+        "evType": "evStart",
+        "ts": "2020-09-29T21:59:54.831Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T21:59:55.205Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-29T21:59:58.463Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T21:59:58.659Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T22:00:18.880Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:00:19.573Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T22:00:37.132Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:00:44.065Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "7969-310",
+        "evDesc2": "MERIVON XEMIUM BRAND FUNGICIDE",
+        "evDesc3": "merivon",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-29T22:01:09.508Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "MERIVON XEMIUM BRAND FUNGICIDE | epa: 7969-310",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:01:10.121Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:01:29.047Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-29T22:01:41.527Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:01:41.651Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "7969-310",
+        "evDesc2": "MERIVON XEMIUM BRAND FUNGICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-29T22:01:54.961Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:01:57.397Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:02:29.744Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T22:02:48.465Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T22:02:50.345Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:03:29.177Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:03:30.362Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:03:35.456Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "59639-209",
+        "evDesc2": "Asana\u00ae XL Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T22:03:45.932Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Asana\u00ae XL Insecticide | epa: 59639-209",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:03:46.631Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "alt",
+        "evType": "evViewHS",
+        "ts": "2020-09-29T22:03:55.211Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "DuPont\u2122 Altacor\u00ae | epa: 352-730",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:03:55.702Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:04:03.400Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:04:06.075Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:04:11.527Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:04:11.973Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:04:13.584Z"
+    },
+    {
+        "aid": "d6d60266ab5001a37acf1afe32143c98b79ab5631f8b42b53d96a73ed1daf321",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:04:17.718Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T22:05:35.317Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T22:05:36.139Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:06:56.684Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "67760-75",
+        "evDesc2": "TOPGUARD FUNGICIDE SPECIALTY CROPS",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-29T22:07:12.307Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "TOPGUARD FUNGICIDE SPECIALTY CROPS | epa: 67760-75",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:07:13.077Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T22:07:21.818Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T22:07:23.257Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-29T22:07:24.380Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "67760-75",
+        "evDesc2": "TOPGUARD FUNGICIDE SPECIALTY CROPS",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-29T22:07:29.518Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,moto g(6),android,9,android",
+        "evDesc3": "(47.6984406,-122.3704639)",
+        "evType": "evStart",
+        "ts": "2020-09-29T22:07:42.296Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:07:42.712Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:07:51.409Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:08:02.011Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:08:03.498Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:08:06.317Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:08:07.225Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:08:07.628Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:08:10.493Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "352-834",
+        "evDesc2": "FONTELIS",
+        "evDesc3": "font",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-29T22:08:19.524Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "FONTELIS | epa: 352-834",
+        "evType": "evViewPage",
+        "ts": "2020-09-29T22:08:20.044Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-29T22:09:31.522Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T00:19:49.363Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T00:19:51.472Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios",
+        "evDesc3": "(47.698197509723855,-122.37016810403243)",
+        "evType": "evStart",
+        "ts": "2020-09-30T15:11:30.139Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-30T15:11:30.286Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T15:11:45.183Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T15:11:48.723Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "80990-1",
+        "evDesc2": "FireLine\u2122 17 WP fungicide/bactericide",
+        "evDesc3": "agr",
+        "evType": "evViewHS",
+        "ts": "2020-09-30T15:11:49.686Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "FireLine\u2122 17 WP fungicide/bactericide | epa: 80990-1",
+        "evType": "evViewPage",
+        "ts": "2020-09-30T15:11:50.542Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "80990-1",
+        "evDesc2": "FireLine\u2122 17 WP fungicide/bactericide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-30T15:11:53.980Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T15:11:54.085Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T15:12:59.539Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "80990-1",
+        "evDesc2": "FireLine\u2122 17 WP fungicide/bactericide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-30T15:15:13.859Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T15:15:13.980Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T15:15:43.563Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "80990-1",
+        "evDesc2": "FireLine\u2122 17 WP fungicide/bactericide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-30T15:15:49.157Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T15:15:49.195Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.0.1,ios",
+        "evDesc3": "(47.69834163471356,-122.3705156480325)",
+        "evType": "evStart",
+        "ts": "2020-09-30T16:47:42.954Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-30T16:47:43.100Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-30T16:47:48.601Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "45002-8",
+        "evDesc2": "AGRISTAR BASIC COPPER 53",
+        "evDesc3": "copper",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-30T16:48:04.852Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "AGRISTAR BASIC COPPER 53 | epa: 45002-8",
+        "evType": "evViewPage",
+        "ts": "2020-09-30T16:48:05.563Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "45002-8",
+        "evDesc2": "AGRISTAR BASIC COPPER 53",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-30T16:48:18.184Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-30T16:51:23.906Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-30T16:51:28.429Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2020-09-30T16:51:29.180Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-30T16:51:38.763Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T16:51:38.938Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T16:51:38.947Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T16:52:02.540Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T19:09:32.656Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-30T19:09:57.253Z"
+    },
+    {
+        "aid": "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",
+        "evDesc3": "(35.051366873052984,-79.04818778145427)",
+        "evType": "evStart",
+        "ts": "2020-10-01T15:07:24.784Z"
+    },
+    {
+        "aid": "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T15:07:24.878Z"
+    },
+    {
+        "aid": "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34",
+        "evDesc1": "5481-502",
+        "evDesc2": "Ambush\u00ae 25W Insecticide Wettable Powder",
+        "evDesc3": "p",
+        "evType": "evViewHS",
+        "ts": "2020-10-01T15:07:58.671Z"
+    },
+    {
+        "aid": "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Ambush\u00ae 25W Insecticide Wettable Powder | epa: 5481-502",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T15:07:59.328Z"
+    },
+    {
+        "aid": "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-01T15:08:26.457Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios",
+        "evDesc3": "(47.698238762977404,-122.37032847610278)",
+        "evType": "evStart",
+        "ts": "2020-10-01T16:45:43.458Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T16:45:43.615Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "intr",
+        "evType": "evViewHS",
+        "ts": "2020-10-01T16:45:48.557Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Intruder\u00ae Max 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T16:45:49.305Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Intruder\u00ae Max 70WP Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-10-01T16:45:54.398Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-01T16:45:54.520Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-01T17:58:24.925Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T17:58:35.774Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T17:58:37.956Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-01T17:58:39.876Z"
+    },
+    {
+        "aid": "500dd2b54014d386757dc147ef076d0b43ad04ed79691c4a844bcc747d452fd3",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Pixel 3a XL,android,10,android",
+        "evDesc3": "(47.7150931,-122.292522)",
+        "evType": "evStart",
+        "ts": "2020-10-01T23:57:41.569Z"
+    },
+    {
+        "aid": "500dd2b54014d386757dc147ef076d0b43ad04ed79691c4a844bcc747d452fd3",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T23:57:41.787Z"
+    },
+    {
+        "aid": "500dd2b54014d386757dc147ef076d0b43ad04ed79691c4a844bcc747d452fd3",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T23:57:48.337Z"
+    },
+    {
+        "aid": "500dd2b54014d386757dc147ef076d0b43ad04ed79691c4a844bcc747d452fd3",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-01T23:57:51.640Z"
+    },
+    {
+        "aid": "500dd2b54014d386757dc147ef076d0b43ad04ed79691c4a844bcc747d452fd3",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-02T00:02:57.438Z"
+    },
+    {
+        "aid": "500dd2b54014d386757dc147ef076d0b43ad04ed79691c4a844bcc747d452fd3",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-02T00:53:32.404Z"
+    },
+    {
+        "aid": "500dd2b54014d386757dc147ef076d0b43ad04ed79691c4a844bcc747d452fd3",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-02T00:53:36.010Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-10-02T15:45:00.002Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-02T15:45:00.118Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-02T15:45:01.892Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-02T15:47:47.521Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-02T15:47:55.336Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-02T15:47:58.184Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-02T15:48:24.349Z"
+    },
+    {
+        "aid": "8d88324e0d8c9b76cd8eb8e62de4625eb07f91e5f38ab12d68cca0be5ce89a6d",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.5.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-10-02T23:42:54.217Z"
+    },
+    {
+        "aid": "8d88324e0d8c9b76cd8eb8e62de4625eb07f91e5f38ab12d68cca0be5ce89a6d",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-02T23:42:54.315Z"
+    },
+    {
+        "aid": "8d88324e0d8c9b76cd8eb8e62de4625eb07f91e5f38ab12d68cca0be5ce89a6d",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-02T23:43:09.109Z"
+    },
+    {
+        "aid": "8d88324e0d8c9b76cd8eb8e62de4625eb07f91e5f38ab12d68cca0be5ce89a6d",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-02T23:45:33.053Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-10-03T04:48:23.382Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-03T04:48:23.495Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-03T04:48:30.995Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-03T04:48:34.350Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-03T04:48:47.560Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "About",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-03T04:48:50.061Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-03T04:48:55.369Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-03T04:49:09.588Z"
+    },
+    {
+        "aid": "d5fc10ca08e9724054c176888b9205da830a05103cb22195086ec048eb8c6946",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-03T04:49:10.966Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Pixel 3a,android,11,android",
+        "evDesc3": "(47.6984297,-122.3704652)",
+        "evType": "evStart",
+        "ts": "2020-10-04T19:26:54.167Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-04T19:26:54.372Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "100-1295",
+        "evDesc2": "Warrior II with Zeon Technology\u00ae",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-10-04T19:27:07.072Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Warrior II with Zeon Technology\u00ae | epa: 100-1295",
+        "evType": "evViewPage",
+        "ts": "2020-10-04T19:27:07.559Z"
+    },
+    {
+        "aid": "9f635ac94fe07d336db9c7e621382472932fe7db57d37e1fe777b94ba9bd7ff2",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-10-04T19:27:09.899Z"
+    },
+    {
+        "aid": "80ec79baf03cf80bb521aa8becbc5762edc665f879abc24350c99ae7c2a7d65c",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-10-04T22:35:07.941Z"
+    },
+    {
+        "aid": "80ec79baf03cf80bb521aa8becbc5762edc665f879abc24350c99ae7c2a7d65c",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-10-04T22:35:08.044Z"
+    },
+    {
+        "aid": "80ec79baf03cf80bb521aa8becbc5762edc665f879abc24350c99ae7c2a7d65c",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-10-04T22:35:15.731Z"
+    },
+    {
+        "aid": "80ec79baf03cf80bb521aa8becbc5762edc665f879abc24350c99ae7c2a7d65c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2020-10-04T22:35:16.415Z"
+    },
+    {
+        "aid": "80ec79baf03cf80bb521aa8becbc5762edc665f879abc24350c99ae7c2a7d65c",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-10-04T22:35:30.583Z"
+    },
+    {
+        "aid": "80ec79baf03cf80bb521aa8becbc5762edc665f879abc24350c99ae7c2a7d65c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2020-10-04T22:35:31.209Z"
+    },
+    {
+        "aid": "80ec79baf03cf80bb521aa8becbc5762edc665f879abc24350c99ae7c2a7d65c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-10-04T22:35:47.178Z"
+    }
+]

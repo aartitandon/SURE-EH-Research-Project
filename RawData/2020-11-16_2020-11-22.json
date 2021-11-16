@@ -1,0 +1,858 @@
+[
+    {
+        "aid": "ae46be1a77e9f69087c322050208d09f12092427c47e61ecf46cf66c695507e3",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.1,ios",
+        "evDesc3": "(18.032867418827138,-66.93389127955031)",
+        "evType": "evStart",
+        "ts": "2020-11-16T11:20:39.582Z"
+    },
+    {
+        "aid": "ae46be1a77e9f69087c322050208d09f12092427c47e61ecf46cf66c695507e3",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-16T11:20:39.669Z"
+    },
+    {
+        "aid": "ae46be1a77e9f69087c322050208d09f12092427c47e61ecf46cf66c695507e3",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-11-16T11:21:06.501Z"
+    },
+    {
+        "aid": "ae46be1a77e9f69087c322050208d09f12092427c47e61ecf46cf66c695507e3",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-16T11:21:10.861Z"
+    },
+    {
+        "aid": "ae46be1a77e9f69087c322050208d09f12092427c47e61ecf46cf66c695507e3",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-16T11:21:17.572Z"
+    },
+    {
+        "aid": "ae46be1a77e9f69087c322050208d09f12092427c47e61ecf46cf66c695507e3",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-16T11:21:19.740Z"
+    },
+    {
+        "aid": "ae46be1a77e9f69087c322050208d09f12092427c47e61ecf46cf66c695507e3",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-16T11:21:22.221Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-11-16T14:24:59.128Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-16T14:24:59.292Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "70506-121",
+        "evDesc2": "Lambda-CY\u2122 EC - RUP",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-16T14:25:35.072Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Lambda-CY\u2122 EC - RUP | epa: 70506-121",
+        "evType": "evViewPage",
+        "ts": "2020-11-16T14:25:35.785Z"
+    },
+    {
+        "aid": "0e4bcad6c092ca1246575f1d9acd48a43d46ceebc16ba220e036753417c20819",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-16T14:32:18.074Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-11-17T15:35:44.221Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-17T15:35:44.452Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-17T15:35:54.266Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-17T15:35:58.767Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-17T15:36:00.116Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-17T15:36:01.060Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-11-17T15:36:15.006Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-17T15:36:15.176Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-17T15:36:23.877Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-17T15:36:35.998Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-17T15:37:11.922Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-11-17T15:50:22.808Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-17T15:50:22.991Z"
+    },
+    {
+        "aid": "3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-17T15:50:31.700Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-11-19T02:22:26.416Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T02:22:26.489Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "400-503",
+        "evDesc2": "Acramite\u00ae - 50WS",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-19T02:22:32.839Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Acramite\u00ae - 50WS | epa: 400-503",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T02:22:33.495Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "100-1295",
+        "evDesc2": "Warrior II with Zeon Technology\u00ae",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-19T02:23:19.391Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Warrior II with Zeon Technology\u00ae | epa: 100-1295",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T02:23:19.982Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T02:23:23.677Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T02:23:26.102Z"
+    },
+    {
+        "aid": "e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-19T02:23:29.835Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-11-19T05:11:29.201Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T05:11:29.284Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-19T05:13:56.416Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T05:13:57.064Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "400-503",
+        "evDesc2": "Acramite\u00ae - 50WS",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-19T05:14:08.814Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Acramite\u00ae - 50WS | epa: 400-503",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T05:14:09.411Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-19T05:14:12.968Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2020-11-19T05:14:13.560Z"
+    },
+    {
+        "aid": "4469b6c2064e7802fa609e62eab4d9a63af7829d3110f826ce732c72a76a0ecd",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-19T05:19:04.481Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.1,ios",
+        "evDesc3": "(47.355169074485374,-120.25239794673072)",
+        "evType": "evStart",
+        "ts": "2020-11-20T16:09:00.529Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-20T16:09:00.595Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "62719-541",
+        "evDesc2": "Delegate\u00ae WG",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-20T16:09:46.709Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Delegate\u00ae WG | epa: 62719-541",
+        "evType": "evViewPage",
+        "ts": "2020-11-20T16:09:47.358Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-20T16:10:02.917Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-20T16:10:12.747Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "Resources",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-11-20T16:10:29.602Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "Resources",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-11-20T16:10:31.399Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-20T16:10:33.613Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-20T16:10:43.308Z"
+    },
+    {
+        "aid": "799a818fc50f3c541bca77e51e56b882a564264c27d0e408ea17e3f699a742d7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-20T16:10:44.380Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,samsung,SM-G973U,android,10,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-11-21T02:44:32.377Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T02:44:32.514Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T02:44:40.231Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T02:44:45.846Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T02:45:10.503Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T02:46:55.446Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "71058-2",
+        "evDesc2": "IAP\u00ae Dormant Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T02:47:06.694Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "IAP\u00ae Dormant Oil | epa: 71058-2",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T02:47:07.134Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "62562-8-71058",
+        "evDesc2": "Crusade DF",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T02:47:38.636Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Crusade DF | epa: 62562-8-71058",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T02:47:38.996Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T02:47:42.331Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T02:47:42.693Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T02:47:49.225Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T02:47:49.601Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T02:48:17.791Z"
+    },
+    {
+        "aid": "9c4b16bb3ff1a7e08a141cab2a58edf52ee4e3e4d9d5c0afe4a1925476d1a8c1",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T02:48:36.975Z"
+    },
+    {
+        "aid": "c9127f4ffcab96551716838a50cf503d1b3a807e118d31fd632a5666a4b0f934",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,samsung,SM-G960U,android,10,android",
+        "evDesc3": "(46.6520539,-120.543291)",
+        "evType": "evStart",
+        "ts": "2020-11-21T03:23:36.485Z"
+    },
+    {
+        "aid": "c9127f4ffcab96551716838a50cf503d1b3a807e118d31fd632a5666a4b0f934",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T03:23:36.638Z"
+    },
+    {
+        "aid": "c9127f4ffcab96551716838a50cf503d1b3a807e118d31fd632a5666a4b0f934",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T03:23:49.948Z"
+    },
+    {
+        "aid": "c9127f4ffcab96551716838a50cf503d1b3a807e118d31fd632a5666a4b0f934",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T03:23:55.962Z"
+    },
+    {
+        "aid": "c9127f4ffcab96551716838a50cf503d1b3a807e118d31fd632a5666a4b0f934",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T03:24:02.458Z"
+    },
+    {
+        "aid": "c9127f4ffcab96551716838a50cf503d1b3a807e118d31fd632a5666a4b0f934",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T03:25:36.633Z"
+    },
+    {
+        "aid": "c9127f4ffcab96551716838a50cf503d1b3a807e118d31fd632a5666a4b0f934",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T04:26:52.761Z"
+    },
+    {
+        "aid": "c9127f4ffcab96551716838a50cf503d1b3a807e118d31fd632a5666a4b0f934",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T04:26:54.874Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.1,ios",
+        "evDesc3": "(46.71239004760593,-120.52985753841037)",
+        "evType": "evStart",
+        "ts": "2020-11-21T23:25:27.092Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T23:25:27.251Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "264-1025",
+        "evDesc2": "Belt\u00ae SC Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T23:25:54.462Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Belt\u00ae SC Insecticide | epa: 264-1025",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T23:25:55.171Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "62719-621",
+        "evDesc2": "Entrust\u00ae SC Naturalite\u00ae   Insect Control",
+        "evDesc3": "entrust",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T23:26:38.258Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Entrust\u00ae SC Naturalite\u00ae   Insect Control | epa: 62719-621",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T23:26:38.848Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "62719-621",
+        "evDesc2": "Entrust\u00ae SC Naturalite\u00ae   Insect Control",
+        "evDesc3": "H&S Supplement",
+        "evType": "evDownloadLabel",
+        "ts": "2020-11-21T23:27:28.129Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T23:27:28.264Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T23:28:33.214Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "62719-621",
+        "evDesc2": "Entrust\u00ae SC Naturalite\u00ae   Insect Control",
+        "evDesc3": "entrust",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T23:28:40.505Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Entrust\u00ae SC Naturalite\u00ae   Insect Control | epa: 62719-621",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T23:28:41.199Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-11-21T23:30:31.571Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "HS Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-11-21T23:30:34.795Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-11-21T23:31:02.940Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-11-21T23:31:07.511Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "62719-541",
+        "evDesc2": "Delegate\u00ae WG",
+        "evDesc3": "e",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T23:31:22.875Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Delegate\u00ae WG | epa: 62719-541",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T23:31:23.484Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "19713-674",
+        "evDesc2": "Drexel\u00ae Sulfur 80 WDG",
+        "evDesc3": "e",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T23:31:40.256Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Drexel\u00ae Sulfur 80 WDG | epa: 19713-674",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T23:31:40.868Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "264-1090",
+        "evDesc2": "Luna\u00ae SENSATION",
+        "evDesc3": "e",
+        "evType": "evViewHS",
+        "ts": "2020-11-21T23:32:09.340Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Luna\u00ae SENSATION | epa: 264-1090",
+        "evType": "evViewPage",
+        "ts": "2020-11-21T23:32:09.937Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "264-1090",
+        "evDesc2": "Luna\u00ae SENSATION",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-11-21T23:34:19.726Z"
+    },
+    {
+        "aid": "57d8f038ae60ca0a6c86f4b0b724b9e268a1f9586d09605da5ff6d74cd1b391c",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-21T23:34:19.821Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6,ios",
+        "evDesc3": "(46.602792026177326,-120.5657783011543)",
+        "evType": "evStart",
+        "ts": "2020-11-22T03:39:24.295Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-11-22T03:39:24.361Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "19713-49",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-11-22T03:39:30.536Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Carbaryl 4L | epa: 19713-49",
+        "evType": "evViewPage",
+        "ts": "2020-11-22T03:39:31.195Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-11-22T03:42:20.863Z"
+    }
+]

@@ -1,0 +1,4506 @@
+[
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "(47.69820632566817,-122.37052634452381)",
+        "evType": "evStart",
+        "ts": "2020-08-31T17:28:47.043Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T17:28:47.104Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T17:28:54.158Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "About",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T17:28:56.402Z"
+    },
+    {
+        "aid": "6d2a8b658adc1ff56801619e1cb283557d2ba63fac34f41238dfeed803392956",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-08-31T17:29:02.576Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "(46.67275393088309,-120.5110853879576)",
+        "evType": "evStart",
+        "ts": "2020-08-31T18:29:04.457Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T18:29:04.552Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "51934-12",
+        "evDesc2": "Cidetrak\u00ae Da Mec\u2122",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-08-31T18:29:15.379Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Cidetrak\u00ae Da Mec\u2122 | epa: 51934-12",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T18:29:16.048Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "352-834",
+        "evDesc2": "DuPont\u2122 Fontelis\u00ae FUNGICIDE",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-08-31T18:29:32.360Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "DuPont\u2122 Fontelis\u00ae FUNGICIDE | epa: 352-834",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T18:29:32.974Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "HS Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-08-31T18:29:35.640Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "62719-621",
+        "evDesc2": "Entrust\u00ae SC Naturalite\u00ae   Insect Control",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-08-31T18:29:41.509Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Entrust\u00ae SC Naturalite\u00ae   Insect Control | epa: 62719-621",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T18:29:42.123Z"
+    },
+    {
+        "aid": "8364c471f8d9cff61ac3eb1c22fa6017f89b931bb441101de500dd30551e90d7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-08-31T18:29:46.876Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-08-31T19:45:41.917Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T19:45:41.984Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T19:45:47.438Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-08-31T19:45:50.093Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.5.1,ios",
+        "evDesc3": "(47.706243314674104,-122.31960674714074)",
+        "evType": "evStart",
+        "ts": "2020-08-31T21:07:40.935Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-08-31T21:07:41.002Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-08-31T21:07:46.338Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-08-31T21:10:27.298Z"
+    },
+    {
+        "aid": "7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-08-31T21:10:28.527Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.3.1,ios",
+        "evDesc3": "(46.6947719314472,-120.5039274707329)",
+        "evType": "evStart",
+        "ts": "2020-09-01T01:20:27.013Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T01:20:27.184Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T01:21:01.776Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T01:21:05.910Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T01:21:07.783Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T01:21:12.249Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T01:21:24.817Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T01:21:40.350Z"
+    },
+    {
+        "aid": "bd895bb74d836cb8483e0ec50804760606d8cf1e3f22baa5a0344451a5cfeefe",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T01:21:47.561Z"
+    },
+    {
+        "aid": "6e9c0682cd39ef1025891f504f2e73c1d18bebdf474b00035949bbe84140970a",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "(46.20411414667807,-119.23999792701704)",
+        "evType": "evStart",
+        "ts": "2020-09-01T05:28:39.400Z"
+    },
+    {
+        "aid": "6e9c0682cd39ef1025891f504f2e73c1d18bebdf474b00035949bbe84140970a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T05:28:39.464Z"
+    },
+    {
+        "aid": "6e9c0682cd39ef1025891f504f2e73c1d18bebdf474b00035949bbe84140970a",
+        "evDesc1": "400-503",
+        "evDesc2": "Acramite\u00ae - 50WS",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-01T05:28:46.472Z"
+    },
+    {
+        "aid": "6e9c0682cd39ef1025891f504f2e73c1d18bebdf474b00035949bbe84140970a",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Acramite\u00ae - 50WS | epa: 400-503",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T05:28:47.113Z"
+    },
+    {
+        "aid": "6e9c0682cd39ef1025891f504f2e73c1d18bebdf474b00035949bbe84140970a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T05:30:51.160Z"
+    },
+    {
+        "aid": "6e9c0682cd39ef1025891f504f2e73c1d18bebdf474b00035949bbe84140970a",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T06:16:35.793Z"
+    },
+    {
+        "aid": "6e9c0682cd39ef1025891f504f2e73c1d18bebdf474b00035949bbe84140970a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T06:16:37.952Z"
+    },
+    {
+        "aid": "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.5.1,ios",
+        "evDesc3": "(38.19036029164294,-121.231073783541)",
+        "evType": "evStart",
+        "ts": "2020-09-01T13:46:13.356Z"
+    },
+    {
+        "aid": "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T13:46:13.416Z"
+    },
+    {
+        "aid": "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T13:46:26.806Z"
+    },
+    {
+        "aid": "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T13:46:28.753Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "1.0.2 (32)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,10,android",
+        "evDesc3": "(37.4219906,-122.0841143)",
+        "evType": "evStart",
+        "ts": "2020-09-01T21:16:52.725Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T21:16:53.155Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T21:17:05.265Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "1381-103",
+        "evDesc2": "2,4-D AMINE 4",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-01T21:17:41.139Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "2,4-D AMINE 4 | epa: 1381-103",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T21:17:41.751Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-01T21:17:58.989Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE | epa: 9779-273",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T21:17:59.404Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T21:18:08.056Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T21:18:09.400Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T21:18:17.185Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T21:19:25.295Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "1.0.2 (32)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6,ios",
+        "evDesc3": "(47.698298,-122.37049784729292)",
+        "evType": "evStart",
+        "ts": "2020-09-01T21:20:55.513Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T21:20:55.637Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T21:21:03.270Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "dimate",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-01T21:21:17.776Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE | epa: 9779-273",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T21:21:18.491Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T21:21:23.077Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T21:22:01.721Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "1.0.2 (32)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,10,android",
+        "evDesc3": "(37.4219906,-122.0841143)",
+        "evType": "evStart",
+        "ts": "2020-09-01T22:22:12.403Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:22:12.720Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "62719-591",
+        "evDesc2": "Lorsban\u00ae Advanced",
+        "evDesc3": "lors",
+        "evType": "evViewHS",
+        "ts": "2020-09-01T22:22:34.834Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Lorsban\u00ae Advanced | epa: 62719-591",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:22:35.344Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "62719-591",
+        "evDesc2": "Lorsban\u00ae Advanced",
+        "evDesc3": "H&S Supplement",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T22:22:56.621Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:22:57.528Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "62719-591",
+        "evDesc2": "Lorsban\u00ae Advanced",
+        "evDesc3": "H&S Supplement",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T22:24:44.752Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:24:45.504Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "62719-591",
+        "evDesc2": "Lorsban\u00ae Advanced",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T22:25:34.533Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:25:35.141Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:26:43.206Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "1.0.2 (32)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,10,android",
+        "evDesc3": "(37.4219906,-122.0841143)",
+        "evType": "evStart",
+        "ts": "2020-09-01T22:27:08.023Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:27:08.379Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:27:21.238Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "dima",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-01T22:27:50.130Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE | epa: 9779-273",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:27:50.562Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T22:28:00.323Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:28:01.353Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:28:07.195Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:28:59.300Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "1.0.2 (32)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,10,android",
+        "evDesc3": "(37.4219906,-122.0841143)",
+        "evType": "evStart",
+        "ts": "2020-09-01T22:43:37.989Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:43:38.279Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-01T22:43:58.902Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:43:59.423Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T22:44:10.837Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:44:16.601Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:45:17.443Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "dima",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-01T22:45:30.751Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE | epa: 9779-273",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:45:31.163Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T22:45:37.453Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:45:38.636Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:45:44.608Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:47:44.084Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "1.0.2 (32)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,10,android",
+        "evDesc3": "(37.4219906,-122.0841143)",
+        "evType": "evStart",
+        "ts": "2020-09-01T22:59:10.379Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:59:10.814Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-01T22:59:18.982Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2020-09-01T22:59:19.462Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-01T22:59:32.064Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:59:32.940Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T22:59:54.794Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-01T23:00:10.550Z"
+    },
+    {
+        "aid": "b83f8a407f4af8efdc42c2a98b6b433322aba534543903e12c44b903fada0cb0",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.5.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-02T09:35:00.662Z"
+    },
+    {
+        "aid": "b83f8a407f4af8efdc42c2a98b6b433322aba534543903e12c44b903fada0cb0",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T09:35:00.754Z"
+    },
+    {
+        "aid": "b83f8a407f4af8efdc42c2a98b6b433322aba534543903e12c44b903fada0cb0",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T09:35:24.092Z"
+    },
+    {
+        "aid": "b83f8a407f4af8efdc42c2a98b6b433322aba534543903e12c44b903fada0cb0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T09:36:31.865Z"
+    },
+    {
+        "aid": "59b80d2d89a66d22e9070cc3ab84984da15c3df0789faa504aa3d6c18d8d1852",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.3,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-02T09:52:38.898Z"
+    },
+    {
+        "aid": "59b80d2d89a66d22e9070cc3ab84984da15c3df0789faa504aa3d6c18d8d1852",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T09:52:39.057Z"
+    },
+    {
+        "aid": "59b80d2d89a66d22e9070cc3ab84984da15c3df0789faa504aa3d6c18d8d1852",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T09:52:54.537Z"
+    },
+    {
+        "aid": "59b80d2d89a66d22e9070cc3ab84984da15c3df0789faa504aa3d6c18d8d1852",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T09:52:56.088Z"
+    },
+    {
+        "aid": "59b80d2d89a66d22e9070cc3ab84984da15c3df0789faa504aa3d6c18d8d1852",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T09:52:59.096Z"
+    },
+    {
+        "aid": "59b80d2d89a66d22e9070cc3ab84984da15c3df0789faa504aa3d6c18d8d1852",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T09:55:03.434Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios",
+        "evDesc3": "(47.69823531014768,-122.37036381487789)",
+        "evType": "evStart",
+        "ts": "2020-09-02T20:42:06.846Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T20:42:06.999Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T20:42:12.405Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T20:42:14.749Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "EULA",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-02T20:42:20.825Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "Feedback",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T20:42:32.779Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T20:42:39.945Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "EULA",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-02T20:42:53.510Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T20:43:51.859Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T20:44:44.294Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T20:45:08.792Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T20:45:29.921Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "EULA",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-02T20:45:32.132Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "1.0.2 (32)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-02T20:52:22.323Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T20:52:22.465Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T20:52:28.345Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-02T20:52:37.924Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "EULA",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-02T20:53:27.836Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "EULA",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-02T20:53:29.286Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "EULA",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-02T20:53:30.882Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "EULA",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-02T20:53:33.135Z"
+    },
+    {
+        "aid": "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T20:55:01.134Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T22:13:53.335Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T22:13:53.460Z"
+    },
+    {
+        "aid": "4a3a7f86095a34ab165516a8da2d97f80e276af657c6eec30eb0553398aa9e03",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-02T22:13:53.698Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "1.0.1 (31)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,moto g(6),android,9,android",
+        "evDesc3": "(47.698425,-122.3705278)",
+        "evType": "evStart",
+        "ts": "2020-09-03T01:15:28.697Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T01:15:29.096Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T01:15:32.025Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T01:15:36.238Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T01:16:44.369Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "1.0.1 (31)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,moto g(6),android,9,android",
+        "evDesc3": "(47.6984359,-122.3705254)",
+        "evType": "evStart",
+        "ts": "2020-09-03T15:35:55.734Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T15:35:56.158Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T15:35:58.585Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T15:36:01.985Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T15:37:13.527Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T15:41:11.890Z"
+    },
+    {
+        "aid": "15038562bda78a0070f69d43e6ee0ffef23844e2bc725e69dbc105cb00519823",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T15:41:16.431Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": " ()",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.15,web",
+        "evDesc3": "(47.698339931612594,-122.3706452672453)",
+        "evType": "evStart",
+        "ts": "2020-09-03T20:14:27.501Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T20:14:27.622Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T20:14:31.866Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Privacy",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T20:14:37.795Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T20:19:55.901Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T20:26:15.875Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Privacy",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T20:26:19.072Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Privacy",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T20:26:41.142Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": " ()",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.15,web",
+        "evDesc3": "(47.69833509083919,-122.37063993201652)",
+        "evType": "evStart",
+        "ts": "2020-09-03T20:46:57.585Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T20:46:57.709Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T20:47:01.566Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Privacy",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T20:47:08.527Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:02:43.457Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:02:44.995Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Privacy",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T21:03:00.453Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:16.689Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:30.680Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:49.559Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": " ()",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.15,web",
+        "evDesc3": "(47.69833509083919,-122.37063993201652)",
+        "evType": "evStart",
+        "ts": "2020-09-03T21:03:50.117Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:50.151Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:50.835Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": " ()",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.15,web",
+        "evDesc3": "(47.69833509083919,-122.37063993201652)",
+        "evType": "evStart",
+        "ts": "2020-09-03T21:03:51.445Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:51.480Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:52.147Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": " ()",
+        "evDesc2": "iphone,ios,mobile,mobileweb,,iPhone,ios,Intel Mac OS X 10.15,web",
+        "evDesc3": "(47.69833509083919,-122.37063993201652)",
+        "evType": "evStart",
+        "ts": "2020-09-03T21:03:52.740Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:52.771Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:03:53.368Z"
+    },
+    {
+        "aid": "9f70123824abf4d91c96af24b89cae907504e265374c648d3e304ad08efe555e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:04:01.701Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "1.0.4 (33)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-03T21:22:53.435Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:22:53.560Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:23:03.040Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "Privacy",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:23:08.179Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:24:01.619Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "dimate",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-03T21:24:11.967Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE | epa: 9779-273",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:24:12.552Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T21:24:29.038Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:25:02.567Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "alt",
+        "evType": "evViewHS",
+        "ts": "2020-09-03T21:25:26.514Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "DuPont\u2122 Altacor\u00ae | epa: 352-730",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:25:27.192Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T21:25:39.633Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:25:39.731Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:25:48.459Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "H&S Supplement",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T21:25:53.616Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:25:53.636Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:26:11.916Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:26:26.212Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:26:33.348Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T21:26:56.068Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T21:26:58.669Z"
+    },
+    {
+        "aid": "261fa3a956642244c7681c3c52ca65dfd56ee42b0d6368dfffa59b39bc64756b",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:27:06.392Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "1.0.4 (33)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,Google,Android SDK built for x86,android,10,android",
+        "evDesc3": "(37.4219853,-122.0840034)",
+        "evType": "evStart",
+        "ts": "2020-09-03T21:29:09.240Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:29:09.653Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:29:47.272Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "dimat",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-03T21:29:58.718Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE | epa: 9779-273",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:29:59.146Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T21:30:33.677Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:30:34.746Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:30:43.291Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:30:56.856Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "alta",
+        "evType": "evViewHS",
+        "ts": "2020-09-03T21:31:04.726Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "DuPont\u2122 Altacor\u00ae | epa: 352-730",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:31:05.175Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T21:31:16.165Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:31:16.982Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:31:23.798Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "H&S Supplement",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T21:31:27.183Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:31:27.935Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:31:33.232Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:31:47.425Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:31:52.494Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T21:31:56.483Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T21:31:58.086Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "Privacy",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:32:03.972Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T21:32:18.802Z"
+    },
+    {
+        "aid": "b1b6c43df0d81dec96dc0b8f8eba7a0da4882680c4e380428211bbce7c69b242",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T21:32:49.699Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,Moto G Play,android,6.0.1,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-03T22:43:02.071Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:04.151Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:43:09.667Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:12.641Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:14.372Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:43:17.695Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:21.284Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:43:24.930Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:43:27.271Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:30.273Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:34.207Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:43:36.414Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:43:41.220Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:47.082Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:50.595Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:43:52.938Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:43:55.751Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:43:58.768Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:44:03.018Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:44:05.092Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:07.587Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:11.208Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:15.406Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:20.343Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:23.932Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:25.786Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:29.139Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:30.379Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:33.677Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:37.710Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:44:40.767Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:44:42.900Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:45.065Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:48.840Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:52.169Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:44:55.626Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:02.569Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Privacy",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:45:04.173Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:07.843Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:45:11.115Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:45:16.720Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:19.882Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:21.245Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:22.964Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Privacy",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:25.236Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:29.245Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:33.884Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:45:37.932Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:45:40.266Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:45:44.705Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:45:45.904Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:45:52.393Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:46:02.730Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:46:07.784Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:46:12.673Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:46:17.072Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:46:26.337Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:46:29.668Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:46:31.970Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:46:34.293Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:46:37.642Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:46:44.172Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:46:48.715Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:46:50.818Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.6.1,ios",
+        "evDesc3": "(47.6982531742902,-122.37040314804521)",
+        "evType": "evStart",
+        "ts": "2020-09-03T22:46:53.328Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:46:53.458Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:47:10.410Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:47:16.232Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "dima",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-03T22:47:23.436Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE | epa: 9779-273",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:47:24.119Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "9779-273",
+        "evDesc2": "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T22:47:29.528Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:47:43.830Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:48:03.681Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "alt",
+        "evType": "evViewHS",
+        "ts": "2020-09-03T22:48:16.213Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "DuPont\u2122 Altacor\u00ae | epa: 352-730",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:48:16.950Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T22:48:25.123Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:48:25.256Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:48:25.296Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "352-730",
+        "evDesc2": "DuPont\u2122 Altacor\u00ae",
+        "evDesc3": "H&S Supplement",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-03T22:48:40.897Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:48:50.804Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:48:53.175Z"
+    },
+    {
+        "aid": "6b9defb05dfc0199b1f7ef4bafc815338e328fc5935f57cb4ef2ae45e05820af",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:49:05.940Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,Moto G Play,android,6.0.1,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-03T22:53:33.220Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:53:35.230Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:53:37.436Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:53:39.830Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:53:44.688Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:53:49.159Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:53:59.874Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:03.420Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:12.687Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:15.681Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:24.938Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:54:29.858Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:54:31.273Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:54:36.068Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:38.179Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:41.763Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:54:46.340Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:48.437Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:50.124Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:52.979Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:54:57.687Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:55:02.677Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:55:04.577Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:55:06.328Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:55:08.263Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:55:11.974Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:55:14.200Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:55:23.285Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:55:26.366Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:55:28.377Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:55:31.581Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:55:36.130Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:55:40.393Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:56:05.608Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:56:11.701Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:56:38.173Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T22:56:40.904Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:56:44.391Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T22:56:46.089Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:56:48.224Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T22:57:11.565Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,Moto G Play,android,6.0.1,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-03T23:03:42.710Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:03:44.788Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:03:49.123Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:03:53.992Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:03:55.700Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:03:59.224Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:04:02.733Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:04:06.390Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:04:14.484Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:04:17.580Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:04:21.450Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:04:23.669Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:04:25.865Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Privacy",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:04:31.934Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Privacy",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:04:33.100Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Feedback",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:04:37.538Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:04:43.068Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:04:45.064Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:04:47.541Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:04:50.514Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:04:53.509Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:04:57.072Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:07.410Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:13.320Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:14.899Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:05:17.868Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:19.770Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:22.608Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:05:29.071Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:31.649Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:33.377Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:05:39.024Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:41.683Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:44.866Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Feedback",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:05:47.841Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:49.599Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:05:53.252Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Feedback",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:05:56.094Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:06:01.209Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:06:03.101Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:06:04.956Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Privacy",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:06:07.563Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:06:10.745Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:06:13.745Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:06:16.676Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:06:20.116Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:06:22.478Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:06:25.576Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:06:53.121Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:06:59.288Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:07:23.304Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:07:45.380Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:07:46.299Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "1381-103",
+        "evDesc2": "2,4-D AMINE 4",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-03T23:07:47.171Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "2,4-D AMINE 4 | epa: 1381-103",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:07:55.701Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,Moto G Play,android,6.0.1,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-03T23:13:35.461Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:13:37.491Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:13:39.792Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:13:43.870Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:13:46.789Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:13:50.653Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:01.413Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:04.894Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:14.202Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:17.095Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:26.346Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:14:30.994Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:14:32.303Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:14:36.936Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:38.982Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:42.626Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:14:47.106Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:49.312Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:51.080Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:53.918Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:14:58.988Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:15:03.469Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:15:27.819Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:15:54.523Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,motorola,Moto G Play,android,6.0.1,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-03T23:23:25.692Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:23:27.786Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:23:33.376Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:23:36.334Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:23:38.056Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:23:41.357Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:23:44.960Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:23:48.648Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:23:54.453Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:23:58.418Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:24:02.496Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:05.167Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:09.987Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Feedback",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:24:15.435Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:24:18.907Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:20.777Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:23.587Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:24:26.680Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:24:31.019Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:24:33.029Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:35.709Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:39.947Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:44.178Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:45.924Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:24:48.930Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:51.536Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:56.594Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:24:59.814Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:03.198Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:06.619Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:09.950Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Partners",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:25:12.870Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:14.775Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:17.758Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:21.444Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:25.023Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:25:30.712Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Feedback",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:25:33.623Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "EULA",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:25:39.169Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "EULA",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:25:40.461Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "About",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:25:45.115Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:48.287Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:49.689Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:54.405Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:25:57.340Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:02.261Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:03.691Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:07.501Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:08.979Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:12.630Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:18.139Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "About",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:26:21.576Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:24.745Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:26.113Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:30.904Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:32.432Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:36.172Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:38.493Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "About",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:26:42.462Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:47.225Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:49.095Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:26:56.977Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:26:59.761Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:01.228Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:06.357Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:16.756Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Contact",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-03T23:27:20.024Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:22.751Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:32.034Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:27:37.969Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "About",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:27:42.407Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:47.292Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:49.728Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:54.518Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:27:56.749Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:28:00.579Z"
+    },
+    {
+        "aid": "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-03T23:28:03.319Z"
+    },
+    {
+        "aid": "20b5cf4d287799fe53cb3e481a7944b7358dde6f78c702fcae5ca7e55b9580f1",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.5.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-03T23:58:15.891Z"
+    },
+    {
+        "aid": "20b5cf4d287799fe53cb3e481a7944b7358dde6f78c702fcae5ca7e55b9580f1",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:58:15.987Z"
+    },
+    {
+        "aid": "20b5cf4d287799fe53cb3e481a7944b7358dde6f78c702fcae5ca7e55b9580f1",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-03T23:58:31.342Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.1.3,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-04T13:45:10.961Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T13:45:11.117Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T13:45:24.814Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-04T13:45:26.405Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-04T13:45:29.309Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-04T13:46:44.620Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-04T13:46:44.661Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-04T13:46:44.677Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-04T13:46:49.411Z"
+    },
+    {
+        "aid": "9c19e1a617f5134ab7c290b79acd8a79ce9cf01f93527ca7f117de5e09a2902e",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-04T13:46:49.988Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,13.7,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-04T17:28:52.460Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T17:28:52.579Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T17:28:55.228Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "More",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-04T17:28:56.358Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "More",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2020-09-04T17:28:57.824Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T17:28:58.469Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T17:28:59.243Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T17:28:59.483Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T17:29:32.239Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 SUPERIOR SPRAY OIL",
+        "evDesc3": "",
+        "evType": "evViewPICOL",
+        "ts": "2020-09-04T17:29:33.157Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "440 SUPERIOR SPRAY OIL | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2020-09-04T17:29:33.949Z"
+    },
+    {
+        "aid": "75c2bc9d73eacaccc3063a79cc2e1f6a4752aeca0715626dbeb07ec888482e8d",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-04T17:29:54.293Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "android,phablet,cordova,capacitor,mobile,hybrid,samsung,SM-N960U,android,10,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-05T06:45:02.542Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-05T06:45:02.677Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-05T06:45:17.258Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2020-09-05T06:45:17.672Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-05T06:45:27.263Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:45:30.464Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:45:36.968Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "53575-32",
+        "evDesc2": "Isomate\u00ae  CM Flex",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2020-09-05T06:45:44.908Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Isomate\u00ae  CM Flex | epa: 53575-32",
+        "evType": "evViewPage",
+        "ts": "2020-09-05T06:45:45.267Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "53575-32",
+        "evDesc2": "Isomate\u00ae  CM Flex",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2020-09-05T06:45:48.229Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:45:50.576Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:46:13.342Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-05T06:46:19.327Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:46:44.710Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:47:43.472Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:47:51.138Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:48:08.681Z"
+    },
+    {
+        "aid": "f1418264e07eb2964ebd5c4b313c26003e413f65a2ced5566e623c32300f1d76",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T06:48:30.242Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "1.0.0 (30)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-05T22:15:51.070Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-05T22:15:51.148Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-05T22:15:53.898Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "Disclaimer",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-05T22:16:00.967Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T22:16:03.330Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T22:16:04.071Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T22:16:04.079Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T22:16:23.898Z"
+    },
+    {
+        "aid": "fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-05T22:16:25.883Z"
+    },
+    {
+        "aid": "97a2efdfb03d440e38fa5eb10438a19904e939f5498e08b09715b97088747ae8",
+        "evDesc1": "1.0.4 (34)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,12.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2020-09-06T23:42:08.053Z"
+    },
+    {
+        "aid": "97a2efdfb03d440e38fa5eb10438a19904e939f5498e08b09715b97088747ae8",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-06T23:42:08.192Z"
+    },
+    {
+        "aid": "97a2efdfb03d440e38fa5eb10438a19904e939f5498e08b09715b97088747ae8",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2020-09-06T23:42:20.158Z"
+    },
+    {
+        "aid": "97a2efdfb03d440e38fa5eb10438a19904e939f5498e08b09715b97088747ae8",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-06T23:42:21.450Z"
+    },
+    {
+        "aid": "97a2efdfb03d440e38fa5eb10438a19904e939f5498e08b09715b97088747ae8",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-06T23:42:33.239Z"
+    },
+    {
+        "aid": "97a2efdfb03d440e38fa5eb10438a19904e939f5498e08b09715b97088747ae8",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-06T23:42:42.570Z"
+    },
+    {
+        "aid": "97a2efdfb03d440e38fa5eb10438a19904e939f5498e08b09715b97088747ae8",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-06T23:42:53.988Z"
+    },
+    {
+        "aid": "97a2efdfb03d440e38fa5eb10438a19904e939f5498e08b09715b97088747ae8",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2020-09-06T23:44:53.423Z"
+    }
+]

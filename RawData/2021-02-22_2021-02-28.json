@@ -1,0 +1,1634 @@
+[
+    {
+        "aid": "c78fb906d69ef53cccdc8d00820d8f5f3490033b6f47d37ee5bccdd4b84ea514",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,samsung,SM-G781U,android,11,android",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-22T00:10:32.097Z"
+    },
+    {
+        "aid": "c78fb906d69ef53cccdc8d00820d8f5f3490033b6f47d37ee5bccdd4b84ea514",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-22T00:10:32.217Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:15:29.928Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERB",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:15:58.172Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP POWER MAX HERB | epa: 524-549",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:15:58.591Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:17:36.071Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:30:40.453Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERB",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-23T00:30:47.112Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:30:50.396Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:31:00.536Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-02-23T00:31:14.199Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-02-23T00:31:18.134Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-537",
+        "evDesc2": "ROUNDUP WEATHER MAX",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:33.244Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP WEATHER MAX | epa: 524-537",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:33.604Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERBICIDE",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:37.600Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP POWER MAX HERBICIDE | epa: 524-549",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:37.947Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERB",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:39.313Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP POWER MAX HERB | epa: 524-549",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:39.662Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-537",
+        "evDesc2": "ROUNDUP WEATHER MAX",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:41.153Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP WEATHER MAX | epa: 524-537",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:41.495Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-537",
+        "evDesc2": "ROUNDUP WEATHER MAX HERBICIDE",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:42.861Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP WEATHER MAX HERBICIDE | epa: 524-537",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:43.216Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERB",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:44.610Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP POWER MAX HERB | epa: 524-549",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:44.986Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-537",
+        "evDesc2": "ROUNDUP WEATHER MAX",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:46.881Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP WEATHER MAX | epa: 524-537",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:47.238Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-537",
+        "evDesc2": "ROUNDUP WEATHER MAX HERBICIDE",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:55.242Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP WEATHER MAX HERBICIDE | epa: 524-537",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:55.580Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-537",
+        "evDesc2": "ROUNDUP WEATHER MAX",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:56.958Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP WEATHER MAX | epa: 524-537",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:57.298Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERBICIDE",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:31:58.554Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP POWER MAX HERBICIDE | epa: 524-549",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:31:58.903Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERB",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:32:00.102Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP POWER MAX HERB | epa: 524-549",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:32:00.452Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERB",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:32:01.590Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP POWER MAX HERB | epa: 524-549",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:32:01.938Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERB",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-23T00:32:16.474Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERB",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-23T00:32:18.036Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:32:19.817Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:32:22.540Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-537",
+        "evDesc2": "ROUNDUP WEATHER MAX",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:32:25.446Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP WEATHER MAX | epa: 524-537",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:32:25.802Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-537",
+        "evDesc2": "ROUNDUP WEATHER MAX",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-23T00:32:27.823Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:32:29.773Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:32:32.270Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERBICIDE",
+        "evDesc3": "roundup",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-23T00:32:35.202Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "ROUNDUP POWER MAX HERBICIDE | epa: 524-549",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T00:32:35.549Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "524-549",
+        "evDesc2": "ROUNDUP POWER MAX HERBICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-23T00:32:37.316Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:32:39.448Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:32:49.701Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:33:51.099Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:42:54.264Z"
+    },
+    {
+        "aid": "825dfc571ddb396e52fac55c4dc6101bb7f51b2aa84b6b7bb840b1caffb2f3b5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T00:42:56.766Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,12.5.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-23T18:38:47.302Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T18:38:48.102Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "Resources",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T18:39:02.456Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T18:39:37.918Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T18:41:19.242Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T18:41:38.540Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T18:41:46.187Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-23T18:41:50.464Z"
+    },
+    {
+        "aid": "3bc48e4ab6cb3166259964f6c5ac5db5cc231997e784a09134130a8fc2403947",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-23T18:41:53.300Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-24T02:17:39.674Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-24T02:17:39.776Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-02-24T02:17:44.549Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2021-02-24T02:17:45.228Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-02-24T02:17:51.673Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-24T02:17:52.772Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-24T02:17:52.856Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-24T02:18:31.791Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-24T02:18:36.768Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-02-24T02:18:57.895Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "352-859",
+        "evDesc2": "DuPONT EXIREL",
+        "evDesc3": "exi",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-24T02:19:36.018Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "DuPONT EXIREL | epa: 352-859",
+        "evType": "evViewPage",
+        "ts": "2021-02-24T02:19:36.616Z"
+    },
+    {
+        "aid": "2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff",
+        "evDesc1": "352-859",
+        "evDesc2": "DuPONT EXIREL",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-24T02:19:38.933Z"
+    },
+    {
+        "aid": "bb8e6c4d87a0c509cffd38c5b725f11459f461bba891a541e4e1fe6b5d4b28d0",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-24T18:24:14.259Z"
+    },
+    {
+        "aid": "bb8e6c4d87a0c509cffd38c5b725f11459f461bba891a541e4e1fe6b5d4b28d0",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-24T18:24:14.349Z"
+    },
+    {
+        "aid": "bb8e6c4d87a0c509cffd38c5b725f11459f461bba891a541e4e1fe6b5d4b28d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-24T18:24:26.719Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-24T18:31:30.776Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-24T18:31:30.848Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-24T18:32:15.912Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-24T18:34:26.189Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-24T18:34:58.244Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-24T18:38:36.492Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-24T18:39:58.582Z"
+    },
+    {
+        "aid": "d587521d14e3c14f230354724e36e9f0a75635f3c6127780052a6f72cfd6b72a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-25T01:18:01.553Z"
+    },
+    {
+        "aid": "c6e9a8d028a1f0bae2e65e3564f583288a692bbfef33aedb628904b9e8a0b2ad",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,phablet,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-25T14:37:29.557Z"
+    },
+    {
+        "aid": "c6e9a8d028a1f0bae2e65e3564f583288a692bbfef33aedb628904b9e8a0b2ad",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-25T14:37:29.800Z"
+    },
+    {
+        "aid": "c6e9a8d028a1f0bae2e65e3564f583288a692bbfef33aedb628904b9e8a0b2ad",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-25T14:38:12.411Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-25T18:36:32.374Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-25T18:36:34.302Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "(46.93801351848208,-119.45272879089681)",
+        "evType": "evStart",
+        "ts": "2021-02-25T23:42:39.121Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-25T23:42:39.213Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-25T23:42:53.063Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-25T23:43:05.103Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-25T23:43:07.085Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-25T23:43:09.980Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-25T23:43:16.957Z"
+    },
+    {
+        "aid": "54e258139f41fd82c7437bf9b57b836af14250749548a7a7eb6474e57b5bd0c2",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-26T01:02:53.101Z"
+    },
+    {
+        "aid": "54e258139f41fd82c7437bf9b57b836af14250749548a7a7eb6474e57b5bd0c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T01:02:53.181Z"
+    },
+    {
+        "aid": "54e258139f41fd82c7437bf9b57b836af14250749548a7a7eb6474e57b5bd0c2",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T01:03:01.493Z"
+    },
+    {
+        "aid": "54e258139f41fd82c7437bf9b57b836af14250749548a7a7eb6474e57b5bd0c2",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T01:03:03.118Z"
+    },
+    {
+        "aid": "54e258139f41fd82c7437bf9b57b836af14250749548a7a7eb6474e57b5bd0c2",
+        "evDesc1": "Resources",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T01:03:05.887Z"
+    },
+    {
+        "aid": "54e258139f41fd82c7437bf9b57b836af14250749548a7a7eb6474e57b5bd0c2",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T01:03:07.005Z"
+    },
+    {
+        "aid": "54e258139f41fd82c7437bf9b57b836af14250749548a7a7eb6474e57b5bd0c2",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T01:03:07.935Z"
+    },
+    {
+        "aid": "54e258139f41fd82c7437bf9b57b836af14250749548a7a7eb6474e57b5bd0c2",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T01:03:08.388Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-26T15:14:34.110Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T15:14:34.372Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T15:16:35.008Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "55467-9",
+        "evDesc2": "BUCCANEER PLUS GLYPHOSATE HERBICIDE",
+        "evDesc3": "her",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-26T15:17:36.963Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es",
+        "evDesc3": "BUCCANEER PLUS GLYPHOSATE HERBICIDE | epa: 55467-9",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T15:17:37.789Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "55467-9",
+        "evDesc2": "BUCCANEER PLUS GLYPHOSATE HERBICIDE",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-26T15:18:16.317Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T15:19:04.545Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T15:19:24.220Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T15:19:33.489Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-26T16:45:10.132Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T16:45:10.202Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T16:46:14.108Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T16:47:37.639Z"
+    },
+    {
+        "aid": "9cc91f326b533adfa408caa26b9162e4b409315fe5a6ff47c87e9a97e8fa8ba5",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T16:49:30.949Z"
+    },
+    {
+        "aid": "161996da6edd9a23d6003095980dfe61d37644f546a9a5bfa4b7813c28639a88",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "android,cordova,capacitor,mobile,hybrid,LGE,LM-G900,android,10,android",
+        "evDesc3": "(46.600562595070016,-120.5672898807157)",
+        "evType": "evStart",
+        "ts": "2021-02-26T16:53:22.272Z"
+    },
+    {
+        "aid": "161996da6edd9a23d6003095980dfe61d37644f546a9a5bfa4b7813c28639a88",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T16:53:22.467Z"
+    },
+    {
+        "aid": "161996da6edd9a23d6003095980dfe61d37644f546a9a5bfa4b7813c28639a88",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T16:53:40.995Z"
+    },
+    {
+        "aid": "d587521d14e3c14f230354724e36e9f0a75635f3c6127780052a6f72cfd6b72a",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T20:48:17.375Z"
+    },
+    {
+        "aid": "d587521d14e3c14f230354724e36e9f0a75635f3c6127780052a6f72cfd6b72a",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T20:48:44.219Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-26T20:49:20.891Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T20:49:20.980Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "More",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T20:49:28.853Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T20:49:33.033Z"
+    },
+    {
+        "aid": "d587521d14e3c14f230354724e36e9f0a75635f3c6127780052a6f72cfd6b72a",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T20:50:05.986Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-26T21:25:15.990Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T21:25:16.067Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-02-26T21:25:40.657Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T21:25:44.153Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "7969-188",
+        "evDesc2": "APOGEE PLANT GROWTH REGULATOR",
+        "evDesc3": "apo",
+        "evType": "evViewPICOL",
+        "ts": "2021-02-26T21:26:16.387Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en",
+        "evDesc3": "APOGEE PLANT GROWTH REGULATOR | epa: 7969-188",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T21:26:17.017Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "7969-188",
+        "evDesc2": "APOGEE PLANT GROWTH REGULATOR",
+        "evDesc3": "PICOL",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-26T21:26:34.004Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-02-26T21:31:20.814Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-02-26T21:31:22.537Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "PICOL Label",
+        "evDesc2": "en=>es",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-02-26T21:31:23.828Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T21:31:40.467Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "kudos",
+        "evType": "evViewHS",
+        "ts": "2021-02-26T21:31:51.608Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T21:31:52.273Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es=>en",
+        "evDesc3": "",
+        "evType": "evLanguageToggle",
+        "ts": "2021-02-26T21:32:31.126Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T21:32:33.776Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T21:32:48.230Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-26T23:43:20.928Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T23:43:21.155Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-02-26T23:43:36.636Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T23:43:37.399Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Assail\u00ae 70WP Insecticide | epa: 8033-23-70506",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-02-26T23:43:47.403Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "8033-23-70506",
+        "evDesc2": "Assail\u00ae 70WP Insecticide",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-26T23:43:52.553Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T23:43:52.785Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T23:46:17.609Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "34704-447",
+        "evDesc2": "Carbaryl 4L",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-02-26T23:46:34.661Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Carbaryl 4L | epa: 34704-447",
+        "evType": "evViewPage",
+        "ts": "2021-02-26T23:46:35.435Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Carbaryl 4L | epa: 34704-447",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-02-26T23:46:46.644Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T23:46:54.981Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T23:47:36.093Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T23:51:16.910Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T23:56:58.116Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-26T23:59:00.469Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:02:10.581Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:02:11.778Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:13:39.429Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "59639-115-66222",
+        "evDesc2": "Pitch\u00ae 35WP",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-02-27T00:13:48.371Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Pitch\u00ae 35WP | epa: 59639-115-66222",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T00:13:49.266Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-27T00:15:25.082Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T00:15:25.185Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:15:48.587Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "62719-541",
+        "evDesc2": "Delegate\u00ae WG",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-02-27T00:15:48.591Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "HS Label",
+        "evDesc2": "en",
+        "evDesc3": "Delegate\u00ae WG | epa: 62719-541",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T00:15:49.258Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Delegate\u00ae WG | epa: 62719-541",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-02-27T00:15:54.249Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:15:55.154Z"
+    },
+    {
+        "aid": "359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:16:32.776Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:19:12.280Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:20:05.173Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T00:20:06.387Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "2935-546",
+        "evDesc2": "440 Superior Spray Oil",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-02-27T00:59:28.736Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "440 Superior Spray Oil | epa: 2935-546",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T00:59:29.628Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HSLabel",
+        "evDesc2": "440 Superior Spray Oil | epa: 2935-546",
+        "evDesc3": "Category: PPE",
+        "evType": "evCategoryOpen",
+        "ts": "2021-02-27T00:59:35.750Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "62719-541",
+        "evDesc2": "Delegate\u00ae WG",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-02-27T00:59:58.144Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "Delegate\u00ae WG | epa: 62719-541",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T00:59:58.782Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HSLabel",
+        "evDesc2": "Delegate\u00ae WG | epa: 62719-541",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-02-27T01:00:03.054Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "62719-541",
+        "evDesc2": "Delegate\u00ae WG",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-27T01:00:04.406Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T01:00:04.502Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T01:00:27.636Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "352-834",
+        "evDesc2": "DuPont\u2122 Fontelis\u00ae FUNGICIDE",
+        "evDesc3": "",
+        "evType": "evViewHS",
+        "ts": "2021-02-27T01:00:35.728Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HS Label",
+        "evDesc2": "es",
+        "evDesc3": "DuPont\u2122 Fontelis\u00ae FUNGICIDE | epa: 352-834",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T01:00:36.624Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HSLabel",
+        "evDesc2": "DuPont\u2122 Fontelis\u00ae FUNGICIDE | epa: 352-834",
+        "evDesc3": "Category: Pesticide Labels",
+        "evType": "evCategoryOpen",
+        "ts": "2021-02-27T01:00:39.972Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "352-834",
+        "evDesc2": "DuPont\u2122 Fontelis\u00ae FUNGICIDE",
+        "evDesc3": "H&S",
+        "evType": "evDownloadLabel",
+        "ts": "2021-02-27T01:00:44.239Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T01:00:44.322Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "inactive => active",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T01:07:52.733Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "HSLabel",
+        "evDesc2": "DuPont\u2122 Fontelis\u00ae FUNGICIDE | epa: 352-834",
+        "evDesc3": "Category: Product Information",
+        "evType": "evCategoryOpen",
+        "ts": "2021-02-27T01:08:08.697Z"
+    },
+    {
+        "aid": "54c62a9aee45b95c1383217fb96d3504eaac6dff4358c4c8148c2539983138d0",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T01:08:24.090Z"
+    },
+    {
+        "aid": "2fd4e62e69b36d3dcef7d2ca723a980d8f0dcdf640109677277f687f5c7b2231",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-27T04:30:27.322Z"
+    },
+    {
+        "aid": "2fd4e62e69b36d3dcef7d2ca723a980d8f0dcdf640109677277f687f5c7b2231",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T04:30:27.496Z"
+    },
+    {
+        "aid": "2fd4e62e69b36d3dcef7d2ca723a980d8f0dcdf640109677277f687f5c7b2231",
+        "evDesc1": "PICOL Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T04:30:40.908Z"
+    },
+    {
+        "aid": "7beabc04dd9f3e93048050b0f5c221f68645e30d799d3cf6c84ad30a338d3b57",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-27T16:57:21.495Z"
+    },
+    {
+        "aid": "7beabc04dd9f3e93048050b0f5c221f68645e30d799d3cf6c84ad30a338d3b57",
+        "evDesc1": "Labels Search",
+        "evDesc2": "es",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-27T16:57:21.576Z"
+    },
+    {
+        "aid": "7beabc04dd9f3e93048050b0f5c221f68645e30d799d3cf6c84ad30a338d3b57",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-27T16:57:39.105Z"
+    },
+    {
+        "aid": "d50c30da0ee07a49262bafd847794cd0625f88031e6983c4f038406e254cab12",
+        "evDesc1": "1.0.7 (38)",
+        "evDesc2": "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",
+        "evDesc3": "n/a",
+        "evType": "evStart",
+        "ts": "2021-02-28T18:28:40.688Z"
+    },
+    {
+        "aid": "d50c30da0ee07a49262bafd847794cd0625f88031e6983c4f038406e254cab12",
+        "evDesc1": "Labels Search",
+        "evDesc2": "en",
+        "evDesc3": "",
+        "evType": "evViewPage",
+        "ts": "2021-02-28T18:28:40.766Z"
+    },
+    {
+        "aid": "d50c30da0ee07a49262bafd847794cd0625f88031e6983c4f038406e254cab12",
+        "evDesc1": "active => inactive",
+        "evDesc2": "",
+        "evDesc3": "",
+        "evType": "evStateChange",
+        "ts": "2021-02-28T18:28:59.879Z"
+    }
+]
