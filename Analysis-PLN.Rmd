@@ -345,7 +345,14 @@ merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 ```
 
 ```{r}
-# SubQuestion #1: What devices are popular or most commonly used on the app? 
+# Objective: To understand the 'Pesticide Labels Now' movile application user audience and their preferences for app utility. 
+
+# Primary Research Question: How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
+```
+
+
+```{r}
+# SubQuestion #1: Which operating systems are utilized to access the application? 
 table(evStart$device_cat)
 
 str(evStart)
@@ -358,15 +365,52 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   geom_bar(stat = "identity", fill = "darkseagreen1", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
   labs(x = "Devices", y = "Count",  
-       title = "Devices Utilized to Access the Application") + 
-  scale_y_continuous(labels(scales::percent)) + 
+       title = "Operating Systems Utilized to Access the Application") + 
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
 
 ```{r}
-# Subquestion #2: What is the average number of labels looked at per session? 
+# SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
+install.packages("breakDown")
+install.packages ("dplyr")
+install.packages("expm")
+
+library("dplyr")
+count_Language <- evViewPage.01 %>%
+  count(evDesc2)
+
+str(evViewPage.01)
+per_data <- evViewPage.01 %>%
+  count(evDesc2) %>% 
+  mutate(per = n / sum(n),
+         per_label = paste0(round(per*100), "%"))
+
+ggplot(per_data, aes(x = reorder(n, -per), y=per)) + 
+  geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
+  geom_text(aes(label=per_label), vjust=-0.25) + 
+  labs(x = "Language", y = "Count",  
+       title = "Frequency of Each Language Accessed on the Application") + 
+  theme_bw() + 
+  scale_x_discrete(labels = c("English", "Spanish"))
+  
+  
+```
+
+```{r}
+#Subquestion #3: What is the relationship between location and utilization of the application? 
+```
+
+
+```{r}
+# Subquestion #4: What is the average number of labels looked at per session? 
 # meet with Dennis regarding codes 
 
+#Notes from Dennis on ‘How to find Number of Labels Search Per User in a Session’:
+# 1. Sort the list by aid 
+# 2. Sort by time stamp (not that it matters)
+# 3. Iterate through the list from (1) evStart 
+# 4. Set up a counter - evViewHS , from one evStart to the next evStart 
 ```
+
 
