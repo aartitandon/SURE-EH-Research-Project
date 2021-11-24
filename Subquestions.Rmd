@@ -381,7 +381,7 @@ count_Language <- evViewPage.01 %>%
   count(evDesc2)
 
 str(evViewPage.01)
-per_data <- evViewPage.01 %>%
+per_data(2) <- evViewPage.01 %>%
   count(evDesc2) %>% 
   mutate(per = n / sum(n),
          per_label = paste0(round(per*100), "%"))
@@ -393,12 +393,103 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
        title = "Frequency of Each Language Accessed on the Application") + 
   theme_bw() + 
   scale_x_discrete(labels = c("English", "Spanish"))
-  
-  
 ```
 
 ```{r}
+# Subquestion 1 + 2 Combined 
+
+install.packages("tidyr")
+library(tidyr)
+
+device_cat_aid <- unique(evStart[ , c("aid", "device_cat")])
+aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid") 
+
+table(aid_device_language$evDesc2, aid_device_language$device_cat) 
+
+#With percentage labels 
+#https://stackoverflow.com/questions/68848650/create-percentage-labels-for-two-discrete-variables-in-ggplot-2
+ggplot(aid_device_language, aes(x=evDesc2)) + 
+  geom_bar(aes(y = 2*(..count..)/sum(..count..), fill = device_cat, group=device_cat), stat="count") +
+  geom_label(aes(label = scales::percent(2*(..count..)/sum(..count..)),
+                  group = device_cat), position = "fill", stat= "count", vjust = 0) +
+  labs(y = "Percent", fill="device_cat") +
+  scale_y_continuous(labels = scales::percent)
+  
+#-------------------------------------------------------------------------------------------------------
+
+#Attempt 2: with percentage labels 
+ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
+   labs(title = "Frequency of Different Languages by Device", 
+       x = "Language", 
+       y = "Percentage") +
+      scale_x_discrete(labels = c("English", "Spanish")) + 
+      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone",         "Pixel        3a: Android 10")) + 
+        geom_text(data = aid_device_language %>% 
+              group_by(evDesc2, device_cat) %>%
+              tally() %>%
+              mutate(p = n / sum(n)) %>%
+              ungroup(),
+            aes(y = p, label = scales::percent(p)),
+            position = position_stack(vjust = 0.5),
+            show.legend = FALSE)
+#Option 1: figure how to add 'Pixel 3a: Android 10' to android category 
+#Option 2: Remove 'Pixel 3a: Android 10' from dataset 
+# Where is 'NA' coming from? 
+
+#-------------------------------------------------------------------------------------------------------
+
+#Without percentage labels 
+ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
+   labs(title = "Frequency of Different Languages by Device", 
+       x = "Language", 
+       y = "Percentage") +
+      scale_x_discrete(labels = c("English", "Spanish")) + 
+      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a:             Android 10")) 
+
+```
+
+
+```{r}
 #Subquestion #3: What is the relationship between location and utilization of the application? 
+
+install.packages("usmap")
+install.packages("ggplot2")
+
+#evStart provides latitude and longitude of MOST USERS 
+#1. remove variables that have "NA" for their latitude and longitude 
+evStart.location <- evStart[!(evStart$lat=="n/a" | evStart$lat=="NaN"),]
+evStart.location.1 <- subset(evStart.location, select = -c(aid, evDesc1, evDesc2, evDesc3, evType, ts, device_cat))
+
+#interactive map? 
+install.packages("leaflet")
+install.packages("dplyr")
+
+leaflet()%>%addTiles()
+leaflet()%>%addTiles()%>%addCircleMarkers(data=evStart.location.1, lat= ~lat, lng = ~lon)
+# ERROR: "addCirclMarkers requires numeric longitude/latitude values" 
+
+#-------------------------------------------------------------------------------------------------------
+
+#united states map 
+install.packages("usmap")
+install.packages("maptools")
+install.packages("rgdal")
+library(maptools)
+library("rgdal")
+
+transformed_data <-  usmap_transform(evStart.location.1)
+
+library(usmap)
+plot_usmap("states") + 
+  geom_point(data = transformed_data, 
+  aes(x=lon.1, y=lat.1),
+  color="red",
+  size=3)
+# ERROR: "addCircleMarkers requires numeric longitude/latitude values" 
 ```
 
 
@@ -453,6 +544,9 @@ ggplot(evStart.aid.ts, aes(x = ts, y = aid))+
        title = "Time-Series Calendar Heatmap", 
        subtitle="Potato Price", 
        fill="Price")
+       
+# Attempt 4 
+
 ```
 
 
