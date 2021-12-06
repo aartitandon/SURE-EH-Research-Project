@@ -3,18 +3,18 @@ title: "Pesticide Labels Now Report"
 subtitle: "Draft"
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
-    latex_engine: xelatex
+  md_document:
     toc: yes
-    toc_depth: 4
   html_document:
     code_folding: hide
     self_contained: yes
     toc: no
     toc_depth: 4
     toc_float: yes
-  md_document:
+  pdf_document:
+    latex_engine: xelatex
     toc: yes
+    toc_depth: 4
   word_document:
     toc: yes
     toc_depth: '4'
@@ -29,7 +29,7 @@ pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, sum
 
 ```
 
-```{r setup, include=F, results='asis'}
+```{r setup, include=F, results='asis', eval = F}
 
 st_options(plain.ascii = F, # Always use this option in Rmd documents
 style        = "rmarkdown", # Always use this option in Rmd documents
@@ -178,6 +178,8 @@ General  view + links
 ## evDownload.01
 
 ```{r evDownload-summary, warning=F, message=F, echo=F, results='asis'}
+install.packages("frequency")
+library("frequency")
 
 print(freq(evDownload.01$prodName, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
 
@@ -418,14 +420,14 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
 #-------------------------------------------------------------------------------------------------------
 
 #Attempt 2: with percentage labels 
-ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
+ggplot(data = aid_device_language, na.rm = TRUE, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
   scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
    labs(title = "Frequency of Different Languages by Device", 
        x = "Language", 
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) + 
-      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone",         "Pixel        3a: Android 10")) + 
+      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone","Pixel        3a:         Android 10")) +     
         geom_text(data = aid_device_language %>% 
               group_by(evDesc2, device_cat) %>%
               tally() %>%
@@ -434,7 +436,11 @@ ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) +
             aes(y = p, label = scales::percent(p)),
             position = position_stack(vjust = 0.5),
             show.legend = FALSE)
+            
 #Option 1: figure how to add 'Pixel 3a: Android 10' to android category 
+# -- create a new variable
+# -- ggplot(ignore NA)
+
 #Option 2: Remove 'Pixel 3a: Android 10' from dataset 
 # Where is 'NA' coming from? 
 
@@ -464,12 +470,15 @@ install.packages("ggplot2")
 evStart.location <- evStart[!(evStart$lat=="n/a" | evStart$lat=="NaN"),]
 evStart.location.1 <- subset(evStart.location, select = -c(aid, evDesc1, evDesc2, evDesc3, evType, ts, device_cat))
 
+
 #interactive map? 
 install.packages("leaflet")
 install.packages("dplyr")
 
 leaflet()%>%addTiles()
 leaflet()%>%addTiles()%>%addCircleMarkers(data=evStart.location.1, lat= ~lat, lng = ~lon)
+
+
 # ERROR: "addCirclMarkers requires numeric longitude/latitude values" 
 
 #-------------------------------------------------------------------------------------------------------
