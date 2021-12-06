@@ -265,6 +265,8 @@ gps$lon <- as.numeric(gps$lon)
 pln_sf <- gps %>% st_as_sf(coords = c("lon","lat"), crs=4326)
 pln_sf_t <- st_transform(pln_sf, crs=2163)
 
+install.packages("urbnmapr")
+library(urbnmapr)
 states_sf <- get_urbn_map(map = "states", sf = T)
 
 #Plot for US sessions
@@ -345,6 +347,27 @@ ignores <- read.csv("ignores.csv")
 merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 ```
 ```
+```{r}
+# creating sessions 
+# Goal: 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
+
+install.packages("dplyr")
+library("dplyr")
+install.packages("lubridate")
+library("lubridate")
+
+#filter merged.csv from aid's first "evStart" to the next "evStart"
+merged.csv.dedup <- unique(merged.csv)
+
+x <- merged.csv.dedup %>% 
+  group_by(sessionid = cumsum(evType == 'evStart')) %>% 
+  mutate(sessioneventno = row_number())
+# Problem with the code... look at line 1451, 1663 or 4052 (happens VERY rarely)
+# the code restarts the counter every time there is an evStart, however, if there are multiple users utilizing the app at the same time, the session ids and their actions are not distinguished 
+# Solution: remove evType of statechange? I believe active-->nonactive & nonactive-->active is ruining results... actually maybe not 
+```
+
+
 
 ```{r}
 # Objective: To understand the 'Pesticide Labels Now' movile application user audience and their preferences for app utility. 
