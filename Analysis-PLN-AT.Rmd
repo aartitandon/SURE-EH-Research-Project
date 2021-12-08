@@ -741,7 +741,7 @@ table(jointdataset$device_cat.x, jointdataset$evDesc2.x)
 ```
 
 ```{r}
-# Table 2. Percent of ¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ sessions by operating system and languageb and operating system.
+# Scratch Work for Table 2 
 
 # New dateframe sorting evViewPage.01's unique aid and language, but how do I do time? 
 unique.evViewPage <- unique(evViewPage.01[ , c("aid", "evDesc2", "ts")])
@@ -794,7 +794,20 @@ table(dos$evDesc2)
 # filter when counter = 2 
 # to determine how long their session is: the countup would reach up till the next session? 
 # order data consequentially, everytime u see evStart give it a new number 
-# 
+#
+```
+
+
+```{r}
+# Table 2a. Percent of ¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ sessions by language.
+install.packages("dplyr")
+library(dplyr)
+install.packages("stringr")
+library(stringr)
+
+uniquesessionid <- filter(x, (str_detect(evType, 'evViewPage'))) %>% 
+  distinct_at(vars(sessionid), .keep_all = TRUE) 
+table(uniquesessionid$evDesc2)
 
 ```
 
