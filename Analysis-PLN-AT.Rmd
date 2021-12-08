@@ -741,7 +741,7 @@ table(jointdataset$device_cat.x, jointdataset$evDesc2.x)
 ```
 
 ```{r}
-# Table 2. Percent of ¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ sessions by operating system and languageb and operating system.
+# Scratch Work for Table 2 
 
 # New dateframe sorting evViewPage.01's unique aid and language, but how do I do time? 
 unique.evViewPage <- unique(evViewPage.01[ , c("aid", "evDesc2", "ts")])
@@ -794,8 +794,25 @@ table(dos$evDesc2)
 # filter when counter = 2 
 # to determine how long their session is: the countup would reach up till the next session? 
 # order data consequentially, everytime u see evStart give it a new number 
-# 
+#
+```
 
+
+```{r}
+# Table 2a. Percent of ¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ sessions by language.
+install.packages("dplyr")
+library(dplyr)
+install.packages("stringr")
+library(stringr)
+
+uniquesession_evstart <- filter(x, str_detect(evType, 'evStart')) %>% 
+  distinct_at(vars(sessionid), .keep_all = TRUE) 
+# here we get 1327 sessions
+
+uniquesession_vp <- filter(x, (str_detect(evType, 'evViewPage'))) %>% 
+  distinct_at(vars(sessionid), .keep_all = TRUE) 
+# here we get 1325 sessions because there is not 1327 evViewPage records displaying the language
+table(uniquesession_vp$evDesc2)
 ```
 
 ```{r}
@@ -862,8 +879,21 @@ aid.languagetoggle <- alltoggles %>%
 table7 <- aid.languagetoggle %>%
   group_by(evDesc2) %>%
   tally(sort=T)
+```
+
+```{r}
+# Table 7a Alternate. Who is more likely to use the language toggle, primary Spanish or English speakers?  
+install.packages("dplyr")
+library(dplyr)
+install.packages("stringr")
+library(stringr)
+
+uniquesession_lt <- filter(x, (str_detect(evType, 'evLanguageToggle'))) %>% 
+  distinct_at(vars(sessionid), .keep_all = TRUE) 
+table(uniquesession_lt$evDesc2)
 
 ```
+
 
 ```{r}
 # New Chunk for Table 1 
