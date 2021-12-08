@@ -813,6 +813,7 @@ uniquesession_vp <- filter(x, (str_detect(evType, 'evViewPage'))) %>%
   distinct_at(vars(sessionid), .keep_all = TRUE) 
 # here we get 1325 sessions because there is not 1327 evViewPage records displaying the language
 table(uniquesession_vp$evDesc2)
+
 ```
 
 ```{r}
