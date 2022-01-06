@@ -365,6 +365,9 @@ x <- merged.csv.dedup %>%
 # Problem with the code... look at line 1451, 1663 or 4052 (happens VERY rarely)
 # the code restarts the counter every time there is an evStart, however, if there are multiple users utilizing the app at the same time, the session ids and their actions are not distinguished 
 # Solution: remove evType of statechange? I believe active-->nonactive & nonactive-->active is ruining results... actually maybe not 
+
+x$ts <- ymd_hms(x$ts)
+
 ```
 
 
@@ -536,49 +539,68 @@ plot_usmap("states") +
 # 4. Set up a counter - evViewHS , from one evStart to the next evStart 
 ```
 
+
 ```{r}
-# Heatmap 
-
-# Attempt 2 
-# (x = time spent on app per individual, y = 503 users )
+# Heatmap
+install.packages("data.table")
+library(data.table)
 install.packages("dplyr")
-install.packages("str_detect")
-
-device <- filter(merged.csv, (str_detect(evDesc2, 'Pixel|iphone|ipad|android'))) %>% 
-  distinct_at(vars(aid), .keep_all = TRUE) 
-
-unique.aid.time <- device %>%
-  distinct_at(vars(aid), .keep_all = TRUE) 
-unique.aid.time <- unique.aid.time %>% 
-  select(aid, ts, device_cat)
-  
-  
-ggplot(unique.aid.time, aes(x=aid, y=ts)) + 
-  geom_tile() + 
-  scale_fill_gradient(low="white", high="darkgreen", name="=Legend")
-  
-# Attempt 3
-# compare user usage of each month 
-# x = months, y = users (evStart)
-
-evStart.aid.ts <- evStart %>% 
-  select(aid, ts)
+library(dplyr)
+install.packages("ggplot2")
+library(ggplot2)
 install.packages("lubridate")
-library("lubridate")
-evStart.aid.ts$ts <- ymd_hms(evStart.aid.ts$ts)
+library(lubridate)
 
-ggplot(evStart.aid.ts, aes(x = ts, y = aid))+
+setDT(x)
+y <- x[ , .(session_start = min(ts), session_end = max(ts), num_occurance = .N), by = sessionid]
+
+#'session time' column is added 
+y$sessiontime <- ymd_hms(y$session_end) - ymd_hms(y$session_start)
+
+#reason why heat map is not working?
+# y$date <- format(as.Date(y$session_start), "%Y-%m")
+# str(y$date)
+
+#heatmap attempt 1
+#(x=sessionid, y=num_occurance)
+ggplot(y, aes(x=sessionid, y=num_occurance)) + 
+  geom_tile(colour = "white") + 
+  scale_fill_gradient(low="red", high="darkgreen", name="=Legend")
+
+# heatmap attempt 2 (does not work, come back to later)
+# https://stackoverflow.com/questions/60644031/time-series-heat-map
+ggplot(y, aes(x = date, y = num_occurance, fill = sessiontime))+
   geom_tile()+
   scale_x_date(date_labels = "%b %Y")+
   scale_fill_gradient(low="red", high="green") +
-  labs(x="Week of Month",
+  labs(x="Month and Year",
        y="",
        title = "Time-Series Calendar Heatmap", 
-       subtitle="Potato Price", 
-       fill="Price")
-       
-# Attempt 4 
+       subtitle="--", 
+       fill="--")
+```
 
+```{r}
+# heatmap attempt 3 (WORKS!)
+# x=day, y=month, fill="activity"/number of occurances
+
+library(lubridate)
+
+y$month <- month(y$session_start)
+y$day <- day(y$session_start)
+y$hour <- hour(y$session_start)
+
+ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
+  labs(x="Day of the Month",
+       y="Month",
+       title = "Time-Series Calendar Heatmap", 
+       fill="Activity of the User")
+```
+
+```{r}
+# heat map attempt 4 
+#... how to do with sessiontime? 
+ggplot(y, aes(x=sessionid, y=sessiontime)) + geom_tile(aes(fill=num_occurance))
 ```
 
 
