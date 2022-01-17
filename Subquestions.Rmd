@@ -3,18 +3,18 @@ title: "Pesticide Labels Now Report"
 subtitle: "Draft"
 date: "`r Sys.Date()`"
 output:
-  md_document:
+  pdf_document:
+    latex_engine: xelatex
     toc: yes
+    toc_depth: 4
   html_document:
     code_folding: hide
     self_contained: yes
     toc: no
     toc_depth: 4
     toc_float: yes
-  pdf_document:
-    latex_engine: xelatex
+  md_document:
     toc: yes
-    toc_depth: 4
   word_document:
     toc: yes
     toc_depth: '4'
@@ -589,6 +589,7 @@ library(lubridate)
 y$month <- month(y$session_start)
 y$day <- day(y$session_start)
 y$hour <- hour(y$session_start)
+y$week <- week(y$session_start)
 
 ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
   labs(x="Day of the Month",
@@ -598,9 +599,44 @@ ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
 ```
 
 ```{r}
-# heat map attempt 4 
-#... how to do with sessiontime? 
-ggplot(y, aes(x=sessionid, y=sessiontime)) + geom_tile(aes(fill=num_occurance))
+# heatmap attempt 4 (WORKS!)
+# x=hour of the day, y=day of the month, fill="activity"/number of occurances
+ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
+  labs(x="Hour of The Day",
+       y="Day of the Month",
+       title = "Time-Series Calendar Heatmap", 
+       fill="Activity of the User")
+```
+
+```{r}
+# heatmap attempt 5 (WORKS!)
+# x=week of the year, y=month, fill="activity"/number of occurances
+ggplot(y, aes(x=week, y=month)) + geom_tile(aes(fill=num_occurance)) + 
+ labs(x="Week of the Year",
+       y="Month",
+       title = "Time-Series Calendar Heatmap", 
+       fill="Activity of the User")
+```
+
+```{r}
+# heatmap attempt 6 
+# #... how to do with sessiontime?
+# Hi Eddie, I am struggling to remove seconds from the 'sessiontime' column in the 'y' dataframe... do you have any suggestions? 
+```
+
+```{r}
+#heatmap attempt 7 
+# https://www.r-graph-gallery.com/283-the-hourly-heatmap.html
+install.packages("ggplot2")
+library(ggplot2)
+library(dplyr) #easier data wrangling 
+library(viridis) #colour blind friendly palette, works in B&W also
+library(Interpol.T) # will generate a large dataset on initial load
+library(lubridate) #for easy date manipulation
+library(ggExtra) #because remembering ggplot theme options is beyond me
+library(tidyr) 
+
+
 ```
 
 
