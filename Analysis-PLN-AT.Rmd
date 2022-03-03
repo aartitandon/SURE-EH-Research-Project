@@ -942,3 +942,8 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
   
 ```
 
+```{r}
+# how to count all values in a certain column 
+
+```
+

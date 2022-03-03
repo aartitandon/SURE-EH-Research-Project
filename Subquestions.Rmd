@@ -3,18 +3,18 @@ title: "Pesticide Labels Now Report"
 subtitle: "Draft"
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
-    latex_engine: xelatex
+  md_document:
     toc: yes
-    toc_depth: 4
   html_document:
     code_folding: hide
     self_contained: yes
     toc: no
     toc_depth: 4
     toc_float: yes
-  md_document:
+  pdf_document:
+    latex_engine: xelatex
     toc: yes
+    toc_depth: 4
   word_document:
     toc: yes
     toc_depth: '4'
@@ -266,6 +266,7 @@ pln_sf <- gps %>% st_as_sf(coords = c("lon","lat"), crs=4326)
 pln_sf_t <- st_transform(pln_sf, crs=2163)
 
 install.packages("urbnmapr")
+# the problem lies here
 library(urbnmapr)
 states_sf <- get_urbn_map(map = "states", sf = T)
 
@@ -284,6 +285,13 @@ ggplot() +
 ```{r user-map-wa, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 #Plot for WA sessions
+install.packages("urbnmapr")
+devtools::install_github("UrbanInstitute/urbnmapr")
+
+install.packages("devtools")
+library(devtools)
+devtools::install_github("UrbanInstitute/urbnmapr")
+library(urbnmapr)
 
 counties_sf <- get_urbn_map(map = "counties", sf = T)
 
@@ -446,14 +454,14 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
 #-------------------------------------------------------------------------------------------------------
 
 #Attempt 2: with percentage labels 
-ggplot(data = aid_device_language, na.rm = TRUE, aes(x = evDesc2, fill = device_cat)) + 
+ggplot(data = aid_device_language2, na.rm = TRUE, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
   scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
    labs(title = "Frequency of Different Languages by Device", 
        x = "Language", 
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) + 
-      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone","Pixel        3a:         Android 10")) +     
+      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone","Pixel:Android 10")) +     
         geom_text(data = aid_device_language %>% 
               group_by(evDesc2, device_cat) %>%
               tally() %>%
@@ -473,6 +481,35 @@ ggplot(data = aid_device_language, na.rm = TRUE, aes(x = evDesc2, fill = device_
 #-------------------------------------------------------------------------------------------------------
 
 #Without percentage labels 
+install.packages("car")
+library(car)
+aid_device_language2 <- aid_device_language
+aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('iphone') = 'iOS'")
+aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('ipad') = 'iOS'")
+aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('android') = 'Android'")
+aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('Pixel 3a: Android 10') = 'android'")
+#aid_device_language2$device_cat <- case_when(aid_device_language2$device_cat == "Pixel 3a: Android 10" ~ "android", TRUE ~ NA)
+
+aid_device_language2 <- filter(aid_device_language2, !is.na(device_cat))
+
+aid_device_language2 <- filter(aid_device_language2, !is.na(evDesc2))
+
+which(is.na(aid_device_language2), arr.ind=TRUE)
+
+
+ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
+   labs(title = "Frequency of Different Languages by Device", 
+       x = "Language", 
+       y = "Percentage") +
+      scale_x_discrete(labels = c("English", "Spanish")) +
+      scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
+    
+  filter(flights, !is.na(delay_class)) %>%
+  
+#-------------------------------------------------------------------------------------------------------
+#Original 
 ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
   scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
@@ -480,7 +517,7 @@ ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) +
        x = "Language", 
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) + 
-      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a:             Android 10")) 
+      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10")) 
 
 ```
 
@@ -556,28 +593,9 @@ y <- x[ , .(session_start = min(ts), session_end = max(ts), num_occurance = .N),
 
 #'session time' column is added 
 y$sessiontime <- ymd_hms(y$session_end) - ymd_hms(y$session_start)
+y$sessiontime2 <- as.double(y$sessiontime)
+y$sessiontimemin <- y$sessiontime2/60
 
-#reason why heat map is not working?
-# y$date <- format(as.Date(y$session_start), "%Y-%m")
-# str(y$date)
-
-#heatmap attempt 1
-#(x=sessionid, y=num_occurance)
-ggplot(y, aes(x=sessionid, y=num_occurance)) + 
-  geom_tile(colour = "white") + 
-  scale_fill_gradient(low="red", high="darkgreen", name="=Legend")
-
-# heatmap attempt 2 (does not work, come back to later)
-# https://stackoverflow.com/questions/60644031/time-series-heat-map
-ggplot(y, aes(x = date, y = num_occurance, fill = sessiontime))+
-  geom_tile()+
-  scale_x_date(date_labels = "%b %Y")+
-  scale_fill_gradient(low="red", high="green") +
-  labs(x="Month and Year",
-       y="",
-       title = "Time-Series Calendar Heatmap", 
-       subtitle="--", 
-       fill="--")
 ```
 
 ```{r}
@@ -585,11 +603,13 @@ ggplot(y, aes(x = date, y = num_occurance, fill = sessiontime))+
 # x=day, y=month, fill="activity"/number of occurances
 
 library(lubridate)
-
-y$month <- month(y$session_start)
-y$day <- day(y$session_start)
 y$hour <- hour(y$session_start)
+y$day <- day(y$session_start)
 y$week <- week(y$session_start)
+y$month <- month(y$session_start)
+y$month <- month.abb[as.numeric(y$month)]
+# (the line above converts month number to month name)
+y$year <- year(y$session_start)
 
 ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
   labs(x="Day of the Month",
@@ -608,35 +628,138 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
 ```
 
+
 ```{r}
-# heatmap attempt 5 (WORKS!)
-# x=week of the year, y=month, fill="activity"/number of occurances
-ggplot(y, aes(x=week, y=month)) + geom_tile(aes(fill=num_occurance)) + 
- labs(x="Week of the Year",
+# heatmap attempt 6 (this is the one included in the poster)
+# sessiontime is done in seconds here 
+
+ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=sessiontimemin)) + 
+ labs(x="Day of the Month",
        y="Month",
        title = "Time-Series Calendar Heatmap", 
-       fill="Activity of the User")
+       fill="Session Time (minutes)")
 ```
 
 ```{r}
-# heatmap attempt 6 
-# #... how to do with sessiontime?
-# Hi Eddie, I am struggling to remove seconds from the 'sessiontime' column in the 'y' dataframe... do you have any suggestions? 
-```
+#heatmap attempt 7 (WORKS!)
+# (https://www.r-graph-gallery.com/283-the-hourly-heatmap.html)
+# Analyzes all 503 sessions... what day, time, and month 
 
-```{r}
-#heatmap attempt 7 
-# https://www.r-graph-gallery.com/283-the-hourly-heatmap.html
 install.packages("ggplot2")
 library(ggplot2)
+install.packages("dplyr")
 library(dplyr) #easier data wrangling 
+install.packages("viridis")
 library(viridis) #colour blind friendly palette, works in B&W also
+install.packages("Interpol.T")
 library(Interpol.T) # will generate a large dataset on initial load
+install.packages("lubridate")
 library(lubridate) #for easy date manipulation
+install.packages("ggExtra")
 library(ggExtra) #because remembering ggplot theme options is beyond me
+install.packages("tidyr")
 library(tidyr) 
 
+df <-y %>% select(sessionid,day,hour,month,year)
+p <-ggplot(df,aes(day,hour))+
+  geom_tile(color= "white",size=0.1) + 
+  scale_fill_viridis(name="Hrly Temps C",option ="C")
+p <-p + facet_grid(year~month)
+p <-p + scale_y_continuous(trans = "reverse", breaks = unique(df$hour))
+p <-p + scale_x_continuous(breaks =c(1,10,20,31))
+p <-p + theme_minimal(base_size = 8)
+p <-p + labs(title= paste("Session Analytics"), x="Day of the Month", y="Hour Commencing")
+p <-p + theme(legend.position = "bottom")+
+  theme(plot.title=element_text(size = 14))+
+  theme(axis.text.y=element_text(size=6)) +
+  theme(strip.background = element_rect(colour="white"))+
+  theme(plot.title=element_text(hjust=0))+
+  theme(axis.ticks=element_blank())+
+  theme(axis.text=element_text(size=7))+
+  theme(legend.title=element_text(size=8))+
+  theme(legend.text=element_text(size=6))
+p
+```
+
+```{r}
+# heatmap attempt 
+install.packages("ggplot2")
+library(ggplot2)
+install.packages("dplyr")
+library(dplyr) #easier data wrangling 
+install.packages("viridis")
+library(viridis) #colour blind friendly palette, works in B&W also
+install.packages("Interpol.T")
+library(Interpol.T) # will generate a large dataset on initial load
+install.packages("lubridate")
+library(lubridate) #for easy date manipulation
+install.packages("ggExtra")
+library(ggExtra) #because remembering ggplot theme options is beyond me
+install.packages("tidyr")
+library(tidyr) 
+
+df <-y %>% select(sessionid,day,hour,month,year) %>% fill(sessiontime2)
+p <-ggplot(df,aes(day,hour, fill=sessiontime2))+
+  geom_tile(color= "white",size=0.1) + 
+  scale_fill_viridis(name="Hrly Temps C",option ="C")
+p <-p + facet_grid(year~month)
+p <-p + scale_y_continuous(trans = "reverse", breaks = unique(df$hour))
+p <-p + scale_x_continuous(breaks =c(1,10,20,31))
+p <-p + theme_minimal(base_size = 8)
+p <-p + labs(title= paste("Session Analytics"), x="Day of the Month", y="Hour Commencing")
+p <-p + theme(legend.position = "bottom")+
+  theme(plot.title=element_text(size = 14))+
+  theme(axis.text.y=element_text(size=6)) +
+  theme(strip.background = element_rect(colour="white"))+
+  theme(plot.title=element_text(hjust=0))+
+  theme(axis.ticks=element_blank())+
+  theme(axis.text=element_text(size=7))+
+  theme(legend.title=element_text(size=8))+
+  theme(legend.text=element_text(size=6))
+p
+```
+
+```{r}
+# cumulative distribution plot
+# https://rpubs.com/tgjohnst/cumulative_plotting
+# https://stackoverflow.com/questions/66471218/plotting-a-cumulative-frequency-curve-on-a-histogram-in-r
 
 ```
 
+```{r}
+# Average session duration 
+sum(y$sessiontime)
+(7179658/60)
+119661/1328
+#90.11
+```
+
+```{r user-map-wa, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+
+#Plot for WA sessions
+
+install.packages("urbnmapr")
+library(urbnmapr)
+
+counties_sf <- get_urbn_map(map = "counties", sf = T)
+
+pln_sf_t <- st_transform(pln_sf, crs=2285)
+counties_sf_t <- st_transform(counties_sf, crs=2285)
+
+t <- counties_sf_t %>%
+  filter(state_name == "Washington")
+
+ggplot() + 
+  geom_sf(data = pln_sf_t, color="red", size=1) + 
+  geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
+  coord_sf(datum = st_crs(2285)) +
+  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
+    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
+
+# https://spatialreference.org/ref/epsg/?search=washington&srtext=Search
+
+# https://www.nceas.ucsb.edu/sites/default/files/2020-04/OverviewCoordinateReferenceSystems.pdf
+
+#+ annotation_scale(location = "bl") + annotation_north_arrow(location = "bl", which_north = "true", style = north_arrow_fancy_orienteering)
+```
 
