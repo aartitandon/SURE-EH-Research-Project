@@ -3,18 +3,18 @@ title: "Pesticide Labels Now Report"
 subtitle: "Draft"
 date: "`r Sys.Date()`"
 output:
-  md_document:
+  pdf_document:
+    latex_engine: xelatex
     toc: yes
+    toc_depth: 4
   html_document:
     code_folding: hide
     self_contained: yes
     toc: no
     toc_depth: 4
     toc_float: yes
-  pdf_document:
-    latex_engine: xelatex
+  md_document:
     toc: yes
-    toc_depth: 4
   word_document:
     toc: yes
     toc_depth: '4'
@@ -25,7 +25,7 @@ editor_options:
 ```{r packages, warning=F, message=F, echo=F, results=F}
 
 if(!require(pacman)) {install.packages("pacman")}
-pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr)
+pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm)
 
 ```
 
@@ -177,7 +177,7 @@ General  view + links
 
 ## evDownload.01
 
-```{r evDownload-summary, warning=F, message=F, echo=F, results='asis'}
+```{r evDownload-summary, eval=F, warning=F, message=F, echo=F, results='asis'}
 install.packages("frequency")
 library("frequency")
 
@@ -195,7 +195,7 @@ print(freq(evDownload.01$evType, report.nas = F, totals = T, cumul = F, headings
 
 ## evStart
 
-```{r evStart-summary, warning=F, message=F, echo=F, results='asis'}
+```{r evStart-summary, eval=F, warning=F, message=F, echo=F, results='asis'}
 
 print(freq(evStart$evDesc1, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
 
@@ -226,7 +226,7 @@ print(freq(evStart.unique.device$device_cat, report.nas = F, totals = T, cumul =
 
 ## evViewPage.01
 
-```{r evViewPage-summary, warning=F, message=F, echo=F, results='asis'}
+```{r evViewPage-summary, eval=F, warning=F, message=F, echo=F, results='asis'}
 
 print(freq(evViewPage.01$evDesc1, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
 
@@ -308,6 +308,59 @@ ggplot() +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 
+#-------------------------------------------------------------------------------------------
+
+library(ggplot2)
+library(dplyr, warn.conflicts = FALSE)
+# install.packages("devtools")
+devtools::install_github("yutannihilation/ggsflabel")
+library(ggsflabel, warn.conflicts = FALSE)
+install.packages("tigris")
+library(tigris, warn.conflicts = FALSE)
+
+wa_state <- states(cb = TRUE, class = "sf") %>% 
+  filter(NAME == "Washington")
+
+wa_county <- counties(state = "WA", cb = TRUE, class = "sf")
+
+wa_study_counties <- wa_county 
+
+wa_study_counties <- wa_county %>% 
+  filter(NAME %in% c("Mason", "Chelan", "King"))
+
+wa_study_counties %>% 
+  ggplot() +
+  geom_sf(fill = "gray") +
+  geom_sf(data = wa_state, fill = NA) +
+  geom_sf_label_repel(aes(label = NAME), force = 50) +
+  theme_void()
+
+
+  ggplot() + 
+  geom_sf(data = pln_sf_t, color="red", size=1) + 
+  geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
+  geom_sf(data = wa_county, fill = NA) +
+  geom_sf_label_repel(data = wa_study_counties, aes(label = NAME), force = 50) +
+  coord_sf(datum = st_crs(2285)) +
+  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
+    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
+  
+  #take out connector line
+  #look at dots, every place there is a red dot, include county name
+  
+#-------------------------------------------------------------------------------------------
+wa_study_counties <- wa_county %>% 
+  filter(NAMELSAD %in% c("King County"))
+  
+ ggplot() + 
+  geom_sf(data = pln_sf_t, color="red", size=1) + 
+  geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
+  geom_sf(data = wa_county, fill = NA) +
+  geom_sf_label_repel(data = wa_study_counties, aes(label = NAMELSAD), force = 50) +
+  coord_sf(datum = st_crs(2285)) +
+  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
+    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
+
 # https://spatialreference.org/ref/epsg/?search=washington&srtext=Search
 
 # https://www.nceas.ucsb.edu/sites/default/files/2020-04/OverviewCoordinateReferenceSystems.pdf
@@ -333,7 +386,7 @@ ggplot() +
 
 # Dataframe summaries
 
-```{r summary, warning=F, message=F, echo=F}
+```{r summary, eval=F, warning=F, message=F, echo=F}
 
 print(dfSummary(evDownload.01), method = "render")
 print(dfSummary(evStart), method = "render")
@@ -387,9 +440,8 @@ x$ts <- ymd_hms(x$ts)
 ```
 
 
-```{r}
+```{r, eval=F}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
-table(evStart$device_cat)
 
 str(evStart)
 per_data <- evStart %>%
@@ -406,19 +458,25 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
 
-```{r}
+
+```{r, eval=F}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
-install.packages("breakDown")
-install.packages ("dplyr")
-install.packages("expm")
 
 library("dplyr")
 count_Language <- evViewPage.01 %>%
   count(evDesc2)
 
+library(tidyverse)
+
 str(evViewPage.01)
-per_data(2) <- evViewPage.01 %>%
-  count(evDesc2) %>% 
+#per_data(2) <- evViewPage.01 %>%
+  #count(evDesc2) %>% 
+  #mutate(per = n / sum(n),
+         #per_label = paste0(round(per*100), "%"))
+
+str(evStart)
+per_data <- evStart %>%
+  count(device_cat) %>% 
   mutate(per = n / sum(n),
          per_label = paste0(round(per*100), "%"))
 
@@ -431,7 +489,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
 
-```{r}
+```{r, eval=F}
 # Subquestion 1 + 2 Combined 
 
 install.packages("tidyr")
@@ -451,7 +509,7 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
   labs(y = "Percent", fill="device_cat") +
   scale_y_continuous(labels = scales::percent)
   
-#-------------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------------------------------------
 
 #Attempt 2: with percentage labels 
 ggplot(data = aid_device_language2, na.rm = TRUE, aes(x = evDesc2, fill = device_cat)) + 
@@ -478,7 +536,7 @@ ggplot(data = aid_device_language2, na.rm = TRUE, aes(x = evDesc2, fill = device
 #Option 2: Remove 'Pixel 3a: Android 10' from dataset 
 # Where is 'NA' coming from? 
 
-#-------------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------------------------------------
 
 #Without percentage labels 
 install.packages("car")
@@ -505,9 +563,16 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
-    
-  filter(flights, !is.na(delay_class)) %>%
-  
+#-------------------------------------------------------------------------------------------------------      
+ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
+   labs(title = "Frequency of Different Languages by Device", 
+       x = "Language", 
+       y = "Percentage") +
+      scale_x_discrete(labels = c("English", "Spanish")) +
+      scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS")) 
+
 #-------------------------------------------------------------------------------------------------------
 #Original 
 ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
@@ -522,7 +587,7 @@ ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) +
 ```
 
 
-```{r}
+```{r, eval=F}
 #Subquestion #3: What is the relationship between location and utilization of the application? 
 
 install.packages("usmap")
@@ -567,7 +632,6 @@ plot_usmap("states") +
 
 ```{r}
 # Subquestion #4: What is the average number of labels looked at per session? 
-# meet with Dennis regarding codes 
 
 #Notes from Dennis on ‘How to find Number of Labels Search Per User in a Session’:
 # 1. Sort the list by aid 
@@ -598,7 +662,8 @@ y$sessiontimemin <- y$sessiontime2/60
 
 ```
 
-```{r}
+Time-Series Calendar HeatMap
+```{r, echo=FALSE}
 # heatmap attempt 3 (WORKS!)
 # x=day, y=month, fill="activity"/number of occurances
 
@@ -610,6 +675,7 @@ y$month <- month(y$session_start)
 y$month <- month.abb[as.numeric(y$month)]
 # (the line above converts month number to month name)
 y$year <- year(y$session_start)
+y$month = factor(y$month, levels = month.abb)
 
 ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
   labs(x="Day of the Month",
@@ -634,13 +700,14 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
 # sessiontime is done in seconds here 
 
 ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=sessiontimemin)) + 
+scale_y_discrete(limits = month.abb) + 
  labs(x="Day of the Month",
        y="Month",
-       title = "Time-Series Calendar Heatmap", 
+       title = "2020-2021 Calendar Heatmap", 
        fill="Session Time (minutes)")
 ```
 
-```{r}
+```{r, eval=F}
 #heatmap attempt 7 (WORKS!)
 # (https://www.r-graph-gallery.com/283-the-hourly-heatmap.html)
 # Analyzes all 503 sessions... what day, time, and month 
@@ -681,7 +748,7 @@ p <-p + theme(legend.position = "bottom")+
 p
 ```
 
-```{r}
+```{r, eval=F}
 # heatmap attempt 
 install.packages("ggplot2")
 library(ggplot2)
@@ -734,7 +801,7 @@ sum(y$sessiontime)
 #90.11
 ```
 
-```{r user-map-wa, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+```{r user-map-wa-2, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 #Plot for WA sessions
 
