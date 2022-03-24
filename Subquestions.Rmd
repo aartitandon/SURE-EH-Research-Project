@@ -20,12 +20,13 @@ output:
     toc_depth: '4'
 editor_options: 
   chunk_output_type: console
+  
 ---
 
-```{r packages, echo=FALSE, warning=F, message=F, results=F}
+```{r packages, warning=F, message=F, echo=F, results=F}
 
 if(!require(pacman)) {install.packages("pacman")}
-pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm)
+pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr)
 
 devtools::install_github("UrbanInstitute/urbnmapr")
 
@@ -71,6 +72,15 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 ```
 
+
+
+# How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
+
+## Objective: To understand the 'Pesticide Labels Now' mobile application user audience and their preferences for app utility. 
+
+#
+#
+
 # Executive Summary
 
 A data dictionary and descriptive statistics were prepared based on the Pesticide Labels Now (PLN) [analysis plan](https://docs.google.com/document/d/1mUHPYdpWljCWroODGenUjYlyae2ZWwqN4MScBLXlr2U/edit). For a better representation of users, we ignored a list of random identifiers ('aid' in *ignores.csv*) associated with the project team members and generated descriptive statistics for three subsets:
@@ -85,8 +95,10 @@ A data dictionary and descriptive statistics were prepared based on the Pesticid
 
 Unique devices (aid)
 
-```{r unique-evDownload-users, warning=F, message=F}
+```{r unique-evDownload-users, echo=F, warning=F, message=F}
+
 print(n_distinct(evDownload.01$aid), style="rmarkdown")
+
 ```
 
 ```{r evDownload-dictionary, echo=F, message=F, warnings=F, results='asis'}
@@ -107,7 +119,7 @@ cat(tabl)
 
 Unique users (aid)
 
-```{r unique-evStart-users, warning=F, message=F}
+```{r unique-evStart-users, echo=F, warning=F, message=F}
 print(n_distinct(evStart$aid), style="rmarkdown")
 ```
 
@@ -129,7 +141,7 @@ cat(tabl)
 
 Unique users (aid)
 
-```{r unique-evViewpage-users, warning=F, message=F}
+```{r unique-evViewpage-users, echo=F, warning=F, message=F}
 print(n_distinct(evViewPage.01$aid), style="rmarkdown")
 ```
 
@@ -243,11 +255,10 @@ print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings
 ```
 
 # App use by location 
-
+## Plot for US Sessions
 ```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 #extract locations from evStart
-
 ## Remove parenthesizes from evDesc3 lat, long
 evStart$evDesc3sub <- gsub("[()]", "", evStart$evDesc3)
 
@@ -278,15 +289,12 @@ ggplot() +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
 ```
 
+## Plot for WA sessions
 ```{r user-map-wa, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 #Plot for WA sessions
-install.packages("urbnmapr")
-devtools::install_github("UrbanInstitute/urbnmapr")
 
-install.packages("devtools")
 library(devtools)
-devtools::install_github("UrbanInstitute/urbnmapr")
 library(urbnmapr)
 
 counties_sf <- get_urbn_map(map = "counties", sf = T)
@@ -304,11 +312,13 @@ ggplot() +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 
-#-------------------------------------------------------------------------------------------
+```
+
+## Plot for WA Sessions
+```{r user-map-wa-kingcounty, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 library(ggplot2)
 library(dplyr, warn.conflicts = FALSE)
-# install.packages("devtools")
 devtools::install_github("yutannihilation/ggsflabel")
 library(ggsflabel, warn.conflicts = FALSE)
 install.packages("tigris")
@@ -324,14 +334,6 @@ wa_study_counties <- wa_county
 wa_study_counties <- wa_county %>% 
   filter(NAME %in% c("Mason", "Chelan", "King"))
 
-wa_study_counties %>% 
-  ggplot() +
-  geom_sf(fill = "gray") +
-  geom_sf(data = wa_state, fill = NA) +
-  geom_sf_label_repel(aes(label = NAME), force = 50) +
-  theme_void()
-
-
   ggplot() + 
   geom_sf(data = pln_sf_t, color="red", size=1) + 
   geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
@@ -343,8 +345,12 @@ wa_study_counties %>%
   
   #take out connector line
   #look at dots, every place there is a red dot, include county name
-  
-#-------------------------------------------------------------------------------------------
+
+```
+
+## Plot for WA sessions with County Names
+```{r user-map-wa-allcounties, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+
 wa_study_counties <- wa_county %>% 
   filter(NAMELSAD %in% c("King County"))
   
@@ -357,11 +363,6 @@ wa_study_counties <- wa_county %>%
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 
-# https://spatialreference.org/ref/epsg/?search=washington&srtext=Search
-
-# https://www.nceas.ucsb.edu/sites/default/files/2020-04/OverviewCoordinateReferenceSystems.pdf
-
-#+ annotation_scale(location = "bl") + annotation_north_arrow(location = "bl", which_north = "true", style = north_arrow_fancy_orienteering)
 ```
 
 
@@ -403,13 +404,11 @@ ignores <- read.csv("ignores.csv")
 merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 ```
 ```
-```{r}
-# creating sessions 
+```{r creating-sessions, echo=F}
+
 # Goal: 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
 
-install.packages("dplyr")
 library("dplyr")
-install.packages("lubridate")
 library("lubridate")
 
 #filter merged.csv from aid's first "evStart" to the next "evStart"
@@ -418,24 +417,14 @@ merged.csv.dedup <- unique(merged.csv)
 x <- merged.csv.dedup %>% 
   group_by(sessionid = cumsum(evType == 'evStart')) %>% 
   mutate(sessioneventno = row_number())
-# Problem with the code... look at line 1451, 1663 or 4052 (happens VERY rarely)
-# the code restarts the counter every time there is an evStart, however, if there are multiple users utilizing the app at the same time, the session ids and their actions are not distinguished 
-# Solution: remove evType of statechange? I believe active-->nonactive & nonactive-->active is ruining results... actually maybe not 
 
 x$ts <- ymd_hms(x$ts)
 
 ```
 
+# Which operating systems are utilized to access the application? 
 
-
-```{r}
-# Objective: To understand the 'Pesticide Labels Now' movile application user audience and their preferences for app utility. 
-
-# Primary Research Question: How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
-```
-
-
-```{r, eval=F}
+```{r, eval=F, echo=F}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -453,7 +442,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
 
-
+# Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 ```{r, eval=F}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
@@ -496,45 +485,32 @@ aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid")
 table(aid_device_language$evDesc2, aid_device_language$device_cat) 
 
 #With percentage labels 
-#https://stackoverflow.com/questions/68848650/create-percentage-labels-for-two-discrete-variables-in-ggplot-2
+
 ggplot(aid_device_language, aes(x=evDesc2)) + 
   geom_bar(aes(y = 2*(..count..)/sum(..count..), fill = device_cat, group=device_cat), stat="count") +
   geom_label(aes(label = scales::percent(2*(..count..)/sum(..count..)),
                   group = device_cat), position = "fill", stat= "count", vjust = 0) +
   labs(y = "Percent", fill="device_cat") +
   scale_y_continuous(labels = scales::percent)
-  
-#------------------------------------------------------------------------------------------------
 
-#Attempt 2: with percentage labels 
-ggplot(data = aid_device_language2, na.rm = TRUE, aes(x = evDesc2, fill = device_cat)) + 
+```
+
+## Frequency of Different Languages by Device
+```{r, eval=F, echo=F}
+
+ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
   scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
    labs(title = "Frequency of Different Languages by Device", 
        x = "Language", 
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) + 
-      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone","Pixel:Android 10")) +     
-        geom_text(data = aid_device_language %>% 
-              group_by(evDesc2, device_cat) %>%
-              tally() %>%
-              mutate(p = n / sum(n)) %>%
-              ungroup(),
-            aes(y = p, label = scales::percent(p)),
-            position = position_stack(vjust = 0.5),
-            show.legend = FALSE)
-            
-#Option 1: figure how to add 'Pixel 3a: Android 10' to android category 
-# -- create a new variable
-# -- ggplot(ignore NA)
+      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10")) 
+```
 
-#Option 2: Remove 'Pixel 3a: Android 10' from dataset 
-# Where is 'NA' coming from? 
-
-#------------------------------------------------------------------------------------------------
-
+## Frequency of Different Languages by Operating System 
+```{r eval=F, echo=F}
 #Without percentage labels 
-install.packages("car")
 library(car)
 aid_device_language2 <- aid_device_language
 aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('iphone') = 'iOS'")
@@ -549,83 +525,17 @@ aid_device_language2 <- filter(aid_device_language2, !is.na(evDesc2))
 
 which(is.na(aid_device_language2), arr.ind=TRUE)
 
-
 ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
   scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
-   labs(title = "Frequency of Different Languages by Device", 
+   labs(title = "Frequency of Different Languages by Operating System", 
        x = "Language", 
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
-#-------------------------------------------------------------------------------------------------------      
-ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) + 
-  geom_bar(position = "fill") + 
-  scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
-   labs(title = "Frequency of Different Languages by Device", 
-       x = "Language", 
-       y = "Percentage") +
-      scale_x_discrete(labels = c("English", "Spanish")) +
-      scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS")) 
-
-#-------------------------------------------------------------------------------------------------------
-#Original 
-ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
-  geom_bar(position = "fill") + 
-  scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
-   labs(title = "Frequency of Different Languages by Device", 
-       x = "Language", 
-       y = "Percentage") +
-      scale_x_discrete(labels = c("English", "Spanish")) + 
-      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10")) 
-
 ```
 
-
-```{r, eval=F}
-#Subquestion #3: What is the relationship between location and utilization of the application? 
-
-install.packages("usmap")
-install.packages("ggplot2")
-
-#evStart provides latitude and longitude of MOST USERS 
-#1. remove variables that have "NA" for their latitude and longitude 
-evStart.location <- evStart[!(evStart$lat=="n/a" | evStart$lat=="NaN"),]
-evStart.location.1 <- subset(evStart.location, select = -c(aid, evDesc1, evDesc2, evDesc3, evType, ts, device_cat))
-
-
-#interactive map? 
-install.packages("leaflet")
-install.packages("dplyr")
-
-leaflet()%>%addTiles()
-leaflet()%>%addTiles()%>%addCircleMarkers(data=evStart.location.1, lat= ~lat, lng = ~lon)
-
-
-# ERROR: "addCirclMarkers requires numeric longitude/latitude values" 
-
-#-------------------------------------------------------------------------------------------------------
-
-#united states map 
-install.packages("usmap")
-install.packages("maptools")
-install.packages("rgdal")
-library(maptools)
-library("rgdal")
-
-transformed_data <-  usmap_transform(evStart.location.1)
-
-library(usmap)
-plot_usmap("states") + 
-  geom_point(data = transformed_data, 
-  aes(x=lon.1, y=lat.1),
-  color="red",
-  size=3)
-# ERROR: "addCircleMarkers requires numeric longitude/latitude values" 
-```
-
-
-```{r}
+```{r, eval=F, echo=F}
 # Subquestion #4: What is the average number of labels looked at per session? 
 
 #Notes from Dennis on ‘How to find Number of Labels Search Per User in a Session’:
@@ -636,15 +546,12 @@ plot_usmap("states") +
 ```
 
 
-```{r}
-# Heatmap
-install.packages("data.table")
+```{r, echo=F}
+# Y = unique Sessions including activity, start time, end time, etc. 
+
 library(data.table)
-install.packages("dplyr")
 library(dplyr)
-install.packages("ggplot2")
 library(ggplot2)
-install.packages("lubridate")
 library(lubridate)
 
 setDT(x)
@@ -657,9 +564,10 @@ y$sessiontimemin <- y$sessiontime2/60
 
 ```
 
-Time-Series Calendar HeatMap
-```{r, echo=FALSE}
-# heatmap attempt 3 (WORKS!)
+# 2020-2021 Time-Series Calendar HeatMap
+
+## Comparing 'Day of the Month', 'Month', and 'Activity of the User'
+```{r, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 # x=day, y=month, fill="activity"/number of occurances
 
 library(lubridate)
@@ -677,20 +585,23 @@ ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
        y="Month",
        title = "Time-Series Calendar Heatmap", 
        fill="Activity of the User")
+       
 ```
 
-```{r}
-# heatmap attempt 4 (WORKS!)
+## Comparing 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
+```{r, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+
 # x=hour of the day, y=day of the month, fill="activity"/number of occurances
 ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
   labs(x="Hour of The Day",
        y="Day of the Month",
        title = "Time-Series Calendar Heatmap", 
        fill="Activity of the User")
+       
 ```
 
-
-```{r}
+## Comparing 'Day of the Month', 'Month', and 'Session Time (in minutes)'
+```{r, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
 
@@ -702,24 +613,17 @@ scale_y_discrete(limits = month.abb) +
        fill="Session Time (minutes)")
 ```
 
-```{r, eval=F}
+## Comparing User Sessions by 'Hour of the Month','Day of the Month', 'Month', and 'Year'
+```{r, echo=F}
 #heatmap attempt 7 (WORKS!)
 # (https://www.r-graph-gallery.com/283-the-hourly-heatmap.html)
 # Analyzes all 503 sessions... what day, time, and month 
 
-install.packages("ggplot2")
 library(ggplot2)
-install.packages("dplyr")
 library(dplyr) #easier data wrangling 
-install.packages("viridis")
 library(viridis) #colour blind friendly palette, works in B&W also
-install.packages("Interpol.T")
-library(Interpol.T) # will generate a large dataset on initial load
-install.packages("lubridate")
-library(lubridate) #for easy date manipulation
-install.packages("ggExtra")
+library(lubridate) 
 library(ggExtra) #because remembering ggplot theme options is beyond me
-install.packages("tidyr")
 library(tidyr) 
 
 df <-y %>% select(sessionid,day,hour,month,year)
@@ -743,79 +647,15 @@ p <-p + theme(legend.position = "bottom")+
 p
 ```
 
-```{r, eval=F}
-# heatmap attempt 
-install.packages("ggplot2")
-library(ggplot2)
-install.packages("dplyr")
-library(dplyr) #easier data wrangling 
-install.packages("viridis")
-library(viridis) #colour blind friendly palette, works in B&W also
-install.packages("Interpol.T")
-library(Interpol.T) # will generate a large dataset on initial load
-install.packages("lubridate")
-library(lubridate) #for easy date manipulation
-install.packages("ggExtra")
-library(ggExtra) #because remembering ggplot theme options is beyond me
-install.packages("tidyr")
-library(tidyr) 
-
-df <-y %>% select(sessionid,day,hour,month,year) %>% fill(sessiontime2)
-p <-ggplot(df,aes(day,hour, fill=sessiontime2))+
-  geom_tile(color= "white",size=0.1) + 
-  scale_fill_viridis(name="Hrly Temps C",option ="C")
-p <-p + facet_grid(year~month)
-p <-p + scale_y_continuous(trans = "reverse", breaks = unique(df$hour))
-p <-p + scale_x_continuous(breaks =c(1,10,20,31))
-p <-p + theme_minimal(base_size = 8)
-p <-p + labs(title= paste("Session Analytics"), x="Day of the Month", y="Hour Commencing")
-p <-p + theme(legend.position = "bottom")+
-  theme(plot.title=element_text(size = 14))+
-  theme(axis.text.y=element_text(size=6)) +
-  theme(strip.background = element_rect(colour="white"))+
-  theme(plot.title=element_text(hjust=0))+
-  theme(axis.ticks=element_blank())+
-  theme(axis.text=element_text(size=7))+
-  theme(legend.title=element_text(size=8))+
-  theme(legend.text=element_text(size=6))
-p
-```
-
-```{r}
-# cumulative distribution plot
-# https://rpubs.com/tgjohnst/cumulative_plotting
-# https://stackoverflow.com/questions/66471218/plotting-a-cumulative-frequency-curve-on-a-histogram-in-r
-
-```
-
-```{r}
+# Average Session Duration 
+## 90.11 minutes
+```{r, echo=F}
 # Average session duration 
-sum(y$sessiontime)
-(7179658/60)
-119661/1328
+# sum(y$sessiontime)
+# (7179658/60)
+# 119661/1328
 #90.11
 ```
 
-```{r user-map-wa-2, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
-#Plot for WA sessions
-
-install.packages("urbnmapr")
-library(urbnmapr)
-
-counties_sf <- get_urbn_map(map = "counties", sf = T)
-
-pln_sf_t <- st_transform(pln_sf, crs=2285)
-counties_sf_t <- st_transform(counties_sf, crs=2285)
-
-t <- counties_sf_t %>%
-  filter(state_name == "Washington")
-
-ggplot() + 
-  geom_sf(data = pln_sf_t, color="red", size=1) + 
-  geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
-  coord_sf(datum = st_crs(2285)) +
-  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
-    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
-```
 
