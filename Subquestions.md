@@ -17,8 +17,6 @@ members and generated descriptive statistics for three subsets:
 
 Unique devices (aid)
 
-    print(n_distinct(evDownload.01$aid), style="rmarkdown")
-
     ## [1] 93
 
 <table>
@@ -229,7 +227,7 @@ Unique users (aid)
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpV36gTA/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
 
     library(tigris, warn.conflicts = FALSE)
 
@@ -314,14 +312,14 @@ Unique users (aid)
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpV36gTA/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
 
     library("dplyr")
     install.packages("lubridate")
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpV36gTA/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
 
     library("lubridate")
 
@@ -532,7 +530,7 @@ Unique users (aid)
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpV36gTA/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
 
     library(data.table)
 
@@ -556,21 +554,21 @@ Unique users (aid)
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpV36gTA/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
 
     library(dplyr)
     install.packages("ggplot2")
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpV36gTA/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
 
     library(ggplot2)
     install.packages("lubridate")
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpV36gTA/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
 
     library(lubridate)
 
