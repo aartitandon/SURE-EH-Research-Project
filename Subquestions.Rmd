@@ -26,8 +26,9 @@ editor_options:
 ```{r packages, warning=F, message=F, echo=F, results=F}
 
 if(!require(pacman)) {install.packages("pacman")}
-pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr)
+pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr, tigris, frequency)
 
+devtools::install_github("yutannihilation/ggsflabel")
 devtools::install_github("UrbanInstitute/urbnmapr")
 
 ```
@@ -71,8 +72,6 @@ evViewPage.01 <- filter(Outputs.evViewPage.01,!(aid %in% ignores$aid))
 rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 ```
-
-
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
 
@@ -191,7 +190,6 @@ General  view + links
 ## evDownload.01
 
 ```{r evDownload-summary, eval=F, warning=F, message=F, echo=F, results='asis'}
-install.packages("frequency")
 library("frequency")
 
 print(freq(evDownload.01$prodName, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
@@ -313,14 +311,12 @@ ggplot() +
 
 ```
 
-## Plot for WA Sessions
-```{r user-map-wa-kingcounty, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+
+```{r user-map-wa-kingcounty, warning=F, message=F, echo=F, eval=T, out.width = "50%"}
 
 library(ggplot2)
 library(dplyr, warn.conflicts = FALSE)
-devtools::install_github("yutannihilation/ggsflabel")
 library(ggsflabel, warn.conflicts = FALSE)
-install.packages("tigris")
 library(tigris, warn.conflicts = FALSE)
 
 wa_state <- states(cb = TRUE, class = "sf") %>% 
@@ -329,26 +325,10 @@ wa_state <- states(cb = TRUE, class = "sf") %>%
 wa_county <- counties(state = "WA", cb = TRUE, class = "sf")
 
 wa_study_counties <- wa_county 
-
-wa_study_counties <- wa_county %>% 
-  filter(NAME %in% c("Mason", "Chelan", "King"))
-
-  ggplot() + 
-  geom_sf(data = pln_sf_t, color="red", size=1) + 
-  geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
-  geom_sf(data = wa_county, fill = NA) +
-  geom_sf_label_repel(data = wa_study_counties, aes(label = NAME), force = 50) +
-  coord_sf(datum = st_crs(2285)) +
-  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
-    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
-  
-  #take out connector line
-  #look at dots, every place there is a red dot, include county name
-
 ```
 
 ## Plot for WA sessions with County Names
-```{r user-map-wa-allcounties, warning=F, message=F, echo=F}
+```{r user-map-wa-allcounties, echo=F, warning=F, message=F, eval=T, out.width = "50%"}
 
 wa_study_counties <- wa_county %>% 
   filter(NAMELSAD %in% c("King County", "Whatcom County", "Chelan County", "Douglas County", "Grant County", "Yakima County", "Lewis County", "Klickitat County", "Benton County", "Franklin County", "Walla Walla County", "Pierce County", "Clark County"))
@@ -362,10 +342,10 @@ wa_study_counties <- wa_county %>%
   coord_sf(datum = st_crs(2285)) +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
-
+ 
+ #scatterplot dodge to avoid overlapping of redcirclemappers 
+ #https://ggplot2.tidyverse.org/reference/position_dodge.html
 ```
-
-
 
 ```{r heat-map-time-series, warning=F, message=F, echo=F} 
 
@@ -421,7 +401,7 @@ x$ts <- ymd_hms(x$ts)
 
 # Which operating systems are utilized to access the application? 
 
-```{r, eval=F, echo=F}
+```{r, echo=F, eval=F}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -482,7 +462,6 @@ table(aid_device_language$evDesc2, aid_device_language$device_cat)
 
 ```
 
-
 ## Frequency of Different Languages by Device
 ```{r, eval=F, echo=F}
 
@@ -509,7 +488,7 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
 ```
 
 ## Frequency of Different Languages by Operating System 
-```{r eval=F, echo=F}
+```{r echo=F, eval=F}
 #Without percentage labels 
 library(car)
 aid_device_language2 <- aid_device_language
@@ -615,9 +594,6 @@ scale_y_discrete(limits = month.abb) +
 
 ## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
 ```{r, echo=F}
-#heatmap attempt 7 (WORKS!)
-# (https://www.r-graph-gallery.com/283-the-hourly-heatmap.html)
-# Analyzes all 503 sessions... what day, time, and month 
 
 library(ggplot2)
 library(dplyr) #easier data wrangling 
@@ -644,7 +620,27 @@ p <-p + theme(legend.position = "bottom")+
   theme(axis.text=element_text(size=7))+
   theme(legend.title=element_text(size=8))+
   theme(legend.text=element_text(size=6))
+
 p
+
+```
+
+# Activity in Each Label Section
+```{r, echo=F}
+library(ggplot2)
+library(tidyverse)
+
+data <- data.frame(label = factor(c("Product Information", "PPE", "Pesticide Labels", "Health and Safety", "First Aid", "Producer Information", "Physical or Chemical Hazards", "Storage and Disposal", "Engineering Controls", "Environmental Protection", "Spray Drift Prevention" )),
+                   count = c(1760, 1180, 914, 472, 464, 436, 356, 286, 278, 274, 262))
+
+ggplot(data, aes(x = reorder(label, -count),y=count)) +
+    geom_bar(stat="identity") + 
+    scale_x_discrete(limits=(data$label)) + 
+    geom_text(aes(label=count), hjust=-0.3) +
+    coord_flip() + 
+    xlab("Label Section") + 
+    ylab("Count (n) ") + 
+    ggtitle("¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ Views by Label Sections") 
 ```
 
 # Average Session Duration 
