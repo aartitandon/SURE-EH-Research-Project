@@ -26,8 +26,9 @@ editor_options:
 ```{r packages, warning=F, message=F, echo=F, results=F}
 
 if(!require(pacman)) {install.packages("pacman")}
-pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr, tigris, frequency)
+pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr, tigris, frequency)
 
+#install summary tools package later
 devtools::install_github("yutannihilation/ggsflabel")
 devtools::install_github("UrbanInstitute/urbnmapr")
 
@@ -312,7 +313,7 @@ ggplot() +
 ```
 
 
-```{r user-map-wa-kingcounty, warning=F, message=F, echo=F, eval=T, out.width = "50%"}
+```{r user-map-wa-kingcounty, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 library(ggplot2)
 library(dplyr, warn.conflicts = FALSE)
@@ -328,7 +329,7 @@ wa_study_counties <- wa_county
 ```
 
 ## Plot for WA sessions with County Names
-```{r user-map-wa-allcounties, echo=F, warning=F, message=F, eval=T, out.width = "50%"}
+```{r user-map-wa-allcounties, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
 wa_study_counties <- wa_county %>% 
   filter(NAMELSAD %in% c("King County", "Whatcom County", "Chelan County", "Douglas County", "Grant County", "Yakima County", "Lewis County", "Klickitat County", "Benton County", "Franklin County", "Walla Walla County", "Pierce County", "Clark County"))
@@ -343,6 +344,7 @@ wa_study_counties <- wa_county %>%
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
  
+ #maybe turn off county labels? 
  #scatterplot dodge to avoid overlapping of redcirclemappers 
  #https://ggplot2.tidyverse.org/reference/position_dodge.html
 ```
@@ -399,9 +401,9 @@ x$ts <- ymd_hms(x$ts)
 
 ```
 
-# Which operating systems are utilized to access the application? 
+# Which devices are utilized to access the application? 
 
-```{r, echo=F, eval=F}
+```{r device, warning=F, message=F, echo=F, results=F, eval=F}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -420,7 +422,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 ```
 
 # Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
-```{r, eval=F, echo=F}
+```{r languagefrequency, warning=F, message=F, echo=F, results=F, eval=F}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
 library("dplyr")
@@ -463,7 +465,7 @@ table(aid_device_language$evDesc2, aid_device_language$device_cat)
 ```
 
 ## Frequency of Different Languages by Device
-```{r, eval=F, echo=F}
+```{r freq-of-lang-by-device, echo=F}
 
 ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
