@@ -465,7 +465,7 @@ table(aid_device_language$evDesc2, aid_device_language$device_cat)
 ```
 
 ## Frequency of Different Languages by Device
-```{r freq-of-lang-by-device, echo=F}
+```{r freq-of-lang-by-device, echo=F, eval=F}
 
 ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
