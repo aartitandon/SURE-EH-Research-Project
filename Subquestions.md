@@ -58,8 +58,6 @@ Unique devices (aid)
 
 Unique users (aid)
 
-    print(n_distinct(evStart$aid), style="rmarkdown")
-
     ## [1] 392
 
 <table>
@@ -100,8 +98,6 @@ Unique users (aid)
 ## evViewPage.01 subset
 
 Unique users (aid)
-
-    print(n_distinct(evViewPage.01$aid), style="rmarkdown")
 
     ## [1] 358
 
@@ -212,11 +208,8 @@ Unique users (aid)
 
 <img src="Subquestions_files/figure-markdown_strict/user-map-wa-1.png" width="100%" />
 
-    #-------------------------------------------------------------------------------------------
-
     library(ggplot2)
     library(dplyr, warn.conflicts = FALSE)
-    # install.packages("devtools")
     devtools::install_github("yutannihilation/ggsflabel")
 
     ## Skipping install of 'ggsflabel' from a github remote, the SHA1 (a489481b) has not changed since last install.
@@ -227,7 +220,7 @@ Unique users (aid)
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpGUz4Ol/downloaded_packages
 
     library(tigris, warn.conflicts = FALSE)
 
@@ -277,8 +270,9 @@ Unique users (aid)
 
       #take out connector line
       #look at dots, every place there is a red dot, include county name
-      
-    #-------------------------------------------------------------------------------------------
+
+## Plot for WA sessions with County Names
+
     wa_study_counties <- wa_county %>% 
       filter(NAMELSAD %in% c("King County"))
       
@@ -291,13 +285,7 @@ Unique users (aid)
       labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
         scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-1-3.png)
-
-    # https://spatialreference.org/ref/epsg/?search=washington&srtext=Search
-
-    # https://www.nceas.ucsb.edu/sites/default/files/2020-04/OverviewCoordinateReferenceSystems.pdf
-
-    #+ annotation_scale(location = "bl") + annotation_north_arrow(location = "bl", which_north = "true", style = north_arrow_fancy_orienteering)
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-2-1.png)
 
 # Device time use patterns
 
@@ -312,14 +300,14 @@ Unique users (aid)
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpGUz4Ol/downloaded_packages
 
     library("dplyr")
     install.packages("lubridate")
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpGUz4Ol/downloaded_packages
 
     library("lubridate")
 
@@ -530,7 +518,7 @@ Unique users (aid)
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpGUz4Ol/downloaded_packages
 
     library(data.table)
 
@@ -554,21 +542,21 @@ Unique users (aid)
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpGUz4Ol/downloaded_packages
 
     library(dplyr)
     install.packages("ggplot2")
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpGUz4Ol/downloaded_packages
 
     library(ggplot2)
     install.packages("lubridate")
 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpKX87uN/downloaded_packages
+    ##  /var/folders/g8/z7k53ktx0pg62hb1c7cf4h1m0000gn/T//RtmpGUz4Ol/downloaded_packages
 
     library(lubridate)
 
@@ -581,7 +569,7 @@ Unique users (aid)
     y$sessiontimemin <- y$sessiontime2/60
 
 Time-Series Calendar HeatMap
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-10-1.png)
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-11-1.png)
 
     # heatmap attempt 4 (WORKS!)
     # x=hour of the day, y=day of the month, fill="activity"/number of occurances
@@ -591,7 +579,7 @@ Time-Series Calendar HeatMap
            title = "Time-Series Calendar Heatmap", 
            fill="Activity of the User")
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-11-1.png)
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-12-1.png)
 
     # heatmap attempt 6 (this is the one included in the poster)
     # sessiontime is done in seconds here 
@@ -603,7 +591,7 @@ Time-Series Calendar HeatMap
            title = "2020-2021 Calendar Heatmap", 
            fill="Session Time (minutes)")
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-12-1.png)
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-13-1.png)
 
     #heatmap attempt 7 (WORKS!)
     # (https://www.r-graph-gallery.com/283-the-hourly-heatmap.html)
