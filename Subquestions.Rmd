@@ -78,7 +78,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 ## Objective: To understand the 'Pesticide Labels Now' mobile application user audience and their preferences for app utility. 
 
-$$\\[0.5in]$$
+<br>
 
 # Executive Summary
 
@@ -289,7 +289,7 @@ ggplot() +
 ```
 
 ## Plot for WA sessions
-```{r user-map-wa, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+```{r user-map-wa, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
 #Plot for WA sessions
 
@@ -348,12 +348,13 @@ wa_study_counties <- wa_county %>%
 ```
 
 ## Plot for WA sessions with County Names
-```{r user-map-wa-allcounties, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+```{r user-map-wa-allcounties, warning=F, message=F, echo=F}
 
 wa_study_counties <- wa_county %>% 
-  filter(NAMELSAD %in% c("King County"))
+  filter(NAMELSAD %in% c("King County", "Whatcom County", "Chelan County", "Douglas County", "Grant County", "Yakima County", "Lewis County", "Klickitat County", "Benton County", "Franklin County", "Walla Walla County", "Pierce County", "Clark County"))
   
  ggplot() + 
+  geom_sf(fill="gray") +
   geom_sf(data = pln_sf_t, color="red", size=1) + 
   geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
   geom_sf(data = wa_county, fill = NA) +
@@ -365,7 +366,6 @@ wa_study_counties <- wa_county %>%
 ```
 
 
-# Device time use patterns
 
 ```{r heat-map-time-series, warning=F, message=F, echo=F} 
 
@@ -378,8 +378,6 @@ wa_study_counties <- wa_county %>%
 #https://www.littlemissdata.com/blog/heatmaps
 
 ```
-
-# Dataframe summaries
 
 ```{r summary, eval=F, warning=F, message=F, echo=F}
 
@@ -566,7 +564,7 @@ y$sessiontimemin <- y$sessiontime2/60
 
 ```
 
-# 2020-2021 Time-Series Calendar HeatMap
+# Device Time Use Patterns
 
 ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
 ```{r, warning=F, message=F, echo=F, eval=T}
@@ -585,7 +583,7 @@ y$month = factor(y$month, levels = month.abb)
 ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
   labs(x="Day of the Month",
        y="Month",
-       title = "Time-Series Calendar Heatmap", 
+       title = "2020-2021 Calendar Heatmap", 
        fill="Activity of the User")
        
 ```
@@ -597,7 +595,7 @@ ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
 ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
   labs(x="Hour of The Day",
        y="Day of the Month",
-       title = "Time-Series Calendar Heatmap", 
+       title = "2020-2021 Calendar Heatmap", 
        fill="Activity of the User")
        
 ```
