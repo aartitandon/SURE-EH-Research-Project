@@ -78,8 +78,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 ## Objective: To understand the 'Pesticide Labels Now' mobile application user audience and their preferences for app utility. 
 
-#
-#
+$$\\[0.5in]$$
 
 # Executive Summary
 
@@ -403,7 +402,7 @@ merged.csv <- do.call(rbind, lapply(ls(pattern = "CSV"), get))
 ignores <- read.csv("ignores.csv")
 merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 ```
-```
+
 ```{r creating-sessions, echo=F}
 
 # Goal: 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
@@ -443,7 +442,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 ```
 
 # Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
-```{r, eval=F}
+```{r, eval=F, echo=F}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
 library("dplyr")
@@ -473,10 +472,9 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
 
-```{r, eval=F}
-# Subquestion 1 + 2 Combined 
+```{r, eval=F, echo=F}
+# Retrieving each ID's device and accessed language
 
-install.packages("tidyr")
 library(tidyr)
 
 device_cat_aid <- unique(evStart[ , c("aid", "device_cat")])
@@ -484,16 +482,8 @@ aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid")
 
 table(aid_device_language$evDesc2, aid_device_language$device_cat) 
 
-#With percentage labels 
-
-ggplot(aid_device_language, aes(x=evDesc2)) + 
-  geom_bar(aes(y = 2*(..count..)/sum(..count..), fill = device_cat, group=device_cat), stat="count") +
-  geom_label(aes(label = scales::percent(2*(..count..)/sum(..count..)),
-                  group = device_cat), position = "fill", stat= "count", vjust = 0) +
-  labs(y = "Percent", fill="device_cat") +
-  scale_y_continuous(labels = scales::percent)
-
 ```
+
 
 ## Frequency of Different Languages by Device
 ```{r, eval=F, echo=F}
@@ -506,6 +496,18 @@ ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) +
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) + 
       scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10")) 
+```
+
+```{r echo=F, eval=F}
+# Frequency of Different Languages by Device w/ Percentage Labels 
+
+ggplot(aid_device_language, aes(x=evDesc2)) + 
+  geom_bar(aes(y = 2*(..count..)/sum(..count..), fill = device_cat, group=device_cat), stat="count") +
+  geom_label(aes(label = scales::percent(2*(..count..)/sum(..count..)),
+                  group = device_cat), position = "fill", stat= "count", vjust = 0) +
+  labs(y = "Percent", fill="device_cat") +
+  scale_y_continuous(labels = scales::percent)
+  
 ```
 
 ## Frequency of Different Languages by Operating System 
@@ -566,8 +568,8 @@ y$sessiontimemin <- y$sessiontime2/60
 
 # 2020-2021 Time-Series Calendar HeatMap
 
-## Comparing 'Day of the Month', 'Month', and 'Activity of the User'
-```{r, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+## Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
+```{r, warning=F, message=F, echo=F, eval=T}
 # x=day, y=month, fill="activity"/number of occurances
 
 library(lubridate)
@@ -588,8 +590,8 @@ ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
        
 ```
 
-## Comparing 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
-```{r, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
+```{r, warning=F, message=F, echo=F, eval=T}
 
 # x=hour of the day, y=day of the month, fill="activity"/number of occurances
 ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
@@ -600,8 +602,8 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        
 ```
 
-## Comparing 'Day of the Month', 'Month', and 'Session Time (in minutes)'
-```{r, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
+## Comparing User Sessions by 'Day of the Month', 'Month', and 'Session Time (in minutes)'
+```{r, warning=F, message=F, echo=F, eval=T}
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
 
@@ -613,7 +615,7 @@ scale_y_discrete(limits = month.abb) +
        fill="Session Time (minutes)")
 ```
 
-## Comparing User Sessions by 'Hour of the Month','Day of the Month', 'Month', and 'Year'
+## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
 ```{r, echo=F}
 #heatmap attempt 7 (WORKS!)
 # (https://www.r-graph-gallery.com/283-the-hourly-heatmap.html)
