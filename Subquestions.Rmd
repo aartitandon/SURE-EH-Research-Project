@@ -3,18 +3,18 @@ title: "Pesticide Labels Now Report"
 subtitle: "Draft"
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
-    latex_engine: xelatex
+  md_document:
     toc: yes
-    toc_depth: 4
   html_document:
     code_folding: hide
     self_contained: yes
     toc: no
     toc_depth: 4
     toc_float: yes
-  md_document:
+  pdf_document:
+    latex_engine: xelatex
     toc: yes
+    toc_depth: 4
   word_document:
     toc: yes
     toc_depth: '4'
@@ -22,10 +22,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-```{r packages, warning=F, message=F, echo=F, results=F}
+```{r packages, echo=FALSE, warning=F, message=F, results=F}
 
 if(!require(pacman)) {install.packages("pacman")}
 pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, summarytools, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm)
+
+devtools::install_github("UrbanInstitute/urbnmapr")
 
 ```
 
@@ -242,13 +244,11 @@ print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings
 
 # App use by location 
 
-evStart; Aug 2020 - April 2021
-
 ```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 #extract locations from evStart
 
-## Remove parthenthesis from evDesc3 lat, long
+## Remove parenthesizes from evDesc3 lat, long
 evStart$evDesc3sub <- gsub("[()]", "", evStart$evDesc3)
 
 ## Separate lat/long
@@ -265,8 +265,6 @@ gps$lon <- as.numeric(gps$lon)
 pln_sf <- gps %>% st_as_sf(coords = c("lon","lat"), crs=4326)
 pln_sf_t <- st_transform(pln_sf, crs=2163)
 
-install.packages("urbnmapr")
-# the problem lies here
 library(urbnmapr)
 states_sf <- get_urbn_map(map = "states", sf = T)
 
@@ -278,8 +276,6 @@ ggplot() +
   coord_sf(datum = st_crs(2163)) +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(-3e+06, 3e+06)) +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
-
-
 ```
 
 ```{r user-map-wa, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
@@ -366,7 +362,6 @@ wa_study_counties <- wa_county %>%
 # https://www.nceas.ucsb.edu/sites/default/files/2020-04/OverviewCoordinateReferenceSystems.pdf
 
 #+ annotation_scale(location = "bl") + annotation_north_arrow(location = "bl", which_north = "true", style = north_arrow_fancy_orienteering)
-
 ```
 
 
@@ -822,11 +817,5 @@ ggplot() +
   coord_sf(datum = st_crs(2285)) +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
-
-# https://spatialreference.org/ref/epsg/?search=washington&srtext=Search
-
-# https://www.nceas.ucsb.edu/sites/default/files/2020-04/OverviewCoordinateReferenceSystems.pdf
-
-#+ annotation_scale(location = "bl") + annotation_north_arrow(location = "bl", which_north = "true", style = north_arrow_fancy_orienteering)
 ```
 
