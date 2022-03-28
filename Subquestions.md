@@ -17,6 +17,12 @@ members and generated descriptive statistics for three subsets:
 -   evStart
 -   evViewPage.01
 
+# Features to help understand user characteristics:
+
+-   Location
+-   Device
+-   Language
+
 # Data Dictionary
 
 ## evDownload.01 subset
@@ -204,7 +210,7 @@ Unique users (aid)
 
 ## evViewPage.01
 
-# App use by location
+# App Use By Location
 
 ## Plot for US Sessions
 
@@ -230,7 +236,7 @@ Unique users (aid)
 
 ## Frequency of Different Languages by Operating System
 
-# Device Time Use Patterns
+# App Use By Activity
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
@@ -262,7 +268,7 @@ Unique users (aid)
     ##  $ evType    : chr  "evDownloadLabel" "evDownloadLabel" "evDownloadLabel" "evDownloadLabel" ...
     ##  $ ts        : chr  "2020-08-27T11:56:40.858Z" "2020-08-27T19:05:52.237Z" "2020-08-29T17:32:42.200Z" "2020-09-01T21:21:23.077Z" ...
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-9-1.png)
+![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language2-1.png)
 
 # Average Session Duration
 

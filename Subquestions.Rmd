@@ -88,6 +88,11 @@ A data dictionary and descriptive statistics were prepared based on the Pesticid
 - evStart
 - evViewPage.01
 
+# Features to help understand user characteristics: 
+- Location 
+- Device 
+- Language 
+
 # Data Dictionary 
 
 ## evDownload.01 subset
@@ -252,7 +257,7 @@ print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings
 
 ```
 
-# App use by location 
+# App Use By Location  
 ## Plot for US Sessions
 ```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
@@ -557,7 +562,7 @@ y$sessiontimemin <- y$sessiontime2/60
 
 ```
 
-# Device Time Use Patterns
+# App Use By Activity 
 
 ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
 ```{r, warning=F, message=F, echo=F, eval=T}
@@ -658,7 +663,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 
-```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 12, fig.height=12}
+```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 10, fig.height=10}
 library(dplyr)
 library(ggplot2)
 
@@ -674,7 +679,7 @@ labs(title = "Frequency of Different Links by Language",
 
 ```
 
-```{r, echo=F}
+```{r fre-diff-links-by-language2, echo=F, warning=F, message=F, eval=T, fig.width = 10, fig.height=10}
 str(evDownload.01)
 download_data <- evDownload.01 %>%
   count(sourcePage) %>% 
@@ -689,6 +694,10 @@ ggplot(download_data, aes(x = reorder(n, -per), y=per)) +
   scale_y_continuous(labels(scales::percent)) + 
   theme_bw() + 
   scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
+```
+
+```{r}
+
 ```
 
 
