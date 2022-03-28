@@ -646,6 +646,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
     ggtitle("¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ Views by Label Sections") 
 ```
 
+## Frequency of Different Links by Language
 ```{r, echo=F}
 library(dplyr)
 library(ggplot2)
@@ -659,6 +660,7 @@ labs(title = "Frequency of Different Links by Language",
        y = "Percentage") + 
   theme_classic() +
   scale_fill_brewer(palette = "Pastel1") 
+
 ```
 
 
