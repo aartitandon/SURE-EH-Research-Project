@@ -640,7 +640,7 @@ p
 ```
 
 # Activity in Each Label Section
-```{r activity-in-label-sections, echo=F, warning=F, message=F, eval=T, fig.width = 8, fig.height=8}
+```{r activity-in-label-sections, echo=F, warning=F, message=F, eval=T, fig.width = 12, fig.height=12}
 library(ggplot2)
 library(tidyverse)
 
@@ -658,7 +658,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 
-```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 8, fig.height=8}
+```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 12, fig.height=12}
 library(dplyr)
 library(ggplot2)
 
