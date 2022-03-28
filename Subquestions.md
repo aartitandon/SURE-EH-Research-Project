@@ -234,21 +234,23 @@ Unique users (aid)
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-5-1.png)
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Session Time (in minutes)’
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-7-1.png)
 
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-9-1.png)
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-8-1.png)
 
 # Activity in Each Label Section
+
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-9-1.png)
 
 ![](Subquestions_files/figure-markdown_strict/unnamed-chunk-10-1.png)
 

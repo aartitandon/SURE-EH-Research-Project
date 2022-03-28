@@ -412,6 +412,7 @@ per_data <- evStart %>%
   mutate(per = n / sum(n),
          per_label = paste0(round(per*100), "%"))
 
+library(ggplot2)
 ggplot(per_data, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "darkseagreen1", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
@@ -419,6 +420,8 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
        title = "Operating Systems Utilized to Access the Application") + 
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
+
+
 ```
 
 # Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
@@ -452,20 +455,18 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
 
-```{r, eval=F, echo=F}
+## Frequency of Different Languages by Device
+```{r freq-of-lang-by-device, echo=F, eval=F}
 # Retrieving each ID's device and accessed language
-
 library(tidyr)
+library(ggplot2)
 
 device_cat_aid <- unique(evStart[ , c("aid", "device_cat")])
 aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid") 
 
 table(aid_device_language$evDesc2, aid_device_language$device_cat) 
 
-```
-
-## Frequency of Different Languages by Device
-```{r freq-of-lang-by-device, echo=F, eval=F}
+# Frequency of Different Languages by Device
 
 ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
@@ -644,6 +645,22 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
     ylab("Count (n) ") + 
     ggtitle("¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ Views by Label Sections") 
 ```
+
+```{r, echo=F}
+library(dplyr)
+library(ggplot2)
+
+tab <-  evViewPage.01 %>% group_by(evDesc1,evDesc2,.drop=FALSE) %>% tally()
+tab %>% mutate(perc=n/sum(n)) %>% 
+ggplot() + geom_col(aes(x=evDesc1,y=perc,fill=evDesc2),position="dodge") + 
+scale_y_continuous(labels =scales::percent) +
+labs(title = "Frequency of Different Links by Language", 
+       x = "Links", 
+       y = "Percentage") + 
+  theme_classic() +
+  scale_fill_brewer(palette = "Pastel1") 
+```
+
 
 # Average Session Duration 
 ## 90.11 minutes
