@@ -383,9 +383,11 @@ ignores <- read.csv("ignores.csv")
 merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 ```
 
-```{r creating-sessions, echo=F}
+# Which devices are utilized to access the application? 
 
-# Goal: 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
+```{r creating-sessions, echo=F, eval=F}
+# Goal: Creating Sessions. 
+# 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
 
 library("dplyr")
 library("lubridate")
@@ -401,9 +403,8 @@ x$ts <- ymd_hms(x$ts)
 
 ```
 
-# Which devices are utilized to access the application? 
 
-```{r device, warning=F, message=F, echo=F, results=F, eval=F}
+```{r operating-systems, echo=F, eval=F}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -420,8 +421,10 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
        title = "Operating Systems Utilized to Access the Application") + 
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
+```
 
 
+```{r creating-sessions, echo=F, eval=F}
 ```
 
 # Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
@@ -536,6 +539,14 @@ library(dplyr)
 library(ggplot2)
 library(lubridate)
 
+merged.csv.dedup <- unique(merged.csv)
+
+x <- merged.csv.dedup %>% 
+  group_by(sessionid = cumsum(evType == 'evStart')) %>% 
+  mutate(sessioneventno = row_number())
+
+x$ts <- ymd_hms(x$ts)
+
 setDT(x)
 y <- x[ , .(session_start = min(ts), session_end = max(ts), num_occurance = .N), by = sessionid]
 
@@ -629,7 +640,7 @@ p
 ```
 
 # Activity in Each Label Section
-```{r, echo=F}
+```{r activity-in-label-sections, echo=F, warning=F, message=F, eval=T, out.width = "75%"}
 library(ggplot2)
 library(tidyverse)
 
@@ -646,8 +657,8 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
     ggtitle("¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ Views by Label Sections") 
 ```
 
-## Frequency of Different Links by Language
-```{r, echo=F}
+
+```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, out.width = "75%"}
 library(dplyr)
 library(ggplot2)
 
@@ -661,6 +672,23 @@ labs(title = "Frequency of Different Links by Language",
   theme_classic() +
   scale_fill_brewer(palette = "Pastel1") 
 
+```
+
+```{r, echo=F}
+str(evDownload.01)
+download_data <- evDownload.01 %>%
+  count(sourcePage) %>% 
+  mutate(per = n / sum(n),
+         per_label = paste0(round(per*100), "%"))
+
+ggplot(download_data, aes(x = reorder(n, -per), y=per)) + 
+  geom_bar(stat = "identity", fill = "lavender", color = "black") + 
+  geom_text(aes(label=per_label), vjust=-0.25) + 
+  labs(x = "Source Page", y = "Count",  
+       title = "Frequency of Each Source Page Accessed on the Application") + 
+  scale_y_continuous(labels(scales::percent)) + 
+  theme_bw() + 
+  scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
 ```
 
 

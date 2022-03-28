@@ -250,11 +250,19 @@ Unique users (aid)
 
 # Activity in Each Label Section
 
+<img src="Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png" width="75%" />
+
+<img src="Subquestions_files/figure-markdown_strict/fre-diff-links-by-language-1.png" width="75%" />
+
+    ## 'data.frame':    354 obs. of  6 variables:
+    ##  $ aid       : chr  "d0573972b4e5751d9eee0d67e0696bd97f9563f09542e9fa0a494a60b5304332" "aa60dce9815bd4c2958e1a9410bb1ec6656202a67c1676877a99abbffc0dc703" "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea" "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03" ...
+    ##  $ epaReg    : chr  "66330-404" "42750-19-5905" "432-1575" "9779-273" ...
+    ##  $ prodName  : chr  "KASUMIN 2L" "2,4-D AMINE 4 HERBICIDE" "ALTUS" "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE" ...
+    ##  $ sourcePage: chr  "PICOL" "PICOL" "PICOL" "PICOL" ...
+    ##  $ evType    : chr  "evDownloadLabel" "evDownloadLabel" "evDownloadLabel" "evDownloadLabel" ...
+    ##  $ ts        : chr  "2020-08-27T11:56:40.858Z" "2020-08-27T19:05:52.237Z" "2020-08-29T17:32:42.200Z" "2020-09-01T21:21:23.077Z" ...
+
 ![](Subquestions_files/figure-markdown_strict/unnamed-chunk-9-1.png)
-
-## Frequency of Different Links by Language
-
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-10-1.png)
 
 # Average Session Duration
 
