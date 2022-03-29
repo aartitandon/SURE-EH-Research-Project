@@ -230,6 +230,8 @@ Unique users (aid)
 
 # App Use by Device
 
+## Devices Utilized to Access the Application
+
     ## 'data.frame':    11220 obs. of  9 variables:
     ##  $ aid       : chr  "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34" "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34" "38e8e6b6869f850b8a33196fc4c4efef815e73970c7d40274583ae2b9912fc2b" "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea" ...
     ##  $ evDesc1   : chr  "1.0.4 (34)" "1.0.4 (34)" "1.0.4 (34)" "1.0.0 (30)" ...
@@ -302,7 +304,40 @@ Unique users (aid)
 
 ## Frequency of Different Links by Language
 
+    str(evViewPage.01)
+
+    ## 'data.frame':    3671 obs. of  6 variables:
+    ##  $ aid    : chr  "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2" "ac1e51c717cdc4efc891f63dc74e49ff3b9b4d4243672f46bcd47c14a7e43883" "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2" "ac1e51c717cdc4efc891f63dc74e49ff3b9b4d4243672f46bcd47c14a7e43883" ...
+    ##  $ evDesc1: chr  "Labels Search" "Labels Search" "PICOL Search" "Resources" ...
+    ##  $ evDesc2: chr  "en" "en" "en" "en" ...
+    ##  $ evDesc3: chr  "" "" "" "" ...
+    ##  $ evType : chr  "evViewPage" "evViewPage" "evViewPage" "evViewPage" ...
+    ##  $ ts     : chr  "2020-08-26T00:05:03.601Z" "2020-08-26T00:05:23.939Z" "2020-08-26T00:05:35.367Z" "2020-08-26T00:05:35.795Z" ...
+
+    per_data3 <- evViewPage.01 %>%
+      count(evDesc1) %>% 
+      mutate(per = n / sum(n),
+             per_label = paste0(round(per*100), "%"))
+
+    ggplot(per_data3, aes(x = reorder(n, -per), y=per)) + 
+      geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
+      geom_text(aes(label=per_label), vjust=-0.25) + 
+      labs(x = "Links", y = "Count",  
+           title = "Overall Frequency of Links") + 
+      scale_y_continuous(labels(scales::percent)) + 
+      theme_bw()  + 
+      scale_x_discrete(labels = c("Labels Search", "HS Label", "PICOL Search", "More", "Resources", "PICOL Label", "Feedback", "About", "EULA", "Partners", "Contact", "Disclaimer", "Privacy", "Update News"))
+
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-9-1.png)
+
 ![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language-1.png)
+
+    library("dplyr")
+    table <- (evDownload.01$prodName)
+    table <- sort(table, decreasing = TRUE)
+    table
+    sort(evDownload.01$prodName)
+    table(evDownload.01$prodName)
 
 # Average Session Duration
 

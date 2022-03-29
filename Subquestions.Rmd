@@ -408,7 +408,7 @@ x$ts <- ymd_hms(x$ts)
 
 ```
 
-
+## Devices Utilized to Access the Application
 ```{r operating-systems, echo=F, eval=T}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
@@ -423,7 +423,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   geom_bar(stat = "identity", fill = "darkseagreen1", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
   labs(x = "Devices", y = "Count",  
-       title = "Operating Systems Utilized to Access the Application") + 
+       title = "Devices Utilized to Access the Application") + 
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
@@ -675,6 +675,24 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 ## Frequency of Different Links by Language
+```{r, eval=T}
+str(evViewPage.01)
+per_data3 <- evViewPage.01 %>%
+  count(evDesc1) %>% 
+  mutate(per = n / sum(n),
+         per_label = paste0(round(per*100), "%"))
+
+ggplot(per_data3, aes(x = reorder(n, -per), y=per)) + 
+  geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
+  geom_text(aes(label=per_label), vjust=-0.25) + 
+  labs(x = "Links", y = "Count",  
+       title = "Overall Frequency of Links") + 
+  scale_y_continuous(labels(scales::percent)) + 
+  theme_bw()  + 
+  scale_x_discrete(labels = c("Labels Search", "HS Label", "PICOL Search", "More", "Resources", "PICOL Label", "Feedback", "About", "EULA", "Partners", "Contact", "Disclaimer", "Privacy", "Update News"))
+```
+
+
 ```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 17, fig.height=10}
 library(dplyr)
 library(ggplot2)
@@ -689,6 +707,15 @@ labs(title = "Frequency of Different Links by Language",
   theme_classic() +
   scale_fill_brewer(palette = "Pastel1") 
 
+```
+
+```{r, eval=F}
+library("dplyr")
+table <- (evDownload.01$prodName)
+table <- sort(table, decreasing = TRUE)
+table
+sort(evDownload.01$prodName)
+table(evDownload.01$prodName)
 ```
 
 
