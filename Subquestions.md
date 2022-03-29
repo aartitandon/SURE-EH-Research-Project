@@ -256,7 +256,7 @@ Unique users (aid)
 
 # App Use By Activity
 
-# # Frequency of Each Source Page Accessed on the Application
+## Frequency of Each Source Page Accessed on the Application
 
     ## 'data.frame':    354 obs. of  6 variables:
     ##  $ aid       : chr  "d0573972b4e5751d9eee0d67e0696bd97f9563f09542e9fa0a494a60b5304332" "aa60dce9815bd4c2958e1a9410bb1ec6656202a67c1676877a99abbffc0dc703" "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea" "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03" ...
@@ -268,11 +268,11 @@ Unique users (aid)
 
 ![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language2-1.png)
 
-# # Activity in Each Label Section
+## Activity in Each Label Section
 
 ![](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
 
-# # Frequency of Different Links by Language
+## Frequency of Different Links by Language
 
 ![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language-1.png)
 
