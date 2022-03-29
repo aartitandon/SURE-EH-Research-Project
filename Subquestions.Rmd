@@ -455,7 +455,7 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Frequency of Different Languages by Device
-```{r freq-of-lang-by-device, echo=F, eval=T}
+```{r device_cat_aid, echo=F, eval=T}
 # Retrieving each ID's device and accessed language
 library(tidyr)
 library(ggplot2)
@@ -463,8 +463,10 @@ library(ggplot2)
 device_cat_aid <- unique(evStart[ , c("aid", "device_cat")])
 aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid") 
 
-table(aid_device_language$evDesc2, aid_device_language$device_cat) 
+table(aid_device_language$evDesc2, aid_device_language$device_cat)
+```
 
+```{r freq-of-lang-by-device, echo=F, eval=T}
 # Frequency of Different Languages by Device
 
 ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
@@ -474,7 +476,7 @@ ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) +
        x = "Language", 
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) + 
-      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10")) 
+      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10"))
 ```
 
 ```{r echo=F, eval=F}
@@ -674,7 +676,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
     ggtitle("¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ Views by Label Sections") 
 ```
 
-## Frequency of Different Links by Language
+## Frequency of Links Utilized 
 ```{r, echo=F, warning=F, message=F, eval=T, fig.width = 17, fig.height=10}
 str(evViewPage.01)
 per_data3 <- evViewPage.01 %>%
@@ -686,13 +688,13 @@ ggplot(per_data3, aes(x = reorder(n, -per), y=per)) +
   geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
   labs(x = "Links", y = "Count",  
-       title = "Overall Frequency of Links") + 
+       title = "Frequency of Links Utilized") + 
   scale_y_continuous(labels(scales::percent)) + 
   theme_bw()  + 
   scale_x_discrete(labels = c("Labels Search", "HS Label", "PICOL Search", "More", "Resources", "PICOL Label", "Feedback", "About", "EULA", "Partners", "Contact", "Disclaimer", "Privacy", "Update News"))
 ```
 
-
+## Frequency of Different Links by Language
 ```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 17, fig.height=10}
 library(dplyr)
 library(ggplot2)
@@ -709,6 +711,7 @@ labs(title = "Frequency of Different Links by Language",
 
 ```
 
+## Table of Searched Pesticides in Descending Order 
 ```{r, eval=T}
 library("dplyr")
 table <- table(evDownload.01$prodName)
@@ -716,10 +719,6 @@ my_table <- table[order(table, decreasing = TRUE)]
 my_table
 ```
 
-
-my_tab_sort2 <- my_tab[order(my_tab,       # Decreasing order of table
-                             decreasing = TRUE)]
-my_tab_sort2 
 
 # Average Session Duration 
 ## 90.11 minutes

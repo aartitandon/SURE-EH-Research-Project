@@ -302,7 +302,7 @@ Unique users (aid)
 
 ![](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
 
-## Frequency of Different Links by Language
+## Frequency of Links Utilized
 
     ## 'data.frame':    3671 obs. of  6 variables:
     ##  $ aid    : chr  "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2" "ac1e51c717cdc4efc891f63dc74e49ff3b9b4d4243672f46bcd47c14a7e43883" "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2" "ac1e51c717cdc4efc891f63dc74e49ff3b9b4d4243672f46bcd47c14a7e43883" ...
@@ -314,7 +314,11 @@ Unique users (aid)
 
 ![](Subquestions_files/figure-markdown_strict/unnamed-chunk-9-1.png)
 
+## Frequency of Different Links by Language
+
 ![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language-1.png)
+
+## Table of Searched Pesticides in Descending Order
 
     library("dplyr")
     table <- table(evDownload.01$prodName)
@@ -580,9 +584,6 @@ Unique users (aid)
     ##                                                    1 
     ##                   WYNCA USA SUNPHOSATE 41% HERBICIDE 
     ##                                                    1
-
-my\_tab\_sort2 &lt;- my\_tab\[order(my\_tab, # Decreasing order of table
-decreasing = TRUE)\] my\_tab\_sort2
 
 # Average Session Duration
 
