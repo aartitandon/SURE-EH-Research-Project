@@ -230,7 +230,22 @@ Unique users (aid)
 
 # App Use by Device
 
+    ## 'data.frame':    11220 obs. of  9 variables:
+    ##  $ aid       : chr  "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34" "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34" "38e8e6b6869f850b8a33196fc4c4efef815e73970c7d40274583ae2b9912fc2b" "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea" ...
+    ##  $ evDesc1   : chr  "1.0.4 (34)" "1.0.4 (34)" "1.0.4 (34)" "1.0.0 (30)" ...
+    ##  $ evDesc2   : chr  "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios" "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios" "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios" "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.5.1,ios" ...
+    ##  $ evDesc3   : chr  "(35.051366873052984,-79.04818778145427)" "(35.05139093907041,-79.04810525826915)" "(35.225780965553675,-80.77426135851753)" "(38.190336609848934,-121.23048384393766)" ...
+    ##  $ evType    : chr  "evStart" "evStart" "evStart" "evStart" ...
+    ##  $ ts        : chr  "2020-08-26T00:03:57.358Z" "2020-08-26T00:05:23.548Z" "2020-08-26T03:33:11.980Z" "2020-08-26T17:08:48.632Z" ...
+    ##  $ device_cat: chr  "iphone" "iphone" "iphone" "iphone" ...
+    ##  $ lat       : chr  "35.051366873052984" "35.05139093907041" "35.225780965553675" "38.190336609848934" ...
+    ##  $ lon       : chr  "-79.04818778145427" "-79.04810525826915" "-80.77426135851753" "-121.23048384393766" ...
+
+![](Subquestions_files/figure-markdown_strict/operating-systems-1.png)
+
 # App Use by Language
+
+![](Subquestions_files/figure-markdown_strict/languagefrequency-1.png)
 
 ## Frequency of Different Languages by Device
 
@@ -240,8 +255,6 @@ Unique users (aid)
     ##   es     610   74    808                    1
 
 ![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-device-1.png)
-
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-1-1.png)
 
 ## Frequency of Different Languages by Operating System
 

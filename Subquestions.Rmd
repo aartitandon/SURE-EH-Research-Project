@@ -409,7 +409,7 @@ x$ts <- ymd_hms(x$ts)
 ```
 
 
-```{r operating-systems, echo=F, eval=F}
+```{r operating-systems, echo=F, eval=T}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -428,12 +428,8 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
 
-
-```{r creating-sessions, echo=F, eval=F}
-```
-
 # App Use by Language
-```{r languagefrequency, warning=F, message=F, echo=F, results=F, eval=F}
+```{r languagefrequency, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
 library("dplyr")
@@ -443,18 +439,12 @@ count_Language <- evViewPage.01 %>%
 library(tidyverse)
 
 str(evViewPage.01)
-#per_data(2) <- evViewPage.01 %>%
-  #count(evDesc2) %>% 
-  #mutate(per = n / sum(n),
-         #per_label = paste0(round(per*100), "%"))
-
-str(evStart)
-per_data <- evStart %>%
-  count(device_cat) %>% 
+per_data2 <- evViewPage.01 %>%
+  count(evDesc2) %>% 
   mutate(per = n / sum(n),
          per_label = paste0(round(per*100), "%"))
 
-ggplot(per_data, aes(x = reorder(n, -per), y=per)) + 
+ggplot(per_data2, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
   labs(x = "Language", y = "Count",  
@@ -486,8 +476,9 @@ ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) +
       scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10")) 
 ```
 
-```{r echo=F, eval=T}
+```{r echo=F, eval=F}
 # Frequency of Different Languages by Device w/ Percentage Labels 
+# the percentages are not accurately placed
 
 ggplot(aid_device_language, aes(x=evDesc2)) + 
   geom_bar(aes(y = 2*(..count..)/sum(..count..), fill = device_cat, group=device_cat), stat="count") +
@@ -682,7 +673,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 ## Frequency of Different Links by Language
-```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 13, fig.height=10}
+```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 17, fig.height=10}
 library(dplyr)
 library(ggplot2)
 
