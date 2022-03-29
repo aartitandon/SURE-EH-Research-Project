@@ -562,7 +562,7 @@ y$sessiontimemin <- y$sessiontime2/60
 
 ```
 
-# App Use By Activity 
+# App Use By Time
 
 ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
 ```{r, warning=F, message=F, echo=F, eval=T}
@@ -644,7 +644,26 @@ p
 
 ```
 
-# Activity in Each Label Section
+# App Use By Activity 
+# # Frequency of Each Source Page Accessed on the Application 
+```{r fre-diff-links-by-language2, echo=F, warning=F, message=F, eval=T, fig.width = 7, fig.height=7}
+str(evDownload.01)
+download_data <- evDownload.01 %>%
+  count(sourcePage) %>% 
+  mutate(per = n / sum(n),
+         per_label = paste0(round(per*100), "%"))
+
+ggplot(download_data, aes(x = reorder(n, -per), y=per)) + 
+  geom_bar(stat = "identity", fill = "lavender", color = "black") + 
+  geom_text(aes(label=per_label), vjust=-0.25) + 
+  labs(x = "Source Page", y = "Count",  
+       title = "Frequency of Each Source Page Accessed on the Application") + 
+  scale_y_continuous(labels(scales::percent)) + 
+  theme_bw() + 
+  scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
+```
+
+# # Activity in Each Label Section 
 ```{r activity-in-label-sections, echo=F, warning=F, message=F, eval=T, fig.width = 12, fig.height=12}
 library(ggplot2)
 library(tidyverse)
@@ -662,8 +681,8 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
     ggtitle("¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ Views by Label Sections") 
 ```
 
-
-```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 6, fig.height=6}
+# # Frequency of Different Links by Language
+```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T}
 library(dplyr)
 library(ggplot2)
 
@@ -677,23 +696,6 @@ labs(title = "Frequency of Different Links by Language",
   theme_classic() +
   scale_fill_brewer(palette = "Pastel1") 
 
-```
-
-```{r fre-diff-links-by-language2, echo=F, warning=F, message=F, eval=T, fig.width = 7, fig.height=7}
-str(evDownload.01)
-download_data <- evDownload.01 %>%
-  count(sourcePage) %>% 
-  mutate(per = n / sum(n),
-         per_label = paste0(round(per*100), "%"))
-
-ggplot(download_data, aes(x = reorder(n, -per), y=per)) + 
-  geom_bar(stat = "identity", fill = "lavender", color = "black") + 
-  geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Source Page", y = "Count",  
-       title = "Frequency of Each Source Page Accessed on the Application") + 
-  scale_y_continuous(labels(scales::percent)) + 
-  theme_bw() + 
-  scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
 ```
 
 

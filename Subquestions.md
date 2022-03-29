@@ -236,7 +236,7 @@ Unique users (aid)
 
 ## Frequency of Different Languages by Operating System
 
-# App Use By Activity
+# App Use By Time
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
@@ -254,11 +254,9 @@ Unique users (aid)
 
 ![](Subquestions_files/figure-markdown_strict/unnamed-chunk-8-1.png)
 
-# Activity in Each Label Section
+# App Use By Activity
 
-![](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
-
-![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language-1.png)
+# # Frequency of Each Source Page Accessed on the Application
 
     ## 'data.frame':    354 obs. of  6 variables:
     ##  $ aid       : chr  "d0573972b4e5751d9eee0d67e0696bd97f9563f09542e9fa0a494a60b5304332" "aa60dce9815bd4c2958e1a9410bb1ec6656202a67c1676877a99abbffc0dc703" "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea" "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03" ...
@@ -269,6 +267,14 @@ Unique users (aid)
     ##  $ ts        : chr  "2020-08-27T11:56:40.858Z" "2020-08-27T19:05:52.237Z" "2020-08-29T17:32:42.200Z" "2020-09-01T21:21:23.077Z" ...
 
 ![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language2-1.png)
+
+# # Activity in Each Label Section
+
+![](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
+
+# # Frequency of Different Links by Language
+
+![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language-1.png)
 
 # Average Session Duration
 
