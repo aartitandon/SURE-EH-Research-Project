@@ -241,6 +241,8 @@ Unique users (aid)
 
 ![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-device-1.png)
 
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+
 ## Frequency of Different Languages by Operating System
 
 # App Use By Time

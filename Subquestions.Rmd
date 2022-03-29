@@ -390,7 +390,7 @@ merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 
 # App Use by Device
 
-```{r creating-sessions, echo=F, eval=F}
+```{r creating-sessions, echo=F, eval=T}
 # Goal: Creating Sessions. 
 # 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
 
@@ -486,7 +486,7 @@ ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) +
       scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10")) 
 ```
 
-```{r echo=F, eval=F}
+```{r echo=F, eval=T}
 # Frequency of Different Languages by Device w/ Percentage Labels 
 
 ggplot(aid_device_language, aes(x=evDesc2)) + 
@@ -682,7 +682,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 ## Frequency of Different Links by Language
-```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 10, fig.height=10}
+```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 13, fig.height=10}
 library(dplyr)
 library(ggplot2)
 
