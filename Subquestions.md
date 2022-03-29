@@ -17,7 +17,7 @@ members and generated descriptive statistics for three subsets:
 -   evStart
 -   evViewPage.01
 
-# Features to help understand user characteristics:
+# Features to Help Understand User Characteristics:
 
 -   Location
 -   Device
@@ -228,9 +228,9 @@ Unique users (aid)
 
 <img src="Subquestions_files/figure-markdown_strict/user-map-wa-allcounties-1.png" width="100%" />
 
-# Which devices are utilized to access the application?
+# App Use by Device
 
-# Which language is more frequently utilized with the ‘Pesticide Labels Now’ application?
+# App Use by Language
 
 ## Frequency of Different Languages by Device
 

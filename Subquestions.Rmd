@@ -88,7 +88,7 @@ A data dictionary and descriptive statistics were prepared based on the Pesticid
 - evStart
 - evViewPage.01
 
-# Features to help understand user characteristics: 
+# Features to Help Understand User Characteristics: 
 - Location 
 - Device 
 - Language 
@@ -388,7 +388,7 @@ ignores <- read.csv("ignores.csv")
 merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 ```
 
-# Which devices are utilized to access the application? 
+# App Use by Device
 
 ```{r creating-sessions, echo=F, eval=F}
 # Goal: Creating Sessions. 
@@ -432,7 +432,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 ```{r creating-sessions, echo=F, eval=F}
 ```
 
-# Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
+# App Use by Language
 ```{r languagefrequency, warning=F, message=F, echo=F, results=F, eval=F}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
@@ -663,7 +663,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 
-```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 10, fig.height=10}
+```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 6, fig.height=6}
 library(dplyr)
 library(ggplot2)
 
@@ -679,7 +679,7 @@ labs(title = "Frequency of Different Links by Language",
 
 ```
 
-```{r fre-diff-links-by-language2, echo=F, warning=F, message=F, eval=T, fig.width = 10, fig.height=10}
+```{r fre-diff-links-by-language2, echo=F, warning=F, message=F, eval=T, fig.width = 7, fig.height=7}
 str(evDownload.01)
 download_data <- evDownload.01 %>%
   count(sourcePage) %>% 
@@ -694,10 +694,6 @@ ggplot(download_data, aes(x = reorder(n, -per), y=per)) +
   scale_y_continuous(labels(scales::percent)) + 
   theme_bw() + 
   scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
-```
-
-```{r}
-
 ```
 
 
