@@ -245,6 +245,8 @@ Unique users (aid)
 
 # App Use by Language
 
+## Frequency of Each Language Accessed on the Application
+
 ![](Subquestions_files/figure-markdown_strict/languagefrequency-1.png)
 
 ## Frequency of Different Languages by Device
@@ -257,6 +259,10 @@ Unique users (aid)
 ![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-device-1.png)
 
 ## Frequency of Different Languages by Operating System
+
+    ##      row col
+
+![](Subquestions_files/figure-markdown_strict/unnamed-chunk-2-1.png)
 
 # App Use By Time
 

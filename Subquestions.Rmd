@@ -429,6 +429,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 ```
 
 # App Use by Language
+## Frequency of Each Language Accessed on the Application
 ```{r languagefrequency, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
@@ -490,15 +491,16 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
 ```
 
 ## Frequency of Different Languages by Operating System 
-```{r echo=F, eval=F}
+```{r echo=F, eval=T}
 #Without percentage labels 
 library(car)
 aid_device_language2 <- aid_device_language
 aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('iphone') = 'iOS'")
 aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('ipad') = 'iOS'")
 aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('android') = 'Android'")
-aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('Pixel 3a: Android 10') = 'android'")
+#aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('Pixel 3a: Android 10') = 'Android'")
 #aid_device_language2$device_cat <- case_when(aid_device_language2$device_cat == "Pixel 3a: Android 10" ~ "android", TRUE ~ NA)
+
 
 aid_device_language2 <- filter(aid_device_language2, !is.na(device_cat))
 
