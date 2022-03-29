@@ -234,6 +234,13 @@ Unique users (aid)
 
 ## Frequency of Different Languages by Device
 
+    ##     
+    ##      android ipad iphone Pixel 3a: Android 10
+    ##   en     457  335   1383                    0
+    ##   es     610   74    808                    1
+
+![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-device-1.png)
+
 ## Frequency of Different Languages by Operating System
 
 # App Use By Time

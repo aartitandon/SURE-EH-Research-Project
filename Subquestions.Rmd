@@ -212,9 +212,9 @@ print(freq(evDownload.01$evType, report.nas = F, totals = T, cumul = F, headings
 
 ## evStart
 
-```{r evStart-summary, eval=F, warning=F, message=F, echo=F, results='asis'}
+```{r evStart-summary, warning=F, message=F, echo=F, results='asis'}
 
-print(freq(evStart$evDesc1, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+#print(freq(evStart$evDesc1, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
 
 #Tally device type using evDesc2 (all sessions)
 
@@ -231,7 +231,7 @@ rm(s)
 evStart.unique.device <- evStart %>%
   distinct_at(vars(aid), .keep_all = TRUE)
 
-print(freq(evStart.unique.device$device_cat, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
+#print(freq(evStart.unique.device$device_cat, report.nas = F, totals = T, cumul = F, headings = T, order="freq", style = 'rmarkdown'))
 
 #print(freq(evStart$evDesc3, report.nas = F, totals = T, cumul = F, headings = T, order="freq"), method="render")
 
@@ -464,7 +464,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Frequency of Different Languages by Device
-```{r freq-of-lang-by-device, echo=F, eval=F}
+```{r freq-of-lang-by-device, echo=F, eval=T}
 # Retrieving each ID's device and accessed language
 library(tidyr)
 library(ggplot2)
@@ -664,7 +664,7 @@ ggplot(download_data, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Activity in Each Label Section 
-```{r activity-in-label-sections, echo=F, warning=F, message=F, eval=T}
+```{r activity-in-label-sections, echo=F, warning=F, message=F, eval=T, fig.width = 10, fig.height=10}
 library(ggplot2)
 library(tidyverse)
 
@@ -682,7 +682,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 ## Frequency of Different Links by Language
-```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 10}
+```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 10, fig.height=10}
 library(dplyr)
 library(ggplot2)
 
