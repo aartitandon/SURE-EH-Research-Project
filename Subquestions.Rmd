@@ -716,7 +716,7 @@ labs(title = "Frequency of Different Links by Language",
 ```
 
 ## Table of Searched Pesticides in Descending Order 
-```{r searchedpesticides, warning=F, message=F, echo=F, results=F, eval=T}
+```{r searchedpesticides, warning=F, message=F, echo=F, results=T, eval=T}
 library("dplyr")
 table <- table(evDownload.01$prodName)
 my_table <- table[order(table, decreasing = TRUE)]
