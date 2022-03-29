@@ -675,7 +675,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 ## Frequency of Different Links by Language
-```{r, eval=T}
+```{r, echo=F, warning=F, message=F, eval=T, fig.width = 17, fig.height=10}
 str(evViewPage.01)
 per_data3 <- evViewPage.01 %>%
   count(evDesc1) %>% 
@@ -709,15 +709,17 @@ labs(title = "Frequency of Different Links by Language",
 
 ```
 
-```{r, eval=F}
+```{r, eval=T}
 library("dplyr")
-table <- (evDownload.01$prodName)
-table <- sort(table, decreasing = TRUE)
-table
-sort(evDownload.01$prodName)
-table(evDownload.01$prodName)
+table <- table(evDownload.01$prodName)
+my_table <- table[order(table, decreasing = TRUE)]
+my_table
 ```
 
+
+my_tab_sort2 <- my_tab[order(my_tab,       # Decreasing order of table
+                             decreasing = TRUE)]
+my_tab_sort2 
 
 # Average Session Duration 
 ## 90.11 minutes
