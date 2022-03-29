@@ -232,71 +232,45 @@ Unique users (aid)
 
 ## Devices Utilized to Access the Application
 
-    ## 'data.frame':    11220 obs. of  9 variables:
-    ##  $ aid       : chr  "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34" "4ed7c47c99a436bc7af83247107d18732b99834e3caf6d8dd0f9fc02ddbcee34" "38e8e6b6869f850b8a33196fc4c4efef815e73970c7d40274583ae2b9912fc2b" "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea" ...
-    ##  $ evDesc1   : chr  "1.0.4 (34)" "1.0.4 (34)" "1.0.4 (34)" "1.0.0 (30)" ...
-    ##  $ evDesc2   : chr  "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios" "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.0.1,ios" "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.7,ios" "iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.5.1,ios" ...
-    ##  $ evDesc3   : chr  "(35.051366873052984,-79.04818778145427)" "(35.05139093907041,-79.04810525826915)" "(35.225780965553675,-80.77426135851753)" "(38.190336609848934,-121.23048384393766)" ...
-    ##  $ evType    : chr  "evStart" "evStart" "evStart" "evStart" ...
-    ##  $ ts        : chr  "2020-08-26T00:03:57.358Z" "2020-08-26T00:05:23.548Z" "2020-08-26T03:33:11.980Z" "2020-08-26T17:08:48.632Z" ...
-    ##  $ device_cat: chr  "iphone" "iphone" "iphone" "iphone" ...
-    ##  $ lat       : chr  "35.051366873052984" "35.05139093907041" "35.225780965553675" "38.190336609848934" ...
-    ##  $ lon       : chr  "-79.04818778145427" "-79.04810525826915" "-80.77426135851753" "-121.23048384393766" ...
-
-![](Subquestions_files/figure-markdown_strict/operating-systems-1.png)
+![](Subquestions_files/figure-markdown_strict/analyzing-devices-1.png)
 
 # App Use by Language
 
 ## Frequency of Each Language Accessed on the Application
 
-![](Subquestions_files/figure-markdown_strict/languagefrequency-1.png)
+![](Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png)
 
 ## Frequency of Different Languages by Device
-
-    ##     
-    ##      android ipad iphone Pixel 3a: Android 10
-    ##   en     457  335   1383                    0
-    ##   es     610   74    808                    1
 
 ![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-device-1.png)
 
 ## Frequency of Different Languages by Operating System
 
-    ##      row col
-
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png)
 
 # App Use By Time
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](Subquestions_files/figure-markdown_strict/heatmap1-1.png)
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](Subquestions_files/figure-markdown_strict/heatmap2-1.png)
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Session Time (in minutes)’
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](Subquestions_files/figure-markdown_strict/heatmap3-1.png)
 
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+![](Subquestions_files/figure-markdown_strict/heatmap4-1.png)
 
 # App Use By Activity
 
 ## Frequency of Each Source Page Accessed on the Application
 
-    ## 'data.frame':    354 obs. of  6 variables:
-    ##  $ aid       : chr  "d0573972b4e5751d9eee0d67e0696bd97f9563f09542e9fa0a494a60b5304332" "aa60dce9815bd4c2958e1a9410bb1ec6656202a67c1676877a99abbffc0dc703" "66be76760e5c86168772ae342b57eef1af5a54ad7e9552c73fa684f8a9fdd0ea" "33c5b5f6fe19a77b8433f9a516da568e6bd61fd3c1dadb607c7b27ad672ada03" ...
-    ##  $ epaReg    : chr  "66330-404" "42750-19-5905" "432-1575" "9779-273" ...
-    ##  $ prodName  : chr  "KASUMIN 2L" "2,4-D AMINE 4 HERBICIDE" "ALTUS" "AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE" ...
-    ##  $ sourcePage: chr  "PICOL" "PICOL" "PICOL" "PICOL" ...
-    ##  $ evType    : chr  "evDownloadLabel" "evDownloadLabel" "evDownloadLabel" "evDownloadLabel" ...
-    ##  $ ts        : chr  "2020-08-27T11:56:40.858Z" "2020-08-27T19:05:52.237Z" "2020-08-29T17:32:42.200Z" "2020-09-01T21:21:23.077Z" ...
-
-![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language2-1.png)
+![](Subquestions_files/figure-markdown_strict/source-page-1.png)
 
 ## Activity in Each Label Section
 
@@ -304,286 +278,13 @@ Unique users (aid)
 
 ## Frequency of Links Utilized
 
-    ## 'data.frame':    3671 obs. of  6 variables:
-    ##  $ aid    : chr  "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2" "ac1e51c717cdc4efc891f63dc74e49ff3b9b4d4243672f46bcd47c14a7e43883" "97362f1ba9b08a01f001a4b5c1d5a6a15d296aadf248847e157e5efe41f8c2c2" "ac1e51c717cdc4efc891f63dc74e49ff3b9b4d4243672f46bcd47c14a7e43883" ...
-    ##  $ evDesc1: chr  "Labels Search" "Labels Search" "PICOL Search" "Resources" ...
-    ##  $ evDesc2: chr  "en" "en" "en" "en" ...
-    ##  $ evDesc3: chr  "" "" "" "" ...
-    ##  $ evType : chr  "evViewPage" "evViewPage" "evViewPage" "evViewPage" ...
-    ##  $ ts     : chr  "2020-08-26T00:05:03.601Z" "2020-08-26T00:05:23.939Z" "2020-08-26T00:05:35.367Z" "2020-08-26T00:05:35.795Z" ...
-
-![](Subquestions_files/figure-markdown_strict/unnamed-chunk-9-1.png)
+![](Subquestions_files/figure-markdown_strict/freq-of-links-1.png)
 
 ## Frequency of Different Links by Language
 
-![](Subquestions_files/figure-markdown_strict/fre-diff-links-by-language-1.png)
+![](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
 
 ## Table of Searched Pesticides in Descending Order
-
-    library("dplyr")
-    table <- table(evDownload.01$prodName)
-    my_table <- table[order(table, decreasing = TRUE)]
-    my_table
-
-    ## 
-    ##                                    Lorsban® Advanced 
-    ##                                                   23 
-    ##                                    PARAQUAT 43.2% SL 
-    ##                                                   18 
-    ##                              2,4-D AMINE 4 HERBICIDE 
-    ##                                                   16 
-    ##                             2,4-D /AMINE 4 HERBICIDE 
-    ##                                                   14 
-    ##                              Lorsban®-4E Insecticide 
-    ##                                                   12 
-    ##                               440 SUPERIOR SPRAY OIL 
-    ##                                                   11 
-    ##                                         Delegate® WG 
-    ##                                                   11 
-    ##                                          Carbaryl 4L 
-    ##                                                   10 
-    ##                      ABBA ULTRA MITICIDE/INSECTICIDE 
-    ##                                                    9 
-    ##                               440 Superior Spray Oil 
-    ##                                                    8 
-    ##                                     Acramite® - 50WS 
-    ##                                                    8 
-    ##                             Assail® 70WP Insecticide 
-    ##                                                    8 
-    ##                                 Belt® SC Insecticide 
-    ##                                                    7 
-    ##                      Calypso® 4 Flowable Insecticide 
-    ##                                                    7 
-    ##                   3336 F TURF & ORNAMENTAL FUNGICIDE 
-    ##                                                    6 
-    ##                             Rex Lime Sulfur Solution 
-    ##                                                    6 
-    ##                     ABBA 0.15EC MITICIDE/INSECTICIDE 
-    ##                                                    5 
-    ##                           GRAMOXONE SL 2.0 HERBICIDE 
-    ##                                                    5 
-    ##                                        120 HERBICIDE 
-    ##                                                    4 
-    ##             ABACUS AGRICULTURAL MITICIDE/INSECTICIDE 
-    ##                                                    4 
-    ##                                            ABBA 0.15 
-    ##                                                    4 
-    ##                         BRANDT LIME SULFUR FUNGICIDE 
-    ##                                                    4 
-    ##                FireLine™ 17 WP fungicide/bactericide 
-    ##                                                    4 
-    ##                                 GALIGAN 2E HERBICIDE 
-    ##                                                    4 
-    ##                               ROUNDUP POWER MAX HERB 
-    ##                                                    4 
-    ##                                        2,4-D AMINE 4 
-    ##                                                    3 
-    ##                                470 SUPREME SPRAY OIL 
-    ##                                                    3 
-    ##                       AGRI-FLEX MITICIDE/INSECTICIDE 
-    ##                                                    3 
-    ##                              ASSAIL 70WP INSECTICIDE 
-    ##                                                    3 
-    ##                          DuPont™ Fontelis® FUNGICIDE 
-    ##                                                    3 
-    ##                                    Isomate®  CM Flex 
-    ##                                                    3 
-    ##                                  SULFUR DRY FLOWABLE 
-    ##                                                    3 
-    ##       3336 70EG TURF & ORNAMENTAL SYSTEMIC FUNGICIDE 
-    ##                                                    2 
-    ##                          ABAMEX MITICIDE/INSECTICIDE 
-    ##                                                    2 
-    ##                                          ABBA 0.15EC 
-    ##                                                    2 
-    ##                                ACENTHRIN INSECTICIDE 
-    ##                                                    2 
-    ##                                ACETO BIFENTHRIN 2 EC 
-    ##                                                    2 
-    ##                                          AGRI-MEK SC 
-    ##                                                    2 
-    ##                                        AGRI-MYCIN 17 
-    ##                                                    2 
-    ##         AGRISOLUTIONS DIMATE 4E SYSTEMIC INSECTICIDE 
-    ##                                                    2 
-    ##                                Asana® XL Insecticide 
-    ##                                                    2 
-    ## CHAMP DRY PRILL AGRICULTURAL FUNGICIDE / BACTERICIDE 
-    ##                                                    2 
-    ##                             CHAMP FORMULA 2 FLOWABLE 
-    ##                                                    2 
-    ##                                    Cidetrak® Da Mec™ 
-    ##                                                    2 
-    ##                              DELEGATE WG INSECTICIDE 
-    ##                                                    2 
-    ##        DiPel® DF Biological Insecticide Dry Flowable 
-    ##                                                    2 
-    ##                        DuPONT LANNATE LV INSECTICIDE 
-    ##                                                    2 
-    ##                                     DuPont™ Altacor® 
-    ##                                                    2 
-    ##                                FUSILADE DX HERBICIDE 
-    ##                                                    2 
-    ##                       Intruder® Max 70WP Insecticide 
-    ##                                                    2 
-    ##                         LEAF LIFE GAVICIDE GREEN 415 
-    ##                                                    2 
-    ##                                             LEPROTEC 
-    ##                                                    2 
-    ##                                      REGULATE SELECT 
-    ##                                                    2 
-    ##                          ROUNDUP POWER MAX HERBICIDE 
-    ##                                                    2 
-    ##              TIMECTIN 0.15EC AG INSECTICIDE/MITICIDE 
-    ##                                                    2 
-    ##                     Warrior II with Zeon Technology® 
-    ##                                                    2 
-    ##                                                 6-BA 
-    ##                                                    1 
-    ##                    ABAMECTIN 2% MITICIDE/INSECTICIDE 
-    ##                                                    1 
-    ##                                    ACADEMY FUNGICIDE 
-    ##                                                    1 
-    ##                            ACEPHATE 97UP INSECTICIDE 
-    ##                                                    1 
-    ##                                        ACRAMITE-50WS 
-    ##                                                    1 
-    ##                                        ACTIGARD 50WG 
-    ##                                                    1 
-    ##                              ADAMENT 50 WG FUNGICIDE 
-    ##                                                    1 
-    ##                       ADMIRE PRO SYSTEMIC PROTECTANT 
-    ##                                                    1 
-    ##                                      ADORN FUNGICIDE 
-    ##                                                    1 
-    ##                                           AGCLOR 310 
-    ##                                                    1 
-    ##                     AGRI-FOS SYSTEMIC FUNGICIDE PLUS 
-    ##                                                    1 
-    ##                     AGRI-MEK SC MITICIDE/INSECTICIDE 
-    ##                                                    1 
-    ##                       AGRISOLUTIONS RUGGED HERBICIDE 
-    ##                                                    1 
-    ##                                     AIM EC HERBICIDE 
-    ##                                                    1 
-    ##                                                ALTUS 
-    ##                                                    1 
-    ##              Ambush® 25W Insecticide Wettable Powder 
-    ##                                                    1 
-    ##                        APOGEE PLANT GROWTH REGULATOR 
-    ##                                                    1 
-    ##            AZAGUARD BOTANICAL INSECTICIDE/NEMATICIDE 
-    ##                                                    1 
-    ##                                               AZAMAX 
-    ##                                                    1 
-    ##                                       BATTALLION 2EC 
-    ##                                                    1 
-    ##                             BSP LIME-SULFUR SOLUTION 
-    ##                                                    1 
-    ##                  BUCCANEER PLUS GLYPHOSATE HERBICIDE 
-    ##                                                    1 
-    ##                                              CAPTIVA 
-    ##                                                    1 
-    ##                               CLEANSHOT 4L HERBICIDE 
-    ##                                                    1 
-    ##            DREXEL MALATHION 5EC INSECTICIDE/MITICIDE 
-    ##                                                    1 
-    ##                                        DuPONT EXIREL 
-    ##                                                    1 
-    ##            ecoFOG-170 DPA POST-HARVEST DIPHENYLAMINE 
-    ##                                                    1 
-    ##                                              ENTRUST 
-    ##                                                    1 
-    ##                 ENTRUST SC NATURALYTE INSECT CONTROL 
-    ##                                                    1 
-    ##             Entrust® SC Naturalite®   Insect Control 
-    ##                                                    1 
-    ##                                              Eraser™ 
-    ##                                                    1 
-    ##                                    FLUDIOXONIL 2L PH 
-    ##                                                    1 
-    ##                                    GLY STAR ORIGINAL 
-    ##                                                    1 
-    ##                                        GLY STAR PLUS 
-    ##                                                    1 
-    ##                                GOVERN 4E INSECTICIDE 
-    ##                                                    1 
-    ##                                HAWK-I 2L INSECTICIDE 
-    ##                                                    1 
-    ##                                              HDH TBZ 
-    ##                                                    1 
-    ##                                    IAP 440 SPRAY OIL 
-    ##                                                    1 
-    ##                      IAP HI SUPREME 440 SPRAY OIL-NW 
-    ##                                                    1 
-    ##                                           KASUMIN 2L 
-    ##                                                    1 
-    ##                                        LAMBDA SELECT 
-    ##                                                    1 
-    ##                                  Lambda-CY™ EC - RUP 
-    ##                                                    1 
-    ##                                    LIME SULFUR ULTRA 
-    ##                                                    1 
-    ##                LIME-SULFUR SOLUTION -CANCELLED 2020- 
-    ##                                                    1 
-    ##                    LIME-SULFUR SOLUTION AG FUNGICIDE 
-    ##                                                    1 
-    ##                                         LORSBAN 75WG 
-    ##                                                    1 
-    ##                               LORSBAN-4E INSECTICIDE 
-    ##                                                    1 
-    ##                                     LUNA TRANQUILITY 
-    ##                                                    1 
-    ##                                      Luna® SENSATION 
-    ##                                                    1 
-    ##                                         MAD DOG PLUS 
-    ##                                                    1 
-    ##                       MERIVON XEMIUM BRAND FUNGICIDE 
-    ##                                                    1 
-    ##                    NU-COP 50DF FUNGICIDE/BACTERICIDE 
-    ##                                                    1 
-    ##                                   ONAGER EW MITICIDE 
-    ##                                                    1 
-    ##                                        PARA-SHOT 3.0 
-    ##                                                    1 
-    ##                                          Pitch® 35WP 
-    ##                                                    1 
-    ##                           PROCURE 480SC AG FUNGICIDE 
-    ##                                                    1 
-    ##                                  PROWL H2O HERBICIDE 
-    ##                                                    1 
-    ##                  QUALI-PRO GLYPHOSATE PLUS HERBICIDE 
-    ##                                                    1 
-    ##                                   RELY 280 HERBICIDE 
-    ##                                                    1 
-    ##                                            RESIST 57 
-    ##                                                    1 
-    ##                             REX LIME SULFUR SOLUTION 
-    ##                                                    1 
-    ##                                  ROUNDUP WEATHER MAX 
-    ##                                                    1 
-    ##                        ROUNDUP WEATHER MAX HERBICIDE 
-    ##                                                    1 
-    ##                   SEVIN SL CARBARYL INSECTICIDE (ES) 
-    ##                                                    1 
-    ##                  Success® NATURALYTE® INSECT CONTROL 
-    ##                                                    1 
-    ##                   TALSTAR P PROFESSIONAL INSECTICIDE 
-    ##                                                    1 
-    ##                   TOPGUARD FUNGICIDE SPECIALTY CROPS 
-    ##                                                    1 
-    ##                                               Ultor® 
-    ##                                                    1 
-    ##                               VALENT ENVOY HERBICIDE 
-    ##                                                    1 
-    ##                                          VELUM PRIME 
-    ##                                                    1 
-    ##                                            VINAGREEN 
-    ##                                                    1 
-    ##                           WILLOWOOD ABAMECTIN 0.15EC 
-    ##                                                    1 
-    ##                   WYNCA USA SUNPHOSATE 41% HERBICIDE 
-    ##                                                    1
 
 # Average Session Duration
 

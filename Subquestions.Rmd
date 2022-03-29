@@ -390,7 +390,8 @@ merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 
 # App Use by Device
 
-```{r creating-sessions, echo=F, eval=T}
+```{r creating-sessions, warning=F, message=F, echo=F, eval=T}
+
 # Goal: Creating Sessions. 
 # 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
 
@@ -409,7 +410,7 @@ x$ts <- ymd_hms(x$ts)
 ```
 
 ## Devices Utilized to Access the Application
-```{r operating-systems, echo=F, eval=T}
+```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -430,7 +431,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
-```{r languagefrequency, warning=F, message=F, echo=F, results=F, eval=T}
+```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
 library("dplyr")
@@ -455,7 +456,8 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Frequency of Different Languages by Device
-```{r device_cat_aid, echo=F, eval=T}
+```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
+
 # Retrieving each ID's device and accessed language
 library(tidyr)
 library(ggplot2)
@@ -466,7 +468,8 @@ aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid")
 table(aid_device_language$evDesc2, aid_device_language$device_cat)
 ```
 
-```{r freq-of-lang-by-device, echo=F, eval=T}
+```{r freq-of-lang-by-device, warning=F, message=F, echo=F, results=F, eval=T}
+
 # Frequency of Different Languages by Device
 
 ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
@@ -479,7 +482,7 @@ ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) +
       scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10"))
 ```
 
-```{r echo=F, eval=F}
+```{r freq-of-lang-by-device-with-percents, warning=F, message=F, echo=F, results=F, eval=F}
 # Frequency of Different Languages by Device w/ Percentage Labels 
 # the percentages are not accurately placed
 
@@ -493,7 +496,7 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
 ```
 
 ## Frequency of Different Languages by Operating System 
-```{r echo=F, eval=T}
+```{r freq-of-lang-by-operating-system, warning=F, message=F, echo=F, results=F, eval=T}
 #Without percentage labels 
 library(car)
 aid_device_language2 <- aid_device_language
@@ -531,7 +534,8 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
 ```
 
 
-```{r, echo=F}
+```{r creating sessions, warning=F, message=F, echo=F, results=F, eval=T}
+
 # Y = unique Sessions including activity, start time, end time, etc. 
 
 library(data.table)
@@ -560,7 +564,7 @@ y$sessiontimemin <- y$sessiontime2/60
 # App Use By Time
 
 ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
-```{r, warning=F, message=F, echo=F, eval=T}
+```{r heatmap1, warning=F, message=F, echo=F, results=F, eval=T}
 # x=day, y=month, fill="activity"/number of occurances
 
 library(lubridate)
@@ -582,7 +586,7 @@ ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
 ```
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
-```{r, warning=F, message=F, echo=F, eval=T}
+```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
 
 # x=hour of the day, y=day of the month, fill="activity"/number of occurances
 ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
@@ -594,7 +598,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
 ```
 
 ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Session Time (in minutes)'
-```{r, warning=F, message=F, echo=F, eval=T}
+```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T}
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
 
@@ -607,7 +611,7 @@ scale_y_discrete(limits = month.abb) +
 ```
 
 ## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
-```{r, echo=F}
+```{r heatmap4, warning=F, message=F, echo=F, results=F, eval=T}
 
 library(ggplot2)
 library(dplyr) #easier data wrangling 
@@ -641,7 +645,7 @@ p
 
 # App Use By Activity 
 ## Frequency of Each Source Page Accessed on the Application 
-```{r fre-diff-links-by-language2, echo=F, warning=F, message=F, eval=T, fig.width = 7, fig.height=7}
+```{r source-page, echo=F, warning=F, message=F, results=F, eval=T, fig.width = 7, fig.height=7}
 str(evDownload.01)
 download_data <- evDownload.01 %>%
   count(sourcePage) %>% 
@@ -659,7 +663,7 @@ ggplot(download_data, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Activity in Each Label Section 
-```{r activity-in-label-sections, echo=F, warning=F, message=F, eval=T, fig.width = 10, fig.height=10}
+```{r activity-in-label-sections, echo=F, warning=F, message=F, results=F, eval=T, fig.width = 10, fig.height=10}
 library(ggplot2)
 library(tidyverse)
 
@@ -677,7 +681,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 ```
 
 ## Frequency of Links Utilized 
-```{r, echo=F, warning=F, message=F, eval=T, fig.width = 17, fig.height=10}
+```{r freq-of-links, echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
 str(evViewPage.01)
 per_data3 <- evViewPage.01 %>%
   count(evDesc1) %>% 
@@ -695,7 +699,7 @@ ggplot(per_data3, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Frequency of Different Links by Language
-```{r fre-diff-links-by-language, echo=F, warning=F, message=F, eval=T, fig.width = 17, fig.height=10}
+```{r freq-diff-links-by-language, echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
 library(dplyr)
 library(ggplot2)
 
@@ -712,7 +716,7 @@ labs(title = "Frequency of Different Links by Language",
 ```
 
 ## Table of Searched Pesticides in Descending Order 
-```{r, eval=T}
+```{r searchedpesticides, warning=F, message=F, echo=F, results=F, eval=T}
 library("dplyr")
 table <- table(evDownload.01$prodName)
 my_table <- table[order(table, decreasing = TRUE)]
@@ -722,7 +726,7 @@ my_table
 
 # Average Session Duration 
 ## 90.11 minutes
-```{r, echo=F}
+```{r session-duration, warning=F, message=F, echo=F, results=F, eval=F}
 # Average session duration 
 # sum(y$sessiontime)
 # (7179658/60)
