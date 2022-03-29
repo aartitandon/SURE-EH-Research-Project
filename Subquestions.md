@@ -1,6 +1,6 @@
 # How do user characteristics inform or explain their interaction with the ‘Pesticides Labels Now’ application?
 
-## Objective: To understand the ‘Pesticide Labels Now’ mobile application user audience and their preferences for app utility.
+## Objective: To understand the ‘[Pesticide Labels Now](https://deohs.washington.edu/pnash/LabelsNow)’ mobile application user audience and their preferences for app utility.
 
 <br>
 
