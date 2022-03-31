@@ -76,8 +76,8 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
 ## Authors: 
-  - Aarti Tandon^[aartit@uw.edu]
-  - Dr. Eddie Kasner
+  - name: "Aarti Tandon:
+    url: https://github.com/aartitandon/SURE-EH-Research-Project
 
 <br>
 
@@ -87,17 +87,17 @@ The ‘Pesticides Labels Now!’ mobile application strives to minimize agricult
 # Objective
 To understand the 'Pesticide Labels Now' mobile application user audience and their preferences for app utility. 
 
-# Data Dictionary
+# Features to Help Understand User Characteristics: 
+- Location 
+- Device 
+- Language 
+
+# Data Subsets
 A data dictionary and descriptive statistics were prepared based on the Pesticide Labels Now (PLN) [analysis plan](https://docs.google.com/document/d/1mUHPYdpWljCWroODGenUjYlyae2ZWwqN4MScBLXlr2U/edit). For a better representation of users, we ignored a list of random identifiers ('aid' in *ignores.csv*) associated with the project team members and generated descriptive statistics for three subsets:
 
 - evDownload.01
 - evStart
 - evViewPage.01
-
-# Features to Help Understand User Characteristics: 
-- Location 
-- Device 
-- Language 
 
 # Descriptive Statistics
 
