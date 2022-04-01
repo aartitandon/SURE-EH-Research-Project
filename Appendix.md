@@ -26,8 +26,7 @@ Unique users (aid)
 print(n_distinct(evStart$aid), style="rmarkdown")
 ```
 
-```{r evStart-dictionary, echo=F, message=F, warnings=F, results='asis'}
-tabl <- "
+
 | Variable      | Description                     |
 |---------------|---------------------------------|
 | aid           | Random device identifier        |
@@ -36,9 +35,6 @@ tabl <- "
 | evDesc3       | GPS coordinates                 |
 | evType        | Action taken on app (start page) |
 | ts            | Timestamp yyy:mm:dd:hh:mm:ss    |
-"
-cat(tabl)
-```
 
 ## evViewPage.01 subset
 
@@ -48,8 +44,6 @@ Unique users (aid)
 print(n_distinct(evViewPage.01$aid), style="rmarkdown")
 ```
 
-```{r evViewPage.01-dictionary, echo=F, message=F, warnings=F, results='asis'}
-tabl <- "
 | Variable      | Description                     |
 |---------------|---------------------------------|
 | aid           | Random device identifier        |
@@ -58,9 +52,6 @@ tabl <- "
 | evDesc3       | Pesticide label viewed          |
 | evType        | Action taken on app (view page) |
 | ts            | Timestamp yyy:mm:dd:hh:mm:ss    |
-"
-cat(tabl)
-```
 
 ## Detailed variable descriptions
 
