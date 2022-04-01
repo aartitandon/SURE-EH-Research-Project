@@ -22,6 +22,8 @@ output:
   #chunk_output_type: console
 ---
 
+\tableofcontents
+
 ```{r packages, warning=F, message=F, echo=F, results=F}
 
 if(!require(pacman)) {install.packages("pacman")}
@@ -74,9 +76,10 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 ```
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
-## Authors: Aarti Tandon & Dr. Eddie Kasner
+## Authors: Dr. Eddie Kasner & Aarti Tandon 
+Hi! My name is Aarti Tandon and I am currently working as an Undergraduate Research Assistant here at the University of Washington. I work with the Pacific Northwest Agricultural Safety and Health Center under the mentorship of Dr. Eddie Kasner and Kit Galvin. 
+This is my markdown file analyzing data from the 'Bilingual Health and Safety Messaging' application. My research helps reduce the gaps in fair and equal access for marginalized peoples by understanding our user audience and their preferences for app utility. While working on the app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
 
-#/Users/Antonio/Documents/images/tufte.book.jpg
 Hi! My name is Aarti Tandon and I am currently working 
 My research helps reduce the gaps in fair and equal access for marginalized peoples. While working on the ‘Bilingual Health and Safety Messaging’ app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
     
