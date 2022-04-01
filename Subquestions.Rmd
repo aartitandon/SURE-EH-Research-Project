@@ -622,7 +622,7 @@ labs(title = "Frequency of Different Links by Language",
 ```
 
 ## Table of Top Ten Searched Pesticides 
-```{r searchedpesticides, warning=F, message=F, echo=F, results=T, eval=T, fig.cap = "Amongst 129 total pesticides in the application, Table 1 displays the top searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021."}
+```{r searchedpesticides, fig.cap="Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.", warning=F, message=F, echo=F, results=T, eval=T, fig.cap = ""}
 
 library("dplyr")
 table <- table(evDownload.01$prodName)
@@ -630,7 +630,7 @@ my_table <- table[order(table, decreasing = TRUE)]
 my_table <- my_table[1:10] 
 kable(my_table)
 ```
-
+Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.
 
 # Average Session Duration 
 ## 90.11 minutes

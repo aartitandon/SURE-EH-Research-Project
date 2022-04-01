@@ -255,6 +255,10 @@ ABBA ULTRA MITICIDE/INSECTICIDE
 </tbody>
 </table>
 
+Amongst 129 total pesticides in the application, Table 1 displays the
+top ten searched pesticides. ‘Lorsban® Advanced’ was the most popularly
+looked at pesticide among users from August 2020-2021.
+
 # Average Session Duration
 
 ## 90.11 minutes
