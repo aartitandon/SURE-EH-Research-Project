@@ -222,12 +222,12 @@ counties_sf_t <- st_transform(counties_sf, crs=2285)
 t <- counties_sf_t %>%
   filter(state_name == "Washington")
 
-ggplot() + 
-  geom_sf(data = pln_sf_t, color="red", size=1) + 
-  geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
-  coord_sf(datum = st_crs(2285)) +
-  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
-    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
+#ggplot() + 
+  #geom_sf(data = pln_sf_t, color="red", size=1) + 
+  #geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
+  #coord_sf(datum = st_crs(2285)) +
+  #labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
+    #scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 
 ```
 
@@ -249,7 +249,7 @@ wa_study_counties <- wa_county
 
 ## Plot for WA sessions with County Names
 
-```{r user-map-wa-allcounties, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
+```{r user-map-wa-allcounties, fig.cap="User utilization is predominantly concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.", echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
 wa_study_counties <- wa_county %>% 
   filter(NAMELSAD %in% c("King County", "Whatcom County", "Chelan County", "Douglas County", "Grant County", "Yakima County", "Lewis County", "Klickitat County", "Benton County", "Franklin County", "Walla Walla County", "Pierce County", "Clark County"))
@@ -605,7 +605,7 @@ ggplot(per_data3, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Frequency of Different Links by Language
-```{r freq-diff-links-by-language, echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
+```{r freq-diff-links-by-language, fig.cap=" The frequency of each ‘Label Section’ item accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly used by English readers and 'Update News' was most popularly used by Spanish readers.", echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
 library(dplyr)
 library(ggplot2)
 
