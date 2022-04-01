@@ -77,12 +77,8 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
 ## Authors: Dr. Eddie Kasner & Aarti Tandon 
-Hi! My name is Aarti Tandon and I am currently working as an Undergraduate Research Assistant here at the University of Washington. I work with the Pacific Northwest Agricultural Safety and Health Center under the mentorship of Dr. Eddie Kasner and Kit Galvin. 
-This is my markdown file analyzing data from the 'Bilingual Health and Safety Messaging' application. My research helps reduce the gaps in fair and equal access for marginalized peoples by understanding our user audience and their preferences for app utility. While working on the app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
-
-Hi! My name is Aarti Tandon and I am currently working 
-My research helps reduce the gaps in fair and equal access for marginalized peoples. While working on the ‘Bilingual Health and Safety Messaging’ app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
-    
+Hi! My name is Aarti Tandon and I am currently working as an Undergraduate Research Assistant here at the University of Washington. I work with the Pacific Northwest Agricultural Safety and Health Center under the mentorship of Dr. Eddie Kasner and Kit Galvin. This is my markdown file that I have been working on this past year where I have analyzed data from the 'Bilingual Health and Safety Messaging' application. My research is focused on reducing the gaps in fair and equal access for marginalized peoples by understanding our user audience and their preferences for app utility. While working on the app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
+  
 
 <br>
 
@@ -204,7 +200,7 @@ ggplot() +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(-3e+06, 3e+06)) +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
 ```
-
+In the United States, user utilization is predominantly concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California. 
 ```{r user-map-wa, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
 #Plot for WA sessions
@@ -342,6 +338,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
+The three devices utilized to access the application were an iPhone, Android, or iPad. Almost 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system. 
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
@@ -549,6 +546,7 @@ p <-p + theme(legend.position = "bottom")+
 p
 
 ```
+Confused with this caption. 
 
 # App Use By Activity 
 ## Frequency of Each Source Page Accessed on the Application 
@@ -568,6 +566,7 @@ ggplot(download_data, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
 ```
+'PICOL' can be notably distinguished as the most popular source page accessed by users. 
 
 ## Activity in Each Label Section 
 ```{r activity-in-label-sections, fig.cap="The frequency of each 'Label Section' item accessed on the 'Pesticides Labels Now' application was analyzed. 'Product Information', 'Personal Protective Equipment' and 'Pesticide Labels' are the most popularly accessed sections by users.", echo=F, warning=F, message=F, results=F, eval=T, fig.width = 10, fig.height=10}
