@@ -5,21 +5,6 @@ date: "`r Sys.Date()`"
 output:
   md_document:
     toc: yes
-  html_document:
-    code_folding: hide
-    self_contained: yes
-    toc: no
-    toc_depth: 4
-    toc_float: yes
-  pdf_document:
-    latex_engine: xelatex
-    toc: yes
-    toc_depth: 4
-  word_document:
-    toc: yes
-    toc_depth: '4'
-#editor_options: 
-  #chunk_output_type: console
 ---
 
 ```{r packages, warning=F, message=F, echo=F, results=F}
@@ -75,10 +60,9 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
 ## Authors: Aarti Tandon & Dr. Eddie Kasner
+Hi! My name is Aarti Tandon and I am currently working as an Undergraduate Research Assistant here at the University of Washington. I work with the Pacific Northwest Agricultural Safety and Health Center under the mentorship of Dr. Eddie Kasner and Kit Galvin. 
 
-#/Users/Antonio/Documents/images/tufte.book.jpg
-Hi! My name is Aarti Tandon and I am currently working 
-My research helps reduce the gaps in fair and equal access for marginalized peoples. While working on the ‘Bilingual Health and Safety Messaging’ app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
+This is my markdown file analyzing data from the 'Bilingual Health and Safety Messaging' application. My research helps reduce the gaps in fair and equal access for marginalized peoples by understanding our user audience and their preferences for app utility. While working on the app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
     
 
 <br>
@@ -323,7 +307,12 @@ x$ts <- ymd_hms(x$ts)
 
 ## Devices Utilized to Access the Application
 
-```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T}
+```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T, fig.cap="~53% more activity on an iOS system than Android.
+iOS users are more likely to access the information in English than Spanish. 
+Android users are more likely to access the information in Spanish than English.
+This raises the question why Spanish-speaking users are ..
+Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust. 
+"}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -636,7 +625,6 @@ kable(my_table)
 # (7179658/60)
 # 119661/1328
 #90.11
-\newpage
 ```
 
 
