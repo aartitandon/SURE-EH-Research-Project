@@ -2,8 +2,9 @@
 
 ## Authors:
 
--   name: “Aarti Tandon: url:
-    <https://github.com/aartitandon/SURE-EH-Research-Project>
+-   Aarti Tandon: url:
+    <https://github.com/aartitandon/SURE-EH-Research-Project> ![alt
+    text](IMG_7470%202.JPG)
 
 <br>
 
@@ -140,7 +141,7 @@ An amazing plot
 
 ![](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
 
-## Table of Searched Pesticides in Descending Order
+## Table of Top Ten Searched Pesticides
 
 <table>
 <thead>

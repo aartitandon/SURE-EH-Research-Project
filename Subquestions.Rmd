@@ -75,8 +75,10 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
 ## Authors: 
-  - name: "Aarti Tandon:
+  - Aarti Tandon:
     url: https://github.com/aartitandon/SURE-EH-Research-Project
+    ![alt text](IMG_7470 2.JPG)
+    
 
 <br>
 
@@ -611,7 +613,7 @@ labs(title = "Frequency of Different Links by Language",
 
 ```
 
-## Table of Searched Pesticides in Descending Order 
+## Table of Top Ten Searched Pesticides 
 ```{r searchedpesticides, warning=F, message=F, echo=F, results=T, eval=T}
 library("dplyr")
 table <- table(evDownload.01$prodName)
