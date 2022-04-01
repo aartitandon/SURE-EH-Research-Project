@@ -445,6 +445,7 @@ x <- merged.csv.dedup %>%
   mutate(sessioneventno = row_number())
 
 x$ts <- ymd_hms(x$ts)
+x$ts <- force_tz(x$ts, "UTC")
 
 setDT(x)
 y <- x[ , .(session_start = min(ts), session_end = max(ts), num_occurance = .N), by = sessionid]
@@ -615,6 +616,7 @@ labs(title = "Frequency of Different Links by Language",
 library("dplyr")
 table <- table(evDownload.01$prodName)
 my_table <- table[order(table, decreasing = TRUE)]
+my_table <- my_table[1:10] 
 my_table
 ```
 
