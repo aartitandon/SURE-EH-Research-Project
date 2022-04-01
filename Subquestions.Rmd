@@ -475,8 +475,9 @@ y$month <- month.abb[as.numeric(y$month)]
 # (the line above converts month number to month name)
 y$year <- year(y$session_start)
 y$month = factor(y$month, levels = month.abb)
+y$Month_Yr <- format(as.Date(y$session_start), "%Y-%m")
 
-ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=num_occurance)) +
+ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
   labs(x="Day of the Month",
        y="Month",
        title = "2020-2021 Calendar Heatmap", 
@@ -501,7 +502,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
 
-ggplot(y, aes(x=day, y=month)) + geom_tile(aes(fill=sessiontimemin)) + 
+ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=sessiontimemin)) + 
 scale_y_discrete(limits = month.abb) + 
  labs(x="Day of the Month",
        y="Month",
