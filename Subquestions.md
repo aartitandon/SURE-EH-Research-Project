@@ -118,16 +118,30 @@ agricultural land.
 ## Frequency of Each Language Accessed on the Application
 
 ![](Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png)
+Figure X displays 18% more activity in English than Spanish. Since the
+’Pesticides Labels Now! application initially asks the user which
+language they wish to proceed in, there is no “default” language and the
+results can be concluded as reliable and robust.
 
 ## Frequency of Different Languages by Operating System
 
 ![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png)
+iOS users are more likely to access the information in English than
+Spanish. Android users are more likely to access the information in
+Spanish than English. This raises the question why Spanish-speaking
+users are more likely to have an Android device.
 
 # App Use By Time
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
 ![](Subquestions_files/figure-markdown_strict/heatmap1-1.png)
+Time-Series Calendar HeatMap analyzing each session’s duration in
+comparison to the day of the month, as well as the month. Growing season
+starts around mid-March till the end of November. Figure X depicts the
+increase in session duration mid-year. The rise in activity at this time
+conveys the success of the application targeting this specific
+population of farmworkers.
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
@@ -154,10 +168,17 @@ Labels Now’ application was analyzed. ‘Product Information’, ‘Personal
 Protective Equipment’ and ‘Pesticide Labels’ are the most popularly
 accessed sections by
 users.](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
+The frequency of each ‘Label Section’ item accessed on the ‘Pesticides
+Labels Now’ application was analyzed. ‘Product Information’, ‘Personal
+Protective Equipment’ and ‘Pesticide Labels’ are the most popularly
+accessed sections by users.
 
 ## Frequency of Links Utilized
 
-![](Subquestions_files/figure-markdown_strict/freq-of-links-1.png)
+![](Subquestions_files/figure-markdown_strict/freq-of-links-1.png) The
+frequency of each ‘Link’ accessed on the ‘Pesticides Labels Now’
+application was analyzed. ‘Labels Search’ was the most popularly viewed
+section by all users.
 
 ## Frequency of Different Links by Language
 
@@ -166,6 +187,10 @@ Labels Now’ application was compared to the user’s accessed language.
 ‘EULA’ was most popularly used by English readers and ‘Update News’ was
 most popularly used by Spanish
 readers.](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
+The frequency of each Link accessed on the ‘Pesticides Labels Now’
+application was compared to the user’s accessed language. ‘EULA’ was
+most popularly accessed by English readers and ‘Update News’ was most
+popularly accessed by Spanish readers.
 
 ## Table of Top Ten Searched Pesticides
 

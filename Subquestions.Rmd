@@ -368,6 +368,7 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
+Figure X displays 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust. 
 
 ```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
 
@@ -421,6 +422,7 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
       scale_x_discrete(labels = c("English", "Spanish")) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
 ```
+iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device. 
 
 ```{r, eval=F, echo=F}
 # Subquestion #4: What is the average number of labels looked at per session? 
@@ -489,6 +491,7 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
+Time-Series Calendar HeatMap analyzing each session’s duration in comparison to the day of the month, as well as the month. Growing season starts around mid-March till the end of November. Figure X depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. 
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
 ```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
@@ -583,6 +586,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
     ylab("Count (n) ") + 
     ggtitle("¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ Views by Label Sections") 
 ```
+The frequency of each 'Label Section' item accessed on the 'Pesticides Labels Now' application was analyzed. 'Product Information', 'Personal Protective Equipment' and 'Pesticide Labels' are the most popularly accessed sections by users.
 
 ## Frequency of Links Utilized 
 ```{r freq-of-links, echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
@@ -601,6 +605,7 @@ ggplot(per_data3, aes(x = reorder(n, -per), y=per)) +
   theme_bw()  + 
   scale_x_discrete(labels = c("Labels Search", "HS Label", "PICOL Search", "More", "Resources", "PICOL Label", "Feedback", "About", "EULA", "Partners", "Contact", "Disclaimer", "Privacy", "Update News"))
 ```
+The frequency of each 'Link' accessed on the 'Pesticides Labels Now' application was analyzed. 'Labels Search' was the most popularly viewed section by all users.
 
 ## Frequency of Different Links by Language
 ```{r freq-diff-links-by-language, fig.cap="The frequency of each ‘Label Section’ item accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly used by English readers and 'Update News' was most popularly used by Spanish readers.", echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
@@ -618,6 +623,7 @@ labs(title = "Frequency of Different Links by Language",
   scale_fill_brewer(palette = "Pastel1") 
 
 ```
+The frequency of each Link accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly accessed by English readers and 'Update News' was most popularly accessed by Spanish readers.
 
 ## Table of Top Ten Searched Pesticides 
 ```{r searchedpesticides, fig.cap="Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.", warning=F, message=F, echo=F, results=T, eval=T, fig.cap = ""}
