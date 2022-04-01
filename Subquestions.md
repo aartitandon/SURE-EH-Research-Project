@@ -2,19 +2,14 @@
 
 ## Authors: Aarti Tandon & Dr. Eddie Kasner
 
-Hi! My name is Aarti Tandon and I am currently working as an
-Undergraduate Research Assistant here at the University of Washington. I
-work with the Pacific Northwest Agricultural Safety and Health Center
-under the mentorship of Dr. Eddie Kasner and Kit Galvin.
-
-This is my markdown file analyzing data from the ‘Bilingual Health and
-Safety Messaging’ application. My research helps reduce the gaps in fair
-and equal access for marginalized peoples by understanding our user
-audience and their preferences for app utility. While working on the
-app, I have been able to stand at the crossroads of technology and human
-health. Using the tools of statistics and data visualization, I have
-contributed to research translation and the improvement of human health,
-environmental resilience, and social and economic equity.
+#/Users/Antonio/Documents/images/tufte.book.jpg Hi! My name is Aarti
+Tandon and I am currently working My research helps reduce the gaps in
+fair and equal access for marginalized peoples. While working on the
+‘Bilingual Health and Safety Messaging’ app, I have been able to stand
+at the crossroads of technology and human health. Using the tools of
+statistics and data visualization, I have contributed to research
+translation and the improvement of human health, environmental
+resilience, and social and economic equity.
 
 <br>
 
@@ -103,180 +98,248 @@ An amazing plot
 
 ## Devices Utilized to Access the Application
 
-\`\`\`{r analyzing-devices, warning=F, message=F, echo=F, results=F,
-eval=T, fig.cap=“~53% more activity on an iOS system than Android. iOS
-users are more likely to access the information in English than Spanish.
-Android users are more likely to access the information in Spanish than
-English. This raises the question why Spanish-speaking users are ..
-Since the ’Pesticides Labels Now! application initially asks the user
-which language they wish to proceed in, there is no “default” language
-and the results can be concluded as reliable and robust. “} #
-SubQuestion #1: Which operating systems are utilized to access the
-application?
+![](Subquestions_files/figure-markdown_strict/analyzing-devices-1.png)
 
-str(evStart) per\_data &lt;- evStart %>% count(device\_cat) %>%
-mutate(per = n / sum(n), per\_label = paste0(round(per\*100), “%”))
+# App Use by Language
 
-library(ggplot2) ggplot(per\_data, aes(x = reorder(n, -per), y=per)) +
-geom\_bar(stat = “identity”, fill = “darkseagreen1”, color = “black”) +
-geom\_text(aes(label=per\_label), vjust=-0.25) + labs(x = “Devices”, y =
-“Count”,  
-title = “Devices Utilized to Access the Application”) + theme\_bw() +
-scale\_x\_discrete(labels = c(“iPhone”, “Android”, “iPad”, “Pixel 3a:
-Android 10”))
+## Frequency of Each Language Accessed on the Application
 
+![](Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png)
 
-    # App Use by Language
-    ## Frequency of Each Language Accessed on the Application
-    ![](Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png)
+## Frequency of Different Languages by Operating System
 
+![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png)
 
+# App Use By Time
 
+## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
+![](Subquestions_files/figure-markdown_strict/heatmap1-1.png)
 
-    ## Frequency of Different Languages by Operating System 
-    ![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png)
+## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
+![](Subquestions_files/figure-markdown_strict/heatmap2-1.png)
 
+## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’
 
+![](Subquestions_files/figure-markdown_strict/heatmap3-1.png)
 
+## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
+![](Subquestions_files/figure-markdown_strict/heatmap4-1.png)
 
-    # App Use By Time
+# App Use By Activity
 
-    ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
-    ![](Subquestions_files/figure-markdown_strict/heatmap1-1.png)
+## Frequency of Each Source Page Accessed on the Application
 
-    ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
-    ![](Subquestions_files/figure-markdown_strict/heatmap2-1.png)
+![](Subquestions_files/figure-markdown_strict/source-page-1.png)
 
-    ## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
-    ![](Subquestions_files/figure-markdown_strict/heatmap3-1.png)
+## Activity in Each Label Section
 
-    ## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
-    ![](Subquestions_files/figure-markdown_strict/heatmap4-1.png)
+![](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
 
-    # App Use By Activity 
-    ## Frequency of Each Source Page Accessed on the Application 
-    ![](Subquestions_files/figure-markdown_strict/source-page-1.png)
+## Frequency of Links Utilized
 
-    ## Activity in Each Label Section 
-    ![](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
+![](Subquestions_files/figure-markdown_strict/freq-of-links-1.png)
 
-    ## Frequency of Links Utilized 
-    ![](Subquestions_files/figure-markdown_strict/freq-of-links-1.png)
+## Frequency of Different Links by Language
 
-    ## Frequency of Different Links by Language
-    ![](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
+![](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
 
-    ## Table of Top Ten Searched Pesticides 
-    <table>
-     <thead>
-      <tr>
-       <th style="text-align:left;"> Var1 </th>
-       <th style="text-align:right;"> Freq </th>
-      </tr>
-     </thead>
-    <tbody>
-      <tr>
-       <td style="text-align:left;"> Lorsban® Advanced </td>
-       <td style="text-align:right;"> 23 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> PARAQUAT 43.2% SL </td>
-       <td style="text-align:right;"> 18 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> 2,4-D AMINE 4 HERBICIDE </td>
-       <td style="text-align:right;"> 16 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> 2,4-D /AMINE 4 HERBICIDE </td>
-       <td style="text-align:right;"> 14 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> Lorsban®-4E Insecticide </td>
-       <td style="text-align:right;"> 12 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> 440 SUPERIOR SPRAY OIL </td>
-       <td style="text-align:right;"> 11 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> Delegate® WG </td>
-       <td style="text-align:right;"> 11 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> Carbaryl 4L </td>
-       <td style="text-align:right;"> 10 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> ABBA ULTRA MITICIDE/INSECTICIDE </td>
-       <td style="text-align:right;"> 9 </td>
-      </tr>
-      <tr>
-       <td style="text-align:left;"> 440 Superior Spray Oil </td>
-       <td style="text-align:right;"> 8 </td>
-      </tr>
-    </tbody>
-    </table>
+## Table of Top Ten Searched Pesticides
 
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">
+Var1
+</th>
+<th style="text-align:right;">
+Freq
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Lorsban® Advanced
+</td>
+<td style="text-align:right;">
+23
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+PARAQUAT 43.2% SL
+</td>
+<td style="text-align:right;">
+18
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2,4-D AMINE 4 HERBICIDE
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2,4-D /AMINE 4 HERBICIDE
+</td>
+<td style="text-align:right;">
+14
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Lorsban®-4E Insecticide
+</td>
+<td style="text-align:right;">
+12
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+440 SUPERIOR SPRAY OIL
+</td>
+<td style="text-align:right;">
+11
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Delegate® WG
+</td>
+<td style="text-align:right;">
+11
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Carbaryl 4L
+</td>
+<td style="text-align:right;">
+10
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+ABBA ULTRA MITICIDE/INSECTICIDE
+</td>
+<td style="text-align:right;">
+9
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+440 Superior Spray Oil
+</td>
+<td style="text-align:right;">
+8
+</td>
+</tr>
+</tbody>
+</table>
 
-    # Average Session Duration 
-    ## 90.11 minutes
+# Average Session Duration
 
+## 90.11 minutes
 
+# APPENDIX
 
-    \newpage
-    \pagenumbering{arabic}
+<br>
 
-    # APPENDIX
+# Data Dictionary
 
-    <br>
+## evDownload.01 subset
 
-    # Data Dictionary 
+Unique devices (aid)
 
-    ## evDownload.01 subset
+    ## [1] 93
 
-    Unique devices (aid)
+<table>
+<thead>
+<tr class="header">
+<th>Variable</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>aid</td>
+<td>Random device identifier</td>
+</tr>
+<tr class="even">
+<td>epaReg</td>
+<td>EPA regsistration number</td>
+</tr>
+<tr class="odd">
+<td>prodName</td>
+<td>Pesticide product name</td>
+</tr>
+<tr class="even">
+<td>sourcePage</td>
+<td>App page visited?</td>
+</tr>
+<tr class="odd">
+<td>evType</td>
+<td>Action taken on app (download)</td>
+</tr>
+<tr class="even">
+<td>ts</td>
+<td>Timestamp yyy:mm:dd:hh:mm:ss</td>
+</tr>
+</tbody>
+</table>
 
-## \[1\] 93
+## evStart subset
 
+Unique users (aid)
 
+    ## [1] 392
 
-    | Variable      | Description                    |
-    |---------------|--------------------------------|
-    | aid           | Random device identifier       |
-    | epaReg        | EPA regsistration number       |
-    | prodName      | Pesticide product name         |
-    | sourcePage    | App page visited?              |
-    | evType        | Action taken on app (download) |
-    | ts            | Timestamp yyy:mm:dd:hh:mm:ss   |
+<table>
+<thead>
+<tr class="header">
+<th>Variable</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>aid</td>
+<td>Random device identifier</td>
+</tr>
+<tr class="even">
+<td>evDesc1</td>
+<td>App version?</td>
+</tr>
+<tr class="odd">
+<td>evDesc2</td>
+<td>Device type</td>
+</tr>
+<tr class="even">
+<td>evDesc3</td>
+<td>GPS coordinates</td>
+</tr>
+<tr class="odd">
+<td>evType</td>
+<td>Action taken on app (start page)</td>
+</tr>
+<tr class="even">
+<td>ts</td>
+<td>Timestamp yyy:mm:dd:hh:mm:ss</td>
+</tr>
+</tbody>
+</table>
 
-    ## evStart subset
+## evViewPage.01 subset
 
-    Unique users (aid)
+Unique users (aid)
 
-## \[1\] 392
-
-
-
-    | Variable      | Description                     |
-    |---------------|---------------------------------|
-    | aid           | Random device identifier        |
-    | evDesc1       | App version?                    |
-    | evDesc2       | Device type                     |
-    | evDesc3       | GPS coordinates                 |
-    | evType        | Action taken on app (start page) |
-    | ts            | Timestamp yyy:mm:dd:hh:mm:ss    |
-
-    ## evViewPage.01 subset
-
-    Unique users (aid)
-
-## \[1\] 358
-
-\`\`\`
+    ## [1] 358
 
 <table>
 <thead>
