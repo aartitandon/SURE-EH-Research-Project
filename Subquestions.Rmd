@@ -4,17 +4,18 @@ subtitle: "Draft"
 date: "`r Sys.Date()`"
 output:
   md_document:
+    toc: TRUE
+    toc_depth: 4
+  pdf_document:
+    latex_engine: xelatex
     toc: yes
+    toc_depth: 4
   html_document:
     code_folding: hide
     self_contained: yes
     toc: no
     toc_depth: 4
     toc_float: yes
-  pdf_document:
-    latex_engine: xelatex
-    toc: yes
-    toc_depth: 4
   word_document:
     toc: yes
     toc_depth: '4'
@@ -76,7 +77,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 ```
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
-## Authors: Dr. Eddie Kasner & Aarti Tandon
+## Authors: Aarti Tandon, Eddie Kasner, Kit Galvin, Pablo Palmández
 
 <br>
 
@@ -646,12 +647,8 @@ Amongst 129 total pesticides in the application, Table 1 displays the top ten se
 # (7179658/60)
 # 119661/1328
 #90.11
-\newpage
 ```
 
-
-\newpage
-\pagenumbering{arabic}
 
 # APPENDIX
 
