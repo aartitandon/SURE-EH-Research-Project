@@ -8,11 +8,6 @@
 
 Unique devices (aid)
 
-```{r unique-evDownload-users, echo=F, warning=F, message=F}
-
-print(n_distinct(evDownload.01$aid), style="rmarkdown")
-
-
 | Variable      | Description                    |
 |---------------|--------------------------------|
 | aid           | Random device identifier       |
