@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   md_document:
     toc: true
-    number_sections: true
+    toc_depth: 4
   html_document:
     code_folding: hide
     self_contained: yes
@@ -19,9 +19,8 @@ output:
   word_document:
     toc: yes
     toc_depth: '4'
-editor_options: 
-  chunk_output_type: console
-  
+#editor_options: 
+  #chunk_output_type: console
 ---
 
 ```{r packages, warning=F, message=F, echo=F, results=F}
@@ -202,6 +201,7 @@ ggplot() +
 ```
 
 ## Plot for WA sessions
+
 ```{r user-map-wa, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
 #Plot for WA sessions
@@ -243,6 +243,7 @@ wa_study_counties <- wa_county
 ```
 
 ## Plot for WA sessions with County Names
+
 ```{r user-map-wa-allcounties, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
 wa_study_counties <- wa_county %>% 
@@ -319,6 +320,7 @@ x$ts <- ymd_hms(x$ts)
 ```
 
 ## Devices Utilized to Access the Application
+
 ```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
