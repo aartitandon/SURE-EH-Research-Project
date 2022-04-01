@@ -947,3 +947,16 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
 
 ```
 
+```{r freq-of-lang-by-device, warning=F, message=F, echo=F, results=F, eval=T}
+
+# Frequency of Different Languages by Device
+
+ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
+   labs(title = "Frequency of Different Languages by Device", 
+       x = "Language", 
+       y = "Percentage") +
+      scale_x_discrete(labels = c("English", "Spanish")) + 
+      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10"))
+```

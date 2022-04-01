@@ -100,10 +100,6 @@ An amazing plot
 
 ![](Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png)
 
-## Frequency of Different Languages by Device
-
-![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-device-1.png)
-
 ## Frequency of Different Languages by Operating System
 
 ![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png)

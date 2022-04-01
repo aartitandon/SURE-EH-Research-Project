@@ -4,8 +4,7 @@ subtitle: "Draft"
 date: "`r Sys.Date()`"
 output:
   md_document:
-    toc: true
-    toc_depth: 4
+    toc: yes
   html_document:
     code_folding: hide
     self_contained: yes
@@ -366,7 +365,6 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
 
-## Frequency of Different Languages by Device
 ```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
 
 # Retrieving each ID's device and accessed language
@@ -377,20 +375,6 @@ device_cat_aid <- unique(evStart[ , c("aid", "device_cat")])
 aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid") 
 
 table(aid_device_language$evDesc2, aid_device_language$device_cat)
-```
-
-```{r freq-of-lang-by-device, warning=F, message=F, echo=F, results=F, eval=T}
-
-# Frequency of Different Languages by Device
-
-ggplot(data = aid_device_language, aes(x = evDesc2, fill = device_cat)) + 
-  geom_bar(position = "fill") + 
-  scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
-   labs(title = "Frequency of Different Languages by Device", 
-       x = "Language", 
-       y = "Percentage") +
-      scale_x_discrete(labels = c("English", "Spanish")) + 
-      scale_fill_discrete(name = "Devices", labels = c("Android", "iPad", "iPhone", "Pixel 3a: Android 10"))
 ```
 
 ```{r freq-of-lang-by-device-with-percents, warning=F, message=F, echo=F, results=F, eval=F}
