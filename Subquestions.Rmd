@@ -502,10 +502,9 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
 
-ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=sessiontimemin)) + 
-scale_y_discrete(limits = month.abb) + 
- labs(x="Day of the Month",
-       y="Month",
+ggplot(y, aes(x=Month_Yr, y=day)) + geom_tile(aes(fill=sessiontimemin)) + 
+ labs(x="Month",
+       y="Day of the Month",
        title = "2020-2021 Calendar Heatmap", 
        fill="Session Time (minutes)")
 ```
