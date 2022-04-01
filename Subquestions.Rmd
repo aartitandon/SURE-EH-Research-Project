@@ -205,8 +205,6 @@ ggplot() +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
 ```
 
-## Plot for WA sessions
-
 ```{r user-map-wa, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
 #Plot for WA sessions
@@ -569,7 +567,7 @@ ggplot(download_data, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Activity in Each Label Section 
-```{r activity-in-label-sections, echo=F, warning=F, message=F, results=F, eval=T, fig.width = 10, fig.height=10}
+```{r activity-in-label-sections, fig.cap="The frequency of each 'Label Section' item accessed on the 'Pesticides Labels Now' application was analyzed. 'Product Information', 'Personal Protective Equipment' and 'Pesticide Labels' are the most popularly accessed sections by users.", echo=F, warning=F, message=F, results=F, eval=T, fig.width = 10, fig.height=10}
 library(ggplot2)
 library(tidyverse)
 
@@ -605,7 +603,7 @@ ggplot(per_data3, aes(x = reorder(n, -per), y=per)) +
 ```
 
 ## Frequency of Different Links by Language
-```{r freq-diff-links-by-language, fig.cap=" The frequency of each ‘Label Section’ item accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly used by English readers and 'Update News' was most popularly used by Spanish readers.", echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
+```{r freq-diff-links-by-language, fig.cap="The frequency of each ‘Label Section’ item accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly used by English readers and 'Update News' was most popularly used by Spanish readers.", echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
 library(dplyr)
 library(ggplot2)
 
