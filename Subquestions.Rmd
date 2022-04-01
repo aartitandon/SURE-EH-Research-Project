@@ -74,11 +74,9 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 ```
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
-## Authors: 
-  - Aarti Tandon:
-    url: https://github.com/aartitandon/SURE-EH-Research-Project
-    ![alt text](IMG_7470 2.JPG)
-    
+## Authors: Aarti Tandon & Dr. Eddie Kasner 
+Hi! My name is Aarti Tandon and I am currently working 
+My research helps reduce the gaps in fair and equal access for marginalized peoples. While working on the ‘Bilingual Health and Safety Messaging’ app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
     
 
 <br>
@@ -498,7 +496,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
 ```
 
 ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Session Time (in minutes)'
-```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T}
+```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=12}
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
 

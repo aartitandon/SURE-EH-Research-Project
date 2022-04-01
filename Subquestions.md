@@ -1,10 +1,14 @@
 # How do user characteristics inform or explain their interaction with the ‘Pesticides Labels Now’ application?
 
-## Authors:
+## Authors: Aarti Tandon & Dr. Eddie Kasner
 
--   Aarti Tandon: url:
-    <https://github.com/aartitandon/SURE-EH-Research-Project> ![alt
-    text](IMG_7470%202.JPG)
+Hi! My name is Aarti Tandon and I am currently working My research helps
+reduce the gaps in fair and equal access for marginalized peoples. While
+working on the ‘Bilingual Health and Safety Messaging’ app, I have been
+able to stand at the crossroads of technology and human health. Using
+the tools of statistics and data visualization, I have contributed to
+research translation and the improvement of human health, environmental
+resilience, and social and economic equity.
 
 <br>
 
