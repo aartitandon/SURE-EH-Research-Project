@@ -38,10 +38,9 @@ information.
 
 # Objective
 
-To understand the ‘Pesticide Labels Now’ mobile application user
-audience and their preferences for app utility.
+## To understand the ‘Pesticide Labels Now’ mobile application user audience and their preferences for app utility.
 
-# Features to Help Understand User Characteristics:
+# Features to Help Understand User Characteristics
 
 -   Location
 -   Device
