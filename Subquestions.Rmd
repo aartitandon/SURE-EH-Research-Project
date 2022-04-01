@@ -617,7 +617,7 @@ library("dplyr")
 table <- table(evDownload.01$prodName)
 my_table <- table[order(table, decreasing = TRUE)]
 my_table <- my_table[1:10] 
-my_table
+kable(my_table)
 ```
 
 
