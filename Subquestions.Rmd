@@ -75,7 +75,6 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 # How do user characteristics inform or explain their interaction with the 'Pesticides Labels Now' application? 
 ## Authors: Aarti Tandon & Dr. Eddie Kasner
-![alt text here](/Downloads/IMG_7470 2.JPG)
 
 #/Users/Antonio/Documents/images/tufte.book.jpg
 Hi! My name is Aarti Tandon and I am currently working 
@@ -455,6 +454,9 @@ setDT(x)
 y <- x[ , .(session_start = min(ts), session_end = max(ts), num_occurance = .N), by = sessionid]
 
 #'session time' column is added 
+y$session_start <- with_tz(y$session_start, tzone = "America/Los_Angeles")
+y$session_end <- with_tz(y$session_end, tzone = "America/Los_Angeles")
+
 y$sessiontime <- ymd_hms(y$session_end) - ymd_hms(y$session_start)
 y$sessiontime2 <- as.double(y$sessiontime)
 y$sessiontimemin <- y$sessiontime2/60
@@ -477,6 +479,7 @@ y$month <- month.abb[as.numeric(y$month)]
 y$year <- year(y$session_start)
 y$month = factor(y$month, levels = month.abb)
 y$Month_Yr <- format(as.Date(y$session_start), "%Y-%m")
+
 
 ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
   labs(x="Day of the Month",
