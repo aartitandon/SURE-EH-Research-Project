@@ -5,6 +5,21 @@ date: "`r Sys.Date()`"
 output:
   md_document:
     toc: yes
+  html_document:
+    code_folding: hide
+    self_contained: yes
+    toc: no
+    toc_depth: 4
+    toc_float: yes
+  pdf_document:
+    latex_engine: xelatex
+    toc: yes
+    toc_depth: 4
+  word_document:
+    toc: yes
+    toc_depth: '4'
+#editor_options: 
+  #chunk_output_type: console
 ---
 
 ```{r packages, warning=F, message=F, echo=F, results=F}
