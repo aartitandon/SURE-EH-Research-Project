@@ -643,6 +643,7 @@ my_table
 ```
 
 \newpage
+\pagenumbering{arabic}
 
 # APPENDIX
 
