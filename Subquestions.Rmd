@@ -168,7 +168,7 @@ print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings
 
 # App Use By Location  
 ## Plot for US Sessions
-```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%", fig.cap = "An amazing plot"}
+```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 #extract locations from evStart
 ## Remove parenthesizes from evDesc3 lat, long
@@ -488,7 +488,7 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
-Time-Series Calendar HeatMap analyzing each session’s duration in comparison to the day of the month, as well as the month. Growing season starts around mid-March till the end of November. Figure X depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. 
+Figure X displays a Time-Series Calendar HeatMap analyzing each session’s duration in comparison to the day of the month, month, and activity of the user. Growing season starts around mid-March till the end of November. Figure X depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. 
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
 ```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
@@ -501,6 +501,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
+Is time zone correct now? 
 
 ## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
 ```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=12}
@@ -513,6 +514,7 @@ ggplot(y, aes(x=Month_Yr, y=day)) + geom_tile(aes(fill=sessiontimemin)) +
        title = "2020-2021 Calendar Heatmap", 
        fill="Session Time (minutes)")
 ```
+After making changes... it makes sense that from april-august, the app is more utilized 
 
 ## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
 ```{r heatmap4, warning=F, message=F, echo=F, results=F, eval=T}

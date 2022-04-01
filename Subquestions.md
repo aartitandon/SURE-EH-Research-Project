@@ -82,11 +82,7 @@ members and generated descriptive statistics for three subsets:
 
 ## Plot for US Sessions
 
-<img src="Subquestions_files/figure-markdown_strict/user-map-us-1.png" alt="An amazing plot" width="100%" />
-<p class="caption">
-An amazing plot
-</p>
-
+<img src="Subquestions_files/figure-markdown_strict/user-map-us-1.png" width="100%" />
 In the United States, user utilization is predominantly concentrated in
 Washington, however, there is scattered usage throughout the Eastern
 coast and California.
@@ -136,21 +132,24 @@ users are more likely to have an Android device.
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
-![](Subquestions_files/figure-markdown_strict/heatmap1-1.png)
-Time-Series Calendar HeatMap analyzing each session’s duration in
-comparison to the day of the month, as well as the month. Growing season
-starts around mid-March till the end of November. Figure X depicts the
-increase in session duration mid-year. The rise in activity at this time
-conveys the success of the application targeting this specific
-population of farmworkers.
+![](Subquestions_files/figure-markdown_strict/heatmap1-1.png) Figure X
+displays a Time-Series Calendar HeatMap analyzing each session’s
+duration in comparison to the day of the month, month, and activity of
+the user. Growing season starts around mid-March till the end of
+November. Figure X depicts the increase in session duration mid-year.
+The rise in activity at this time conveys the success of the application
+targeting this specific population of farmworkers.
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
-![](Subquestions_files/figure-markdown_strict/heatmap2-1.png)
+![](Subquestions_files/figure-markdown_strict/heatmap2-1.png) Is time
+zone correct now?
 
 ## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’
 
-![](Subquestions_files/figure-markdown_strict/heatmap3-1.png)
+![](Subquestions_files/figure-markdown_strict/heatmap3-1.png) After
+making changes… it makes sense that from april-august, the app is more
+utilized
 
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
