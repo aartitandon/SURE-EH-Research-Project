@@ -501,7 +501,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        
 ```
 
-## Comparing User Sessions by 'Day of the Month', 'Month', and 'Session Time (in minutes)'
+## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
 ```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=12}
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
@@ -636,7 +636,9 @@ kable(my_table)
 # (7179658/60)
 # 119661/1328
 #90.11
+\newpage
 ```
+
 
 \newpage
 \pagenumbering{arabic}
