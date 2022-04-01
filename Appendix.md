@@ -12,10 +12,7 @@ Unique devices (aid)
 
 print(n_distinct(evDownload.01$aid), style="rmarkdown")
 
-```
 
-```{r evDownload-dictionary, echo=F, message=F, warnings=F, results='asis'}
-tabl <- "
 | Variable      | Description                    |
 |---------------|--------------------------------|
 | aid           | Random device identifier       |
@@ -24,9 +21,7 @@ tabl <- "
 | sourcePage    | App page visited?              |
 | evType        | Action taken on app (download) |
 | ts            | Timestamp yyy:mm:dd:hh:mm:ss   |
-"
-cat(tabl)
-```
+
 
 ## evStart subset
 
