@@ -2,18 +2,22 @@
 
 ## Authors: Dr. Eddie Kasner & Aarti Tandon
 
-<br> # Introduction Hi! My name is Aarti Tandon and I am currently
-working as an Undergraduate Research Assistant here at the University of
-Washington. I work with the Pacific Northwest Agricultural Safety and
-Health Center under the mentorship of Dr. Eddie Kasner and Kit Galvin.
-This is my markdown file that I have been working on this past year
-where I have analyzed data from the ‘Bilingual Health and Safety
-Messaging’ application. My research is focused on reducing the gaps in
-fair and equal access for marginalized peoples by understanding our user
-audience and their preferences for app utility. While working on the
-app, I have been able to stand at the crossroads of technology and human
-health. Using the tools of statistics and data visualization, I have
-contributed to research translation and the improvement of human health,
+<br>
+
+# Introduction
+
+Hi! My name is Aarti Tandon and I am currently working as an
+Undergraduate Research Assistant here at the University of Washington. I
+work with the Pacific Northwest Agricultural Safety and Health Center
+under the mentorship of Dr. Eddie Kasner and Kit Galvin. This is my
+markdown file that I have been working on this past year where I have
+analyzed data from the ‘Bilingual Health and Safety Messaging’
+application. My research is focused on reducing the gaps in fair and
+equal access for marginalized peoples by understanding our user audience
+and their preferences for app utility. While working on the app, I have
+been able to stand at the crossroads of technology and human health.
+Using the tools of statistics and data visualization, I have contributed
+to research translation and the improvement of human health,
 environmental resilience, and social and economic equity.
 
 # Executive Summary
