@@ -110,7 +110,7 @@ agricultural land.
 
 ## Devices Utilized to Access the Application
 
-![](Subquestions_files/figure-markdown_strict/analyzing-devices-1.png)
+![](Subquestions_files/figure-markdown_strict/analyzing-devices-1.png)![](Subquestions_files/figure-markdown_strict/analyzing-devices-2.png)
 The three devices utilized to access the application were an iPhone,
 Android, or iPad. Almost 75% of users were accessing the app through an
 iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app
@@ -120,7 +120,7 @@ through an Android system.
 
 ## Frequency of Each Language Accessed on the Application
 
-<img src="Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png" style="display: block; margin: auto;" />
+<img src="Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png" style="display: block; margin: auto;" /><img src="Subquestions_files/figure-markdown_strict/analyzing-language-frequency-2.png" style="display: block; margin: auto;" />
 Figure X displays 18% more activity in English than Spanish. Since the
 ’Pesticides Labels Now! application initially asks the user which
 language they wish to proceed in, there is no “default” language and the

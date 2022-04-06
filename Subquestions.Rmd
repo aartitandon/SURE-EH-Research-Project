@@ -326,6 +326,7 @@ x$ts <- ymd_hms(x$ts)
 
 ```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
+qplot(1:10, 10:1)
 
 str(evStart)
 per_data <- evStart %>%
@@ -348,6 +349,7 @@ The three devices utilized to access the application were an iPhone, Android, or
 ## Frequency of Each Language Accessed on the Application
 ```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
+qplot(1:10, 10:1)
 
 library("dplyr")
 count_Language <- evViewPage.01 %>%
@@ -631,7 +633,7 @@ labs(title = "Frequency of Different Links by Language",
 The frequency of each Link accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly accessed by English readers and 'Update News' was most popularly accessed by Spanish readers.
 
 ## Table of Top Ten Searched Pesticides 
-```{r searchedpesticides, fig.align='center', fig.cap="Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.", warning=F, message=F, echo=F, results=T, eval=T, fig.cap = ""}
+```{r searchedpesticides, fig.align='center', fig.cap="Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.", warning=F, message=F, echo=F, results=T, eval=T}
 
 library("dplyr")
 table <- table(evDownload.01$prodName)
