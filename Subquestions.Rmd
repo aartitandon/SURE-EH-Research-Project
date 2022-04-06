@@ -6,19 +6,19 @@ output:
   md_document:
     toc: TRUE
     toc_depth: 4
-  pdf_document:
-    latex_engine: xelatex
+  word_document:
     toc: yes
-    toc_depth: 4
+    toc_depth: '4'
   html_document:
     code_folding: hide
     self_contained: yes
     toc: no
     toc_depth: 4
     toc_float: yes
-  word_document:
+  pdf_document:
+    latex_engine: xelatex
     toc: yes
-    toc_depth: '4'
+    toc_depth: 4
 #editor_options: 
   #chunk_output_type: console
 ---
@@ -651,7 +651,14 @@ my_table <- table[order(table, decreasing = TRUE)]
 my_table <- my_table[1:10] 
 kable(my_table)
 ```
-Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.
+
+## Attempt 2: Table of Top Ten Searched Pesticides 
+```{r searchedpesticides2, fig.align='center', warning=F, message=F, echo=F, results=T, eval=T}
+
+knitr::kable(my_table,
+             caption = "Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.")
+```
+
 
 # Average Session Duration 
 ## 90.11 minutes

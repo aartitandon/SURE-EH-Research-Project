@@ -13,7 +13,7 @@
 \makeatother
 \subtitle{Draft}
 \author{}
-\date{\vspace{-2.5em}2022-04-01}
+\date{\vspace{-2.5em}2022-04-06}
 
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
@@ -52,16 +52,6 @@
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage[margin=1in]{geometry}
-\usepackage{longtable,booktabs,array}
-\usepackage{calc} % for calculating minipage widths
-% Correct order of tables after \paragraph or \subparagraph
-\usepackage{etoolbox}
-\makeatletter
-\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
-\makeatother
-% Allow footnotes in longtable head/foot
-\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
-\makesavenoteenv{longtable}
 \usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -107,9 +97,11 @@
 \tableofcontents
 
 \hypertarget{how-do-user-characteristics-inform-or-explain-their-interaction-with-the-pesticides-labels-now-application}{%
-\section{How do user characteristics inform or explain their interaction
-with the `Pesticides Labels Now'
-application?}\label{how-do-user-characteristics-inform-or-explain-their-interaction-with-the-pesticides-labels-now-application}}
+\section{\texorpdfstring{How do user characteristics inform or explain
+their interaction with the
+`\href{https://deohs.washington.edu/pnash/LabelsNow}{Pesticides Labels
+Now!}'
+application?}{How do user characteristics inform or explain their interaction with the `Pesticides Labels Now!' application?}}\label{how-do-user-characteristics-inform-or-explain-their-interaction-with-the-pesticides-labels-now-application}}
 
 \hypertarget{authors-aarti-tandon-eddie-kasner-kit-galvin-pablo-palmuxe1ndez}{%
 \subsection{Authors: Aarti Tandon, Eddie Kasner, Kit Galvin, Pablo
@@ -118,34 +110,44 @@ Palmández}\label{authors-aarti-tandon-eddie-kasner-kit-galvin-pablo-palmuxe1nde
 \hypertarget{introduction}{%
 \section{Introduction}\label{introduction}}
 
+\begin{figure}
+\centering
+\includegraphics{/Users/aartitandon/Downloads/IMG_7470.JPG}
+\caption{alt text}
+\end{figure}
+
 Hi! My name is Aarti Tandon and I am currently working as an
-Undergraduate Research Assistant here at the University of Washington. I
-work with the Pacific Northwest Agricultural Safety and Health Center
-under the mentorship of Dr.~Eddie Kasner and Kit Galvin. This is my
-markdown file that I have been working on this past year where I have
-analyzed data from the `Bilingual Health and Safety Messaging'
-application. My research is focused on reducing the gaps in fair and
-equal access for marginalized peoples by understanding our user audience
-and their preferences for app utility. While working on the app, I have
-been able to stand at the crossroads of technology and human health.
-Using the tools of statistics and data visualization, I have contributed
-to research translation and the improvement of human health,
-environmental resilience, and social and economic equity.
+Undergraduate Research Assistant here at the University of Washington.
+Through the \href{https://deohs.washington.edu/apply-sure-eh}{SURE-EH
+program}, I work with the
+\href{https://deohs.washington.edu/pnash/}{Pacific Northwest
+Agricultural Safety and Health Center} under the mentorship of Dr.~Eddie
+Kasner and Kit Galvin. This is my markdown file that I have been working
+on this past year where I have analyzed data from the `Bilingual Health
+and Safety Messaging' application. My research is focused on reducing
+the gaps in fair and equal access for marginalized peoples by
+understanding our user audience and their preferences for app utility.
+While working on the app, I have been able to stand at the crossroads of
+technology and human health. Using the tools of statistics and data
+visualization, I have contributed to research translation and the
+improvement of human health, environmental resilience, and social and
+economic equity.
 
 \hypertarget{executive-summary}{%
 \section{Executive Summary}\label{executive-summary}}
 
-The `Pesticides Labels Now!' mobile application strives to minimize
-agricultural worker and community exposure and illness from agricultural
-pesticides through improving access to pesticide labels and safety
-information in Spanish and English. Pesticide handlers, managers, and
-supervisors are able to gain access to this information, change
-behaviors accordingly, and transfer the safety information to others. We
-hypothesized that user characteristics such as language choice, mobile
-device type, and location would determine frequency of interactions with
-the application. This study investigates the application's user audience
-and their preferences for app utility. Statistical analysis and graphing
-was conducted with R Studio (Version 2021.09.1) for users accessing the
+The `\href{https://deohs.washington.edu/pnash/LabelsNow}{Pesticides
+Labels Now!}' mobile application strives to minimize agricultural worker
+and community exposure and illness from agricultural pesticides through
+improving access to pesticide labels and safety information in Spanish
+and English. Pesticide handlers, managers, and supervisors are able to
+gain access to this information, change behaviors accordingly, and
+transfer the safety information to others. We hypothesized that user
+characteristics such as language choice, mobile device type, and
+location would determine frequency of interactions with the application.
+This study investigates the application's user audience and their
+preferences for app utility. Statistical analysis and graphing was
+conducted with R Studio (Version 2021.09.1) for users accessing the
 application over one year starting in August 2020. The raw data set
 consisted primarily of users from the State of Washington, containing
 67,754 interactions and a total of 503 unique users. The results showed
@@ -166,9 +168,10 @@ labels and their safety information.
 \section{Objective}\label{objective}}
 
 \hypertarget{to-understand-the-pesticide-labels-now-mobile-application-user-audience-and-their-preferences-for-app-utility.}{%
-\subsection{To understand the `Pesticide Labels Now' mobile application
-user audience and their preferences for app
-utility.}\label{to-understand-the-pesticide-labels-now-mobile-application-user-audience-and-their-preferences-for-app-utility.}}
+\subsection{\texorpdfstring{To understand the
+`\href{https://deohs.washington.edu/pnash/LabelsNow}{Pesticide Labels
+Now}' mobile application user audience and their preferences for app
+utility.}{To understand the `Pesticide Labels Now' mobile application user audience and their preferences for app utility.}}\label{to-understand-the-pesticide-labels-now-mobile-application-user-audience-and-their-preferences-for-app-utility.}}
 
 \hypertarget{features-to-help-understand-user-characteristics}{%
 \section{Features to Help Understand User
@@ -222,10 +225,11 @@ team members and generated descriptive statistics for three subsets:
 \hypertarget{plot-for-us-sessions}{%
 \subsection{Plot for US Sessions}\label{plot-for-us-sessions}}
 
-\includegraphics[width=1\linewidth]{Subquestions_files/figure-latex/user-map-us-1}
-In the United States, user utilization is predominantly concentrated in
-Washington, however, there is scattered usage throughout the Eastern
-coast and California.
+\begin{figure}
+\includegraphics[width=1\linewidth]{Subquestions_files/figure-latex/user-map-us-1} \caption{In the United States, user utilization is predominantly concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California.}\label{fig:user-map-us}
+\end{figure}
+\newpage
+\newpage
 
 \begin{verbatim}
 ##   |                                                                              |                                                                      |   0%  |                                                                              |=                                                                     |   1%  |                                                                              |=                                                                     |   2%  |                                                                              |==                                                                    |   2%  |                                                                              |==                                                                    |   3%  |                                                                              |===                                                                   |   4%  |                                                                              |===                                                                   |   5%  |                                                                              |====                                                                  |   5%  |                                                                              |====                                                                  |   6%  |                                                                              |=====                                                                 |   7%  |                                                                              |=====                                                                 |   8%  |                                                                              |======                                                                |   8%  |                                                                              |======                                                                |   9%  |                                                                              |=======                                                               |  10%  |                                                                              |=======                                                               |  11%  |                                                                              |========                                                              |  11%  |                                                                              |========                                                              |  12%  |                                                                              |=========                                                             |  13%  |                                                                              |==========                                                            |  14%  |                                                                              |==========                                                            |  15%  |                                                                              |===========                                                           |  15%  |                                                                              |===========                                                           |  16%  |                                                                              |============                                                          |  16%  |                                                                              |============                                                          |  17%  |                                                                              |============                                                          |  18%  |                                                                              |=============                                                         |  18%  |                                                                              |=============                                                         |  19%  |                                                                              |==============                                                        |  19%  |                                                                              |==============                                                        |  20%  |                                                                              |==============                                                        |  21%  |                                                                              |===============                                                       |  21%  |                                                                              |===============                                                       |  22%  |                                                                              |================                                                      |  22%  |                                                                              |================                                                      |  23%  |                                                                              |================                                                      |  24%  |                                                                              |=================                                                     |  24%  |                                                                              |=================                                                     |  25%  |                                                                              |==================                                                    |  25%  |                                                                              |==================                                                    |  26%  |                                                                              |===================                                                   |  27%  |                                                                              |====================                                                  |  28%  |                                                                              |====================                                                  |  29%  |                                                                              |=====================                                                 |  29%  |                                                                              |=====================                                                 |  30%  |                                                                              |======================                                                |  31%  |                                                                              |======================                                                |  32%  |                                                                              |=======================                                               |  32%  |                                                                              |=======================                                               |  33%  |                                                                              |========================                                              |  34%  |                                                                              |========================                                              |  35%  |                                                                              |=========================                                             |  35%  |                                                                              |=========================                                             |  36%  |                                                                              |==========================                                            |  37%  |                                                                              |==========================                                            |  38%  |                                                                              |===========================                                           |  38%  |                                                                              |===========================                                           |  39%  |                                                                              |============================                                          |  39%  |                                                                              |============================                                          |  40%  |                                                                              |=============================                                         |  41%  |                                                                              |=============================                                         |  42%  |                                                                              |==============================                                        |  43%  |                                                                              |===============================                                       |  44%  |                                                                              |===============================                                       |  45%  |                                                                              |================================                                      |  45%  |                                                                              |================================                                      |  46%  |                                                                              |=================================                                     |  47%  |                                                                              |=================================                                     |  48%  |                                                                              |==================================                                    |  48%  |                                                                              |==================================                                    |  49%  |                                                                              |===================================                                   |  49%  |                                                                              |===================================                                   |  50%  |                                                                              |===================================                                   |  51%  |                                                                              |====================================                                  |  51%  |                                                                              |====================================                                  |  52%  |                                                                              |=====================================                                 |  52%  |                                                                              |=====================================                                 |  53%  |                                                                              |======================================                                |  54%  |                                                                              |======================================                                |  55%  |                                                                              |=======================================                               |  55%  |                                                                              |=======================================                               |  56%  |                                                                              |========================================                              |  57%  |                                                                              |========================================                              |  58%  |                                                                              |=========================================                             |  58%  |                                                                              |=========================================                             |  59%  |                                                                              |==========================================                            |  60%  |                                                                              |===========================================                           |  61%  |                                                                              |===========================================                           |  62%  |                                                                              |============================================                          |  62%  |                                                                              |============================================                          |  63%  |                                                                              |=============================================                         |  64%  |                                                                              |=============================================                         |  65%  |                                                                              |==============================================                        |  65%  |                                                                              |==============================================                        |  66%  |                                                                              |===============================================                       |  66%  |                                                                              |===============================================                       |  67%  |                                                                              |===============================================                       |  68%  |                                                                              |================================================                      |  68%  |                                                                              |================================================                      |  69%  |                                                                              |=================================================                     |  69%  |                                                                              |=================================================                     |  70%  |                                                                              |=================================================                     |  71%  |                                                                              |==================================================                    |  71%  |                                                                              |==================================================                    |  72%  |                                                                              |===================================================                   |  72%  |                                                                              |===================================================                   |  73%  |                                                                              |====================================================                  |  74%  |                                                                              |====================================================                  |  75%  |                                                                              |=====================================================                 |  75%  |                                                                              |=====================================================                 |  76%  |                                                                              |======================================================                |  77%  |                                                                              |=======================================================               |  78%  |                                                                              |=======================================================               |  79%  |                                                                              |========================================================              |  79%  |                                                                              |========================================================              |  80%  |                                                                              |========================================================              |  81%  |                                                                              |=========================================================             |  81%  |                                                                              |=========================================================             |  82%  |                                                                              |==========================================================            |  82%  |                                                                              |==========================================================            |  83%  |                                                                              |===========================================================           |  84%  |                                                                              |===========================================================           |  85%  |                                                                              |============================================================          |  85%  |                                                                              |============================================================          |  86%  |                                                                              |=============================================================         |  87%  |                                                                              |=============================================================         |  88%  |                                                                              |==============================================================        |  88%  |                                                                              |==============================================================        |  89%  |                                                                              |===============================================================       |  90%  |                                                                              |================================================================      |  91%  |                                                                              |================================================================      |  92%  |                                                                              |=================================================================     |  92%  |                                                                              |=================================================================     |  93%  |                                                                              |=================================================================     |  94%  |                                                                              |==================================================================    |  94%  |                                                                              |==================================================================    |  95%  |                                                                              |===================================================================   |  95%  |                                                                              |===================================================================   |  96%  |                                                                              |====================================================================  |  97%  |                                                                              |====================================================================  |  98%  |                                                                              |===================================================================== |  98%  |                                                                              |===================================================================== |  99%  |                                                                              |======================================================================|  99%  |                                                                              |======================================================================| 100%
@@ -243,18 +247,30 @@ Names}\label{plot-for-wa-sessions-with-county-names}}
 \includegraphics[width=1\linewidth]{Subquestions_files/figure-latex/user-map-wa-allcounties-1} \caption{User utilization is predominantly concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.}\label{fig:user-map-wa-allcounties}
 \end{figure}
 
+\newpage
+\newpage
+
 \hypertarget{app-use-by-device}{%
 \section{App Use by Device}\label{app-use-by-device}}
+
+\newpage
+\newpage
 
 \hypertarget{devices-utilized-to-access-the-application}{%
 \subsection{Devices Utilized to Access the
 Application}\label{devices-utilized-to-access-the-application}}
 
+\begin{figure}
+\centering
 \includegraphics{Subquestions_files/figure-latex/analyzing-devices-1.pdf}
-The three devices utilized to access the application were an iPhone,
-Android, or iPad. Almost 75\% of users were accessing the app through an
-iOS system (e.g.~iPhone, iPad) and 25\% of users were accessing the app
-through an Android system.
+\caption{The three devices utilized to access the application were an
+iPhone, Android, or iPad. Almost 75\% of users were accessing the app
+through an iOS system (e.g.~iPhone, iPad) and 25\% of users were
+accessing the app through an Android system.}
+\end{figure}
+
+\newpage
+\newpage
 
 \hypertarget{app-use-by-language}{%
 \section{App Use by Language}\label{app-use-by-language}}
@@ -263,21 +279,40 @@ through an Android system.
 \subsection{Frequency of Each Language Accessed on the
 Application}\label{frequency-of-each-language-accessed-on-the-application}}
 
-\includegraphics{Subquestions_files/figure-latex/analyzing-language-frequency-1.pdf}
-Figure X displays 18\% more activity in English than Spanish. Since the
-'Pesticides Labels Now! application initially asks the user which
-language they wish to proceed in, there is no ``default'' language and
-the results can be concluded as reliable and robust.
+\textbackslash begin\{figure\}
+
+\{\centering \includegraphics{Subquestions_files/figure-latex/analyzing-language-frequency-1}
+
+\}
+
+\textbackslash caption\{Figure X displays 18\% more activity in English
+than Spanish. Since the 'Pesticides Labels Now! application initially
+asks the user which language they wish to proceed in, there is no
+``default'' language and the results can be concluded as reliable and
+robust.\}\label{fig:analyzing-language-frequency}
+\textbackslash end\{figure\}
+
+\newpage
+\newpage
+
+\newpage
+\newpage
 
 \hypertarget{frequency-of-different-languages-by-operating-system}{%
 \subsection{Frequency of Different Languages by Operating
 System}\label{frequency-of-different-languages-by-operating-system}}
 
+\begin{figure}
+\centering
 \includegraphics{Subquestions_files/figure-latex/freq-of-lang-by-operating-system-1.pdf}
-iOS users are more likely to access the information in English than
-Spanish. Android users are more likely to access the information in
+\caption{iOS users are more likely to access the information in English
+than Spanish. Android users are more likely to access the information in
 Spanish than English. This raises the question why Spanish-speaking
-users are more likely to have an Android device.
+users are more likely to have an Android device.}
+\end{figure}
+
+\newpage
+\newpage
 
 \hypertarget{app-use-by-time}{%
 \section{App Use By Time}\label{app-use-by-time}}
@@ -300,8 +335,7 @@ targeting this specific population of farmworkers.
 Month', and `Activity of the
 User'}\label{comparing-user-sessions-by-hour-of-the-day-day-of-the-month-and-activity-of-the-user}}
 
-\includegraphics{Subquestions_files/figure-latex/heatmap2-1.pdf} Is time
-zone correct now?
+\includegraphics{Subquestions_files/figure-latex/heatmap2-1.pdf}
 
 \hypertarget{comparing-user-sessions-by-month-day-of-the-month-and-session-time-in-minutes}{%
 \subsection{Comparing User Sessions by `Month', `Day of the Month', and
@@ -318,7 +352,6 @@ Month', `Month', and
 `Year'}\label{comparing-user-sessions-by-hour-of-the-month-day-of-the-month-month-and-year}}
 
 \includegraphics{Subquestions_files/figure-latex/heatmap4-1.pdf}
-Confused with this caption.
 
 \hypertarget{app-use-by-activity}{%
 \section{App Use By Activity}\label{app-use-by-activity}}
@@ -401,165 +434,6 @@ looked at pesticide among users from August 2020-2021.
 \subsection{90.11 minutes}\label{minutes}}
 
 \hypertarget{appendix}{%
-\section{APPENDIX}\label{appendix}}
-
-\hypertarget{data-dictionary}{%
-\section{Data Dictionary}\label{data-dictionary}}
-
-\hypertarget{evdownload.01-subset}{%
-\subsection{evDownload.01 subset}\label{evdownload.01-subset}}
-
-Unique devices (aid)
-
-\begin{verbatim}
-## [1] 93
-\end{verbatim}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Variable & Description \\
-\midrule
-\endhead
-aid & Random device identifier \\
-epaReg & EPA regsistration number \\
-prodName & Pesticide product name \\
-sourcePage & App page visited? \\
-evType & Action taken on app (download) \\
-ts & Timestamp yyy:mm:dd:hh:mm:ss \\
-\bottomrule
-\end{longtable}
-
-\hypertarget{evstart-subset}{%
-\subsection{evStart subset}\label{evstart-subset}}
-
-Unique users (aid)
-
-\begin{verbatim}
-## [1] 392
-\end{verbatim}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Variable & Description \\
-\midrule
-\endhead
-aid & Random device identifier \\
-evDesc1 & App version? \\
-evDesc2 & Device type \\
-evDesc3 & GPS coordinates \\
-evType & Action taken on app (start page) \\
-ts & Timestamp yyy:mm:dd:hh:mm:ss \\
-\bottomrule
-\end{longtable}
-
-\hypertarget{evviewpage.01-subset}{%
-\subsection{evViewPage.01 subset}\label{evviewpage.01-subset}}
-
-Unique users (aid)
-
-\begin{verbatim}
-## [1] 358
-\end{verbatim}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Variable & Description \\
-\midrule
-\endhead
-aid & Random device identifier \\
-evDesc1 & First action on app \\
-evDesc2 & English or Spanish \\
-evDesc3 & Pesticide label viewed \\
-evType & Action taken on app (view page) \\
-ts & Timestamp yyy:mm:dd:hh:mm:ss \\
-\bottomrule
-\end{longtable}
-
-\hypertarget{detailed-variable-descriptions}{%
-\subsection{Detailed variable
-descriptions}\label{detailed-variable-descriptions}}
-
-\begin{itemize}
-\tightlist
-\item
-  Device = identified by a randomly assigned identifier. = Person.
-  Person = device. There is no way to distinguish individual users. One
-  device can be used by ≥ 1 person and 1 person can use ≥ 1 device.
-\item
-  Access = accessed app = put PLN on device and opened app (app opens to
-  label List).
-\item
-  Session = time from when the app opened until just before next time it
-  is opened.
-\item
-  PICOL Searches = PICOL results viewed.
-\item
-  Label searches = Label menu viewed.
-\item
-  View = accessed and viewed information (any combination of ≥ 1 of the
-  following)
-\item
-  Label view = accessed + {[}(opened ≥ 1 label) + (opened ≥ 1 menu
-  bar){]} Label view + PDF = accessed + {[}(opened ≥ 1 label) + (opened
-  ≥ 1 menu bar)+ (downloaded label PDF){]}
-\item
-  PICOL view = accessed + {[}(conducted ≥ 1 PICOL search) + (viewed ≥ 1
-  PICOL result){]}
-\item
-  PICOL view + PDF = accessed app + {[}(conducted ≥ 1 PICOL search) +
-  (viewed ≥ 1 PICOL result) + (downloaded app){]}
-\item
-  General view = accessed +(viewed label search page + selected a label,
-  but did not open menu bar) and/or ( viewed PICOL search page) and/or
-  viewed more pages General view + links
-\item
-  Location = GPS coordinates. de-identified location in that it is
-  somewhere within the \textasciitilde{} 500 ft radius. We will only
-  report by broad areas. Agricultural regions if they are defined.
-  Currently, many iPhone users are declining location as Apple is asking
-  users if they want the location turned on/off with each update. We may
-  only be able to evaluate this up to the April release date. App is
-  only available to devices registered in the US, CA, and MX. However,
-  phones registered in these countries can be used anywhere. For
-  example, we had a user connect from S. America from a US registered
-  phone.
-\item
-  Population A definition: anyone that has accessed the app. There is 1
-  excluded population and 3 study subpopulations (based on gps location
-  coordinates at time the app is opened.)
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Device used in WA state GPS data. (Not Seattle or King County)
-  \item
-    Device used outside of WA state
-  \item
-    No location (location services are off.)
-  \item
-    Exclude. King County or at least the Seattle metropolitan area
-    locations. These are likely team and PNASH staff. Exclusion list.
-    Selected random devices IDs are on an exclusion list. These are test
-    devices.
-  \end{itemize}
-\item
-  Population B definition: (Only use if enough people respond to in app
-  questions). Those users that respond to the location in-app question.
-  (This response can be linked to app analytic data as it has the same
-  random unique ID). This will be implemented very soon.
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Response I work in WA state (not quite the same as where they
-    downloaded it)
-  \item
-    Response I work outside of Washington state
-  \item
-    Do not want to answer
-  \item
-    Skips answering the question. (will combine with c)
-  \end{itemize}
-\end{itemize}
+\section{\texorpdfstring{\href{https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md}{Appendix}}{Appendix}}\label{appendix}}
 
 \end{document}
