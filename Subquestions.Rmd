@@ -301,7 +301,7 @@ merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 
 # App Use by Device
 
-```{r creating-sessions, fig.align='center', warning=F, message=F, echo=F, eval=T}
+```{r creating-sessions, fig.align='right', warning=F, message=F, echo=F, eval=T}
 
 # Goal: Creating Sessions. 
 # 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
