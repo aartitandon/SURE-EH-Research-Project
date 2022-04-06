@@ -9,10 +9,11 @@
 ![alt text](/Users/aartitandon/Downloads/IMG_7470.JPG)
 
 Hi! My name is Aarti Tandon and I am currently working as an
-Undergraduate Research Assistant here at the University of Washington. I
-work with the [Pacific Northwest Agricultural Safety and Health
-Center](https://deohs.washington.edu/pnash/) under the mentorship of
-Dr. Eddie Kasner and Kit Galvin. This is my markdown file that I have
+Undergraduate Research Assistant here at the University of Washington.
+Through the [SURE-EH](https://deohs.washington.edu/apply-sure-eh)
+program, I work with the [Pacific Northwest Agricultural Safety and
+Health Center](https://deohs.washington.edu/pnash/) under the mentorship
+of Dr. Eddie Kasner and Kit Galvin. This is my markdown file that I have
 been working on this past year where I have analyzed data from the
 ‘Bilingual Health and Safety Messaging’ application. My research is
 focused on reducing the gaps in fair and equal access for marginalized
@@ -306,4 +307,4 @@ looked at pesticide among users from August 2020-2021.
 
 ## 90.11 minutes
 
-# [APPENDIX](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
+# [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
