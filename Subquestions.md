@@ -124,11 +124,13 @@ system.](Subquestions_files/figure-markdown_strict/analyzing-devices-1.png)
 
 ## Frequency of Each Language Accessed on the Application
 
-<img src="Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png" style="display: block; margin: auto;" />
+<img src="Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png" alt="Figure X displays 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust."  />
+<p class="caption">
 Figure X displays 18% more activity in English than Spanish. Since the
 ’Pesticides Labels Now! application initially asks the user which
 language they wish to proceed in, there is no “default” language and the
 results can be concluded as reliable and robust.
+</p>
 
 ## Frequency of Different Languages by Operating System
 

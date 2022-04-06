@@ -262,11 +262,10 @@ wa_study_counties <- wa_county %>%
   coord_sf(datum = st_crs(2285)) +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
- 
- #maybe turn off county labels? 
- #scatterplot dodge to avoid overlapping of redcirclemappers 
- #https://ggplot2.tidyverse.org/reference/position_dodge.html
 ```
+
+\newpage
+\newpage
 
 ```{r heat-map-time-series, warning=F, message=F, echo=F} 
 
@@ -344,12 +343,12 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
 
-\n
-\n
+\newpage
+\newpage
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
-```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
+```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center', fig.cap="Figure X displays 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust."}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
 library("dplyr")
@@ -372,7 +371,9 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
-Figure X displays 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust. 
+
+\newpage
+\newpage
 
 ```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
 
