@@ -53,7 +53,7 @@ labels and their safety information.
 
 # Objective
 
-## To understand the ‘Pesticide Labels Now’ mobile application user audience and their preferences for app utility.
+## To understand the ‘[Pesticide Labels Now](https://deohs.washington.edu/pnash/LabelsNow)’ mobile application user audience and their preferences for app utility.
 
 # Features to Help Understand User Characteristics
 
@@ -118,7 +118,7 @@ through an Android system.
 
 ## Frequency of Each Language Accessed on the Application
 
-![](Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png)
+<img src="Subquestions_files/figure-markdown_strict/analyzing-language-frequency-1.png" style="display: block; margin: auto;" />
 Figure X displays 18% more activity in English than Spanish. Since the
 ’Pesticides Labels Now! application initially asks the user which
 language they wish to proceed in, there is no “default” language and the

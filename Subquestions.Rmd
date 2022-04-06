@@ -88,7 +88,7 @@ Hi! My name is Aarti Tandon and I am currently working as an Undergraduate Resea
 The ‘[Pesticides Labels Now!](https://deohs.washington.edu/pnash/LabelsNow)’ mobile application strives to minimize agricultural worker and community exposure and illness from agricultural pesticides through improving access to pesticide labels and safety information in Spanish and English. Pesticide handlers, managers, and supervisors are able to gain access to this information, change behaviors accordingly, and transfer the safety information to others. We hypothesized that user characteristics such as language choice, mobile device type, and location would determine frequency of interactions with the application. This study investigates the application’s user audience and their preferences for app utility. Statistical analysis and graphing was conducted with R Studio (Version 2021.09.1) for users accessing the application over one year starting in August 2020. The raw data set consisted primarily of users from the State of Washington, containing 67,754 interactions and a total of 503 unique users. The results showed that user utilization is predominantly concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land. The overall frequency of each language accessed on the application was relatively comparable - with 59% in English and 41% in Spanish. The analysis further indicated the majority of users utilize the application through an iOS system. An estimated 74% of interactions were accessed through an iPhone device and 26% were accessed through an Android device. By understanding the effect of user characteristics in their interaction with the application, necessary adjustments can be made to the application to create a more user-friendly experience and contribute to improving access to pesticide labels and their safety information. 
 
 # Objective
-## To understand the 'Pesticide Labels Now' mobile application user audience and their preferences for app utility. 
+## To understand the '[Pesticide Labels Now](https://deohs.washington.edu/pnash/LabelsNow)' mobile application user audience and their preferences for app utility. 
 
 # Features to Help Understand User Characteristics 
 - Location 
@@ -344,7 +344,7 @@ The three devices utilized to access the application were an iPhone, Android, or
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
-```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T}
+```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
 library("dplyr")
