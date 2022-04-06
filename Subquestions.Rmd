@@ -76,7 +76,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 ```
 
-# How do user characteristics inform or explain their interaction with the '[Pesticides Labels Now](https://deohs.washington.edu/pnash/LabelsNow)' application? 
+# How do user characteristics inform or explain their interaction with the '[Pesticides Labels Now!](https://deohs.washington.edu/pnash/LabelsNow)' application? 
 ## Authors: Aarti Tandon, Eddie Kasner, Kit Galvin, Pablo Palmández
 
 <br>
@@ -301,7 +301,7 @@ merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 
 # App Use by Device
 
-```{r creating-sessions, warning=F, message=F, echo=F, eval=T, fig.align = 'center'}
+```{r creating-sessions, fig.align='center', warning=F, message=F, echo=F, eval=T}
 
 # Goal: Creating Sessions. 
 # 1327 total sessions from 2020-08-26 through 2021-08-31. This doesn't include any sessions initiated by one of the 'ignored' aids.
