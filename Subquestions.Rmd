@@ -403,8 +403,11 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
   
 ```
 
+\newpage
+\newpage
+
 ## Frequency of Different Languages by Operating System 
-```{r freq-of-lang-by-operating-system, warning=F, message=F, echo=F, results=F, eval=T}
+```{r freq-of-lang-by-operating-system, warning=F, message=F, echo=F, results=F, eval=T, fig.cap="iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device."}
 #Without percentage labels 
 library(car)
 aid_device_language2 <- aid_device_language
@@ -430,7 +433,9 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
       scale_x_discrete(labels = c("English", "Spanish")) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
 ```
-iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device. 
+
+\newpage
+\newpage
 
 ```{r, eval=F, echo=F}
 # Subquestion #4: What is the average number of labels looked at per session? 

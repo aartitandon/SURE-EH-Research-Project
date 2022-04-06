@@ -134,11 +134,11 @@ results can be concluded as reliable and robust.
 
 ## Frequency of Different Languages by Operating System
 
-![](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png)
-iOS users are more likely to access the information in English than
+![iOS users are more likely to access the information in English than
 Spanish. Android users are more likely to access the information in
 Spanish than English. This raises the question why Spanish-speaking
-users are more likely to have an Android device.
+users are more likely to have an Android
+device.](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png)
 
 # App Use By Time
 
