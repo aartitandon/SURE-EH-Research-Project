@@ -322,6 +322,9 @@ x$ts <- ymd_hms(x$ts)
 
 ```
 
+\newpage
+\newpage
+
 ## Devices Utilized to Access the Application
 
 ```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T, fig.cap="The three devices utilized to access the application were an iPhone, Android, or iPad. Almost 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system."}
