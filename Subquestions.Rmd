@@ -324,9 +324,8 @@ x$ts <- ymd_hms(x$ts)
 
 ## Devices Utilized to Access the Application
 
-```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T}
+```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T, fig.cap="The three devices utilized to access the application were an iPhone, Android, or iPad. Almost 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system."}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
-qplot(1:10, 10:1)
 
 str(evStart)
 per_data <- evStart %>%
@@ -343,13 +342,14 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
-The three devices utilized to access the application were an iPhone, Android, or iPad. Almost 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system. 
+
+\n
+\n
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
 ```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
-qplot(1:10, 10:1)
 
 library("dplyr")
 count_Language <- evViewPage.01 %>%
