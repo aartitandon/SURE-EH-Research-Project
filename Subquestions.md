@@ -6,9 +6,10 @@
 
 # Introduction
 
-Hi! My name is Aarti Tandon and I am currently working as an
-Undergraduate Research Assistant here at the University of Washington. I
-work with the [Pacific Northwest Agricultural Safety and Health
+![alt text](/Users/aartitandon/Downloads/IMG_7470.JPG) Hi! My name is
+Aarti Tandon and I am currently working as an Undergraduate Research
+Assistant here at the University of Washington. I work with the [Pacific
+Northwest Agricultural Safety and Health
 Center](https://deohs.washington.edu/pnash/) under the mentorship of
 Dr. Eddie Kasner and Kit Galvin. This is my markdown file that I have
 been working on this past year where I have analyzed data from the
