@@ -517,7 +517,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
-Is time zone correct now? 
+
 
 ## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
 ```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=12}
@@ -564,7 +564,7 @@ p <-p + theme(legend.position = "bottom")+
 p
 
 ```
-Confused with this caption. 
+
 
 # App Use By Activity 
 ## Frequency of Each Source Page Accessed on the Application 

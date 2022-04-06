@@ -154,8 +154,7 @@ targeting this specific population of farmworkers.
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
-![](Subquestions_files/figure-markdown_strict/heatmap2-1.png) Is time
-zone correct now?
+![](Subquestions_files/figure-markdown_strict/heatmap2-1.png)
 
 ## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’
 
@@ -165,8 +164,7 @@ utilized
 
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
-![](Subquestions_files/figure-markdown_strict/heatmap4-1.png) Confused
-with this caption.
+![](Subquestions_files/figure-markdown_strict/heatmap4-1.png)
 
 # App Use By Activity
 
