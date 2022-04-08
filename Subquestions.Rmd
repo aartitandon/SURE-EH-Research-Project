@@ -23,19 +23,21 @@ output:
 
 ```{r packages, warning=F, message=F, echo=F, results=F}
 
-if(!require(pacman)) {install.packages("pacman")}
+r = getOption("repos")
+r["CRAN"] = "http://cran.us.r-project.org"
+options(repos = r)
+if(!require(pacman)) {install.packages("pacman", repos = "http://cran.us.r-project.org")}
 pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr, tigris, frequency)
-RSTUDIO_PANDOC="/anaconda2/bin/pandoc"
-PATH="/anaconda2/bin/pandoc:${PATH}"
 
-#install summary tools package later
+install.packages("summarytools")
 devtools::install_github("yutannihilation/ggsflabel")
 devtools::install_github("UrbanInstitute/urbnmapr")
 
 ```
 
 
-```{r setup, include=F, results='asis', eval = F}
+```{r setup, include=F, results='asis', eval = T}
+library(summarytools)
 
 st_options(plain.ascii = F, # Always use this option in Rmd documents
 style        = "rmarkdown", # Always use this option in Rmd documents
