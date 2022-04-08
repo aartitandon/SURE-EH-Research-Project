@@ -5,6 +5,7 @@ date: "`r Sys.Date()`"
 output:
   md_document:
     toc: TRUE
+    toc_depth: '4'
   word_document:
     toc: yes
     toc_depth: '4'
@@ -24,7 +25,8 @@ output:
 
 if(!require(pacman)) {install.packages("pacman")}
 pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr, tigris, frequency)
-
+RSTUDIO_PANDOC="/anaconda2/bin/pandoc"
+PATH="/anaconda2/bin/pandoc:${PATH}"
 
 #install summary tools package later
 devtools::install_github("yutannihilation/ggsflabel")
