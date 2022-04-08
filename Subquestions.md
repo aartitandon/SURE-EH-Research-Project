@@ -150,7 +150,10 @@ duration in comparison to the day of the month, month, and activity of
 the user. Growing season starts around mid-March till the end of
 November. Figure X depicts the increase in session duration mid-year.
 The rise in activity at this time conveys the success of the application
-targeting this specific population of farmworkers.
+targeting this specific population of farmworkers. #during the blank
+chunks, shade of the blue will tell u heavy usage of app, if no blue,
+there is no usage over the phone.on most days, the app is being used,
+but there are apps.
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
@@ -194,16 +197,6 @@ application was analyzed. ‘Labels Search’ was the most popularly viewed
 section by all users.
 
 ## Frequency of Different Links by Language
-
-![The frequency of each ‘Label Section’ item accessed on the ‘Pesticides
-Labels Now’ application was compared to the user’s accessed language.
-‘EULA’ was most popularly used by English readers and ‘Update News’ was
-most popularly used by Spanish
-readers.](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
-The frequency of each Link accessed on the ‘Pesticides Labels Now’
-application was compared to the user’s accessed language. ‘EULA’ was
-most popularly accessed by English readers and ‘Update News’ was most
-popularly accessed by Spanish readers.
 
 ## Table of Top Ten Searched Pesticides
 

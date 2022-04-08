@@ -5,7 +5,6 @@ date: "`r Sys.Date()`"
 output:
   md_document:
     toc: TRUE
-    toc_depth: 4
   word_document:
     toc: yes
     toc_depth: '4'
@@ -19,16 +18,13 @@ output:
     latex_engine: xelatex
     toc: yes
     toc_depth: 4
-#editor_options: 
-  #chunk_output_type: console
 ---
-
-\tableofcontents
 
 ```{r packages, warning=F, message=F, echo=F, results=F}
 
 if(!require(pacman)) {install.packages("pacman")}
 pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr, tigris, frequency)
+
 
 #install summary tools package later
 devtools::install_github("yutannihilation/ggsflabel")
@@ -504,7 +500,7 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
-Figure X displays a Time-Series Calendar HeatMap analyzing each session’s duration in comparison to the day of the month, month, and activity of the user. Growing season starts around mid-March till the end of November. Figure X depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. 
+Figure X displays a Time-Series Calendar HeatMap analyzing each session’s duration in comparison to the day of the month, month, and activity of the user. Growing season starts around mid-March till the end of November. Figure X depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. #during the blank chunks, shade of the blue will tell u heavy usage of app, if no blue, there is no usage over the phone.on most days, the app is being used, but there are apps. 
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
 ```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
@@ -630,7 +626,7 @@ library(dplyr)
 library(ggplot2)
 
 tab <-  evViewPage.01 %>% group_by(evDesc1,evDesc2,.drop=FALSE) %>% tally()
-tab %>% mutate(perc=n/sum(n)) %>% 
+tab <- tab %>% mutate(perc=n/sum(n)) %>% 
 ggplot() + geom_col(aes(x=evDesc1,y=perc,fill=evDesc2),position="dodge") + 
 scale_y_continuous(labels =scales::percent) +
 labs(title = "Frequency of Different Links by Language", 
@@ -638,9 +634,7 @@ labs(title = "Frequency of Different Links by Language",
        y = "Percentage") + 
   theme_classic() +
   scale_fill_brewer(palette = "Pastel1") 
-
 ```
-The frequency of each Link accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly accessed by English readers and 'Update News' was most popularly accessed by Spanish readers.
 
 ## Table of Top Ten Searched Pesticides 
 ```{r searchedpesticides, fig.align='center', fig.cap="Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.", warning=F, message=F, echo=F, results=T, eval=T}
