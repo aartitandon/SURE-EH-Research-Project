@@ -32,6 +32,7 @@ devtools::install_github("UrbanInstitute/urbnmapr")
 
 ```
 
+
 ```{r setup, include=F, results='asis', eval = F}
 
 st_options(plain.ascii = F, # Always use this option in Rmd documents
@@ -40,6 +41,7 @@ footnote     = NA,          # Makes html-rendered results more concise
 subtitle.emphasis = F)  # Improves layout with some rmarkdown themes
 
 ```
+
 
 ```{r upload-clean-data, warning=F, message=F, echo=F, results=F}
 
@@ -166,6 +168,7 @@ print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings
 
 ```
 
+
 # App Use By Location  
 ## Plot for US Sessions
 ```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%", fig.cap="In the United States, user utilization is predominantly concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California."}
@@ -200,8 +203,8 @@ ggplot() +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(-3e+06, 3e+06)) +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
 ```
-\newpage
-\newpage
+
+
 ```{r user-map-wa, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
 #Plot for WA sessions
@@ -242,6 +245,7 @@ wa_county <- counties(state = "WA", cb = TRUE, class = "sf")
 wa_study_counties <- wa_county 
 ```
 
+
 ## Plot for WA sessions with County Names
 
 ```{r user-map-wa-allcounties, fig.cap="User utilization is predominantly concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.", echo=F, warning=F, message=F, eval=T, out.width = "100%"}
@@ -260,8 +264,6 @@ wa_study_counties <- wa_county %>%
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 ```
 
-\newpage
-\newpage
 
 ```{r heat-map-time-series, warning=F, message=F, echo=F} 
 
@@ -275,6 +277,7 @@ wa_study_counties <- wa_county %>%
 
 ```
 
+
 ```{r summary, eval=F, warning=F, message=F, echo=F}
 
 print(dfSummary(evDownload.01), method = "render")
@@ -286,6 +289,7 @@ print(dfSummary(Outputs.PICOL.DLS.2021), method = "render")
 
 ```
 
+
 ```{r upload-merged-monthly-csvs, warning=F, message=F, echo=F, results=F}
 # merged.csv dataframe 
 
@@ -296,6 +300,7 @@ merged.csv <- do.call(rbind, lapply(ls(pattern = "CSV"), get))
 ignores <- read.csv("ignores.csv")
 merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
 ```
+
 
 # App Use by Device
 
@@ -318,8 +323,6 @@ x$ts <- ymd_hms(x$ts)
 
 ```
 
-\newpage
-\newpage
 
 ## Devices Utilized to Access the Application
 
@@ -342,8 +345,6 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
 
-\newpage
-\newpage
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
@@ -371,8 +372,6 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
 
-\newpage
-\newpage
 
 ```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
 
@@ -385,6 +384,7 @@ aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid")
 
 table(aid_device_language$evDesc2, aid_device_language$device_cat)
 ```
+
 
 ```{r freq-of-lang-by-device-with-percents, warning=F, message=F, echo=F, results=F, eval=F}
 # Frequency of Different Languages by Device w/ Percentage Labels 
@@ -399,8 +399,6 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
   
 ```
 
-\newpage
-\newpage
 
 ## Frequency of Different Languages by Operating System 
 ```{r freq-of-lang-by-operating-system, warning=F, message=F, echo=F, results=F, eval=T, fig.cap="iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device."}
@@ -430,8 +428,6 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
 ```
 
-\newpage
-\newpage
 
 ```{r, eval=F, echo=F}
 # Subquestion #4: What is the average number of labels looked at per session? 
@@ -474,6 +470,7 @@ y$sessiontime2 <- as.double(y$sessiontime)
 y$sessiontimemin <- y$sessiontime2/60
 
 ```
+
 
 # App Use By Time
 
