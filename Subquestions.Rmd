@@ -5,7 +5,6 @@ date: "`r Sys.Date()`"
 output:
   md_document:
     toc: TRUE
-    toc_depth: '4'
   word_document:
     toc: yes
     toc_depth: '4'
@@ -36,7 +35,7 @@ devtools::install_github("UrbanInstitute/urbnmapr")
 ```
 
 
-```{r setup, include=F, results='asis', eval = T}
+```{r setup, include=F, results='asis'}
 library(summarytools)
 
 st_options(plain.ascii = F, # Always use this option in Rmd documents
