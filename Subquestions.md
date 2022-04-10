@@ -31,12 +31,15 @@
 -   [App Use By Time](#app-use-by-time)
     -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and
         ‘Activity of the
-        User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)  
-        <br>
+        User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
+-   [App Use By Activity](#app-use-by-activity)  
+-   [Average Session Duration](#average-session-duration)  
+-   [Appendix](#appendix)  
+    <br>
 
 # Introduction
 
-![alt text](/Users/aartitandon/Downloads/IMG_7470.JPG)
+![alt text](/Users/aartitandon/Downloads/IMG_7470%202.JPG)
 
 Hi! My name is Aarti Tandon and I am currently working as an
 Undergraduate Research Assistant here at the University of Washington.
@@ -325,107 +328,9 @@ ABBA ULTRA MITICIDE/INSECTICIDE
 </tbody>
 </table>
 
-## Attempt 2: Table of Top Ten Searched Pesticides
-
-<table>
-<caption>
 Amongst 129 total pesticides in the application, Table 1 displays the
 top ten searched pesticides. ‘Lorsban® Advanced’ was the most popularly
 looked at pesticide among users from August 2020-2021.
-</caption>
-<thead>
-<tr>
-<th style="text-align:left;">
-Var1
-</th>
-<th style="text-align:right;">
-Freq
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-Lorsban® Advanced
-</td>
-<td style="text-align:right;">
-23
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-PARAQUAT 43.2% SL
-</td>
-<td style="text-align:right;">
-18
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2,4-D AMINE 4 HERBICIDE
-</td>
-<td style="text-align:right;">
-16
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2,4-D /AMINE 4 HERBICIDE
-</td>
-<td style="text-align:right;">
-14
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Lorsban®-4E Insecticide
-</td>
-<td style="text-align:right;">
-12
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-440 SUPERIOR SPRAY OIL
-</td>
-<td style="text-align:right;">
-11
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Delegate® WG
-</td>
-<td style="text-align:right;">
-11
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Carbaryl 4L
-</td>
-<td style="text-align:right;">
-10
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-ABBA ULTRA MITICIDE/INSECTICIDE
-</td>
-<td style="text-align:right;">
-9
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-440 Superior Spray Oil
-</td>
-<td style="text-align:right;">
-8
-</td>
-</tr>
-</tbody>
-</table>
 
 # Average Session Duration
 

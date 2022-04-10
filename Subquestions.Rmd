@@ -103,11 +103,14 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Frequency of Each Language Accessed on the Application](#frequency-of-each-language-accessed-on-the-application)
     -   [Frequency of Different Languages by Operating System](#frequency-of-different-languages-by-operating-system)
 -   [App Use By Time](#app-use-by-time)       
-    -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)    
+    -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’) 
+-   [App Use By Activity](#app-use-by-activity)     
+-   [Average Session Duration](#average-session-duration)       
+-   [Appendix](#appendix)   
 <br>
 
 # Introduction
-![alt text](/Users/aartitandon/Downloads/IMG_7470.JPG)
+![alt text](/Users/aartitandon/Downloads/IMG_7470 2.JPG)
 
 Hi! My name is Aarti Tandon and I am currently working as an Undergraduate Research Assistant here at the University of Washington. Through the [SURE-EH program](https://deohs.washington.edu/apply-sure-eh), I work with the [Pacific Northwest Agricultural Safety and Health Center](https://deohs.washington.edu/pnash/) under the mentorship of Dr. Eddie Kasner and Kit Galvin. This is my markdown file that I have been working on this past year where I have analyzed data from the 'Bilingual Health and Safety Messaging' application. My research is focused on reducing the gaps in fair and equal access for marginalized peoples by understanding our user audience and their preferences for app utility. While working on the app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
 
@@ -670,15 +673,7 @@ my_table <- table[order(table, decreasing = TRUE)]
 my_table <- my_table[1:10] 
 kable(my_table)
 ```
-
-
-## Attempt 2: Table of Top Ten Searched Pesticides 
-```{r searchedpesticides2, fig.align='center', warning=F, message=F, echo=F, results=T, eval=T}
-
-knitr::kable(my_table,
-             caption = "Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.")
-```
-
+Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.
 
 # Average Session Duration 
 ## 90.11 minutes
