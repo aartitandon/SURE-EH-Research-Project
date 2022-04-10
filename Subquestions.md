@@ -55,8 +55,8 @@
 
 # Introduction
 
-![alt
-text](/Users/aartitandon/Projects/SURE-EH-RESEARCH-PROJECT/IMG_7470%202.JPG)
+![IMG\_7470 2](IMG_7470%202.JPG) blah ![IMG\_7470
+2](/Users/aartitandon/Projects/SURE-EH-RESEARCH-PROJECT/IMG_7470%202.JPG)
 Hi! My name is Aarti Tandon and I am currently working as an
 Undergraduate Research Assistant here at the University of Washington.
 Through the [SURE-EH

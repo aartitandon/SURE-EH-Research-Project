@@ -117,7 +117,9 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 <br>
 
 # Introduction
-![alt text](/Users/aartitandon/Projects/SURE-EH-RESEARCH-PROJECT/IMG_7470 2.JPG)
+![IMG_7470 2](IMG_7470 2.JPG)
+blah
+![IMG_7470 2](/Users/aartitandon/Projects/SURE-EH-RESEARCH-PROJECT/IMG_7470 2.JPG)
 Hi! My name is Aarti Tandon and I am currently working as an Undergraduate Research Assistant here at the University of Washington. Through the [SURE-EH program](https://deohs.washington.edu/apply-sure-eh), I work with the [Pacific Northwest Agricultural Safety and Health Center](https://deohs.washington.edu/pnash/) under the mentorship of Dr. Eddie Kasner and Kit Galvin. This is my markdown file that I have been working on this past year where I have analyzed data from the 'Bilingual Health and Safety Messaging' application. My research is focused on reducing the gaps in fair and equal access for marginalized peoples by understanding our user audience and their preferences for app utility. While working on the app, I have been able to stand at the crossroads of technology and human health. Using the tools of statistics and data visualization, I have contributed to research translation and the improvement of  human health, environmental resilience, and social and economic equity.
 
 # Executive Summary
