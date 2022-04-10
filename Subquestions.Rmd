@@ -1,10 +1,9 @@
 ---
 title: "Pesticide Labels Now Report"
-subtitle: "Draft"
+subtitle: Draft
 date: "`r Sys.Date()`"
 output:
-  md_document:
-    toc: yes
+  md_document: default
   word_document:
     toc: yes
     toc_depth: '4'
@@ -18,7 +17,9 @@ output:
     latex_engine: xelatex
     toc: yes
     toc_depth: 4
-editor_options: 
+  bookdown::md_document:
+    toc: yes
+editor_options:
   chunk_output_type: console
 ---
 
@@ -30,6 +31,7 @@ options(repos = r)
 if(!require(pacman)) {install.packages("pacman", repos = "http://cran.us.r-project.org")}
 pacman::p_load(tidyverse, utils, lubridate, readxl, vcd, kableExtra, table1, here, maps, sf, ggmap, sp, ggthemes, ggspatial, urbnmapr, breakDown, dplyr, expm, devtools, data.table, ggplot2, car, viridis, ggExtra, tidyr, tigris, frequency)
 
+install.packages("bookdown")
 install.packages("summarytools")
 devtools::install_github("yutannihilation/ggsflabel")
 devtools::install_github("UrbanInstitute/urbnmapr")
@@ -113,7 +115,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Frequency of Links Utilized](#frequency-of-links-utilized)     
     -   [Frequency of Different Links by Language](#frequency-of-different-links-by-language)     
 -   [Average Session Duration](#average-session-duration)       
--   [Appendix](#appendix)   
+-   [APPENDIX](#appendix)   
 <br>
 
 # Introduction
@@ -694,6 +696,6 @@ Amongst 129 total pesticides in the application, Table 1 displays the top ten se
 ```
 
 
-# [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
+# [APPENDIX](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
 
 
