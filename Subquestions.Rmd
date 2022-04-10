@@ -84,10 +84,17 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 
 <br>
 
+## Table of Contents
 -   [Introduction](#introduction)
 -   [Executive Summary](#executive-summary)
 -   [Objective](#objective)
-
+-   [Features to Help Understand User Characteristics](#features-to-help-understand-user-characteristics)
+-   [Data Subsets](#data-subsets)
+-   [Descriptive Statistics](#descriptive-statistics)
+    -   [evDownload.01](#evdownload.01)
+    -   [evStart](#evstart)
+    -   [evViewPage.01](#evviewpage.01)
+-   [App Use By Location](#app-use-by-location)
 
 
 # Introduction
