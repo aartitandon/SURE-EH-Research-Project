@@ -17,6 +17,16 @@
     -   [evStart](#evstart)
     -   [evViewPage.01](#evviewpage.01)
 -   [App Use By Location](#app-use-by-location)
+    -   [Plot for US Sessions](#plot-for-us-sessions)
+    -   [Plot for WA sessions with County
+        Names](#plot-for-wa-sessions-with-county-names)
+-   [App Use By Device](#app-use-by-device)
+    -   [Devices Utilized to Access the
+        Application](#devices-utilized-to-access-the-application)
+-   [App Use By Language](#app-use-by-language)
+    -   [Frequency of Each Language Accessed on the
+        Application](#frequency-of-each-language-accessed-on-the-application)
+        <br>
 
 # Introduction
 
