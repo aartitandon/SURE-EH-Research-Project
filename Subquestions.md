@@ -2,20 +2,9 @@
 
 ## Authors: Aarti Tandon, Eddie Kasner, Kit Galvin, Pablo Palmández
 
-<br> - [Introduction](#introduction) - [Executive
-Summary](#executive-summary) - [Data Dictionary](#data-dictionary) -
-[evDownload.01 subset](#evdownload.01-subset) - [evStart
-subset](#evstart-subset) - [evViewPage.01 subset](#evviewpage.01-subset)
-- [Descriptive Statistics](#descriptive-statistics) -
-[evDownload.01](#evdownload.01) - [Frequencies](#frequencies) -
-[Frequencies](#frequencies-1) - [Frequencies](#frequencies-2) -
-[evStart](#evstart) - [Frequencies](#frequencies-3) -
-[Frequencies](#frequencies-4) - [evViewPage.01](#evviewpage.01) -
-[Frequencies](#frequencies-5) - [Frequencies](#frequencies-6) -
-[Frequencies](#frequencies-7) - [Frequencies](#frequencies-8) - [App use
-by location](#app-use-by-location) - [Device time use
-patterns](#device-time-use-patterns) - [Dataframe
-summaries](#dataframe-summaries) <br>
+<br>
+
+-   [Introduction](#introduction)
 
 # Introduction
 
