@@ -26,7 +26,11 @@
 -   [App Use By Language](#app-use-by-language)
     -   [Frequency of Each Language Accessed on the
         Application](#frequency-of-each-language-accessed-on-the-application)
-        <br>
+    -   [Frequency of Different Languages by Operating
+        System](#frequency-of-different-languages-by-operating-system)
+-   [App Use By Time](#app-use-by-time)
+
+<br>
 
 # Introduction
 

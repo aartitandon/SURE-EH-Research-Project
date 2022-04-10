@@ -101,8 +101,10 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Devices Utilized to Access the Application](#devices-utilized-to-access-the-application)
 -   [App Use By Language](#app-use-by-language)   
     -   [Frequency of Each Language Accessed on the Application](#frequency-of-each-language-accessed-on-the-application)
+    -   [Frequency of Different Languages by Operating System](#frequency-of-different-languages-by-operating-system)
+-   [App Use By Time](#app-use-by-time)       
+    
 <br>
-
 
 # Introduction
 ![alt text](/Users/aartitandon/Downloads/IMG_7470.JPG)
