@@ -22,6 +22,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+-   [Executive Summary](#executive-summary)
+
 ```{r packages, warning=F, message=F, echo=F, results=F}
 
 r = getOption("repos")
