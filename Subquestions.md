@@ -55,11 +55,7 @@
 
 # Introduction
 
-<img src="IMG_7470 2.JPG" alt="drawing" width="200"/>
-<img src="myself.png" alt="drawing" width="200"/>
-<img src="myself.png" alt="drawing" width="250"/>
-<img src="myself.png" alt="drawing" width="300"/>
-<img src="myself.png" alt="drawing" width="350"/>
+<img src="myself.png" alt="drawing" width="400"/>
 
 Hi! My name is Aarti Tandon and I am currently working as an
 Undergraduate Research Assistant here at the University of Washington.
