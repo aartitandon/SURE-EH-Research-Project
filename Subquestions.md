@@ -5,6 +5,8 @@
 <br>
 
 -   [Introduction](#introduction)
+-   [Executive Summary](#executive-summary)
+-   [Objective](#objective)
 
 # Introduction
 
