@@ -29,8 +29,10 @@
     -   [Frequency of Different Languages by Operating
         System](#frequency-of-different-languages-by-operating-system)
 -   [App Use By Time](#app-use-by-time)
-
-<br>
+    -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and
+        ‘Activity of the
+        User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)  
+        <br>
 
 # Introduction
 

@@ -103,7 +103,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Frequency of Each Language Accessed on the Application](#frequency-of-each-language-accessed-on-the-application)
     -   [Frequency of Different Languages by Operating System](#frequency-of-different-languages-by-operating-system)
 -   [App Use By Time](#app-use-by-time)       
-    
+    -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)    
 <br>
 
 # Introduction
