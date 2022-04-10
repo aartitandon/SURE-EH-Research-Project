@@ -188,6 +188,10 @@ Spanish. Android users are more likely to access the information in
 Spanish than English. This raises the question why Spanish-speaking
 users are more likely to have an Android
 device.](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png)
+iOS users are more likely to access the information in English than
+Spanish. Android users are more likely to access the information in
+Spanish than English. This raises the question why Spanish-speaking
+users are more likely to have an Android device.
 
 # App Use By Time
 
