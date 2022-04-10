@@ -47,14 +47,16 @@
     -   [Activity in Each Label
         Section](#activity-in-each-label-section)
     -   [Frequency of Links Utilized](#frequency-of-links-utilized)  
+    -   [Frequency of Different Links by
+        Language](#frequency-of-different-links-by-language)  
 -   [Average Session Duration](#average-session-duration)  
 -   [Appendix](#appendix)  
     <br>
 
 # Introduction
 
-![alt text](/Users/aartitandon/Downloads/IMG_7470%202.JPG)
-
+![alt
+text](/Users/aartitandon/Projects/SURE-EH-RESEARCH-PROJECT/IMG_7470%202.JPG)
 Hi! My name is Aarti Tandon and I am currently working as an
 Undergraduate Research Assistant here at the University of Washington.
 Through the [SURE-EH
