@@ -104,7 +104,13 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Frequency of Different Languages by Operating System](#frequency-of-different-languages-by-operating-system)
 -   [App Use By Time](#app-use-by-time)       
     -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’) 
--   [App Use By Activity](#app-use-by-activity)     
+    -   [Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’) 
+    -   [Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
+    -   [Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)  
+-   [App Use By Activity](#app-use-by-activity)  
+    -   [Frequency of Each Source Page Accessed on the Application](#frequency-of-each-source-page-accessed-on-the-application)
+    -   [Activity in Each Label Section](#activity-in-each-label-section)
+    -   [Frequency of Links Utilized](#frequency-of-links-utilized)        
 -   [Average Session Duration](#average-session-duration)       
 -   [Appendix](#appendix)   
 <br>
@@ -661,6 +667,7 @@ labs(title = "Frequency of Different Links by Language",
        y = "Percentage") + 
   theme_classic() +
   scale_fill_brewer(palette = "Pastel1") 
+tab
 ```
 
 

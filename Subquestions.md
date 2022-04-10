@@ -32,7 +32,21 @@
     -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and
         ‘Activity of the
         User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
--   [App Use By Activity](#app-use-by-activity)  
+    -   [Comparing User Sessions by ‘Hour of the Day’, ‘Day of the
+        Month’, and ‘Activity of the
+        User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
+    -   [Comparing User Sessions by ‘Month’, ‘Day of the Month’, and
+        ‘Session Time (in
+        minutes)’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
+    -   [Comparing User Sessions by ‘Hour of the Month’, ‘Day of the
+        Month’, ‘Month’, and
+        ‘Year’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)  
+-   [App Use By Activity](#app-use-by-activity)
+    -   [Frequency of Each Source Page Accessed on the
+        Application](#frequency-of-each-source-page-accessed-on-the-application)
+    -   [Activity in Each Label
+        Section](#activity-in-each-label-section)
+    -   [Frequency of Links Utilized](#frequency-of-links-utilized)  
 -   [Average Session Duration](#average-session-duration)  
 -   [Appendix](#appendix)  
     <br>
@@ -230,6 +244,12 @@ application was analyzed. ‘Labels Search’ was the most popularly viewed
 section by all users.
 
 ## Frequency of Different Links by Language
+
+![The frequency of each ‘Label Section’ item accessed on the ‘Pesticides
+Labels Now’ application was compared to the user’s accessed language.
+‘EULA’ was most popularly used by English readers and ‘Update News’ was
+most popularly used by Spanish
+readers.](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
 
 ## Table of Top Ten Searched Pesticides
 
