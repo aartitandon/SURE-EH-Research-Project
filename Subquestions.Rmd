@@ -89,8 +89,6 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [evDownload.01 subset](#evdownload.01-subset)
     -   [evStart subset](#evstart-subset)
     -   [evViewPage.01 subset](#evviewpage.01-subset)
-    -   [Detailed variable
-        descriptions](#detailed-variable-descriptions)
 -   [Descriptive Statistics](#descriptive-statistics)
     -   [evDownload.01](#evdownload.01)
         -   [Frequencies](#frequencies)
