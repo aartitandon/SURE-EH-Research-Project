@@ -210,7 +210,7 @@ print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings
 
 # App Use By Location  
 ## Plot for US Sessions
-```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%", fig.cap="In the United States, user utilization is predominantly concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California."}
+```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 #extract locations from evStart
 ## Remove parenthesizes from evDesc3 lat, long
@@ -242,7 +242,8 @@ ggplot() +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(-3e+06, 3e+06)) +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
 ```
-<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+<figcaption align = "center"><b>Figure 1 - App Utilization on US Map </b></figcaption>
+In the United States, user utilization is predominantly concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California.
 
 
 ```{r user-map-wa, echo=F, warning=F, message=F, eval=T, out.width = "100%"}

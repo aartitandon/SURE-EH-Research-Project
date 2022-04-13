@@ -139,16 +139,14 @@ members and generated descriptive statistics for three subsets:
 
 ## Plot for US Sessions
 
-<img src="Subquestions_files/figure-markdown_strict/user-map-us-1.png" alt="In the United States, user utilization is predominantly concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California." width="100%" />
-<p class="caption">
+<img src="Subquestions_files/figure-markdown_strict/user-map-us-1.png" width="100%" />
+<figcaption align="center">
+<b>Figure 1 - App Utilization on US Map </b>
+</figcaption>
+
 In the United States, user utilization is predominantly concentrated in
 Washington, however, there is scattered usage throughout the Eastern
 coast and California.
-</p>
-
-<figcaption align="center">
-<b>Fig.1 - 4K Mountains Wallpaper</b>
-</figcaption>
 
 <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
 
