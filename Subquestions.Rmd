@@ -368,7 +368,7 @@ x$ts <- ymd_hms(x$ts)
 
 ## Devices Utilized to Access the Application
 
-```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T, fig.cap="The three devices utilized to access the application were an iPhone, Android, or iPad. Almost 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system."}
+```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T, out.width="100%"}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -386,7 +386,8 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
-
+<figcaption align = "center"><b>Figure 3 - Bar Chart Displaying Devices Utilized to Access the Application </b></figcaption>
+The three devices utilized to access the application were an iPhone, Android, or iPad. Almost 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system.
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
