@@ -269,7 +269,7 @@ t <- counties_sf_t %>%
 
 ```
 
-
+| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
 ```{r user-map-wa-kingcounty, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 library(ggplot2)
