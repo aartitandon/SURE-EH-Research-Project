@@ -242,6 +242,7 @@ ggplot() +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(-3e+06, 3e+06)) +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
 ```
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
 
 
 ```{r user-map-wa, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
