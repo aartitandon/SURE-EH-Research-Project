@@ -50,7 +50,7 @@
     -   [Frequency of Different Links by
         Language](#frequency-of-different-links-by-language)  
 -   [Average Session Duration](#average-session-duration)  
--   [APPENDIX](#appendix)  
+-   [Appendix](#appendix)  
     <br>
 
 # Introduction
@@ -204,48 +204,58 @@ device.](Subquestions_files/figure-markdown_strict/freq-of-lang-by-operating-sys
 
 iOS users are more likely to access the information in English than
 Spanish. Android users are more likely to access the information in
-Spanish than English. This raises the question why Spanish-speaking
+Spanish than English. This raises the question of why Spanish-speaking
 users are more likely to have an Android device.
 
 # App Use By Time
+
+<figcaption align="center">
+<b>Figure 6 - \*For the Time-Series Calendar HeatMaps, it is important
+to note that the shade of blue will indicate the usage on the
+application. If there is no blue, this means there was no application
+usage during that time (e.g. month, day, hour). </b>
+</figcaption>
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
 ![](Subquestions_files/figure-markdown_strict/heatmap1-1.png)
 <figcaption align="center">
 <b>Figure 6 - Time-Series Calendar HeatMap Analyzing Each Session’s
-Duration in Comparison to the Day of the Month, Month, and Activity of
-the User </b>
+Duration in Comparison to the ‘Day of the Month’, ‘Month’, and ‘Activity
+of the User’ </b>
 </figcaption>
 
 Growing season starts around mid-March till the end of November. Figure
 5 depicts the increase in session duration mid-year. The rise in
 activity at this time conveys the success of the application targeting
-this specific population of farmworkers. #during the blank chunks, shade
-of the blue will tell u heavy usage of app, if no blue, there is no
-usage over the phone.on most days, the app is being used, but there are
-apps.
+this specific population of farmworkers.
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
 ![](Subquestions_files/figure-markdown_strict/heatmap2-1.png)
 <figcaption align="center">
 <b>Figure 7 - Time-Series Calendar HeatMap Analyzing Each Session’s
-Duration in Comparison to the Hour of the Day, Day of the Month, and
-Activity of the User </b>
+Duration in Comparison to the ‘Hour of the Day’, ‘Day of the Month’, and
+‘Activity of the User’ </b>
 </figcaption>
+
+In regards to the ‘Day of the Month’, the usage remains relatively
+consistent. However, there is a spike in usage of the application each
+day from 12-3 PM.
 
 ## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’
 
-<img src="Subquestions_files/figure-markdown_strict/heatmap3-1.png" width="100%" />
+![](Subquestions_files/figure-markdown_strict/heatmap3-1.png)
 <figcaption align="center">
 <b>Figure 8 - Time-Series Calendar HeatMap Analyzing Each Session’s
 Duration in Comparison to the Month, Day of the Month, and Session Time
 (in minutes) </b>
 </figcaption>
 
-After making changes… it makes sense that from april-august, the app is
-more utilized
+Growing season starts around mid-March till the end of November. Figure
+5 depicts the increase in session duration from April to August. The
+rise in activity at this time conveys the success of the application
+targeting this specific population of farmworkers.
 
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
@@ -255,6 +265,12 @@ more utilized
 Duration in Comparison to the Hour of the Month, Day of the Month,
 Month, and Year </b>
 </figcaption>
+
+It is important to note here that each line represents an individual
+session. Starting from August 2020, the app utilization rises each month
+as indicated by the increasing amount of lines(sessions). January
+through April 2021 can be seen as the most successful months for the
+application due to its popular activity during growing season.
 
 # App Use By Activity
 
@@ -414,4 +430,4 @@ looked at pesticide among users from August 2020-2021.
 
 ## 90.11 minutes
 
-# [APPENDIX](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
+# [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)

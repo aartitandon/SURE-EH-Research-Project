@@ -115,7 +115,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Frequency of Links Utilized](#frequency-of-links-utilized)     
     -   [Frequency of Different Links by Language](#frequency-of-different-links-by-language)     
 -   [Average Session Duration](#average-session-duration)       
--   [APPENDIX](#appendix)   
+-   [Appendix](#appendix)   
 <br>
 
 # Introduction
@@ -472,7 +472,7 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
 ```
 <figcaption align = "center"><b>Figure 5 - Bar Chart of Language Frequency by Operating System </b></figcaption>
-iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device. 
+iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question of why Spanish-speaking users are more likely to have an Android device. 
 
 ```{r, eval=F, echo=F}
 # Subquestion #4: What is the average number of labels looked at per session? 
@@ -518,7 +518,7 @@ y$sessiontimemin <- y$sessiontime2/60
 
 
 # App Use By Time
-
+<figcaption align = "center"><b>Figure 6 - *For the Time-Series Calendar HeatMaps, it is important to note that the shade of blue will indicate the usage on the application. If there is no blue, this means there was no application usage during that time (e.g. month, day, hour). </b></figcaption>
 ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
 ```{r heatmap1, warning=F, message=F, echo=F, results=F, eval=T}
 # x=day, y=month, fill="activity"/number of occurances
@@ -542,8 +542,8 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
-<figcaption align = "center"><b>Figure 6 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Day of the Month, Month, and Activity of the User </b></figcaption>
-Growing season starts around mid-March till the end of November. Figure 5 depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. #during the blank chunks, shade of the blue will tell u heavy usage of app, if no blue, there is no usage over the phone.on most days, the app is being used, but there are apps. 
+<figcaption align = "center"><b>Figure 6 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Day of the Month', 'Month', and 'Activity of the User' </b></figcaption>
+Growing season starts around mid-March till the end of November. Figure 5 depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers.
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
 ```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
@@ -556,10 +556,11 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
-<figcaption align = "center"><b>Figure 7 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Hour of the Day, Day of the Month, and Activity of the User </b></figcaption>
+<figcaption align = "center"><b>Figure 7 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Hour of the Day', 'Day of the Month', and 'Activity of the User' </b></figcaption>
+In regards to the 'Day of the Month', the usage remains relatively consistent. However, there is a spike in usage of the application each day from 12-3 PM. 
 
 ## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
-```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, out.width="100%"}
+```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=10}
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
 
@@ -570,7 +571,7 @@ ggplot(y, aes(x=Month_Yr, y=day)) + geom_tile(aes(fill=sessiontimemin)) +
        fill="Session Time (minutes)")
 ```
 <figcaption align = "center"><b>Figure 8 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Month, Day of the Month, and Session Time (in minutes) </b></figcaption>
-After making changes... it makes sense that from april-august, the app is more utilized 
+Growing season starts around mid-March till the end of November. Figure 5 depicts the increase in session duration from April to August. The rise in activity at this time conveys the success of the application targeting this specific population of farmworkers. 
 
 ## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
 ```{r heatmap4, warning=F, message=F, echo=F, results=F, eval=T}
@@ -605,6 +606,7 @@ p
 
 ```
 <figcaption align = "center"><b>Figure 9 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Hour of the Month, Day of the Month, Month, and Year </b></figcaption>
+It is important to note here that each line represents an individual session. Starting from August 2020, the app utilization rises each month as indicated by the increasing amount of lines(sessions). January through April 2021 can be seen as the most successful months for the application due to its popular activity during growing season. 
 
 # App Use By Activity 
 ## Frequency of Each Source Page Accessed on the Application 
@@ -709,6 +711,6 @@ Amongst 129 total pesticides in the application, Table 1 displays the top ten se
 ```
 
 
-# [APPENDIX](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
+# [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
 
 
