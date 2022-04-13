@@ -105,7 +105,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Frequency of Each Language Accessed on the Application](#frequency-of-each-language-accessed-on-the-application)
     -   [Frequency of Different Languages by Operating System](#frequency-of-different-languages-by-operating-system)
 -   [App Use By Time](#app-use-by-time)       
-    -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’) 
+    -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’](#Comparing-User-Sessions-by-‘Day-of-the-Month-’,‘Month-’,and-‘Activity-of-the-User’) 
     -   [Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’) 
     -   [Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
     -   [Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)  
@@ -117,6 +117,8 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 -   [Average Session Duration](#average-session-duration)       
 -   [Appendix](#appendix)   
 <br>
+
+Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
 
 # Introduction
 <img src="myself.png" alt="drawing" width="400"/>

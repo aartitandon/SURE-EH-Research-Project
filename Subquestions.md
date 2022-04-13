@@ -31,7 +31,7 @@
 -   [App Use By Time](#app-use-by-time)
     -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and
         ‘Activity of the
-        User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
+        User’](#Comparing-User-Sessions-by-‘Day-of-the-Month-’,‘Month-’,and-‘Activity-of-the-User’)
     -   [Comparing User Sessions by ‘Hour of the Day’, ‘Day of the
         Month’, and ‘Activity of the
         User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
@@ -52,6 +52,9 @@
 -   [Average Session Duration](#average-session-duration)  
 -   [Appendix](#appendix)  
     <br>
+
+Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of
+the User’
 
 # Introduction
 
