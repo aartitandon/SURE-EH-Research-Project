@@ -237,7 +237,7 @@ Activity of the User </b>
 
 ## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’
 
-![](Subquestions_files/figure-markdown_strict/heatmap3-1.png)
+<img src="Subquestions_files/figure-markdown_strict/heatmap3-1.png" width="100%" />
 <figcaption align="center">
 <b>Figure 8 - Time-Series Calendar HeatMap Analyzing Each Session’s
 Duration in Comparison to the Month, Day of the Month, and Session Time
@@ -260,17 +260,22 @@ Month, and Year </b>
 
 ## Frequency of Each Source Page Accessed on the Application
 
-![](Subquestions_files/figure-markdown_strict/source-page-1.png) ‘PICOL’
-can be notably distinguished as the most popular source page accessed by
-users.
+![](Subquestions_files/figure-markdown_strict/source-page-1.png)
+<figcaption align="center">
+<b>Figure 10 - Barchart Displaying Frequency of Source Page Accessed
+</b>
+</figcaption>
+
+‘PICOL’ can be notably distinguished as the most popular source page
+accessed by users.
 
 ## Activity in Each Label Section
 
-![The frequency of each ‘Label Section’ item accessed on the ‘Pesticides
-Labels Now’ application was analyzed. ‘Product Information’, ‘Personal
-Protective Equipment’ and ‘Pesticide Labels’ are the most popularly
-accessed sections by
-users.](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
+![](Subquestions_files/figure-markdown_strict/activity-in-label-sections-1.png)
+<figcaption align="center">
+<b>Figure 11 - Barchart Displaying Frequency of Each Link Accessed </b>
+</figcaption>
+
 The frequency of each ‘Label Section’ item accessed on the ‘Pesticides
 Labels Now’ application was analyzed. ‘Product Information’, ‘Personal
 Protective Equipment’ and ‘Pesticide Labels’ are the most popularly
@@ -278,18 +283,28 @@ accessed sections by users.
 
 ## Frequency of Links Utilized
 
-![](Subquestions_files/figure-markdown_strict/freq-of-links-1.png) The
-frequency of each ‘Link’ accessed on the ‘Pesticides Labels Now’
+![](Subquestions_files/figure-markdown_strict/freq-of-links-1.png)
+<figcaption align="center">
+<b>Figure 12 - Barchart Displaying Frequency of Different Links by
+Language </b>
+</figcaption>
+
+The frequency of each ‘Link’ accessed on the ‘Pesticides Labels Now’
 application was analyzed. ‘Labels Search’ was the most popularly viewed
 section by all users.
 
 ## Frequency of Different Links by Language
 
-![The frequency of each ‘Label Section’ item accessed on the ‘Pesticides
+![](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
+<figcaption align="center">
+<b>Figure 13 - Barchart Displaying Frequency of Different Links by
+Language </b>
+</figcaption>
+
+The frequency of each ‘Label Section’ item accessed on the ‘Pesticides
 Labels Now’ application was compared to the user’s accessed language.
 ‘EULA’ was most popularly used by English readers and ‘Update News’ was
-most popularly used by Spanish
-readers.](Subquestions_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
+most popularly used by Spanish readers.
 
 ## Table of Top Ten Searched Pesticides
 

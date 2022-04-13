@@ -559,7 +559,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
 <figcaption align = "center"><b>Figure 7 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Hour of the Day, Day of the Month, and Activity of the User </b></figcaption>
 
 ## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
-```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=12}
+```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, out.width="100%"}
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
 
@@ -624,10 +624,11 @@ ggplot(download_data, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
 ```
+<figcaption align = "center"><b>Figure 10 - Barchart Displaying Frequency of Source Page Accessed </b></figcaption>
 'PICOL' can be notably distinguished as the most popular source page accessed by users. 
 
 ## Activity in Each Label Section 
-```{r activity-in-label-sections, fig.cap="The frequency of each 'Label Section' item accessed on the 'Pesticides Labels Now' application was analyzed. 'Product Information', 'Personal Protective Equipment' and 'Pesticide Labels' are the most popularly accessed sections by users.", echo=F, warning=F, message=F, results=F, eval=T, fig.width = 10, fig.height=10}
+```{r activity-in-label-sections, echo=F, warning=F, message=F, results=F, eval=T, fig.width = 10, fig.height=10}
 library(ggplot2)
 library(tidyverse)
 
@@ -643,6 +644,7 @@ ggplot(data, aes(x = reorder(label, -count),y=count)) +
     ylab("Count (n) ") + 
     ggtitle("¡Etiquetas de pesticidas, ahora!™/Pesticide Labels, Now!™ Views by Label Sections") 
 ```
+<figcaption align = "center"><b>Figure 11 - Barchart Displaying Frequency of Each Link Accessed </b></figcaption>
 The frequency of each 'Label Section' item accessed on the 'Pesticides Labels Now' application was analyzed. 'Product Information', 'Personal Protective Equipment' and 'Pesticide Labels' are the most popularly accessed sections by users.
 
 ## Frequency of Links Utilized 
@@ -662,10 +664,11 @@ ggplot(per_data3, aes(x = reorder(n, -per), y=per)) +
   theme_bw()  + 
   scale_x_discrete(labels = c("Labels Search", "HS Label", "PICOL Search", "More", "Resources", "PICOL Label", "Feedback", "About", "EULA", "Partners", "Contact", "Disclaimer", "Privacy", "Update News"))
 ```
+<figcaption align = "center"><b>Figure 12 - Barchart Displaying Frequency of Different Links by Language </b></figcaption>
 The frequency of each 'Link' accessed on the 'Pesticides Labels Now' application was analyzed. 'Labels Search' was the most popularly viewed section by all users.
 
 ## Frequency of Different Links by Language
-```{r freq-diff-links-by-language, fig.cap="The frequency of each ‘Label Section’ item accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly used by English readers and 'Update News' was most popularly used by Spanish readers.", echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
+```{r freq-diff-links-by-language, echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
 library(dplyr)
 library(ggplot2)
 
@@ -680,7 +683,8 @@ labs(title = "Frequency of Different Links by Language",
   scale_fill_brewer(palette = "Pastel1") 
 tab
 ```
-
+<figcaption align = "center"><b>Figure 13 - Barchart Displaying Frequency of Different Links by Language </b></figcaption>
+The frequency of each ‘Label Section’ item accessed on the ‘Pesticides Labels Now’ application was compared to the user's accessed language. 'EULA' was most popularly used by English readers and 'Update News' was most popularly used by Spanish readers.
 
 ## Table of Top Ten Searched Pesticides 
 ```{r searchedpesticides, fig.align='center', fig.cap="Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.", warning=F, message=F, echo=F, results=T, eval=T}
