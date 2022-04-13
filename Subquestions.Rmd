@@ -518,7 +518,7 @@ y$sessiontimemin <- y$sessiontime2/60
 
 
 # App Use By Time
-<figcaption align = "center"><b>Figure 6 - *For the Time-Series Calendar HeatMaps, it is important to note that the shade of blue will indicate the usage on the application. If there is no blue, this means there was no application usage during that time (e.g. month, day, hour). </b></figcaption>
+<figcaption align = "center"><b>Note: For the Time-Series Calendar HeatMaps, the shade of blue will indicate the usage on the application. If there is no blue, this means there was no application usage during that time (e.g. month, day, hour). </b></figcaption>
 ## Comparing User Sessions by 'Day of the Month', 'Month', and 'Activity of the User'
 ```{r heatmap1, warning=F, message=F, echo=F, results=F, eval=T}
 # x=day, y=month, fill="activity"/number of occurances
@@ -570,7 +570,7 @@ ggplot(y, aes(x=Month_Yr, y=day)) + geom_tile(aes(fill=sessiontimemin)) +
        title = "2020-2021 Calendar Heatmap", 
        fill="Session Time (minutes)")
 ```
-<figcaption align = "center"><b>Figure 8 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Month, Day of the Month, and Session Time (in minutes) </b></figcaption>
+<figcaption align = "center"><b>Figure 8 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Month', 'Day of the Month', and 'Session Time' (in minutes) </b></figcaption>
 Growing season starts around mid-March till the end of November. Figure 5 depicts the increase in session duration from April to August. The rise in activity at this time conveys the success of the application targeting this specific population of farmworkers. 
 
 ## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'

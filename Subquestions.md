@@ -210,10 +210,10 @@ users are more likely to have an Android device.
 # App Use By Time
 
 <figcaption align="center">
-<b>Figure 6 - \*For the Time-Series Calendar HeatMaps, it is important
-to note that the shade of blue will indicate the usage on the
-application. If there is no blue, this means there was no application
-usage during that time (e.g. month, day, hour). </b>
+<b>Note: For the Time-Series Calendar HeatMaps, the shade of blue will
+indicate the usage on the application. If there is no blue, this means
+there was no application usage during that time (e.g. month, day, hour).
+</b>
 </figcaption>
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
@@ -248,8 +248,8 @@ day from 12-3 PM.
 ![](Subquestions_files/figure-markdown_strict/heatmap3-1.png)
 <figcaption align="center">
 <b>Figure 8 - Time-Series Calendar HeatMap Analyzing Each Session’s
-Duration in Comparison to the Month, Day of the Month, and Session Time
-(in minutes) </b>
+Duration in Comparison to the ‘Month’, ‘Day of the Month’, and ‘Session
+Time’ (in minutes) </b>
 </figcaption>
 
 Growing season starts around mid-March till the end of November. Figure
