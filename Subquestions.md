@@ -31,16 +31,16 @@
 -   [App Use By Time](#app-use-by-time)
     -   [Comparing User Sessions by ‘Day of the Month’, ‘Month’, and
         ‘Activity of the
-        User’](#Comparing-User-Sessions-by-‘Day-of-the-Month-’,‘Month-’,and-‘Activity-of-the-User’)
+        User’](#comparing-user-sessions-by-day-of-the-month-month-and-activity-of-the-user)
     -   [Comparing User Sessions by ‘Hour of the Day’, ‘Day of the
         Month’, and ‘Activity of the
-        User’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
+        User’](#comparing-user-sessions-by-hour-of-the-day-day-of-the-month-and-activity-of-the-user)
     -   [Comparing User Sessions by ‘Month’, ‘Day of the Month’, and
         ‘Session Time (in
-        minutes)’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)
+        minutes)’](#comparing-user-sessions-by-month-day-of-the-month-and-session-time-in-minutes)
     -   [Comparing User Sessions by ‘Hour of the Month’, ‘Day of the
         Month’, ‘Month’, and
-        ‘Year’](#Comparing-User-Sessions-by-‘Day-of-the-Month’,-‘Month’,-and-‘Activity-of-the-User’)  
+        ‘Year’](#comparing-user-sessions-by-hour-of-the-month-day-of-the-month-month-and-year)  
 -   [App Use By Activity](#app-use-by-activity)
     -   [Frequency of Each Source Page Accessed on the
         Application](#frequency-of-each-source-page-accessed-on-the-application)
