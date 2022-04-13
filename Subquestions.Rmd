@@ -368,7 +368,7 @@ x$ts <- ymd_hms(x$ts)
 
 ## Devices Utilized to Access the Application
 
-```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T, out.width="100%"}
+```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
 str(evStart)
@@ -386,12 +386,12 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
-<figcaption align = "center"><b>Figure 3 - Bar Chart Displaying Devices Utilized to Access the Application </b></figcaption>
+<figcaption align = "center"><b>Figure 3 - Bar Chart of Devices Utilized on the Application </b></figcaption>
 The three devices utilized to access the application were an iPhone, Android, or iPad. Almost 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system.
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
-```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center', fig.cap="Figure X displays 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust."}
+```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
 library("dplyr")
@@ -414,7 +414,8 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
   theme_bw() + 
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
-
+<figcaption align = "center"><b>Figure 4 - Bar Chart of Language Frequency on the Application </b></figcaption>
+The data shows that there is 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust.
 
 ```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
 
@@ -470,7 +471,8 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
       scale_x_discrete(labels = c("English", "Spanish")) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
 ```
-\center iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device. \center
+<figcaption align = "center"><b>Figure 5 - Bar Chart of Language Frequency by Operating System </b></figcaption>
+iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device. 
 
 ```{r, eval=F, echo=F}
 # Subquestion #4: What is the average number of labels looked at per session? 
