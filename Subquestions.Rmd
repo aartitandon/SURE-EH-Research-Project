@@ -415,7 +415,7 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
 <figcaption align = "center"><b>Figure 4 - Bar Chart of Language Frequency on the Application </b></figcaption>
-The data shows that there is 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust.
+The data shows there is 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust.
 
 ```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
 
@@ -542,7 +542,8 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
-Figure X displays a Time-Series Calendar HeatMap analyzing each session’s duration in comparison to the day of the month, month, and activity of the user. Growing season starts around mid-March till the end of November. Figure X depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. #during the blank chunks, shade of the blue will tell u heavy usage of app, if no blue, there is no usage over the phone.on most days, the app is being used, but there are apps. 
+<figcaption align = "center"><b>Figure 6 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Day of the Month, Month, and Activity of the User </b></figcaption>
+Growing season starts around mid-March till the end of November. Figure 5 depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. #during the blank chunks, shade of the blue will tell u heavy usage of app, if no blue, there is no usage over the phone.on most days, the app is being used, but there are apps. 
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
 ```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
@@ -555,7 +556,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        fill="Activity of the User")
        
 ```
-
+<figcaption align = "center"><b>Figure 7 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Hour of the Day, Day of the Month, and Activity of the User </b></figcaption>
 
 ## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
 ```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=12}
@@ -568,6 +569,7 @@ ggplot(y, aes(x=Month_Yr, y=day)) + geom_tile(aes(fill=sessiontimemin)) +
        title = "2020-2021 Calendar Heatmap", 
        fill="Session Time (minutes)")
 ```
+<figcaption align = "center"><b>Figure 8 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Month, Day of the Month, and Session Time (in minutes) </b></figcaption>
 After making changes... it makes sense that from april-august, the app is more utilized 
 
 ## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
@@ -602,7 +604,7 @@ p <-p + theme(legend.position = "bottom")+
 p
 
 ```
-
+<figcaption align = "center"><b>Figure 9 - Time-Series Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Hour of the Month, Day of the Month, Month, and Year </b></figcaption>
 
 # App Use By Activity 
 ## Frequency of Each Source Page Accessed on the Application 
@@ -689,6 +691,7 @@ my_table <- table[order(table, decreasing = TRUE)]
 my_table <- my_table[1:10] 
 kable(my_table)
 ```
+<figcaption align = "center"><b>Table 1 - Top Ten Searched Pesticides </b></figcaption>
 Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.
 
 # Average Session Duration 

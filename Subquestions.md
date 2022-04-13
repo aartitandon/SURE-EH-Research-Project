@@ -186,10 +186,10 @@ through an Android system.
 <b>Figure 4 - Bar Chart of Language Frequency on the Application </b>
 </figcaption>
 
-The data shows that there is 18% more activity in English than Spanish.
-Since the ’Pesticides Labels Now! application initially asks the user
-which language they wish to proceed in, there is no “default” language
-and the results can be concluded as reliable and robust.
+The data shows there is 18% more activity in English than Spanish. Since
+the ’Pesticides Labels Now! application initially asks the user which
+language they wish to proceed in, there is no “default” language and the
+results can be concluded as reliable and robust.
 
 ## Frequency of Different Languages by Operating System
 
@@ -211,30 +211,50 @@ users are more likely to have an Android device.
 
 ## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
 
-![](Subquestions_files/figure-markdown_strict/heatmap1-1.png) Figure X
-displays a Time-Series Calendar HeatMap analyzing each session’s
-duration in comparison to the day of the month, month, and activity of
-the user. Growing season starts around mid-March till the end of
-November. Figure X depicts the increase in session duration mid-year.
-The rise in activity at this time conveys the success of the application
-targeting this specific population of farmworkers. #during the blank
-chunks, shade of the blue will tell u heavy usage of app, if no blue,
-there is no usage over the phone.on most days, the app is being used,
-but there are apps.
+![](Subquestions_files/figure-markdown_strict/heatmap1-1.png)
+<figcaption align="center">
+<b>Figure 6 - Time-Series Calendar HeatMap Analyzing Each Session’s
+Duration in Comparison to the Day of the Month, Month, and Activity of
+the User </b>
+</figcaption>
+
+Growing season starts around mid-March till the end of November. Figure
+5 depicts the increase in session duration mid-year. The rise in
+activity at this time conveys the success of the application targeting
+this specific population of farmworkers. #during the blank chunks, shade
+of the blue will tell u heavy usage of app, if no blue, there is no
+usage over the phone.on most days, the app is being used, but there are
+apps.
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
 ![](Subquestions_files/figure-markdown_strict/heatmap2-1.png)
+<figcaption align="center">
+<b>Figure 7 - Time-Series Calendar HeatMap Analyzing Each Session’s
+Duration in Comparison to the Hour of the Day, Day of the Month, and
+Activity of the User </b>
+</figcaption>
 
 ## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’
 
-![](Subquestions_files/figure-markdown_strict/heatmap3-1.png) After
-making changes… it makes sense that from april-august, the app is more
-utilized
+![](Subquestions_files/figure-markdown_strict/heatmap3-1.png)
+<figcaption align="center">
+<b>Figure 8 - Time-Series Calendar HeatMap Analyzing Each Session’s
+Duration in Comparison to the Month, Day of the Month, and Session Time
+(in minutes) </b>
+</figcaption>
+
+After making changes… it makes sense that from april-august, the app is
+more utilized
 
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
 ![](Subquestions_files/figure-markdown_strict/heatmap4-1.png)
+<figcaption align="center">
+<b>Figure 9 - Time-Series Calendar HeatMap Analyzing Each Session’s
+Duration in Comparison to the Hour of the Month, Day of the Month,
+Month, and Year </b>
+</figcaption>
 
 # App Use By Activity
 
@@ -367,6 +387,9 @@ ABBA ULTRA MITICIDE/INSECTICIDE
 </tr>
 </tbody>
 </table>
+<figcaption align="center">
+<b>Table 1 - Top Ten Searched Pesticides </b>
+</figcaption>
 
 Amongst 129 total pesticides in the application, Table 1 displays the
 top ten searched pesticides. ‘Lorsban® Advanced’ was the most popularly
