@@ -202,7 +202,7 @@ print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings
 ```
 
 # App Use By Location  
-## Plot for US Sessions
+## Map for US Sessions, 2020-2021
 ```{r user-map-us, warning=F, message=F, echo=F, eval=T, out.width = "100%"}
 
 #extract locations from evStart
@@ -236,7 +236,7 @@ ggplot() +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
 ```
 <figcaption align = "center"><b>Figure 1 - App Utilization on United States Map </b></figcaption>
-In the United States, user utilization is predominantly concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California.
+Predominant use is concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California.
 
 
 ```{r user-map-wa, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
