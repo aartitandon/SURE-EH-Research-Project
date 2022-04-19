@@ -299,7 +299,7 @@ wa_study_counties <- wa_county %>%
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 ```
 <figcaption align = "center"><b>Figure 2 - App Utilization on Washington State Map </b></figcaption>
-User utilization is predominantly concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.
+Predominant use is concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.
 
 ```{r heat-map-time-series, warning=F, message=F, echo=F} 
 
@@ -375,8 +375,7 @@ library(ggplot2)
 ggplot(per_data, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "darkseagreen1", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Devices", y = "Count",  
-       title = "Devices Utilized to Access the Application") + 
+  labs(x = "Devices", y = "Count") + 
   theme_bw() + 
   scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
 ```
@@ -403,8 +402,7 @@ per_data2 <- evViewPage.01 %>%
 ggplot(per_data2, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Language", y = "Count",  
-       title = "Frequency of Each Language Accessed on the Application") + 
+  labs(x = "Language", y = "Count") + 
   theme_bw() + 
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
@@ -459,8 +457,7 @@ which(is.na(aid_device_language2), arr.ind=TRUE)
 ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
   scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
-   labs(title = "Frequency of Different Languages by Operating System", 
-       x = "Language", 
+   labs(x = "Language", 
        y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
@@ -614,8 +611,7 @@ download_data <- evDownload.01 %>%
 ggplot(download_data, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "lavender", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Source Page", y = "Count",  
-       title = "Frequency of Each Source Page Accessed on the Application") + 
+  labs(x = "Source Page", y = "Count") + 
   scale_y_continuous(labels(scales::percent)) + 
   theme_bw() + 
   scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
@@ -654,8 +650,7 @@ per_data3 <- evViewPage.01 %>%
 ggplot(per_data3, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Links", y = "Count",  
-       title = "Frequency of Links Utilized") + 
+  labs(x = "Links", y = "Count") + 
   scale_y_continuous(labels(scales::percent)) + 
   theme_bw()  + 
   scale_x_discrete(labels = c("Labels Search", "HS Label", "PICOL Search", "More", "Resources", "PICOL Label", "Feedback", "About", "EULA", "Partners", "Contact", "Disclaimer", "Privacy", "Update News"))
@@ -672,8 +667,7 @@ tab <-  evViewPage.01 %>% group_by(evDesc1,evDesc2,.drop=FALSE) %>% tally()
 tab <- tab %>% mutate(perc=n/sum(n)) %>% 
 ggplot() + geom_col(aes(x=evDesc1,y=perc,fill=evDesc2),position="dodge") + 
 scale_y_continuous(labels =scales::percent) +
-labs(title = "Frequency of Different Links by Language", 
-       x = "Links", 
+labs(x = "Links", 
        y = "Percentage") + 
   theme_classic() +
   scale_fill_brewer(palette = "Pastel1") 
