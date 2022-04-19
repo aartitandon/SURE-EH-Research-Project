@@ -177,10 +177,11 @@ accessing the app through an Android system.
 <b>Figure 4 - Bar Chart of Language Frequency on the Application </b>
 </figcaption>
 
-The data shows there is 18% more activity in English than Spanish. Since
-the ’Pesticides Labels Now! application initially asks the user which
-language they wish to proceed in, there is no “default” language and the
-results can be concluded as reliable and robust.
+The data shows there is 18% more activity in English than Spanish.
+“Activity” can be noted as the number of clicks done on the application.
+Since the ’Pesticides Labels Now! application initially asks the user
+which language they wish to proceed in, there is no “default” language
+and the results can be concluded as reliable and robust.
 
 # Sessions in Each Language (Not Finalized)
 
@@ -203,13 +204,14 @@ users are more likely to have an Android device.
 # App Use By Time
 
 <figcaption align="center">
-<b>Note: For the Time-Series Calendar HeatMaps, the shade of blue will
-indicate the usage on the application. If there is no blue, this means
-there was no application usage during that time (e.g. month, day, hour).
-</b>
+<b>Note: For the Calendar HeatMaps, the shade of blue will indicate the
+usage on the application. A darker shade of blue corresponds to less
+activity, while a lighter shade of blue corresponds to more activity. If
+there is no blue, this means there was no application usage during that
+time (e.g. month, day, hour). </b>
 </figcaption>
 
-## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’
+## Comparing User Sessions by ‘Day of the Month’, ‘Month’, and ‘Activity of the User’, 2020-2021
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/heatmap1-1.png)
 <figcaption align="center">
@@ -223,7 +225,7 @@ Growing season starts around mid-March till the end of November. Figure
 activity at this time conveys the success of the application targeting
 this specific population of farmworkers.
 
-## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
+## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’, 2020-2021
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/heatmap2-1.png)
 <figcaption align="center">
@@ -250,7 +252,7 @@ Growing season starts around mid-March till the end of November. Figure
 rise in activity at this time conveys the success of the application
 targeting this specific population of farmworkers.
 
-## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
+## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’, 2020-2021
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/heatmap4-1.png)
 <figcaption align="center">
@@ -267,7 +269,7 @@ application due to its popular activity during growing season.
 
 # App Use By Activity
 
-## Frequency of Each Source Page Accessed on the Application
+## Frequency of Each Source Page Accessed on the Application, 2020-2021
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/source-page-1.png)
 <figcaption align="center">
@@ -315,7 +317,7 @@ Labels Now’ application was compared to the user’s accessed language.
 ‘EULA’ was most popularly used by English readers and ‘Update News’ was
 most popularly used by Spanish readers.
 
-## Table of Top Ten Searched Pesticides
+## Table of Top Ten Searched Pesticides, 2020-2021
 
 <table>
 <thead>
