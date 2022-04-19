@@ -138,9 +138,9 @@ The ‘[Pesticides Labels Now!](https://deohs.washington.edu/pnash/LabelsNow)’
 # Data Subsets
 A data dictionary and descriptive statistics were prepared based on the Pesticide Labels Now (PLN) [analysis plan](https://docs.google.com/document/d/1mUHPYdpWljCWroODGenUjYlyae2ZWwqN4MScBLXlr2U/edit). For a better representation of users, we ignored a list of random identifiers ('aid' in *ignores.csv*) associated with the project team members and generated descriptive statistics for three subsets:
 
-- evDownload.01
-- evStart
-- evViewPage.01
+- [evDownload.01](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md#evdownload01-subset)
+- [evStart](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md#evstart-subset)
+- [evViewPage.01](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md#evviewpage01-subset)
 
 ```{r evDownload-summary, eval=F, warning=F, message=F, echo=F, results='asis'}
 library("frequency")
@@ -200,7 +200,6 @@ print(freq(evViewPage.01$evType, report.nas = F, totals = T, cumul = F, headings
 #print(freq(evViewPage.01$aid, report.nas = F, totals = T, cumul = F, headings = T, order="freq"), method="render")
 
 ```
-
 
 # App Use By Location  
 ## Plot for US Sessions
