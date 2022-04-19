@@ -156,7 +156,7 @@ the Columbia Basin, and has very productive agricultural land.
 
 # App Use by Device
 
-## Devices Utilized to Access the Application
+## Devices Utilized to Access the Application, 2020-2021
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/analyzing-devices-1.png)
 <figcaption align="center">
@@ -170,7 +170,7 @@ accessing the app through an Android system.
 
 # App Use by Language
 
-## Frequency of Each Language Accessed on the Application
+## Frequency of Each Language Accessed on the Application, 2020-2021
 
 <img src="App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/analyzing-language-frequency-1.png" style="display: block; margin: auto;" />
 <figcaption align="center">
@@ -181,6 +181,8 @@ The data shows there is 18% more activity in English than Spanish. Since
 the ’Pesticides Labels Now! application initially asks the user which
 language they wish to proceed in, there is no “default” language and the
 results can be concluded as reliable and robust.
+
+# Sessions in Each Language (Not Finalized)
 
 ## Frequency of Different Languages by Operating System
 

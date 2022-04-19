@@ -350,17 +350,25 @@ library("lubridate")
 
 #filter merged.csv from aid's first "evStart" to the next "evStart"
 merged.csv.dedup <- unique(merged.csv)
+device_cat_aid <- unique(evStart[ , c("aid", "device_cat")])
 
 x <- merged.csv.dedup %>% 
   group_by(sessionid = cumsum(evType == 'evStart')) %>% 
   mutate(sessioneventno = row_number())
+
+# WORK SPACE FOR CREATING SESSIONS FOR LANGUAGE
+# combine evStart of leftjoin with evViewPage
+aid_language <- unique(evViewPage.01[ , c("aid", "evDesc2")])
+evStart <- left_join(evStart, aid_language, by="aid") 
+evStart_aid_language <- unique(evStart[ , c("aid", "evDesc2.y")])
+x <- left_join(x, evStart_aid_language, by="aid")
 
 x$ts <- ymd_hms(x$ts)
 
 ```
 
 
-## Devices Utilized to Access the Application
+## Devices Utilized to Access the Application, 2020-2021
 
 ```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
@@ -386,7 +394,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 The three devices utilized to access the application were an iPhone, Android, or iPad. Approximately 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system.
 
 # App Use by Language
-## Frequency of Each Language Accessed on the Application
+## Frequency of Each Language Accessed on the Application, 2020-2021
 ```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
@@ -405,12 +413,21 @@ per_data2 <- evViewPage.01 %>%
 ggplot(per_data2, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Language", y = "Count") + 
+  labs(x = "Language", y = " ") + 
   theme_bw() + 
   scale_x_discrete(labels = c("English", "Spanish"))
 ```
 <figcaption align = "center"><b>Figure 4 - Bar Chart of Language Frequency on the Application </b></figcaption>
 The data shows there is 18% more activity in English than Spanish. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust.
+
+# Sessions in Each Language (Not Finalized)
+```{r language-by-session, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
+library("dplyr")
+sessionlanguage <- table(evStart_aid_language$evDesc2.y)
+kable(sessionlanguage)
+```
+
+
 
 ```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
 
@@ -505,6 +522,10 @@ y$session_end <- with_tz(y$session_end, tzone = "America/Los_Angeles")
 y$sessiontime <- ymd_hms(y$session_end) - ymd_hms(y$session_start)
 y$sessiontime2 <- as.double(y$sessiontime)
 y$sessiontimemin <- y$sessiontime2/60
+
+# WORK SPACE FOR ADDING LANGUAGE TO Y 
+#sessionid_language <- unique(x[ , c("sessionid", "evDesc2.y")])
+#y <- left_join(y, sessionid_language, by="sessionid")
 
 ```
 
