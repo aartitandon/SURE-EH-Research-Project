@@ -230,10 +230,11 @@ states_sf <- get_urbn_map(map = "states", sf = T)
 
 ggplot() + 
   geom_sf(data = pln_sf_t, color="red", size=1) + 
-  geom_sf(data = states_sf, fill=NA, color="black", size=0.1, alpha=0) +
+  geom_sf(data = states_sf, fill=NA, color="black", size=0.5, alpha=0) +
   coord_sf(datum = st_crs(2163)) +
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(-3e+06, 3e+06)) +
     scale_y_continuous(limits = c(-3e+06, 1e+06)) + theme_nothing() 
+
 ```
 <figcaption align = "center"><b>Figure 1 - App Utilization on United States Map </b></figcaption>
 Predominant use is concentrated in Washington, however, there is scattered usage throughout the Eastern coast and California.
@@ -280,7 +281,7 @@ wa_study_counties <- wa_county
 ```
 
 
-## Plot for WA sessions with County Names
+## Map for Washington Sessions, 2020-2021
 
 ```{r user-map-wa-allcounties, echo=F, warning=F, message=F, eval=T, out.width = "100%"}
 
@@ -290,7 +291,7 @@ wa_study_counties <- wa_county %>%
  ggplot() + 
   geom_sf(fill="gray") +
   geom_sf(data = pln_sf_t, color="red", size=1) + 
-  geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
+  geom_sf(data = t, fill=NA, color="black", size=0.5, alpha=0) +
   geom_sf(data = wa_county, fill = NA) +
   geom_sf_label_repel(data = wa_study_counties, aes(label = NAMELSAD), force = 50) +
   coord_sf(datum = st_crs(2285)) +
