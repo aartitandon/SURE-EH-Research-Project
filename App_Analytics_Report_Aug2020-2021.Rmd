@@ -298,7 +298,7 @@ wa_study_counties <- wa_county %>%
   labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
     scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 ```
-<figcaption align = "center"><b>Figure 2 - App Utilization on Washington State Map </b></figcaption>
+<figcaption align = "center"><b>Figure 2 - App Utilization in Washington </b></figcaption>
 Predominant use is concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.
 
 ```{r heat-map-time-series, warning=F, message=F, echo=F} 
@@ -365,6 +365,9 @@ x$ts <- ymd_hms(x$ts)
 ```{r analyzing-devices, warning=F, message=F, echo=F, results=F, eval=T}
 # SubQuestion #1: Which operating systems are utilized to access the application? 
 
+evStart$device_cat <- gsub(":","",evStart$device_cat)
+evStart$device_cat <- recode(evStart$device_cat, "c('Pixel 3a Android 10') = 'android'")
+
 str(evStart)
 per_data <- evStart %>%
   count(device_cat) %>% 
@@ -377,10 +380,10 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
   geom_text(aes(label=per_label), vjust=-0.25) + 
   labs(x = "Devices", y = "Count") + 
   theme_bw() + 
-  scale_x_discrete(labels = c("iPhone", "Android", "iPad", "Pixel 3a: Android 10"))
+  scale_x_discrete(labels = c("iPhone", "Android", "iPad"))
 ```
 <figcaption align = "center"><b>Figure 3 - Bar Chart of Devices Utilized on the Application </b></figcaption>
-The three devices utilized to access the application were an iPhone, Android, or iPad. Almost 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system.
+The three devices utilized to access the application were an iPhone, Android, or iPad. Approximately 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system.
 
 # App Use by Language
 ## Frequency of Each Language Accessed on the Application
@@ -415,7 +418,10 @@ The data shows there is 18% more activity in English than Spanish. Since the ‘
 library(tidyr)
 library(ggplot2)
 
+
 device_cat_aid <- unique(evStart[ , c("aid", "device_cat")])
+device_cat_aid$device_cat <- gsub(":","",device_cat_aid$device_cat)
+device_cat_aid$device_cat <- recode(device_cat_aid$device_cat, "c('Pixel 3a Android 10') = 'android'")
 aid_device_language <- left_join(evViewPage.01, device_cat_aid, by="aid") 
 
 table(aid_device_language$evDesc2, aid_device_language$device_cat)
@@ -444,15 +450,10 @@ aid_device_language2 <- aid_device_language
 aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('iphone') = 'iOS'")
 aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('ipad') = 'iOS'")
 aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('android') = 'Android'")
-#aid_device_language2$device_cat <- recode(aid_device_language2$device_cat,"c('Pixel 3a: Android 10') = 'Android'")
-#aid_device_language2$device_cat <- case_when(aid_device_language2$device_cat == "Pixel 3a: Android 10" ~ "android", TRUE ~ NA)
-
 
 aid_device_language2 <- filter(aid_device_language2, !is.na(device_cat))
 
 aid_device_language2 <- filter(aid_device_language2, !is.na(evDesc2))
-
-which(is.na(aid_device_language2), arr.ind=TRUE)
 
 ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) + 
   geom_bar(position = "fill") + 
