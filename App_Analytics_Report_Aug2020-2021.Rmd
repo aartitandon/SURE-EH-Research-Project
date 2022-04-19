@@ -386,9 +386,11 @@ library(ggplot2)
 ggplot(per_data, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "darkseagreen1", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Devices", y = "Count") + 
+  labs(x = "Devices", y = "Percentage") + 
   theme_bw() + 
-  scale_x_discrete(labels = c("iPhone", "Android", "iPad"))
+  scale_x_discrete(labels = c("iPhone", "Android", "iPad")) + 
+  theme(axis.text.y=element_blank(), 
+           axis.ticks.y=element_blank())
 ```
 <figcaption align = "center"><b>Figure 3 - Bar Chart of Devices Utilized on the Application </b></figcaption>
 The three devices utilized to access the application were an iPhone, Android, or iPad. Approximately 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system.
@@ -413,9 +415,11 @@ per_data2 <- evViewPage.01 %>%
 ggplot(per_data2, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "lightblue", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Language", y = "Percent") + 
+  labs(x = "Language", y = "Percentage") + 
   theme_bw() + 
-  scale_x_discrete(labels = c("English", "Spanish"))
+  scale_x_discrete(labels = c("English", "Spanish")) +
+  theme(axis.text.y=element_blank(), 
+           axis.ticks.y=element_blank())
 ```
 <figcaption align = "center"><b>Figure 4 - Bar Chart of Language Frequency on the Application </b></figcaption>
 The data shows there is 18% more activity in English than Spanish. "Activity" can be noted as the number of clicks done on the application. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust.
@@ -558,7 +562,7 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
 <figcaption align = "center"><b>Figure 6 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Day of the Month', 'Month', and 'Activity of the User' </b></figcaption>
 Growing season starts around mid-March till the end of November. This figure depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers.
 
-## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User' in 2020-2021
+## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
 ```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
 
 # x=hour of the day, y=day of the month, fill="activity"/number of occurances
@@ -572,7 +576,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
 <figcaption align = "center"><b>Figure 7 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Hour of the Day', 'Day of the Month', and 'Activity of the User' </b></figcaption>
 In regards to the 'Day of the Month', the usage remains relatively consistent. However, there is a spike in usage of the application each day from 12-3 PM. 
 
-## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)' in 2020-2021
+## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
 ```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=10}
 # heatmap attempt 6 (this is the one included in the poster)
 # sessiontime is done in seconds here 
@@ -586,7 +590,7 @@ ggplot(y, aes(x=Month_Yr, y=day)) + geom_tile(aes(fill=sessiontimemin)) +
 <figcaption align = "center"><b>Figure 8 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Month', 'Day of the Month', and 'Session Time' (in minutes) </b></figcaption>
 Growing season starts around mid-March till the end of November. Figure 5 depicts the increase in session duration from April to August. The rise in activity at this time conveys the success of the application targeting this specific population of farmworkers. 
 
-## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year' in  2020-2021
+## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
 ```{r heatmap4, warning=F, message=F, echo=F, results=F, eval=T}
 
 library(ggplot2)
@@ -604,7 +608,7 @@ p <-p + facet_grid(year~month)
 p <-p + scale_y_continuous(trans = "reverse", breaks = unique(df$hour))
 p <-p + scale_x_continuous(breaks =c(1,10,20,31))
 p <-p + theme_minimal(base_size = 8)
-p <-p + labs(title= paste("Session Analytics"), x="Day of the Month", y="Hour Commencing")
+p <-p + labs(title= paste("2020-2021 Session Analytics"), x="Day of the Month", y="Hour Commencing")
 p <-p + theme(legend.position = "bottom")+
   theme(plot.title=element_text(size = 14))+
   theme(axis.text.y=element_text(size=6)) +
@@ -633,10 +637,12 @@ download_data <- evDownload.01 %>%
 ggplot(download_data, aes(x = reorder(n, -per), y=per)) + 
   geom_bar(stat = "identity", fill = "lavender", color = "black") + 
   geom_text(aes(label=per_label), vjust=-0.25) + 
-  labs(x = "Source Page", y = "Count") + 
+  labs(x = "Source Page", y = "Percentage") + 
   scale_y_continuous(labels(scales::percent)) + 
   theme_bw() + 
-  scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement"))
+  scale_x_discrete(labels = c("PICOL", "H&S", "H&S Supplement")) + 
+  theme(axis.text.y=element_blank(), 
+           axis.ticks.y=element_blank())
 ```
 <figcaption align = "center"><b>Figure 10 - Barchart Displaying Frequency of Source Page Accessed </b></figcaption>
 'PICOL' can be notably distinguished as the most popular source page accessed by users. 

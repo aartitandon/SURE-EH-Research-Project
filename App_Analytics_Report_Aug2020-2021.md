@@ -225,7 +225,7 @@ figure depicts the increase in session duration mid-year. The rise in
 activity at this time conveys the success of the application targeting
 this specific population of farmworkers.
 
-## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’ in 2020-2021
+## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/heatmap2-1.png)
 <figcaption align="center">
@@ -238,7 +238,7 @@ In regards to the ‘Day of the Month’, the usage remains relatively
 consistent. However, there is a spike in usage of the application each
 day from 12-3 PM.
 
-## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’ in 2020-2021
+## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/heatmap3-1.png)
 <figcaption align="center">
@@ -252,7 +252,7 @@ Growing season starts around mid-March till the end of November. Figure
 rise in activity at this time conveys the success of the application
 targeting this specific population of farmworkers.
 
-## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’ in 2020-2021
+## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/heatmap4-1.png)
 <figcaption align="center">
