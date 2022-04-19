@@ -142,10 +142,6 @@ A data dictionary and descriptive statistics were prepared based on the Pesticid
 - evStart
 - evViewPage.01
 
-# Descriptive Statistics
-
-## evDownload.01
-
 ```{r evDownload-summary, eval=F, warning=F, message=F, echo=F, results='asis'}
 library("frequency")
 
@@ -160,8 +156,6 @@ print(freq(evDownload.01$evType, report.nas = F, totals = T, cumul = F, headings
 #print(freq(evDownload.01$aid, report.nas = F, totals = T, cumul = F, headings = T, order="freq"), method="render")
 
 ```
-
-## evStart
 
 ```{r evStart-summary, warning=F, message=F, echo=F, results='asis'}
 
@@ -192,7 +186,6 @@ evStart.unique.device <- evStart %>%
 
 ```
 
-## evViewPage.01
 
 ```{r evViewPage-summary, eval=F, warning=F, message=F, echo=F, results='asis'}
 
