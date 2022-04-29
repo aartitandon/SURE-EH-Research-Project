@@ -720,7 +720,7 @@ Amongst 129 total pesticides in the application, Table 1 displays the top ten se
 #90.11
 ```
 
-#Looking at New Data...
+# Looking at New Data...
 ```{r updated-merged-monthly-csvs, warning=F, message=F, echo=F, results=F}
 # updated.csv dataframe 
 
@@ -732,7 +732,8 @@ updated.csv <- do.call(rbind, lapply(ls(pattern = "CSV"), get))
 ignores <- read.csv("ignores.csv")
 updated.csv <- filter(updated.csv,!(aid %in% ignores$aid))
 ```
-```
+
+
 ```{r updated-data-sessions, warning=F, message=F, echo=F, results=F}
 
 # creating sessions for updated.csv dataframe
@@ -802,6 +803,16 @@ z <-z + theme(legend.position = "bottom")+
   theme(legend.text=element_text(size=6))
 
 z
+
+```
+
+```{r updated-data-sessions-each-month, warning=F, message=F, echo=F, results=F, eval=T}
+
+#Number of sessions each month 
+monthly_sessions <- updated_sessions %>% select(sessionid, Month_Yr)
+monthly_sessions_table <- table(monthly_sessions$Month_Yr)
+
+kable(monthly_sessions_table)
 
 ```
 

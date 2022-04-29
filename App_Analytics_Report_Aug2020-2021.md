@@ -426,9 +426,7 @@ looked at pesticide among users from August 2020-2021.
 
 ## 90.11 minutes
 
-#Looking at New Data…
-
-\`\`\`
+# Looking at New Data…
 
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
