@@ -819,14 +819,14 @@ kable(monthly_sessions_table)
 ```
 
 ## Plot Looking at Number of Sessions Each Month 
-```{r updated-data-sessions-each-month-plot, warning=F, message=F, echo=F, results=T, eval=T}
+```{r updated-data-sessions-each-month-plot, warning=F, message=F, echo=F, results=F, eval=T}
 
 #Number of sessions each month - plot
 
 ggplot(monthly_sessions, aes(Month_Yr, ..count..)) +
-  geom_bar(aes(fill = sessionid), position = "dodge", color="black") +
+  geom_bar(aes(fill = sessionid), position = "dodge", fill="black") +
   geom_bar() +
-  geom_text(aes(label = after_stat(count)), stat = "count", position = "stack", vjust = 0) +
+  geom_text(aes(label = after_stat(count)), stat = "count", hjust = -0.3) +
   xlab("Year & Month") + 
   ylab("Count (n) of Sessions") +
   coord_flip()
