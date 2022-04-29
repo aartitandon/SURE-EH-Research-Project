@@ -335,6 +335,7 @@ rm(CSV.qAnswers)
 merged.csv <- do.call(rbind, lapply(ls(pattern = "CSV"), get))
 ignores <- read.csv("ignores.csv")
 merged.csv <- filter(merged.csv,!(aid %in% ignores$aid))
+
 ```
 
 
@@ -396,7 +397,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 The three devices utilized to access the application were an iPhone, Android, or iPad. Approximately 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system.
 
 # App Use by Language
-## Frequency of Each Language Accessed on the Application in 2020-2021
+## Each Language Accessed on the Application in 2020-2021
 ```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
@@ -424,14 +425,6 @@ ggplot(per_data2, aes(x = reorder(n, -per), y=per)) +
 <figcaption align = "center"><b>Figure 4 - Bar Chart of Language Frequency on the Application </b></figcaption>
 The data shows there is 18% more activity in English than Spanish. "Activity" can be noted as the number of clicks done on the application. Since the ‘Pesticides Labels Now! application initially asks the user which language they wish to proceed in, there is no “default” language and the results can be concluded as reliable and robust.
 
-# Sessions in Each Language (Not Finalized)
-```{r language-by-session, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
-library("dplyr")
-sessionlanguage <- table(evStart_aid_language$evDesc2.y)
-kable(sessionlanguage)
-```
-
-
 
 ```{r device_cat_aid, warning=F, message=F, echo=F, results=F, eval=T}
 
@@ -450,7 +443,7 @@ table(aid_device_language$evDesc2, aid_device_language$device_cat)
 
 
 ```{r freq-of-lang-by-device-with-percents, warning=F, message=F, echo=F, results=F, eval=F}
-# Frequency of Different Languages by Device w/ Percentage Labels 
+# Frequency of Different Languages by Device w/ Percentage Labels (N = 3671 ____e.g. activity)
 # the percentages are not accurately placed
 
 ggplot(aid_device_language, aes(x=evDesc2)) + 
@@ -463,7 +456,7 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
 ```
 
 
-## Frequency of Different Languages by Operating System in 2020-2021
+## Different Languages by Operating System in 2020-2021 (N = 67,___ clicks)
 ```{r freq-of-lang-by-operating-system, warning=F, message=F, echo=F, results=F, eval=T, fig.cap="iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device."}
 #Without percentage labels 
 library(car)
@@ -484,8 +477,9 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
       scale_x_discrete(labels = c("English", "Spanish")) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
 ```
-<figcaption align = "center"><b>Figure 5 - Bar Chart of Language Frequency by Operating System </b></figcaption>
+<figcaption align = "center"><b>Figure 5 - Bar Chart of Language by Operating System </b></figcaption>
 iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question of why Spanish-speaking users are more likely to have an Android device. 
+*language selection clicks; 
 
 ```{r, eval=F, echo=F}
 # Subquestion #4: What is the average number of labels looked at per session? 
@@ -560,7 +554,7 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
        
 ```
 <figcaption align = "center"><b>Figure 6 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Day of the Month', 'Month', and 'Activity of the User' </b></figcaption>
-Growing season starts around mid-March till the end of November. This figure depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers.
+Growing season starts around mid-March till the end of November. This figure depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. (include one more sentence about pesticide training from Jan-March)
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
 ```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
@@ -574,7 +568,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        
 ```
 <figcaption align = "center"><b>Figure 7 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Hour of the Day', 'Day of the Month', and 'Activity of the User' </b></figcaption>
-In regards to the 'Day of the Month', the usage remains relatively consistent. However, there is a spike in usage of the application each day from 12-3 PM. 
+In regards to the 'Day of the Month', the usage remains relatively consistent. However, there is a spike in usage of the application each day from 12-3 PM. (include sentence about user clicks per session at end of workday)
 
 ## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
 ```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=10}
@@ -686,7 +680,7 @@ ggplot(per_data3, aes(x = reorder(n, -per), y=per)) +
 <figcaption align = "center"><b>Figure 12 - Barchart Displaying Frequency of Different Links by Language </b></figcaption>
 The frequency of each 'Link' accessed on the 'Pesticides Labels Now' application was analyzed. 'Labels Search' was the most popularly viewed section by all users.
 
-## Frequency of Different Links by Language in 2020-2021
+## Different Links by Language in 2020-2021
 ```{r freq-diff-links-by-language, echo=F, warning=F, message=F, eval=T, results=F, fig.width = 17, fig.height=10}
 library(dplyr)
 library(ggplot2)
@@ -726,6 +720,19 @@ Amongst 129 total pesticides in the application, Table 1 displays the top ten se
 #90.11
 ```
 
+#Looking at New Data...
+```{r updated-merged-monthly-csvs, warning=F, message=F, echo=F, results=F}
+# updated.csv dataframe 
+
+temp <- list.files(path='Updated_CSV', pattern="*.csv", full.names = T)
+list2env(lapply(setNames(temp, make.names(gsub("*.csv$", "", temp))), read.csv), envir = .GlobalEnv)
+rm(Updated_CSV.qAnswers)
+
+updated.csv <- do.call(rbind, lapply(ls(pattern = "CSV"), get))
+ignores <- read.csv("ignores.csv")
+updated.csv <- filter(updated.csv,!(aid %in% ignores$aid))
+```
+```
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
 

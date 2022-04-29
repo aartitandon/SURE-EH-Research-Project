@@ -1,0 +1,1112 @@
+aid,evDesc1,evDesc2,evDesc3,evType,ts
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,inactive => active,,,evStateChange,2021-05-01T00:29:07.477Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,active => inactive,,,evStateChange,2021-05-01T00:29:08.192Z
+fc03ceb5c128e25a2911e5dab9968700e9f576565bfebfd4a4ccad03b42af817,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-01T12:36:01.529Z
+fc03ceb5c128e25a2911e5dab9968700e9f576565bfebfd4a4ccad03b42af817,Labels Search,es,,evViewPage,2021-05-01T12:36:01.602Z
+fc03ceb5c128e25a2911e5dab9968700e9f576565bfebfd4a4ccad03b42af817,active => inactive,,,evStateChange,2021-05-01T12:37:00.311Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-01T15:26:36.185Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,Labels Search,en,,evViewPage,2021-05-01T15:26:36.288Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,71096-6,Rex Lime Sulfur Solution,rex ,evViewHS,2021-05-01T15:26:46.099Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HS Label,en,Rex Lime Sulfur Solution | epa: 71096-6,evViewPage,2021-05-01T15:26:46.741Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Rex Lime Sulfur Solution | epa: 71096-6,Category: Physical or Chemical Hazards,evCategoryOpen,2021-05-01T15:26:55.416Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Rex Lime Sulfur Solution | epa: 71096-6,Category: Health and Safety,evCategoryOpen,2021-05-01T15:27:02.490Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,active => inactive,,,evStateChange,2021-05-01T15:27:15.192Z
+359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7,1.0.8 (39),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-01T15:55:31.370Z
+359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7,Labels Search,es,,evViewPage,2021-05-01T15:55:31.464Z
+359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7,100-1295,Warrior II with Zeon Technology®,,evViewHS,2021-05-01T15:55:48.891Z
+359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7,HS Label,es,Warrior II with Zeon Technology® | epa: 100-1295,evViewPage,2021-05-01T15:55:49.555Z
+359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7,HSLabel,Warrior II with Zeon Technology® | epa: 100-1295,Category: PPE,evCategoryOpen,2021-05-01T15:56:04.773Z
+359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7,active => inactive,,,evStateChange,2021-05-01T15:56:13.173Z
+359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7,inactive => active,,,evStateChange,2021-05-01T15:56:13.243Z
+359cd6fd954572f64f27bc7bd4420d305a2673a864f7fe5cb668941f11083db7,active => inactive,,,evStateChange,2021-05-01T15:56:15.647Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,1.0.7 (38),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-01T17:21:26.138Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,Labels Search,es,,evViewPage,2021-05-01T17:21:26.224Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,62719-591,Lorsban® Advanced,,evViewHS,2021-05-01T17:21:53.790Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,es,Lorsban® Advanced | epa: 62719-591,evViewPage,2021-05-01T17:21:54.437Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HSLabel,Lorsban® Advanced | epa: 62719-591,Category: Physical or Chemical Hazards,evCategoryOpen,2021-05-01T17:22:13.372Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HSLabel,Lorsban® Advanced | epa: 62719-591,Category: Pesticide Labels,evCategoryOpen,2021-05-01T17:22:29.321Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,es=>en,,evLanguageToggle,2021-05-01T17:22:41.376Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,en=>es,,evLanguageToggle,2021-05-01T17:22:42.727Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,es=>en,,evLanguageToggle,2021-05-01T17:22:47.004Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,en=>es,,evLanguageToggle,2021-05-01T17:22:47.544Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,es=>en,,evLanguageToggle,2021-05-01T17:22:48.276Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,en=>es,,evLanguageToggle,2021-05-01T17:22:48.969Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,es=>en,,evLanguageToggle,2021-05-01T17:22:49.625Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,62719-220,Lorsban®-4E Insecticide,,evViewHS,2021-05-01T17:22:56.888Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HS Label,en,Lorsban®-4E Insecticide | epa: 62719-220,evViewPage,2021-05-01T17:22:57.498Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HSLabel,Lorsban®-4E Insecticide | epa: 62719-220,Category: First Aid,evCategoryOpen,2021-05-01T17:23:01.417Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,HSLabel,Lorsban®-4E Insecticide | epa: 62719-220,Category: Product Information,evCategoryOpen,2021-05-01T17:24:18.587Z
+7c88f6b33519816dd4903029a2cb2a8ceed4f6d5de935f7724e97f2555abc42e,active => inactive,,,evStateChange,2021-05-01T17:24:19.666Z
+b7f94c3d62a0320c3347ac1325a25a663cf62c53f429fb7e3be6d19b554862fb,1.0.8 (39),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",n/a,evStart,2021-05-01T20:07:39.775Z
+b7f94c3d62a0320c3347ac1325a25a663cf62c53f429fb7e3be6d19b554862fb,Labels Search,en,,evViewPage,2021-05-01T20:07:39.887Z
+b7f94c3d62a0320c3347ac1325a25a663cf62c53f429fb7e3be6d19b554862fb,PICOL Search,en,,evViewPage,2021-05-01T20:08:04.109Z
+b72556019ee26a317aeece4ede50d91e20db7fef616f21da1b701ecd75ad3869,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-N981U,android,11,android",n/a,evStart,2021-05-02T03:12:59.387Z
+b72556019ee26a317aeece4ede50d91e20db7fef616f21da1b701ecd75ad3869,Labels Search,en,,evViewPage,2021-05-02T03:12:59.510Z
+b72556019ee26a317aeece4ede50d91e20db7fef616f21da1b701ecd75ad3869,active => inactive,,,evStateChange,2021-05-02T03:13:08.142Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-03T01:22:48.499Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,Labels Search,es,,evViewPage,2021-05-03T01:22:48.601Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,PICOL Search,es,,evViewPage,2021-05-03T01:23:11.714Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,active => inactive,,,evStateChange,2021-05-03T01:25:02.899Z
+911931020f43616c7c0b6d39fe0360935c7d90412fe1c405ca4a8d3160a5d629,1.0.7 (38),"android,cordova,capacitor,mobile,hybrid,motorola,moto g(7) play,android,10,android","(46.413246581544776,-120.17705723852289)",evStart,2021-05-03T12:56:01.690Z
+911931020f43616c7c0b6d39fe0360935c7d90412fe1c405ca4a8d3160a5d629,Labels Search,es,,evViewPage,2021-05-03T12:56:01.938Z
+911931020f43616c7c0b6d39fe0360935c7d90412fe1c405ca4a8d3160a5d629,active => inactive,,,evStateChange,2021-05-03T12:56:10.417Z
+177dcddb9029d412ba748732fad5ba86f1704529b4c8e3277544cfe9b0614d22,1.0.7 (38),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",n/a,evStart,2021-05-03T16:58:55.592Z
+177dcddb9029d412ba748732fad5ba86f1704529b4c8e3277544cfe9b0614d22,Labels Search,es,,evViewPage,2021-05-03T16:58:55.706Z
+177dcddb9029d412ba748732fad5ba86f1704529b4c8e3277544cfe9b0614d22,PICOL Search,es,,evViewPage,2021-05-03T16:59:37.278Z
+a889a255cd3c254b2918174059a9bea1ad3eb6dc62930927390fbb85eb7f60f6,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-03T17:09:15.453Z
+a889a255cd3c254b2918174059a9bea1ad3eb6dc62930927390fbb85eb7f60f6,Labels Search,en,,evViewPage,2021-05-03T17:09:15.551Z
+a889a255cd3c254b2918174059a9bea1ad3eb6dc62930927390fbb85eb7f60f6,active => inactive,,,evStateChange,2021-05-03T17:10:12.995Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,13.6.1,ios",n/a,evStart,2021-05-03T18:49:52.379Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,Labels Search,es,,evViewPage,2021-05-03T18:49:52.522Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,53575-32,Isomate®  CM Flex,,evViewHS,2021-05-03T18:49:57.805Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HS Label,es,Isomate®  CM Flex | epa: 53575-32,evViewPage,2021-05-03T18:49:58.499Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Product Information,evCategoryOpen,2021-05-03T18:49:59.397Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Producer Information,evCategoryOpen,2021-05-03T18:50:08.621Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: First Aid,evCategoryOpen,2021-05-03T18:50:13.538Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Health and Safety,evCategoryOpen,2021-05-03T18:50:18.380Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: PPE,evCategoryOpen,2021-05-03T18:50:21.718Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Engineering Controls,evCategoryOpen,2021-05-03T18:50:23.794Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Physical or Chemical Hazards,evCategoryOpen,2021-05-03T18:50:26.482Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Storage and Disposal,evCategoryOpen,2021-05-03T18:50:30.308Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Environmental Protection,evCategoryOpen,2021-05-03T18:50:32.984Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Spray Drift Prevention,evCategoryOpen,2021-05-03T18:50:34.835Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,HSLabel,Isomate®  CM Flex | epa: 53575-32,Category: Pesticide Labels,evCategoryOpen,2021-05-03T18:50:40.355Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,PICOL Search,es,,evViewPage,2021-05-03T18:50:57.570Z
+2223d669c64be391082a86dc5f589ce420f93fec329cd41dca4ac7e8e9624ccf,active => inactive,,,evStateChange,2021-05-03T18:51:00.921Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-04T13:05:09.994Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,Labels Search,en,,evViewPage,2021-05-04T13:05:10.092Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,Resources,en,,evViewPage,2021-05-04T13:05:24.457Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,active => inactive,,,evStateChange,2021-05-04T13:06:03.524Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,inactive => active,,,evStateChange,2021-05-04T13:06:23.281Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,More,en,,evViewPage,2021-05-04T13:06:28.743Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,About,en,,evViewPage,2021-05-04T13:06:32.107Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,Labels Search,en,,evViewPage,2021-05-04T13:08:24.532Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,2935-546,440 Superior Spray Oil,,evViewHS,2021-05-04T13:08:26.966Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,HS Label,en,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-04T13:08:27.585Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Product Information,evCategoryOpen,2021-05-04T13:08:33.490Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,More,en,,evViewPage,2021-05-04T13:08:57.066Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,About,en,,evViewPage,2021-05-04T13:08:59.530Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,active => inactive,,,evStateChange,2021-05-04T13:11:49.985Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,inactive => active,,,evStateChange,2021-05-04T13:18:50.116Z
+12d7a9f3b5e6936693056069ca19ebe68d31d260135126e4dc462cbcf57506cb,active => inactive,,,evStateChange,2021-05-04T13:18:50.526Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-04T16:56:26.583Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,Labels Search,en,,evViewPage,2021-05-04T16:56:26.673Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,PICOL Search,en,,evViewPage,2021-05-04T16:56:42.502Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,PICOL Search,en=>es,,evLanguageToggle,2021-05-04T16:57:08.473Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,PICOL Search,es=>en,,evLanguageToggle,2021-05-04T16:57:22.461Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,More,en,,evViewPage,2021-05-04T16:57:24.065Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,More,en=>es,,evLanguageToggle,2021-05-04T16:57:32.007Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,More,es=>en,,evLanguageToggle,2021-05-04T16:57:34.701Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,Resources,en,,evViewPage,2021-05-04T16:57:39.095Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,Labels Search,en,,evViewPage,2021-05-04T16:57:40.764Z
+df1f0efd88e40cc056c905aed0d7e70646df03c280e943d1912799708c496310,active => inactive,,,evStateChange,2021-05-04T16:58:18.467Z
+4dca5ac62c91e1bf422d201286de1b9d77e12e98ddefedf09aebbe1b5f6f87c1,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-G920R4,android,7.0,android",n/a,evStart,2021-05-04T18:15:29.755Z
+4dca5ac62c91e1bf422d201286de1b9d77e12e98ddefedf09aebbe1b5f6f87c1,Labels Search,en,,evViewPage,2021-05-04T18:15:30.046Z
+4dca5ac62c91e1bf422d201286de1b9d77e12e98ddefedf09aebbe1b5f6f87c1,active => inactive,,,evStateChange,2021-05-04T18:15:34.596Z
+45f1c77b411245aaef68f15cce8a2161bc8b6470054c736aa0a41604cdbf08ce,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",n/a,evStart,2021-05-04T18:22:33.971Z
+45f1c77b411245aaef68f15cce8a2161bc8b6470054c736aa0a41604cdbf08ce,Labels Search,en,,evViewPage,2021-05-04T18:22:34.105Z
+45f1c77b411245aaef68f15cce8a2161bc8b6470054c736aa0a41604cdbf08ce,active => inactive,,,evStateChange,2021-05-04T18:22:39.898Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios","(46.59264617554839,-120.38198845927967)",evStart,2021-05-04T23:18:29.762Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,Labels Search,es,,evViewPage,2021-05-04T23:18:29.997Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,2935-546,440 Superior Spray Oil,,evViewHS,2021-05-04T23:18:35.059Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,HS Label,es,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-04T23:18:35.858Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,HS Label,es=>en,,evLanguageToggle,2021-05-04T23:18:38.165Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,HS Label,en=>es,,evLanguageToggle,2021-05-04T23:18:46.606Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: PPE,evCategoryOpen,2021-05-04T23:19:02.504Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,More,en,,evViewPage,2021-05-04T23:19:40.287Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,Labels Search,es,,evViewPage,2021-05-04T23:19:42.162Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,active => inactive,,,evStateChange,2021-05-04T23:19:44.903Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,inactive => active,,,evStateChange,2021-05-04T23:19:48.560Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,active => inactive,,,evStateChange,2021-05-04T23:20:32.490Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,inactive => active,,,evStateChange,2021-05-04T23:38:43.067Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,active => inactive,,,evStateChange,2021-05-04T23:38:47.452Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,inactive => active,,,evStateChange,2021-05-04T23:50:04.674Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,Labels Search,es=>en,,evLanguageToggle,2021-05-04T23:50:26.786Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,More,en,,evViewPage,2021-05-04T23:50:28.143Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,Resources,en,,evViewPage,2021-05-04T23:50:32.628Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,active => inactive,,,evStateChange,2021-05-04T23:51:07.626Z
+f5542e2e8338f5a9790fa9342866c6adf2300ca2bac63541b107279e381119ce,1.0.11 (41),"android,phablet,cordova,capacitor,mobile,hybrid,motorola,moto g power,android,10,android","(46.286675400611216,-119.81857171554337)",evStart,2021-05-05T05:04:32.538Z
+f5542e2e8338f5a9790fa9342866c6adf2300ca2bac63541b107279e381119ce,Labels Search,es,,evViewPage,2021-05-05T05:04:32.807Z
+f5542e2e8338f5a9790fa9342866c6adf2300ca2bac63541b107279e381119ce,34704-447,Carbaryl 4L,,evViewHS,2021-05-05T05:04:59.652Z
+f5542e2e8338f5a9790fa9342866c6adf2300ca2bac63541b107279e381119ce,HS Label,es,Carbaryl 4L | epa: 34704-447,evViewPage,2021-05-05T05:05:00.179Z
+f5542e2e8338f5a9790fa9342866c6adf2300ca2bac63541b107279e381119ce,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Product Information,evCategoryOpen,2021-05-05T05:05:08.828Z
+f5542e2e8338f5a9790fa9342866c6adf2300ca2bac63541b107279e381119ce,inactive => active,,,evStateChange,2021-05-05T05:06:05.284Z
+f5542e2e8338f5a9790fa9342866c6adf2300ca2bac63541b107279e381119ce,active => inactive,,,evStateChange,2021-05-05T05:06:09.674Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,PICOL Search,en,,evViewPage,2021-05-05T14:31:06.159Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,51517-9,SUPPRESS HERBICIDE EC,supp,evViewPICOL,2021-05-05T14:31:26.132Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,PICOL Label,en,SUPPRESS HERBICIDE EC | epa: 51517-9,evViewPage,2021-05-05T14:31:26.523Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,51517-9,SUPPRESS HERBICIDE EC,PICOL,evDownloadLabel,2021-05-05T14:31:40.470Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,active => inactive,,,evStateChange,2021-05-05T14:31:59.918Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-A115U,android,10,android","(46.72426890805226,-119.8548422434115)",evStart,2021-05-05T15:04:33.068Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,Labels Search,es,,evViewPage,2021-05-05T15:04:33.959Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,34704-447,Carbaryl 4L,,evViewHS,2021-05-05T15:04:41.603Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,HS Label,es,Carbaryl 4L | epa: 34704-447,evViewPage,2021-05-05T15:04:42.761Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Product Information,evCategoryOpen,2021-05-05T15:04:53.913Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,34704-447,Carbaryl 4L,,evViewHS,2021-05-05T15:05:09.076Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,HS Label,es,Carbaryl 4L | epa: 34704-447,evViewPage,2021-05-05T15:05:09.649Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,HSLabel,Carbaryl 4L | epa: 34704-447,Category: PPE,evCategoryOpen,2021-05-05T15:05:14.928Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,active => inactive,,,evStateChange,2021-05-05T15:06:21.316Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,34704-447,Carbaryl 4L,,evViewHS,2021-05-06T16:09:43.930Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,HS Label,en,Carbaryl 4L | epa: 34704-447,evViewPage,2021-05-06T16:09:44.403Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Product Information,evCategoryOpen,2021-05-06T16:09:45.589Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,active => inactive,,,evStateChange,2021-05-06T16:10:36.831Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,inactive => active,,,evStateChange,2021-05-06T16:11:56.434Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,active => inactive,,,evStateChange,2021-05-06T16:12:26.901Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,inactive => active,,,evStateChange,2021-05-06T16:12:48.180Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,19713-49,Drexel® Carbaryl 4L Insecticide,drexe,evViewHS,2021-05-06T16:12:59.796Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,HS Label,en,Drexel® Carbaryl 4L Insecticide | epa: 19713-49,evViewPage,2021-05-06T16:13:00.212Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,HSLabel,Drexel® Carbaryl 4L Insecticide | epa: 19713-49,Category: Product Information,evCategoryOpen,2021-05-06T16:13:01.004Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,active => inactive,,,evStateChange,2021-05-06T16:13:24.412Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,inactive => active,,,evStateChange,2021-05-06T16:15:22.615Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,active => inactive,,,evStateChange,2021-05-06T16:15:43.699Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,inactive => active,,,evStateChange,2021-05-06T16:18:35.879Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,active => inactive,,,evStateChange,2021-05-06T16:18:50.932Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,inactive => active,,,evStateChange,2021-05-06T17:25:48.238Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,active => inactive,,,evStateChange,2021-05-06T17:25:52.039Z
+14ffa8964886782d4c05cfad88abdcdcc7453bf6a94719c0d811c56d408d8cb9,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",n/a,evStart,2021-05-06T17:46:52.466Z
+14ffa8964886782d4c05cfad88abdcdcc7453bf6a94719c0d811c56d408d8cb9,Labels Search,en,,evViewPage,2021-05-06T17:46:52.571Z
+14ffa8964886782d4c05cfad88abdcdcc7453bf6a94719c0d811c56d408d8cb9,PICOL Search,en,,evViewPage,2021-05-06T17:47:21.185Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,inactive => active,,,evStateChange,2021-05-06T18:00:10.029Z
+fa63af095d8fe53adb20a0ba3a75f5f3b88a81795ebb0fc8f97d56d8bd60f2f5,active => inactive,,,evStateChange,2021-05-06T18:00:12.608Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios","(46.59108300336646,-120.38204162834586)",evStart,2021-05-06T23:23:14.785Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,Labels Search,en,,evViewPage,2021-05-06T23:23:14.973Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,Resources,en,,evViewPage,2021-05-06T23:23:25.005Z
+344fd9a3c894bd5c5f39af6e8cbd6c8840209898ccae4ca9a612789626479b99,active => inactive,,,evStateChange,2021-05-06T23:24:12.888Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-07T00:39:30.487Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,Labels Search,en,,evViewPage,2021-05-07T00:39:30.551Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,More,en,,evViewPage,2021-05-07T00:41:09.527Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,Resources,en,,evViewPage,2021-05-07T00:41:12.199Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,PICOL Search,en,,evViewPage,2021-05-07T00:41:12.832Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,Labels Search,en,,evViewPage,2021-05-07T00:41:13.859Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,66330-234,Captan 50 Wettable Powder,rhyme,evViewHS,2021-05-07T00:41:15.740Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,HS Label,en,Captan 50 Wettable Powder | epa: 66330-234,evViewPage,2021-05-07T00:41:16.361Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,active => inactive,,,evStateChange,2021-05-07T00:41:39.991Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-07T00:41:46.205Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,Labels Search,en,,evViewPage,2021-05-07T00:41:46.266Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,Labels Search,en=>es,,evLanguageToggle,2021-05-07T00:42:09.416Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,Labels Search,es=>en,,evLanguageToggle,2021-05-07T00:42:10.410Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,PICOL Search,en,,evViewPage,2021-05-07T00:42:11.808Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,34704-923,REAPER 0.15EC MITICIDE/INSECTICIDE,reap,evViewPICOL,2021-05-07T00:42:41.088Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,PICOL Label,en,REAPER 0.15EC MITICIDE/INSECTICIDE | epa: 34704-923,evViewPage,2021-05-07T00:42:41.725Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,100-1317,INSPIRE SUPER FUNGICIDE,insp,evViewPICOL,2021-05-07T00:43:06.521Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,PICOL Label,en,INSPIRE SUPER FUNGICIDE | epa: 100-1317,evViewPage,2021-05-07T00:43:07.092Z
+7b7128b8789033415e5b1fe28aa543e05146ecd863756dc128ab37d26406a8d4,active => inactive,,,evStateChange,2021-05-07T00:43:10.210Z
+1283314e9b847ba6e0efc2ec8b0ca72bc6783c158e84173ce0eaf272e57b1680,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-07T02:16:58.635Z
+1283314e9b847ba6e0efc2ec8b0ca72bc6783c158e84173ce0eaf272e57b1680,Labels Search,en,,evViewPage,2021-05-07T02:16:58.707Z
+1283314e9b847ba6e0efc2ec8b0ca72bc6783c158e84173ce0eaf272e57b1680,Resources,en,,evViewPage,2021-05-07T02:17:35.035Z
+1283314e9b847ba6e0efc2ec8b0ca72bc6783c158e84173ce0eaf272e57b1680,Labels Search,en,,evViewPage,2021-05-07T02:17:39.806Z
+1283314e9b847ba6e0efc2ec8b0ca72bc6783c158e84173ce0eaf272e57b1680,active => inactive,,,evStateChange,2021-05-07T02:18:05.321Z
+f7c2ef5db0e7a33b91c18ab570e23cb3480dbe925db8aa266a5e4470ae7b68a1,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",n/a,evStart,2021-05-07T11:09:01.346Z
+f7c2ef5db0e7a33b91c18ab570e23cb3480dbe925db8aa266a5e4470ae7b68a1,Labels Search,es,,evViewPage,2021-05-07T11:09:01.468Z
+f7c2ef5db0e7a33b91c18ab570e23cb3480dbe925db8aa266a5e4470ae7b68a1,PICOL Search,es,,evViewPage,2021-05-07T11:09:29.603Z
+2e19c82e9d1d1ccafeb0c4e911430e23e094324e997971fff23fe683c5c33a2c,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-07T18:24:42.671Z
+2e19c82e9d1d1ccafeb0c4e911430e23e094324e997971fff23fe683c5c33a2c,Labels Search,en,,evViewPage,2021-05-07T18:24:42.759Z
+2e19c82e9d1d1ccafeb0c4e911430e23e094324e997971fff23fe683c5c33a2c,active => inactive,,,evStateChange,2021-05-07T18:24:56.014Z
+c1afb9fc0ce2d757295bb9d5f65c3c6d4aaa51979d282f48ce140f4e11633df0,1.0.11 (41),"android,phablet,cordova,capacitor,mobile,hybrid,samsung,SM-N960U,android,10,android",n/a,evStart,2021-05-08T05:09:34.487Z
+c1afb9fc0ce2d757295bb9d5f65c3c6d4aaa51979d282f48ce140f4e11633df0,Labels Search,en,,evViewPage,2021-05-08T05:09:34.685Z
+c1afb9fc0ce2d757295bb9d5f65c3c6d4aaa51979d282f48ce140f4e11633df0,Resources,en,,evViewPage,2021-05-08T05:10:10.907Z
+c1afb9fc0ce2d757295bb9d5f65c3c6d4aaa51979d282f48ce140f4e11633df0,active => inactive,,,evStateChange,2021-05-08T05:10:41.151Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-08T12:09:16.907Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,Labels Search,es,,evViewPage,2021-05-08T12:09:17.045Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,PICOL Search,es,,evViewPage,2021-05-08T12:09:31.089Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,PICOL Search,es=>en,,evLanguageToggle,2021-05-08T12:09:55.130Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,PICOL Search,en=>es,,evLanguageToggle,2021-05-08T12:09:57.541Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,active => inactive,,,evStateChange,2021-05-08T12:11:48.629Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,inactive => active,,,evStateChange,2021-05-08T12:11:50.217Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,Labels Search,es,,evViewPage,2021-05-08T12:11:52.901Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,Resources,es,,evViewPage,2021-05-08T12:12:17.477Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,More,en,,evViewPage,2021-05-08T12:12:20.777Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,Labels Search,es,,evViewPage,2021-05-08T12:12:23.633Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,active => inactive,,,evStateChange,2021-05-08T12:12:25.830Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-08T15:24:18.595Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Labels Search,en,,evViewPage,2021-05-08T15:24:18.676Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Labels Search,en=>es,,evLanguageToggle,2021-05-08T15:24:36.206Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Labels Search,es=>en,,evLanguageToggle,2021-05-08T15:24:37.765Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Labels Search,en=>es,,evLanguageToggle,2021-05-08T15:24:39.648Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Labels Search,es=>en,,evLanguageToggle,2021-05-08T15:24:40.999Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,More,en,,evViewPage,2021-05-08T15:24:47.601Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Resources,en,,evViewPage,2021-05-08T15:24:49.666Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,PICOL Search,en,,evViewPage,2021-05-08T15:24:51.057Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Labels Search,en,,evViewPage,2021-05-08T15:24:52.756Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,More,en,,evViewPage,2021-05-08T15:24:55.759Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Partners,en,,evViewPage,2021-05-08T15:25:01.107Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Resources,en,,evViewPage,2021-05-08T15:25:12.684Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,PICOL Search,en,,evViewPage,2021-05-08T15:25:20.429Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,Labels Search,en,,evViewPage,2021-05-08T15:25:29.755Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,active => inactive,,,evStateChange,2021-05-08T15:25:37.385Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,inactive => active,,,evStateChange,2021-05-08T15:26:48.654Z
+fc1b9154a03013130b5b4d6f03ff25598f862fdeb1ff62f68f2f0f5db658f486,active => inactive,,,evStateChange,2021-05-08T15:26:53.937Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-08T15:40:11.923Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,Labels Search,en,,evViewPage,2021-05-08T15:40:12.009Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,active => inactive,,,evStateChange,2021-05-08T15:40:50.625Z
+6b357eb3666300ce77a513322b80b5fc24a0d1953555eb981bb9802e568cf6cd,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-G981V,android,11,android",n/a,evStart,2021-05-08T16:31:38.248Z
+6b357eb3666300ce77a513322b80b5fc24a0d1953555eb981bb9802e568cf6cd,Labels Search,en,,evViewPage,2021-05-08T16:31:38.384Z
+6b357eb3666300ce77a513322b80b5fc24a0d1953555eb981bb9802e568cf6cd,active => inactive,,,evStateChange,2021-05-08T16:31:45.364Z
+6b357eb3666300ce77a513322b80b5fc24a0d1953555eb981bb9802e568cf6cd,inactive => active,,,evStateChange,2021-05-08T16:32:08.081Z
+6b357eb3666300ce77a513322b80b5fc24a0d1953555eb981bb9802e568cf6cd,active => inactive,,,evStateChange,2021-05-08T16:32:19.512Z
+d971779855905cb2ae9b7605830a180e6ac0835a76f3f3913723776a2f7afe70,PICOL Search,es,,evViewPage,2021-05-08T18:47:32.139Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-09T13:03:16.118Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,Labels Search,en,,evViewPage,2021-05-09T13:03:16.204Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,34704-447,Carbaryl 4L,car,evViewHS,2021-05-09T13:03:23.675Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HS Label,en,Carbaryl 4L | epa: 34704-447,evViewPage,2021-05-09T13:03:24.330Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Health and Safety,evCategoryOpen,2021-05-09T13:03:29.910Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Product Information,evCategoryOpen,2021-05-09T13:04:01.908Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Producer Information,evCategoryOpen,2021-05-09T13:04:26.498Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: PPE,evCategoryOpen,2021-05-09T13:04:36.435Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Engineering Controls,evCategoryOpen,2021-05-09T13:04:45.823Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Engineering Controls,evCategoryOpen,2021-05-09T13:04:49.126Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Physical or Chemical Hazards,evCategoryOpen,2021-05-09T13:04:58.523Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Physical or Chemical Hazards,evCategoryOpen,2021-05-09T13:05:00.845Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Environmental Protection,evCategoryOpen,2021-05-09T13:05:03.278Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,active => inactive,,,evStateChange,2021-05-09T13:05:32.366Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,inactive => active,,,evStateChange,2021-05-09T15:11:21.211Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,active => inactive,,,evStateChange,2021-05-09T15:11:31.403Z
+b72556019ee26a317aeece4ede50d91e20db7fef616f21da1b701ecd75ad3869,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-N981U,android,11,android","(44.96932345489929,-91.64436877669493)",evStart,2021-05-10T01:10:11.459Z
+b72556019ee26a317aeece4ede50d91e20db7fef616f21da1b701ecd75ad3869,Labels Search,en,,evViewPage,2021-05-10T01:10:11.583Z
+b72556019ee26a317aeece4ede50d91e20db7fef616f21da1b701ecd75ad3869,active => inactive,,,evStateChange,2021-05-10T01:10:37.692Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-10T02:51:41.446Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,Labels Search,es,,evViewPage,2021-05-10T02:51:41.568Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,7001-7781,PHT 440 Supreme Spray Oil,simp,evViewHS,2021-05-10T02:52:04.765Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,HS Label,es,PHT 440 Supreme Spray Oil | epa: 7001-7781,evViewPage,2021-05-10T02:52:05.440Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,active => inactive,,,evStateChange,2021-05-10T02:52:35.098Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,inactive => active,,,evStateChange,2021-05-10T02:53:14.522Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,active => inactive,,,evStateChange,2021-05-10T02:53:14.767Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,LGE,LM-Q730,android,10,android",n/a,evStart,2021-05-10T18:00:29.202Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,Labels Search,es,,evViewPage,2021-05-10T18:00:29.861Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,More,en,,evViewPage,2021-05-10T18:01:03.179Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,PICOL Search,es,,evViewPage,2021-05-10T18:01:10.868Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,active => inactive,,,evStateChange,2021-05-10T18:04:59.705Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,inactive => active,,,evStateChange,2021-05-10T18:42:28.284Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,active => inactive,,,evStateChange,2021-05-10T18:42:30.629Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-10T21:21:24.854Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,Labels Search,en,,evViewPage,2021-05-10T21:21:24.971Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,Labels Search,en=>es,,evLanguageToggle,2021-05-10T21:21:34.966Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,Labels Search,es=>en,,evLanguageToggle,2021-05-10T21:21:35.508Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,active => inactive,,,evStateChange,2021-05-10T21:21:38.676Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,inactive => active,,,evStateChange,2021-05-10T21:21:40.364Z
+7c441680b9ad0621a8acb78f431d44f6de843842d87a651687fd23cbf4a8f315,active => inactive,,,evStateChange,2021-05-10T21:21:41.038Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-10T21:30:25.992Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,Labels Search,en,,evViewPage,2021-05-10T21:30:26.063Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,34704-447,Carbaryl 4L,,evViewHS,2021-05-10T21:30:31.317Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,HS Label,en,Carbaryl 4L | epa: 34704-447,evViewPage,2021-05-10T21:30:31.968Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,HSLabel,Carbaryl 4L | epa: 34704-447,Category: Product Information,evCategoryOpen,2021-05-10T21:30:35.468Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Search,en,,evViewPage,2021-05-10T21:30:47.708Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,66222-103-34704,DIAZINON AG600 WBC INSECTICIDE,diaz,evViewPICOL,2021-05-10T21:30:54.772Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Label,en,DIAZINON AG600 WBC INSECTICIDE | epa: 66222-103-34704,evViewPage,2021-05-10T21:30:55.368Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,66222-103-34704,DIAZINON AG600 WBC INSECTICIDE,PICOL,evDownloadLabel,2021-05-10T21:30:56.934Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,66222-10,DIAZINON 50W,diaz,evViewPICOL,2021-05-10T21:31:02.200Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Label,en,DIAZINON 50W | epa: 66222-10,evViewPage,2021-05-10T21:31:02.837Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,active => inactive,,,evStateChange,2021-05-10T21:31:42.825Z
+fbd54e90c5e218494a0c054a9693c3c700645dc7397960f3ea14d4944bed7f5d,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-10T21:35:10.819Z
+fbd54e90c5e218494a0c054a9693c3c700645dc7397960f3ea14d4944bed7f5d,Labels Search,en,,evViewPage,2021-05-10T21:35:10.910Z
+fbd54e90c5e218494a0c054a9693c3c700645dc7397960f3ea14d4944bed7f5d,Labels Search,en=>es,,evLanguageToggle,2021-05-10T21:35:59.926Z
+fbd54e90c5e218494a0c054a9693c3c700645dc7397960f3ea14d4944bed7f5d,Labels Search,es=>en,,evLanguageToggle,2021-05-10T21:36:02.012Z
+fbd54e90c5e218494a0c054a9693c3c700645dc7397960f3ea14d4944bed7f5d,Labels Search,en=>es,,evLanguageToggle,2021-05-10T21:36:04.232Z
+fbd54e90c5e218494a0c054a9693c3c700645dc7397960f3ea14d4944bed7f5d,PICOL Search,es,,evViewPage,2021-05-10T21:36:07.935Z
+fbd54e90c5e218494a0c054a9693c3c700645dc7397960f3ea14d4944bed7f5d,active => inactive,,,evStateChange,2021-05-10T21:36:39.908Z
+0e6daab6857c4ac1652674cd59ba070084b4e5f47f6237d8af3b073933780133,1.0.11 (41),"android,phablet,cordova,capacitor,mobile,hybrid,samsung,SM-N960U,android,10,android","(32.159811502640146,-92.09524853406297)",evStart,2021-05-10T23:24:44.205Z
+0e6daab6857c4ac1652674cd59ba070084b4e5f47f6237d8af3b073933780133,Labels Search,en,,evViewPage,2021-05-10T23:24:44.443Z
+0e6daab6857c4ac1652674cd59ba070084b4e5f47f6237d8af3b073933780133,62719-220,Lorsban®-4E INSECTICIDE,,evViewHS,2021-05-10T23:24:49.740Z
+0e6daab6857c4ac1652674cd59ba070084b4e5f47f6237d8af3b073933780133,HS Label,en,Lorsban®-4E INSECTICIDE | epa: 62719-220,evViewPage,2021-05-10T23:24:50.204Z
+0e6daab6857c4ac1652674cd59ba070084b4e5f47f6237d8af3b073933780133,PICOL Search,en,,evViewPage,2021-05-10T23:25:04.263Z
+0e6daab6857c4ac1652674cd59ba070084b4e5f47f6237d8af3b073933780133,More,en,,evViewPage,2021-05-10T23:25:04.795Z
+0e6daab6857c4ac1652674cd59ba070084b4e5f47f6237d8af3b073933780133,Labels Search,en,,evViewPage,2021-05-10T23:25:07.871Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,1.0.7 (38),"android,cordova,capacitor,mobile,hybrid,samsung,SM-J727R4,android,8.1.0,android",n/a,evStart,2021-05-11T01:30:39.163Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,Labels Search,es,,evViewPage,2021-05-11T01:30:39.483Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,81803-6,JET-AG®,,evViewHS,2021-05-11T01:32:13.419Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,HS Label,es,JET-AG® | epa: 81803-6,evViewPage,2021-05-11T01:32:14.021Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,HSLabel,JET-AG® | epa: 81803-6,Category: PPE,evCategoryOpen,2021-05-11T01:32:22.057Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,active => inactive,,,evStateChange,2021-05-11T01:35:10.878Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,inactive => active,,,evStateChange,2021-05-11T02:08:10.099Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,active => inactive,,,evStateChange,2021-05-11T02:08:21.469Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,inactive => active,,,evStateChange,2021-05-11T02:08:25.085Z
+abfa48dde1393cf7979c5a62d20d11ddfc7ea326a98870e13e256fc76d230701,active => inactive,,,evStateChange,2021-05-11T02:08:29.279Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-A115U,android,10,android",n/a,evStart,2021-05-11T19:13:30.320Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,Labels Search,es,,evViewPage,2021-05-11T19:13:30.890Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,active => inactive,,,evStateChange,2021-05-11T19:14:00.810Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,inactive => active,,,evStateChange,2021-05-11T19:14:32.958Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,8033-23-70506,Assail® 70WP Insecticide,,evViewHS,2021-05-11T19:15:37.663Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,HS Label,es,Assail® 70WP Insecticide | epa: 8033-23-70506,evViewPage,2021-05-11T19:15:38.882Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,HSLabel,Assail® 70WP Insecticide | epa: 8033-23-70506,Category: Product Information,evCategoryOpen,2021-05-11T19:15:41.375Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,8033-23-70506,Assail® 70WP Insecticide,,evViewHS,2021-05-11T19:15:49.549Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,HS Label,es,Assail® 70WP Insecticide | epa: 8033-23-70506,evViewPage,2021-05-11T19:15:50.065Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,HSLabel,Assail® 70WP Insecticide | epa: 8033-23-70506,Category: PPE,evCategoryOpen,2021-05-11T19:15:52.840Z
+bdb855d665c7df7f72665d80923ab08c1b26c8f5e160c761b1e4e11c94f21b04,active => inactive,,,evStateChange,2021-05-11T19:17:41.948Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-12T14:57:40.383Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,Labels Search,en,,evViewPage,2021-05-12T14:57:40.461Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Search,en,,evViewPage,2021-05-12T14:57:43.353Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,62097-29-82917,BLUSH,62097-2,evViewPICOL,2021-05-12T14:59:31.295Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Label,en,BLUSH | epa: 62097-29-82917,evViewPage,2021-05-12T14:59:31.917Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,62097-29-82917,BLUSH,PICOL,evDownloadLabel,2021-05-12T14:59:39.381Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,active => inactive,,,evStateChange,2021-05-12T15:00:21.891Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,inactive => active,,,evStateChange,2021-05-12T19:42:32.915Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,Labels Search,en,,evViewPage,2021-05-12T19:42:34.908Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Search,en,,evViewPage,2021-05-12T19:42:42.288Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,42750-281,NU-COP 30 HB FUNGICIDE/BACTERICIDE,nu-,evViewPICOL,2021-05-12T19:42:54.980Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Label,en,NU-COP 30 HB FUNGICIDE/BACTERICIDE | epa: 42750-281,evViewPage,2021-05-12T19:42:55.601Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,42750-281,NU-COP 30 HB FUNGICIDE/BACTERICIDE,PICOL,evDownloadLabel,2021-05-12T19:42:56.730Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,42750-281,NU-COP 30 HB FUNGICIDE/BACTERICIDE,nu-,evViewPICOL,2021-05-12T19:43:24.182Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Label,en,NU-COP 30 HB FUNGICIDE/BACTERICIDE | epa: 42750-281,evViewPage,2021-05-12T19:43:24.819Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,42750-281,NU-COP 30 HB FUNGICIDE/BACTERICIDE,PICOL,evDownloadLabel,2021-05-12T19:43:26.855Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,45002-4,NU-COP 50DF FUNGICIDE/BACTERICIDE,nu-,evViewPICOL,2021-05-12T19:43:30.652Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Label,en,NU-COP 50DF FUNGICIDE/BACTERICIDE | epa: 45002-4,evViewPage,2021-05-12T19:43:31.284Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,45002-4,NU-COP 50DF FUNGICIDE/BACTERICIDE,PICOL,evDownloadLabel,2021-05-12T19:43:32.137Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,42750-132,AGRISTAR NU-COP HB,nu-,evViewPICOL,2021-05-12T19:43:45.030Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Label,en,AGRISTAR NU-COP HB | epa: 42750-132,evViewPage,2021-05-12T19:43:45.668Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,42750-132,AGRISTAR NU-COP HB,PICOL,evDownloadLabel,2021-05-12T19:43:46.126Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,Labels Search,en,,evViewPage,2021-05-12T19:43:57.533Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,active => inactive,,,evStateChange,2021-05-12T19:43:58.238Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,inactive => active,,,evStateChange,2021-05-12T19:43:58.262Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,active => inactive,,,evStateChange,2021-05-12T19:43:58.785Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,active => inactive,,,evStateChange,2021-05-13T13:20:07.430Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,inactive => active,,,evStateChange,2021-05-13T13:22:30.260Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,70506-121,Lambda-CY® EC INSECTICIDE - RUP,,evViewHS,2021-05-13T13:22:43.601Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,HS Label,es,Lambda-CY® EC INSECTICIDE - RUP | epa: 70506-121,evViewPage,2021-05-13T13:22:44.562Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,HSLabel,Lambda-CY® EC INSECTICIDE - RUP | epa: 70506-121,Category: PPE,evCategoryOpen,2021-05-13T13:22:48.200Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,active => inactive,,,evStateChange,2021-05-13T13:23:51.209Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,inactive => active,,,evStateChange,2021-05-13T13:29:37.658Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,active => inactive,,,evStateChange,2021-05-13T13:29:48.950Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,inactive => active,,,evStateChange,2021-05-13T14:05:34.023Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,HSLabel,Lambda-CY® EC INSECTICIDE - RUP | epa: 70506-121,Category: Product Information,evCategoryOpen,2021-05-13T14:05:42.891Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,active => inactive,,,evStateChange,2021-05-13T14:08:36.736Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,inactive => active,,,evStateChange,2021-05-13T14:22:21.930Z
+e75e76ca39408cc5beb9aedaac364559ba45529e0c236f7df7c6d5030dcdde66,active => inactive,,,evStateChange,2021-05-13T14:22:24.212Z
+7163bcba8b0d295116883ddea25f66cee34a3807b29a71dac5dd4722c761a7a6,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios","(36.64671472976961,-119.34691341016251)",evStart,2021-05-13T14:49:55.370Z
+7163bcba8b0d295116883ddea25f66cee34a3807b29a71dac5dd4722c761a7a6,Labels Search,en,,evViewPage,2021-05-13T14:49:55.440Z
+7163bcba8b0d295116883ddea25f66cee34a3807b29a71dac5dd4722c761a7a6,2935-546,440 Superior Spray Oil,,evViewHS,2021-05-13T14:50:00.437Z
+7163bcba8b0d295116883ddea25f66cee34a3807b29a71dac5dd4722c761a7a6,HS Label,en,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-13T14:50:01.079Z
+7163bcba8b0d295116883ddea25f66cee34a3807b29a71dac5dd4722c761a7a6,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Pesticide Labels,evCategoryOpen,2021-05-13T14:50:06.932Z
+7163bcba8b0d295116883ddea25f66cee34a3807b29a71dac5dd4722c761a7a6,active => inactive,,,evStateChange,2021-05-13T14:50:09.024Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-A215U,android,10,android","(42.07614633068114,-71.28606771860274)",evStart,2021-05-13T15:48:02.716Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,Labels Search,en,,evViewPage,2021-05-13T15:48:03.159Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,2935-546,440 Superior Spray Oil,,evViewHS,2021-05-13T15:48:13.304Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HS Label,en,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-13T15:48:14.030Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Product Information,evCategoryOpen,2021-05-13T15:48:27.436Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Health and Safety,evCategoryOpen,2021-05-13T15:52:19.473Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,Resources,en,,evViewPage,2021-05-13T15:52:56.175Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T15:53:17.285Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,inactive => active,,,evStateChange,2021-05-13T15:55:04.697Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,More,en,,evViewPage,2021-05-13T15:55:17.838Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,Resources,en,,evViewPage,2021-05-13T15:55:22.321Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,Labels Search,en,,evViewPage,2021-05-13T15:55:24.218Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,PICOL Search,en,,evViewPage,2021-05-13T15:55:28.930Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,Resources,en,,evViewPage,2021-05-13T15:55:30.191Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T15:55:33.389Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,inactive => active,,,evStateChange,2021-05-13T15:55:41.948Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,Labels Search,en,,evViewPage,2021-05-13T15:55:45.892Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,100-1295,Warrior II with Zeon Technology®,,evViewHS,2021-05-13T15:55:54.243Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HS Label,en,Warrior II with Zeon Technology® | epa: 100-1295,evViewPage,2021-05-13T15:55:54.789Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T15:56:19.698Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,inactive => active,,,evStateChange,2021-05-13T15:57:06.788Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HSLabel,Warrior II with Zeon Technology® | epa: 100-1295,Category: Product Information,evCategoryOpen,2021-05-13T15:57:14.412Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T15:57:21.533Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,inactive => active,,,evStateChange,2021-05-13T16:08:06.429Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T16:08:21.608Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,inactive => active,,,evStateChange,2021-05-13T16:09:17.843Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T16:09:19.950Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,inactive => active,,,evStateChange,2021-05-13T16:31:34.130Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T16:32:02.599Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,inactive => active,,,evStateChange,2021-05-13T16:32:06.950Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HS Label,en=>es,,evLanguageToggle,2021-05-13T16:32:12.165Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HS Label,es=>en,,evLanguageToggle,2021-05-13T16:32:48.626Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HSLabel,Warrior II with Zeon Technology® | epa: 100-1295,Category: First Aid,evCategoryOpen,2021-05-13T16:32:56.081Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,Resources,en,,evViewPage,2021-05-13T16:33:02.581Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,Labels Search,en,,evViewPage,2021-05-13T16:33:04.278Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,100-938,Actara®,,evViewHS,2021-05-13T16:33:20.887Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HS Label,en,Actara® | epa: 100-938,evViewPage,2021-05-13T16:33:21.508Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HSLabel,Actara® | epa: 100-938,Category: Pesticide Labels,evCategoryOpen,2021-05-13T16:33:30.930Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,100-938,Actara®,H&S,evDownloadLabel,2021-05-13T16:33:33.029Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T16:33:34.703Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-13T16:53:00.812Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,Labels Search,en,,evViewPage,2021-05-13T16:53:00.888Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Search,en,,evViewPage,2021-05-13T16:53:03.809Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,45002-7,NU COP 50 WP AG FUNGICIDE/BACTERICIDE,nu ,evViewPICOL,2021-05-13T16:53:11.631Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,PICOL Label,en,NU COP 50 WP AG FUNGICIDE/BACTERICIDE | epa: 45002-7,evViewPage,2021-05-13T16:53:12.250Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,45002-7,NU COP 50 WP AG FUNGICIDE/BACTERICIDE,PICOL,evDownloadLabel,2021-05-13T16:53:13.114Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,active => inactive,,,evStateChange,2021-05-13T16:56:24.682Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,inactive => active,,,evStateChange,2021-05-13T16:56:24.710Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,active => inactive,,,evStateChange,2021-05-13T17:03:34.394Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,inactive => active,,,evStateChange,2021-05-13T17:09:35.303Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,active => inactive,,,evStateChange,2021-05-13T17:13:59.542Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,inactive => active,,,evStateChange,2021-05-13T17:15:49.397Z
+ae988b519426cf02c44c2282e074308bb2d7bca09d070440e928c57e0f1b00ac,active => inactive,,,evStateChange,2021-05-13T17:15:50.045Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,inactive => active,,,evStateChange,2021-05-13T17:36:00.073Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,HSLabel,Actara® | epa: 100-938,Category: Spray Drift Prevention,evCategoryOpen,2021-05-13T17:36:21.163Z
+4bcabbdaa5a4b5c179b45ef3555be02a77f786d6fdaf99bac882d45df67a4f5c,active => inactive,,,evStateChange,2021-05-13T17:36:34.088Z
+dfefffdc93687c9c972aac2bb2638f3bef903a6674afd5d05895c0341e321899,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-G950U,android,9,android",n/a,evStart,2021-05-13T19:17:59.611Z
+dfefffdc93687c9c972aac2bb2638f3bef903a6674afd5d05895c0341e321899,Labels Search,es,,evViewPage,2021-05-13T19:17:59.871Z
+dfefffdc93687c9c972aac2bb2638f3bef903a6674afd5d05895c0341e321899,active => inactive,,,evStateChange,2021-05-13T19:19:03.669Z
+dfefffdc93687c9c972aac2bb2638f3bef903a6674afd5d05895c0341e321899,inactive => active,,,evStateChange,2021-05-13T19:19:52.949Z
+dfefffdc93687c9c972aac2bb2638f3bef903a6674afd5d05895c0341e321899,active => inactive,,,evStateChange,2021-05-13T19:19:52.979Z
+dfefffdc93687c9c972aac2bb2638f3bef903a6674afd5d05895c0341e321899,inactive => active,,,evStateChange,2021-05-13T19:21:49.565Z
+dfefffdc93687c9c972aac2bb2638f3bef903a6674afd5d05895c0341e321899,active => inactive,,,evStateChange,2021-05-13T19:21:49.858Z
+3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a,1.0.7 (38),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-13T20:36:48.597Z
+3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a,Labels Search,es,,evViewPage,2021-05-13T20:36:48.820Z
+3233a7091df209984cd55d8c0a7261a3b957460d8b8a56f1b94a43786f0a3a4a,active => inactive,,,evStateChange,2021-05-13T20:36:54.518Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-G920R4,android,7.0,android","(46.49911780151925,-120.46579172711262)",evStart,2021-05-14T16:04:59.346Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,Labels Search,en,,evViewPage,2021-05-14T16:04:59.613Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,45002-8,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate,copper sulfate,evViewHS,2021-05-14T16:05:22.724Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,HS Label,en,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,evViewPage,2021-05-14T16:05:23.242Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Product Information,evCategoryOpen,2021-05-14T16:05:24.755Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Producer Information,evCategoryOpen,2021-05-14T16:05:41.603Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,45002-8,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate,copper sulfate ,evViewHS,2021-05-14T16:08:59.045Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,HS Label,en,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,evViewPage,2021-05-14T16:08:59.571Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Product Information,evCategoryOpen,2021-05-14T16:09:02.012Z
+4ad4f38227e838ced3e4b09122585340d49e70217b28cd46fa092c14eac109b9,active => inactive,,,evStateChange,2021-05-14T16:09:34.279Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-17T21:00:10.902Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,Labels Search,en,,evViewPage,2021-05-17T21:00:10.976Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,More,en,,evViewPage,2021-05-17T21:00:15.278Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,Resources,en,,evViewPage,2021-05-17T21:00:16.505Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,active => inactive,,,evStateChange,2021-05-17T21:00:27.543Z
+1a64029c9c61ac1ac1c111c4e8b34aed64063f052fd37c43a0750b3ea41f8eed,1.0.7 (38),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",n/a,evStart,2021-05-18T14:59:21.185Z
+1a64029c9c61ac1ac1c111c4e8b34aed64063f052fd37c43a0750b3ea41f8eed,Labels Search,en,,evViewPage,2021-05-18T14:59:21.256Z
+1a64029c9c61ac1ac1c111c4e8b34aed64063f052fd37c43a0750b3ea41f8eed,active => inactive,,,evStateChange,2021-05-18T14:59:31.818Z
+1a64029c9c61ac1ac1c111c4e8b34aed64063f052fd37c43a0750b3ea41f8eed,inactive => active,,,evStateChange,2021-05-18T14:59:45.120Z
+1a64029c9c61ac1ac1c111c4e8b34aed64063f052fd37c43a0750b3ea41f8eed,PICOL Search,en,,evViewPage,2021-05-18T14:59:58.043Z
+1a64029c9c61ac1ac1c111c4e8b34aed64063f052fd37c43a0750b3ea41f8eed,Labels Search,en,,evViewPage,2021-05-18T15:00:16.020Z
+1a64029c9c61ac1ac1c111c4e8b34aed64063f052fd37c43a0750b3ea41f8eed,active => inactive,,,evStateChange,2021-05-18T15:00:37.971Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,1.0.7 (38),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.5.1,ios",n/a,evStart,2021-05-18T15:32:01.413Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Labels Search,en,,evViewPage,2021-05-18T15:32:01.587Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,8033-23-70506,Assail® 70WP Insecticide,,evViewHS,2021-05-18T15:34:33.026Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HS Label,en,Assail® 70WP Insecticide | epa: 8033-23-70506,evViewPage,2021-05-18T15:34:33.735Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HSLabel,Assail® 70WP Insecticide | epa: 8033-23-70506,Category: Product Information,evCategoryOpen,2021-05-18T15:34:39.326Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HSLabel,Assail® 70WP Insecticide | epa: 8033-23-70506,Category: Producer Information,evCategoryOpen,2021-05-18T15:34:55.752Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HSLabel,Assail® 70WP Insecticide | epa: 8033-23-70506,Category: Pesticide Labels,evCategoryOpen,2021-05-18T15:35:08.780Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,active => inactive,,,evStateChange,2021-05-18T15:35:52.221Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,1.0.11 (41),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.4.2,ios","(47.69849328806506,-122.37212769158955)",evStart,2021-05-18T16:29:35.970Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Labels Search,en,,evViewPage,2021-05-18T16:29:36.175Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,2935-546,440 Superior Spray Oil,ray,evViewHS,2021-05-18T16:30:54.271Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,en,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-18T16:30:54.993Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Product Information,evCategoryOpen,2021-05-18T16:31:16.779Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: First Aid,evCategoryOpen,2021-05-18T16:32:05.731Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,en=>es,,evLanguageToggle,2021-05-18T16:32:23.635Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,es=>en,,evLanguageToggle,2021-05-18T16:32:29.018Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: PPE,evCategoryOpen,2021-05-18T16:32:35.408Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Product Information,evCategoryOpen,2021-05-18T16:33:06.679Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Health and Safety,evCategoryOpen,2021-05-18T16:33:14.689Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Producer Information,evCategoryOpen,2021-05-18T16:33:50.177Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Product Information,evCategoryOpen,2021-05-18T16:33:52.724Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Health and Safety,evCategoryOpen,2021-05-18T16:34:04.303Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Environmental Protection,evCategoryOpen,2021-05-18T16:34:32.625Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Spray Drift Prevention,evCategoryOpen,2021-05-18T16:34:37.209Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,en=>es,,evLanguageToggle,2021-05-18T16:35:01.199Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,es=>en,,evLanguageToggle,2021-05-18T16:35:03.856Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Pesticide Labels,evCategoryOpen,2021-05-18T16:35:12.195Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,2935-546,440 Superior Spray Oil,H&S,evDownloadLabel,2021-05-18T16:35:21.647Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,active => inactive,,,evStateChange,2021-05-18T16:35:21.797Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,1.0.14 (46),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.4.2,ios",n/a,evStart,2021-05-18T16:36:23.475Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Labels Search,en,,evViewPage,2021-05-18T16:36:23.660Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,56336-37,Check Mate CM-F,,evViewHS,2021-05-18T16:36:26.462Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,en,Check Mate CM-F | epa: 56336-37,evViewPage,2021-05-18T16:36:27.183Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Check Mate CM-F | epa: 56336-37,Category: Product Information,evCategoryOpen,2021-05-18T16:36:34.431Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Check Mate CM-F | epa: 56336-37,Category: Product Information,evCategoryOpen,2021-05-18T16:36:52.415Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Check Mate CM-F | epa: 56336-37,Category: Producer Information,evCategoryOpen,2021-05-18T16:37:42.099Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,active => inactive,,,evStateChange,2021-05-18T16:38:04.032Z
+892b50ba215a2b28644e5c2aa6ef3877dd8d14d1a528fa49d825e4114117a526,1.0.14 (46),"iphone,ios,phablet,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.5.1,ios",n/a,evStart,2021-05-18T16:38:17.183Z
+892b50ba215a2b28644e5c2aa6ef3877dd8d14d1a528fa49d825e4114117a526,Labels Search,es,,evViewPage,2021-05-18T16:38:17.338Z
+892b50ba215a2b28644e5c2aa6ef3877dd8d14d1a528fa49d825e4114117a526,PICOL Search,es,,evViewPage,2021-05-18T16:38:29.871Z
+892b50ba215a2b28644e5c2aa6ef3877dd8d14d1a528fa49d825e4114117a526,More,en,,evViewPage,2021-05-18T16:39:43.660Z
+892b50ba215a2b28644e5c2aa6ef3877dd8d14d1a528fa49d825e4114117a526,Privacy,es,,evViewPage,2021-05-18T16:39:46.398Z
+892b50ba215a2b28644e5c2aa6ef3877dd8d14d1a528fa49d825e4114117a526,Privacy,es=>en,,evLanguageToggle,2021-05-18T16:39:53.582Z
+892b50ba215a2b28644e5c2aa6ef3877dd8d14d1a528fa49d825e4114117a526,EULA,en,,evViewPage,2021-05-18T16:40:14.132Z
+892b50ba215a2b28644e5c2aa6ef3877dd8d14d1a528fa49d825e4114117a526,active => inactive,,,evStateChange,2021-05-18T16:41:25.882Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,inactive => active,,,evStateChange,2021-05-18T16:44:25.744Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,active => inactive,,,evStateChange,2021-05-18T16:44:27.667Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,QuestionPage1,en,,evViewPage,2021-05-18T16:44:46.214Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,QuestionPage1,en=>es,,evLanguageToggle,2021-05-18T16:45:23.805Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,QuestionPage1,es=>en,,evLanguageToggle,2021-05-18T16:45:25.891Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,45002-8,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate,,evViewHS,2021-05-18T16:46:17.552Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,HS Label,en,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,evViewPage,2021-05-18T16:46:18.174Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,active => inactive,,,evStateChange,2021-05-18T16:46:20.633Z
+3f36efb441e763020dfaf783e289655c3ec19fb13692cbde5f1c912d3c69e4c8,QuestionPage1,en,,evViewPage,2021-05-18T16:46:31.954Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,1.0.14 (46),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.4.2,ios","(47.699819963504325,-122.37173714738765)",evStart,2021-05-18T16:48:40.177Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Labels Search,en,,evViewPage,2021-05-18T16:48:40.324Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,active => inactive,,,evStateChange,2021-05-18T16:48:43.791Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,QuestionPage2,en,,evViewPage,2021-05-18T18:09:02.639Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,1.0.14 (46),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.4.2,ios","(47.69710785485026,-122.36914878662127)",evStart,2021-05-18T18:09:12.551Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Labels Search,en,,evViewPage,2021-05-18T18:09:12.701Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,62719-591,Lorsban® Advanced INSECTICIDE,ors,evViewHS,2021-05-18T18:10:17.929Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,en,Lorsban® Advanced INSECTICIDE | epa: 62719-591,evViewPage,2021-05-18T18:10:18.641Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,en=>es,,evLanguageToggle,2021-05-18T18:10:28.148Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,es=>en,,evLanguageToggle,2021-05-18T18:10:31.886Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Lorsban® Advanced INSECTICIDE | epa: 62719-591,Category: Product Information,evCategoryOpen,2021-05-18T18:11:12.433Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Lorsban® Advanced INSECTICIDE | epa: 62719-591,Category: PPE,evCategoryOpen,2021-05-18T18:12:25.675Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,en=>es,,evLanguageToggle,2021-05-18T18:12:50.965Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,es=>en,,evLanguageToggle,2021-05-18T18:12:52.153Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Lorsban® Advanced INSECTICIDE | epa: 62719-591,Category: First Aid,evCategoryOpen,2021-05-18T18:13:50.879Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Lorsban® Advanced INSECTICIDE | epa: 62719-591,Category: Health and Safety,evCategoryOpen,2021-05-18T18:14:26.442Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Lorsban® Advanced INSECTICIDE | epa: 62719-591,Category: Storage and Disposal,evCategoryOpen,2021-05-18T18:18:31.771Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Lorsban® Advanced INSECTICIDE | epa: 62719-591,Category: Spray Drift Prevention,evCategoryOpen,2021-05-18T18:19:46.318Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,en=>es,,evLanguageToggle,2021-05-18T18:20:47.080Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HS Label,es=>en,,evLanguageToggle,2021-05-18T18:20:48.660Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,HSLabel,Lorsban® Advanced INSECTICIDE | epa: 62719-591,Category: Pesticide Labels,evCategoryOpen,2021-05-18T18:20:53.668Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,62719-591,Lorsban® Advanced INSECTICIDE,H&S,evDownloadLabel,2021-05-18T18:21:14.477Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,active => inactive,,,evStateChange,2021-05-18T18:21:14.580Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,inactive => active,,,evStateChange,2021-05-18T18:21:38.375Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Resources,en,,evViewPage,2021-05-18T18:22:03.559Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Resources,en=>es,,evLanguageToggle,2021-05-18T18:22:05.998Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Resources,es=>en,,evLanguageToggle,2021-05-18T18:22:06.601Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Resources,en=>es,,evLanguageToggle,2021-05-18T18:22:30.056Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Resources,es=>en,,evLanguageToggle,2021-05-18T18:22:31.467Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,Resources,en=>es,,evLanguageToggle,2021-05-18T18:22:37.732Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,PICOL Search,es,,evViewPage,2021-05-18T18:22:45.358Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,More,en,,evViewPage,2021-05-18T18:23:33.374Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,More,es=>en,,evLanguageToggle,2021-05-18T18:23:36.894Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,More,en=>es,,evLanguageToggle,2021-05-18T18:23:52.143Z
+4d60e2cc5fcab06b2020970ff0308de4aae156792db32b64d3f3491e2e3c2065,active => inactive,,,evStateChange,2021-05-18T18:25:09.353Z
+622e17f01f967b57be831d9edf085058a6cddac8df8205477b13303a21efa07d,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4,ios",n/a,evStart,2021-05-18T18:52:58.100Z
+622e17f01f967b57be831d9edf085058a6cddac8df8205477b13303a21efa07d,Labels Search,en,,evViewPage,2021-05-18T18:52:58.200Z
+622e17f01f967b57be831d9edf085058a6cddac8df8205477b13303a21efa07d,PICOL Search,en,,evViewPage,2021-05-18T18:53:22.432Z
+7a197a98a663cdb7c680082d3b86708a10b50388fe5dcf01ca5d28ee5843e288,1.0.14 (46),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.5.1,ios",n/a,evStart,2021-05-18T20:05:00.776Z
+7a197a98a663cdb7c680082d3b86708a10b50388fe5dcf01ca5d28ee5843e288,Labels Search,en,,evViewPage,2021-05-18T20:05:00.870Z
+7a197a98a663cdb7c680082d3b86708a10b50388fe5dcf01ca5d28ee5843e288,100-938,Actara®,,evViewHS,2021-05-18T20:05:04.237Z
+7a197a98a663cdb7c680082d3b86708a10b50388fe5dcf01ca5d28ee5843e288,HS Label,en,Actara® | epa: 100-938,evViewPage,2021-05-18T20:05:04.905Z
+7a197a98a663cdb7c680082d3b86708a10b50388fe5dcf01ca5d28ee5843e288,HSLabel,Actara® | epa: 100-938,Category: Producer Information,evCategoryOpen,2021-05-18T20:05:05.784Z
+7a197a98a663cdb7c680082d3b86708a10b50388fe5dcf01ca5d28ee5843e288,active => inactive,,,evStateChange,2021-05-18T20:05:45.577Z
+5b83112457572cf1734e969469e6e6e5febe64744a74f4ba8292217fc76212ef,More,en,,evViewPage,2021-05-18T23:55:21.760Z
+5b83112457572cf1734e969469e6e6e5febe64744a74f4ba8292217fc76212ef,PICOL Search,es,,evViewPage,2021-05-18T23:55:24.315Z
+5b83112457572cf1734e969469e6e6e5febe64744a74f4ba8292217fc76212ef,active => inactive,,,evStateChange,2021-05-18T23:55:26.865Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-19T00:45:06.246Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,Labels Search,en,,evViewPage,2021-05-19T00:45:06.350Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,2935-546,440 Superior Spray Oil,,evViewHS,2021-05-19T00:45:26.518Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,HS Label,en,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-19T00:45:27.172Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Product Information,evCategoryOpen,2021-05-19T00:45:28.651Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,81803-6,JET-AG®,,evViewHS,2021-05-19T00:45:40.630Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,HS Label,en,JET-AG® | epa: 81803-6,evViewPage,2021-05-19T00:45:41.229Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,264-1065,Ultor®,,evViewHS,2021-05-19T00:45:57.367Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,HS Label,en,Ultor® | epa: 264-1065,evViewPage,2021-05-19T00:45:57.961Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,HSLabel,Ultor® | epa: 264-1065,Category: Engineering Controls,evCategoryOpen,2021-05-19T00:46:05.300Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,HSLabel,Ultor® | epa: 264-1065,Category: Spray Drift Prevention,evCategoryOpen,2021-05-19T00:46:18.924Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,PICOL Search,en,,evViewPage,2021-05-19T00:46:35.073Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,Resources,en,,evViewPage,2021-05-19T00:46:38.252Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,More,en,,evViewPage,2021-05-19T00:46:46.644Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,active => inactive,,,evStateChange,2021-05-19T00:46:55.119Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,inactive => active,,,evStateChange,2021-05-19T00:47:30.515Z
+4a3b183b31251324b784d7a0ef25e4b340cd6bf7d80c8c925e1c0f7e141ae89a,active => inactive,,,evStateChange,2021-05-19T00:47:32.320Z
+08c37b6f658ace44395c65876ddbb5792cad089b34e64436182540d3cca13dae,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios","(46.56501563042234,-120.63366770126106)",evStart,2021-05-19T12:33:48.352Z
+08c37b6f658ace44395c65876ddbb5792cad089b34e64436182540d3cca13dae,Labels Search,en,,evViewPage,2021-05-19T12:33:48.451Z
+08c37b6f658ace44395c65876ddbb5792cad089b34e64436182540d3cca13dae,active => inactive,,,evStateChange,2021-05-19T12:34:00.417Z
+08c37b6f658ace44395c65876ddbb5792cad089b34e64436182540d3cca13dae,inactive => active,,,evStateChange,2021-05-19T12:34:27.329Z
+08c37b6f658ace44395c65876ddbb5792cad089b34e64436182540d3cca13dae,active => inactive,,,evStateChange,2021-05-19T12:34:27.891Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,1.0.14 (46),"ipad,ios,tablet,cordova,capacitor,mobile,hybrid,Apple,iPad,ios,14.4.2,ios",n/a,evStart,2021-05-19T13:09:58.480Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,Labels Search,en,,evViewPage,2021-05-19T13:09:58.676Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,19713-674,Drexel® Sulfur 80 WDG,,evViewHS,2021-05-19T13:10:10.947Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,HS Label,en,Drexel® Sulfur 80 WDG | epa: 19713-674,evViewPage,2021-05-19T13:10:11.672Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,HSLabel,Drexel® Sulfur 80 WDG | epa: 19713-674,Category: Pesticide Labels,evCategoryOpen,2021-05-19T13:10:21.162Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,19713-674,Drexel® Sulfur 80 WDG,H&S,evDownloadLabel,2021-05-19T13:10:31.321Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,active => inactive,,,evStateChange,2021-05-19T13:10:31.663Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,inactive => active,,,evStateChange,2021-05-19T13:10:42.266Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,HSLabel,Drexel® Sulfur 80 WDG | epa: 19713-674,Category: PPE,evCategoryOpen,2021-05-19T13:10:48.564Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,HS Label,en=>es,,evLanguageToggle,2021-05-19T13:10:52.622Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,19713-674,Drexel® Sulfur 80 WDG,H&S,evDownloadLabel,2021-05-19T13:10:57.538Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,active => inactive,,,evStateChange,2021-05-19T13:10:57.661Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,inactive => active,,,evStateChange,2021-05-19T13:11:08.726Z
+c4445a82092ad9c9e775a656bfa3567e1e14c78c79e5541b8aa50f7c022fe275,active => inactive,,,evStateChange,2021-05-19T13:11:11.240Z
+1bee0a497343533311535d9b68708fe2066434645e8c0ac29c214cbbd0c9f4ad,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-19T15:44:59.437Z
+1bee0a497343533311535d9b68708fe2066434645e8c0ac29c214cbbd0c9f4ad,Labels Search,en,,evViewPage,2021-05-19T15:44:59.662Z
+1bee0a497343533311535d9b68708fe2066434645e8c0ac29c214cbbd0c9f4ad,active => inactive,,,evStateChange,2021-05-19T15:45:31.645Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-19T16:19:35.337Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,Labels Search,es,,evViewPage,2021-05-19T16:19:35.458Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,More,en,,evViewPage,2021-05-19T16:19:44.071Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,PICOL Search,es,,evViewPage,2021-05-19T16:19:48.734Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,Labels Search,es,,evViewPage,2021-05-19T16:19:49.192Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,PICOL Search,es,,evViewPage,2021-05-19T16:19:50.994Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,Labels Search,es,,evViewPage,2021-05-19T16:19:54.116Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,100-1295,Warrior II with Zeon Technology®,,evViewHS,2021-05-19T16:19:59.313Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,HS Label,es,Warrior II with Zeon Technology® | epa: 100-1295,evViewPage,2021-05-19T16:19:59.987Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,HSLabel,Warrior II with Zeon Technology® | epa: 100-1295,Category: Product Information,evCategoryOpen,2021-05-19T16:20:01.775Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,HSLabel,Warrior II with Zeon Technology® | epa: 100-1295,Category: Producer Information,evCategoryOpen,2021-05-19T16:20:13.186Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,62719-375,Quintec® Fungicide,,evViewHS,2021-05-19T16:20:24.163Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,HS Label,es,Quintec® Fungicide | epa: 62719-375,evViewPage,2021-05-19T16:20:24.742Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,HSLabel,Quintec® Fungicide | epa: 62719-375,Category: First Aid,evCategoryOpen,2021-05-19T16:20:27.624Z
+b9c00f5f04c8a4e5242c5e4fb99032b3425f8b84cbc81e0bfb9a7a4d17012e36,active => inactive,,,evStateChange,2021-05-19T16:20:40.349Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,1.0.11 (41),"android,cordova,capacitor,mobile,hybrid,samsung,SM-G960U,android,10,android","(45.60870638867137,-121.13508571956457)",evStart,2021-05-19T16:58:59.162Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,Labels Search,en,,evViewPage,2021-05-19T16:58:59.326Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,active => inactive,,,evStateChange,2021-05-19T16:59:56.925Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,inactive => active,,,evStateChange,2021-05-19T17:00:08.647Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,active => inactive,,,evStateChange,2021-05-19T17:00:33.075Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,inactive => active,,,evStateChange,2021-05-19T17:00:41.342Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,Labels Search,en=>es,,evLanguageToggle,2021-05-19T17:00:52.440Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,Labels Search,es=>en,,evLanguageToggle,2021-05-19T17:00:53.833Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,PICOL Search,en,,evViewPage,2021-05-19T17:00:57.191Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,active => inactive,,,evStateChange,2021-05-19T17:01:28.431Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,inactive => active,,,evStateChange,2021-05-19T17:01:34.402Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,34704-207-279,DIMETHOATE 400 EC,dime,evViewPICOL,2021-05-19T17:01:35.836Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,PICOL Label,en,DIMETHOATE 400 EC | epa: 34704-207-279,evViewPage,2021-05-19T17:01:36.266Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,active => inactive,,,evStateChange,2021-05-19T17:01:53.668Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-19T19:11:26.875Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,Labels Search,es,,evViewPage,2021-05-19T19:11:26.955Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,Resources,es,,evViewPage,2021-05-19T19:11:48.694Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,PICOL Search,es,,evViewPage,2021-05-19T19:11:50.354Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,228-528,NUPRID 4F MAX INSECTICIDE,,evViewPICOL,2021-05-19T19:13:01.966Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,PICOL Label,es,NUPRID 4F MAX INSECTICIDE | epa: 228-528,evViewPage,2021-05-19T19:13:02.633Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,228-528,NUPRID 4F MAX INSECTICIDE,PICOL,evDownloadLabel,2021-05-19T19:13:17.234Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,6325-22,YELLOW JACKET FLOWABLE SULFUR,,evViewPICOL,2021-05-19T19:14:36.980Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,PICOL Label,es,YELLOW JACKET FLOWABLE SULFUR | epa: 6325-22,evViewPage,2021-05-19T19:14:37.640Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,6325-22,YELLOW JACKET FLOWABLE SULFUR,PICOL,evDownloadLabel,2021-05-19T19:14:44.416Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,active => inactive,,,evStateChange,2021-05-19T19:15:13.060Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,inactive => active,,,evStateChange,2021-05-19T19:15:24.236Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,More,en,,evViewPage,2021-05-19T19:15:26.003Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,PICOL Search,es,,evViewPage,2021-05-19T19:15:30.583Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,264-1050,MOVENTO,mov,evViewPICOL,2021-05-19T19:15:48.243Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,PICOL Label,es,MOVENTO | epa: 264-1050,evViewPage,2021-05-19T19:15:48.842Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,264-1050,MOVENTO,PICOL,evDownloadLabel,2021-05-19T19:15:59.894Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,Labels Search,es,,evViewPage,2021-05-19T19:16:17.456Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,PICOL Search,es,,evViewPage,2021-05-19T19:16:18.775Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,active => inactive,,,evStateChange,2021-05-19T19:16:24.381Z
+6756d91eb6e3799e297e28d01be53c493888e375fd4fce435f40e4d38c18351d,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-20T13:11:20.864Z
+6756d91eb6e3799e297e28d01be53c493888e375fd4fce435f40e4d38c18351d,Labels Search,en,,evViewPage,2021-05-20T13:11:20.956Z
+6756d91eb6e3799e297e28d01be53c493888e375fd4fce435f40e4d38c18351d,Labels Search,en=>es,,evLanguageToggle,2021-05-20T13:13:12.107Z
+6756d91eb6e3799e297e28d01be53c493888e375fd4fce435f40e4d38c18351d,PICOL Search,es,,evViewPage,2021-05-20T13:13:41.857Z
+6756d91eb6e3799e297e28d01be53c493888e375fd4fce435f40e4d38c18351d,active => inactive,,,evStateChange,2021-05-20T13:14:11.994Z
+26bdded76265c9a091c7777689ef7a2477f8b2fc74521e2a804f938102bcfefc,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-20T13:31:47.677Z
+26bdded76265c9a091c7777689ef7a2477f8b2fc74521e2a804f938102bcfefc,Labels Search,en,,evViewPage,2021-05-20T13:31:47.906Z
+26bdded76265c9a091c7777689ef7a2477f8b2fc74521e2a804f938102bcfefc,PICOL Search,en,,evViewPage,2021-05-20T13:32:16.750Z
+26bdded76265c9a091c7777689ef7a2477f8b2fc74521e2a804f938102bcfefc,Resources,en,,evViewPage,2021-05-20T13:32:18.406Z
+26bdded76265c9a091c7777689ef7a2477f8b2fc74521e2a804f938102bcfefc,More,en,,evViewPage,2021-05-20T13:32:25.856Z
+26bdded76265c9a091c7777689ef7a2477f8b2fc74521e2a804f938102bcfefc,Labels Search,en,,evViewPage,2021-05-20T13:32:29.181Z
+26bdded76265c9a091c7777689ef7a2477f8b2fc74521e2a804f938102bcfefc,active => inactive,,,evStateChange,2021-05-20T13:32:42.149Z
+a7df5377c3c684d02a267f9dbb10badf891e5e641c8e7b7859584dc289825c88,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-20T17:02:11.156Z
+a7df5377c3c684d02a267f9dbb10badf891e5e641c8e7b7859584dc289825c88,Labels Search,en,,evViewPage,2021-05-20T17:02:11.239Z
+a7df5377c3c684d02a267f9dbb10badf891e5e641c8e7b7859584dc289825c88,active => inactive,,,evStateChange,2021-05-20T17:02:41.506Z
+a7df5377c3c684d02a267f9dbb10badf891e5e641c8e7b7859584dc289825c88,inactive => active,,,evStateChange,2021-05-20T17:03:30.365Z
+a7df5377c3c684d02a267f9dbb10badf891e5e641c8e7b7859584dc289825c88,active => inactive,,,evStateChange,2021-05-20T17:03:40.603Z
+a145f4b1307a77e29f840143d3fd7fe7ddc35ae9ce803159826579baf9500655,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-21T21:21:50.773Z
+a145f4b1307a77e29f840143d3fd7fe7ddc35ae9ce803159826579baf9500655,Labels Search,en,,evViewPage,2021-05-21T21:21:50.866Z
+a145f4b1307a77e29f840143d3fd7fe7ddc35ae9ce803159826579baf9500655,active => inactive,,,evStateChange,2021-05-21T21:22:01.759Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,1.0.7 (38),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.5.1,ios",n/a,evStart,2021-05-22T18:53:31.107Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Labels Search,en,,evViewPage,2021-05-22T18:53:31.266Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,279-3557,Topguard® Fungicide Specialty Crops,top,evViewHS,2021-05-22T18:53:36.797Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HS Label,en,Topguard® Fungicide Specialty Crops | epa: 279-3557,evViewPage,2021-05-22T18:53:37.584Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HSLabel,Topguard® Fungicide Specialty Crops | epa: 279-3557,Category: Pesticide Labels,evCategoryOpen,2021-05-22T18:53:48.529Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HSLabel,Topguard® Fungicide Specialty Crops | epa: 279-3557,Category: PPE,evCategoryOpen,2021-05-22T18:53:56.655Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Update News,en,,evViewPage,2021-05-22T18:55:04.646Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,More,en,,evViewPage,2021-05-22T18:55:16.243Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,PICOL Search,en,,evViewPage,2021-05-22T18:55:24.217Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,More,en,,evViewPage,2021-05-22T18:55:25.795Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Update News,en,,evViewPage,2021-05-22T18:55:30.109Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,PICOL Search,en,,evViewPage,2021-05-22T18:55:38.028Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Labels Search,en,,evViewPage,2021-05-22T18:55:39.372Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,PICOL Search,en,,evViewPage,2021-05-22T18:55:41.559Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,62719-625,TRANSFORM WG,trans,evViewPICOL,2021-05-22T18:55:47.349Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,PICOL Label,en,TRANSFORM WG | epa: 62719-625,evViewPage,2021-05-22T18:55:47.968Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,62719-625,TRANSFORM WG,PICOL,evDownloadLabel,2021-05-22T18:55:56.103Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Labels Search,en,,evViewPage,2021-05-22T18:58:32.658Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Labels Search,en=>es,,evLanguageToggle,2021-05-22T18:58:46.993Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Labels Search,es=>en,,evLanguageToggle,2021-05-22T18:58:55.632Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Update News,en,,evViewPage,2021-05-22T18:58:57.332Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,More,en,,evViewPage,2021-05-22T18:59:04.463Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,Labels Search,en,,evViewPage,2021-05-22T18:59:15.747Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,279-3557,Topguard® Fungicide Specialty Crops,top,evViewHS,2021-05-22T19:01:57.259Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HS Label,en,Topguard® Fungicide Specialty Crops | epa: 279-3557,evViewPage,2021-05-22T19:01:57.892Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,HSLabel,Topguard® Fungicide Specialty Crops | epa: 279-3557,Category: PPE,evCategoryOpen,2021-05-22T19:02:02.216Z
+905d82fd47d7fc2cad4394b927ee06261ceb7df82710883fd8efd365b610c4f4,active => inactive,,,evStateChange,2021-05-22T19:04:09.034Z
+913f5c949ac1b95b0c20d25498012329ee2a5d874dd0ce3c4585ce7068fd167a,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-23T01:38:11.282Z
+913f5c949ac1b95b0c20d25498012329ee2a5d874dd0ce3c4585ce7068fd167a,Labels Search,en,,evViewPage,2021-05-23T01:38:11.375Z
+913f5c949ac1b95b0c20d25498012329ee2a5d874dd0ce3c4585ce7068fd167a,Labels Search,en=>es,,evLanguageToggle,2021-05-23T01:38:29.753Z
+913f5c949ac1b95b0c20d25498012329ee2a5d874dd0ce3c4585ce7068fd167a,Labels Search,es=>en,,evLanguageToggle,2021-05-23T01:38:31.510Z
+913f5c949ac1b95b0c20d25498012329ee2a5d874dd0ce3c4585ce7068fd167a,More,en,,evViewPage,2021-05-23T01:39:35.304Z
+913f5c949ac1b95b0c20d25498012329ee2a5d874dd0ce3c4585ce7068fd167a,PICOL Search,en,,evViewPage,2021-05-23T01:39:43.835Z
+913f5c949ac1b95b0c20d25498012329ee2a5d874dd0ce3c4585ce7068fd167a,Labels Search,en,,evViewPage,2021-05-23T01:39:46.202Z
+913f5c949ac1b95b0c20d25498012329ee2a5d874dd0ce3c4585ce7068fd167a,active => inactive,,,evStateChange,2021-05-23T01:39:54.243Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-23T04:57:04.183Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,Labels Search,en,,evViewPage,2021-05-23T04:57:04.270Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,264-1090,Luna® SENSATION,luna,evViewHS,2021-05-23T04:57:33.177Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HS Label,en,Luna® SENSATION | epa: 264-1090,evViewPage,2021-05-23T04:57:33.820Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Product Information,evCategoryOpen,2021-05-23T04:57:39.886Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Pesticide Labels,evCategoryOpen,2021-05-23T04:57:57.363Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,264-1090,Luna® SENSATION,H&S,evDownloadLabel,2021-05-23T04:58:05.076Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,active => inactive,,,evStateChange,2021-05-23T04:58:05.151Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,inactive => active,,,evStateChange,2021-05-23T04:58:27.361Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,279-3557,Topguard® Fungicide Specialty Crops,top,evViewHS,2021-05-23T04:58:43.252Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HS Label,en,Topguard® Fungicide Specialty Crops | epa: 279-3557,evViewPage,2021-05-23T04:58:43.879Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,HSLabel,Topguard® Fungicide Specialty Crops | epa: 279-3557,Category: Pesticide Labels,evCategoryOpen,2021-05-23T04:58:45.111Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,279-3557,Topguard® Fungicide Specialty Crops,H&S,evDownloadLabel,2021-05-23T04:58:47.730Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,active => inactive,,,evStateChange,2021-05-23T04:58:47.789Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,QuestionPage1,en,,evViewPage,2021-05-23T14:21:24.400Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-23T14:21:50.064Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,Labels Search,en,,evViewPage,2021-05-23T14:21:50.132Z
+220be54644be2bb2815f4b14eb11e08ba43b684b3f03bc112e9dd4eeeefed000,active => inactive,,,evStateChange,2021-05-23T14:22:03.423Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,1.0.14 (46),"android,cordova,capacitor,mobile,hybrid,Google,Pixel 3a,android,11,android","(47.66973511094838,-122.29845888758084)",evStart,2021-05-23T14:27:38.741Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,Labels Search,en,,evViewPage,2021-05-23T14:27:38.968Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,62719-220,Lorsban®-4E INSECTICIDE,,evViewHS,2021-05-23T14:28:05.664Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,HS Label,en,Lorsban®-4E INSECTICIDE | epa: 62719-220,evViewPage,2021-05-23T14:28:06.170Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,HSLabel,Lorsban®-4E INSECTICIDE | epa: 62719-220,Category: Product Information,evCategoryOpen,2021-05-23T14:28:09.651Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,HSLabel,Lorsban®-4E INSECTICIDE | epa: 62719-220,Category: Health and Safety,evCategoryOpen,2021-05-23T14:28:51.123Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,HSLabel,Lorsban®-4E INSECTICIDE | epa: 62719-220,Category: Physical or Chemical Hazards,evCategoryOpen,2021-05-23T14:29:58.030Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,HSLabel,Lorsban®-4E INSECTICIDE | epa: 62719-220,Category: Environmental Protection,evCategoryOpen,2021-05-23T14:30:04.761Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,HSLabel,Lorsban®-4E INSECTICIDE | epa: 62719-220,Category: Spray Drift Prevention,evCategoryOpen,2021-05-23T14:30:47.328Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,HSLabel,Lorsban®-4E INSECTICIDE | epa: 62719-220,Category: Pesticide Labels,evCategoryOpen,2021-05-23T14:31:50.524Z
+04dba5d9a3de740c009f310f06a9cd3246c164a6710e2fc88ae17036545f2748,active => inactive,,,evStateChange,2021-05-23T14:31:58.964Z
+444d211dffde014c3d856e77b068a82006a50e20b7116717984ec8316fdf275a,1.0.14 (46),"android,cordova,capacitor,mobile,hybrid,samsung,SM-G960U,android,10,android","(45.63256501639911,-121.23469834609497)",evStart,2021-05-23T14:35:55.436Z
+444d211dffde014c3d856e77b068a82006a50e20b7116717984ec8316fdf275a,Labels Search,es,,evViewPage,2021-05-23T14:35:55.613Z
+444d211dffde014c3d856e77b068a82006a50e20b7116717984ec8316fdf275a,2935-546,440 Superior Spray Oil,,evViewHS,2021-05-23T14:37:15.262Z
+444d211dffde014c3d856e77b068a82006a50e20b7116717984ec8316fdf275a,HS Label,es,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-23T14:37:15.717Z
+444d211dffde014c3d856e77b068a82006a50e20b7116717984ec8316fdf275a,62719-220,Lorsban®-4E INSECTICIDE,,evViewHS,2021-05-23T14:39:14.437Z
+444d211dffde014c3d856e77b068a82006a50e20b7116717984ec8316fdf275a,HS Label,es,Lorsban®-4E INSECTICIDE | epa: 62719-220,evViewPage,2021-05-23T14:39:14.820Z
+444d211dffde014c3d856e77b068a82006a50e20b7116717984ec8316fdf275a,active => inactive,,,evStateChange,2021-05-23T14:39:37.004Z
+d587521d14e3c14f230354724e36e9f0a75635f3c6127780052a6f72cfd6b72a,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-23T23:16:49.950Z
+d587521d14e3c14f230354724e36e9f0a75635f3c6127780052a6f72cfd6b72a,Labels Search,es,,evViewPage,2021-05-23T23:16:50.097Z
+d587521d14e3c14f230354724e36e9f0a75635f3c6127780052a6f72cfd6b72a,active => inactive,,,evStateChange,2021-05-23T23:18:09.637Z
+5f499da06be0f6f57b59078459f9cc28bccf5076de211f100f0fb94f7ba1bd80,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,12.5.2,ios",n/a,evStart,2021-05-24T14:27:00.750Z
+5f499da06be0f6f57b59078459f9cc28bccf5076de211f100f0fb94f7ba1bd80,Labels Search,en,,evViewPage,2021-05-24T14:27:01.923Z
+5f499da06be0f6f57b59078459f9cc28bccf5076de211f100f0fb94f7ba1bd80,active => inactive,,,evStateChange,2021-05-24T14:27:28.079Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,PICOL Search,en,,evViewPage,2021-05-24T17:24:28.231Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,Labels Search,en,,evViewPage,2021-05-24T17:24:33.984Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,PICOL Search,en,,evViewPage,2021-05-24T17:24:35.834Z
+eda37809e52446a5dafbc6d7995c41a7879539a5548948ce2183723fe4bcab77,active => inactive,,,evStateChange,2021-05-24T17:25:33.834Z
+6040f73c1d071377d0ded97fc8b6b7e7d5acdf4f483deabb22e6e5fc3fe7cf01,1.0.14 (46),"android,cordova,capacitor,mobile,hybrid,samsung,SM-A205U,android,10,android","(46.23969052338574,-119.70315614606928)",evStart,2021-05-24T20:27:51.437Z
+6040f73c1d071377d0ded97fc8b6b7e7d5acdf4f483deabb22e6e5fc3fe7cf01,Labels Search,es,,evViewPage,2021-05-24T20:27:52.004Z
+6040f73c1d071377d0ded97fc8b6b7e7d5acdf4f483deabb22e6e5fc3fe7cf01,Labels Search,es=>en,,evLanguageToggle,2021-05-24T20:28:21.669Z
+6040f73c1d071377d0ded97fc8b6b7e7d5acdf4f483deabb22e6e5fc3fe7cf01,Labels Search,en=>es,,evLanguageToggle,2021-05-24T20:28:26.894Z
+6040f73c1d071377d0ded97fc8b6b7e7d5acdf4f483deabb22e6e5fc3fe7cf01,Labels Search,es=>en,,evLanguageToggle,2021-05-24T20:28:36.650Z
+6040f73c1d071377d0ded97fc8b6b7e7d5acdf4f483deabb22e6e5fc3fe7cf01,Labels Search,en=>es,,evLanguageToggle,2021-05-24T20:28:41.710Z
+6040f73c1d071377d0ded97fc8b6b7e7d5acdf4f483deabb22e6e5fc3fe7cf01,Labels Search,es=>en,,evLanguageToggle,2021-05-24T20:29:04.905Z
+50a96aa0842002309dc994961301716b454d8f17df4aa292a002c5ad338795cc,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-24T20:38:44.058Z
+50a96aa0842002309dc994961301716b454d8f17df4aa292a002c5ad338795cc,Labels Search,en,,evViewPage,2021-05-24T20:38:44.197Z
+50a96aa0842002309dc994961301716b454d8f17df4aa292a002c5ad338795cc,active => inactive,,,evStateChange,2021-05-24T20:39:56.773Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,1.0.14 (46),"android,cordova,capacitor,mobile,hybrid,samsung,SM-N986U,android,11,android","(46.89455684741482,-119.68819779864502)",evStart,2021-05-25T13:49:27.227Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,Labels Search,es,,evViewPage,2021-05-25T13:49:27.357Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,active => inactive,,,evStateChange,2021-05-25T13:49:29.800Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,inactive => active,,,evStateChange,2021-05-25T13:49:42.598Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,active => inactive,,,evStateChange,2021-05-25T13:49:48.364Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,inactive => active,,,evStateChange,2021-05-25T13:50:58.615Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,19713-674,Drexel® Sulfur 80 WDG,,evViewHS,2021-05-25T13:51:16.094Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,HS Label,es,Drexel® Sulfur 80 WDG | epa: 19713-674,evViewPage,2021-05-25T13:51:16.484Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,HSLabel,Drexel® Sulfur 80 WDG | epa: 19713-674,Category: Product Information,evCategoryOpen,2021-05-25T13:51:19.992Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,active => inactive,,,evStateChange,2021-05-25T13:52:05.339Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,1.0.11 (41),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.5.1,ios",n/a,evStart,2021-05-25T17:16:32.063Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,Labels Search,en,,evViewPage,2021-05-25T17:16:32.151Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,Update News,en,,evViewPage,2021-05-25T17:17:07.421Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,More,en,,evViewPage,2021-05-25T17:17:13.520Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,Labels Search,en,,evViewPage,2021-05-25T17:17:15.668Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,More,en,,evViewPage,2021-05-25T17:17:17.785Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,Labels Search,en,,evViewPage,2021-05-25T17:17:19.406Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,2935-546,440 Superior Spray Oil,kasumin 2 l,evViewHS,2021-05-25T17:17:23.042Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,HS Label,en,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-25T17:17:23.665Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Pesticide Labels,evCategoryOpen,2021-05-25T17:17:29.735Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,2935-546,440 Superior Spray Oil,H&S,evDownloadLabel,2021-05-25T17:17:31.917Z
+2ec4cda0fbf95e71c77e164a292afb06de85af95c7b9f572f7d57d8162997aff,active => inactive,,,evStateChange,2021-05-25T17:17:32.010Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-25T20:23:49.798Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,Labels Search,es,,evViewPage,2021-05-25T20:23:49.868Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,active => inactive,,,evStateChange,2021-05-25T20:24:15.275Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,inactive => active,,,evStateChange,2021-05-25T22:04:13.363Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,active => inactive,,,evStateChange,2021-05-25T22:04:59.484Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,inactive => active,,,evStateChange,2021-05-25T22:35:40.613Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,active => inactive,,,evStateChange,2021-05-25T22:35:41.670Z
+16cade1b086678fa16796abb0d000f2907f11871dfd98e81d1809b050ed484ac,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-26T04:03:05.779Z
+16cade1b086678fa16796abb0d000f2907f11871dfd98e81d1809b050ed484ac,Labels Search,es,,evViewPage,2021-05-26T04:03:05.858Z
+16cade1b086678fa16796abb0d000f2907f11871dfd98e81d1809b050ed484ac,active => inactive,,,evStateChange,2021-05-26T04:03:20.485Z
+c78fb906d69ef53cccdc8d00820d8f5f3490033b6f47d37ee5bccdd4b84ea514,1.0.14 (46),"android,cordova,capacitor,mobile,hybrid,samsung,SM-G781U,android,11,android",n/a,evStart,2021-05-26T11:58:07.170Z
+c78fb906d69ef53cccdc8d00820d8f5f3490033b6f47d37ee5bccdd4b84ea514,Labels Search,es,,evViewPage,2021-05-26T11:58:07.298Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-26T16:13:35.992Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,Labels Search,es,,evViewPage,2021-05-26T16:13:36.073Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,PICOL Search,es,,evViewPage,2021-05-26T16:13:42.631Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,active => inactive,,,evStateChange,2021-05-26T16:14:54.211Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,inactive => active,,,evStateChange,2021-05-26T16:22:52.743Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,active => inactive,,,evStateChange,2021-05-26T16:24:04.093Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,inactive => active,,,evStateChange,2021-05-26T16:24:40.888Z
+e60599d6d291c15e0550f465f0a5ab38fad0c74eeca6ea10f5e0e41f6196d15c,active => inactive,,,evStateChange,2021-05-26T16:25:02.470Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,1.0.14 (46),"android,cordova,capacitor,mobile,hybrid,motorola,moto g power,android,10,android","(45.856168752887996,-121.48828052546844)",evStart,2021-05-26T20:50:09.865Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,Labels Search,en,,evViewPage,2021-05-26T20:50:10.134Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,More,en,,evViewPage,2021-05-26T20:51:30.746Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,Labels Search,en,,evViewPage,2021-05-26T20:51:44.395Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,active => inactive,,,evStateChange,2021-05-26T20:51:55.383Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,inactive => active,,,evStateChange,2021-05-26T21:14:15.553Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,active => inactive,,,evStateChange,2021-05-26T21:14:16.503Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,inactive => active,,,evStateChange,2021-05-26T21:14:49.115Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,active => inactive,,,evStateChange,2021-05-26T21:14:49.129Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,inactive => active,,,evStateChange,2021-05-26T21:14:49.210Z
+b08ab5e02719f102bc3ca3c7832e9fb0038cd641746b228978ee77215eb6abc0,active => inactive,,,evStateChange,2021-05-26T21:14:52.063Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,1.0.11 (41),"android,phablet,cordova,capacitor,mobile,hybrid,Google,Pixel 4a,android,11,android","(46.43449036759953,-120.29029808517487)",evStart,2021-05-27T02:39:23.195Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,Labels Search,es,,evViewPage,2021-05-27T02:39:23.405Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,Update News,es,,evViewPage,2021-05-27T02:39:50.081Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,More,en,,evViewPage,2021-05-27T02:40:08.593Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,Labels Search,es,,evViewPage,2021-05-27T02:40:17.251Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,Update News,es,,evViewPage,2021-05-27T02:40:26.005Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,More,en,,evViewPage,2021-05-27T02:40:36.454Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,Resources,es,,evViewPage,2021-05-27T02:40:42.284Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,PICOL Search,es,,evViewPage,2021-05-27T02:40:50.827Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,Labels Search,es,,evViewPage,2021-05-27T02:40:51.347Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,More,en,,evViewPage,2021-05-27T02:40:52.997Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,Labels Search,es,,evViewPage,2021-05-27T02:41:01.901Z
+097e3af06ff27bceefbe4daaef126a58e0efb0806c70d0af6ae929cf3564f683,active => inactive,,,evStateChange,2021-05-27T02:41:34.475Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,QuestionPage1,es,,evViewPage,2021-05-27T08:07:10.148Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-27T08:07:12.524Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,Labels Search,es,,evViewPage,2021-05-27T08:07:12.579Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,81803-6,JET-AG®,,evViewHS,2021-05-27T08:07:27.793Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HS Label,es,JET-AG® | epa: 81803-6,evViewPage,2021-05-27T08:07:28.438Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,JET-AG® | epa: 81803-6,Category: Product Information,evCategoryOpen,2021-05-27T08:07:30.796Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,264-1090,Luna® SENSATION,,evViewHS,2021-05-27T08:07:38.998Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HS Label,es,Luna® SENSATION | epa: 264-1090,evViewPage,2021-05-27T08:07:39.592Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Product Information,evCategoryOpen,2021-05-27T08:08:04.463Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Luna® SENSATION | epa: 264-1090,Category: PPE,evCategoryOpen,2021-05-27T08:08:44.788Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Environmental Protection,evCategoryOpen,2021-05-27T08:08:55.454Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Spray Drift Prevention,evCategoryOpen,2021-05-27T08:09:16.578Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Pesticide Labels,evCategoryOpen,2021-05-27T08:09:18.804Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,279-3557,Topguard® Fungicide Specialty Crops,,evViewHS,2021-05-27T08:09:33.558Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HS Label,es,Topguard® Fungicide Specialty Crops | epa: 279-3557,evViewPage,2021-05-27T08:09:34.150Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Topguard® Fungicide Specialty Crops | epa: 279-3557,Category: Product Information,evCategoryOpen,2021-05-27T08:09:35.684Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Topguard® Fungicide Specialty Crops | epa: 279-3557,Category: Producer Information,evCategoryOpen,2021-05-27T08:09:44.183Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Topguard® Fungicide Specialty Crops | epa: 279-3557,Category: First Aid,evCategoryOpen,2021-05-27T08:09:45.802Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,HSLabel,Topguard® Fungicide Specialty Crops | epa: 279-3557,Category: Health and Safety,evCategoryOpen,2021-05-27T08:10:19.511Z
+e5bd2684680b3dbc11d06ee5bdeaf9f78148f8d0d48c777442772a5bd8586bef,active => inactive,,,evStateChange,2021-05-27T08:11:01.686Z
+1d6bfa799532770c4d078777686302f8a40d5ba5fcab052a8e6dc493cb209012,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-27T14:31:45.395Z
+1d6bfa799532770c4d078777686302f8a40d5ba5fcab052a8e6dc493cb209012,Labels Search,en,,evViewPage,2021-05-27T14:31:45.526Z
+1d6bfa799532770c4d078777686302f8a40d5ba5fcab052a8e6dc493cb209012,active => inactive,,,evStateChange,2021-05-27T14:32:32.351Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-27T21:25:51.672Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,Labels Search,en,,evViewPage,2021-05-27T21:25:51.863Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,More,en,,evViewPage,2021-05-27T21:26:00.392Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,PICOL Search,en,,evViewPage,2021-05-27T21:26:04.547Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,PICOL Search,en=>es,,evLanguageToggle,2021-05-27T21:26:14.857Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,PICOL Search,es=>en,,evLanguageToggle,2021-05-27T21:26:16.122Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,active => inactive,,,evStateChange,2021-05-27T21:26:23.922Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,inactive => active,,,evStateChange,2021-05-27T21:26:28.230Z
+e894c1b8eafbf70833e710a86103e3e9e85aa7b4452f5f00ea66c21b2ba1962e,active => inactive,,,evStateChange,2021-05-27T21:26:32.499Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,Labels Search,es=>en,,evLanguageToggle,2021-05-28T02:05:07.373Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,Update News,en,,evViewPage,2021-05-28T02:05:10.379Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,More,en,,evViewPage,2021-05-28T02:05:24.945Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,Labels Search,en,,evViewPage,2021-05-28T02:05:29.709Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,Resources,en,,evViewPage,2021-05-28T02:05:32.164Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,Labels Search,en,,evViewPage,2021-05-28T02:05:49.800Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,PICOL Search,en,,evViewPage,2021-05-28T02:05:52.301Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,100-1431,GRAMOXONE SL 2.0 HERBICIDE,gramo,evViewPICOL,2021-05-28T02:06:37.915Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,PICOL Label,en,GRAMOXONE SL 2.0 HERBICIDE | epa: 100-1431,evViewPage,2021-05-28T02:06:38.263Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,PICOL Label,en=>es,,evLanguageToggle,2021-05-28T02:07:08.122Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,100-1431,GRAMOXONE SL 2.0 HERBICIDE,PICOL,evDownloadLabel,2021-05-28T02:07:30.510Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,100-1431,GRAMOXONE SL 2.0 HERBICIDE,PICOL,evDownloadLabel,2021-05-28T02:07:34.022Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,100-1431,GRAMOXONE SL 2.0 HERBICIDE,PICOL,evDownloadLabel,2021-05-28T02:07:34.892Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,100-1431,GRAMOXONE SL 2.0 HERBICIDE,PICOL,evDownloadLabel,2021-05-28T02:07:35.924Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,100-1431,GRAMOXONE SL 2.0 HERBICIDE,PICOL,evDownloadLabel,2021-05-28T02:07:50.331Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,100-1431,GRAMOXONE SL 2.0 HERBICIDE,PICOL,evDownloadLabel,2021-05-28T02:07:54.174Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,100-1431,GRAMOXONE SL 2.0 HERBICIDE,PICOL,evDownloadLabel,2021-05-28T02:07:54.874Z
+c06c29a06a27bdf4fb1130177d381680c193a103f46b1fcecee87e304eddd0ab,inactive => active,,,evStateChange,2021-05-28T02:08:08.760Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,QuestionPage1,es,,evViewPage,2021-05-28T12:27:37.370Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,1.0.14 (46),"android,cordova,capacitor,mobile,hybrid,samsung,SM-N986U,android,11,android","(46.88577630729541,-119.67603439938685)",evStart,2021-05-28T12:27:42.447Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,Labels Search,es,,evViewPage,2021-05-28T12:27:42.522Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,active => inactive,,,evStateChange,2021-05-28T12:27:57.073Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,inactive => active,,,evStateChange,2021-05-28T12:28:47.934Z
+3c1b22ffd44818994c9dbcfbc157ad49170e36ee1a9a12915cf28044f21ae925,active => inactive,,,evStateChange,2021-05-28T12:28:49.299Z
+a73e8e585a01da4cb23087b71ef1f3bfdee9b08eb14ff3f66866d0ac3c8544d9,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-28T20:18:43.221Z
+a73e8e585a01da4cb23087b71ef1f3bfdee9b08eb14ff3f66866d0ac3c8544d9,Labels Search,es,,evViewPage,2021-05-28T20:18:43.414Z
+a73e8e585a01da4cb23087b71ef1f3bfdee9b08eb14ff3f66866d0ac3c8544d9,264-1065,Ultor®,,evViewHS,2021-05-28T20:18:59.838Z
+a73e8e585a01da4cb23087b71ef1f3bfdee9b08eb14ff3f66866d0ac3c8544d9,HS Label,es,Ultor® | epa: 264-1065,evViewPage,2021-05-28T20:19:00.568Z
+a73e8e585a01da4cb23087b71ef1f3bfdee9b08eb14ff3f66866d0ac3c8544d9,More,en,,evViewPage,2021-05-28T20:19:18.910Z
+a73e8e585a01da4cb23087b71ef1f3bfdee9b08eb14ff3f66866d0ac3c8544d9,Privacy,es,,evViewPage,2021-05-28T20:19:27.046Z
+a73e8e585a01da4cb23087b71ef1f3bfdee9b08eb14ff3f66866d0ac3c8544d9,Labels Search,es,,evViewPage,2021-05-28T20:19:31.417Z
+a73e8e585a01da4cb23087b71ef1f3bfdee9b08eb14ff3f66866d0ac3c8544d9,active => inactive,,,evStateChange,2021-05-28T20:19:34.213Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-28T21:30:28.446Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T21:30:28.569Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,2935-546,440 Superior Spray Oil,,evViewHS,2021-05-28T21:31:00.429Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-28T21:31:01.100Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Spray Drift Prevention,evCategoryOpen,2021-05-28T21:31:09.241Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,440 Superior Spray Oil | epa: 2935-546,Category: Pesticide Labels,evCategoryOpen,2021-05-28T21:31:22.725Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,2935-546,440 Superior Spray Oil,H&S,evDownloadLabel,2021-05-28T21:31:24.427Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T21:31:24.571Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:10:27.076Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,56336-37,Check Mate CM-F,,evViewHS,2021-05-28T22:10:35.956Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en,Check Mate CM-F | epa: 56336-37,evViewPage,2021-05-28T22:10:36.641Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Check Mate CM-F | epa: 56336-37,Category: Pesticide Labels,evCategoryOpen,2021-05-28T22:10:39.368Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,56336-37,Check Mate CM-F,H&S,evDownloadLabel,2021-05-28T22:10:41.468Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:10:41.518Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:10:48.925Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en=>es,,evLanguageToggle,2021-05-28T22:10:52.777Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Check Mate CM-F | epa: 56336-37,Category: Product Information,evCategoryOpen,2021-05-28T22:10:54.918Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,es=>en,,evLanguageToggle,2021-05-28T22:10:58.086Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en=>es,,evLanguageToggle,2021-05-28T22:11:04.137Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,es=>en,,evLanguageToggle,2021-05-28T22:11:11.279Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en=>es,,evLanguageToggle,2021-05-28T22:11:14.229Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,56336-37,Check Mate CM-F,H&S,evDownloadLabel,2021-05-28T22:11:37.049Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:11:37.100Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:12:24.264Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:12:27.299Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:12:34.896Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,es=>en,,evLanguageToggle,2021-05-28T22:13:32.929Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,45002-8,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate,,evViewHS,2021-05-28T22:13:36.703Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,evViewPage,2021-05-28T22:13:37.420Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Health and Safety,evCategoryOpen,2021-05-28T22:13:55.151Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Pesticide Labels,evCategoryOpen,2021-05-28T22:14:15.162Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Product Information,evCategoryOpen,2021-05-28T22:15:04.803Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Storage and Disposal,evCategoryOpen,2021-05-28T22:15:21.065Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Product Information,evCategoryOpen,2021-05-28T22:16:35.172Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en=>es,,evLanguageToggle,2021-05-28T22:16:42.758Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Pesticide Labels,evCategoryOpen,2021-05-28T22:17:16.064Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,es=>en,,evLanguageToggle,2021-05-28T22:18:58.169Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Agri Star™ BASIC COPPER 53 Basic Copper Sulfate | epa: 45002-8,Category: Producer Information,evCategoryOpen,2021-05-28T22:18:58.913Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,8033-23-70506,Assail® 70WP Insecticide,,evViewHS,2021-05-28T22:19:27.210Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en,Assail® 70WP Insecticide | epa: 8033-23-70506,evViewPage,2021-05-28T22:19:27.824Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Assail® 70WP Insecticide | epa: 8033-23-70506,Category: Producer Information,evCategoryOpen,2021-05-28T22:19:28.430Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,Assail® 70WP Insecticide | epa: 8033-23-70506,Category: Pesticide Labels,evCategoryOpen,2021-05-28T22:20:07.584Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,8033-23-70506,Assail® 70WP Insecticide,H&S,evDownloadLabel,2021-05-28T22:20:09.402Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:20:09.455Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:20:49.825Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:21:27.511Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:21:40.196Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:21:45.362Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:22:55.595Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:23:02.509Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Resources,en,,evViewPage,2021-05-28T22:23:11.881Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,More,en,,evViewPage,2021-05-28T22:23:25.481Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:23:28.289Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,83100-4-83979,ABACUS AGRICULTURAL MITICIDE/INSECTICIDE,,evViewPICOL,2021-05-28T22:23:40.802Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,ABACUS AGRICULTURAL MITICIDE/INSECTICIDE | epa: 83100-4-83979,evViewPage,2021-05-28T22:23:41.468Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,2935-546,440 SUPERIOR SPRAY OIL,,evViewPICOL,2021-05-28T22:24:01.772Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,440 SUPERIOR SPRAY OIL | epa: 2935-546,evViewPage,2021-05-28T22:24:02.436Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en=>es,,evLanguageToggle,2021-05-28T22:24:04.799Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,es=>en,,evLanguageToggle,2021-05-28T22:24:07.932Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en=>es,,evLanguageToggle,2021-05-28T22:24:09.800Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,es=>en,,evLanguageToggle,2021-05-28T22:24:11.498Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,1001-69,3336 F TURF & ORNAMENTAL FUNGICIDE,,evViewPICOL,2021-05-28T22:24:19.018Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,3336 F TURF & ORNAMENTAL FUNGICIDE | epa: 1001-69,evViewPage,2021-05-28T22:24:19.669Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,1001-69,3336 F TURF & ORNAMENTAL FUNGICIDE,PICOL,evDownloadLabel,2021-05-28T22:24:25.530Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:24:55.961Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:25:03.047Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:25:21.440Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:25:30.819Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,70506-339,ACENTHRIN INSECTICIDE,,evViewPICOL,2021-05-28T22:25:38.201Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,ACENTHRIN INSECTICIDE | epa: 70506-339,evViewPage,2021-05-28T22:25:38.911Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:26:12.019Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,59639-209,Asana® XL Insecticide,,evViewHS,2021-05-28T22:26:15.871Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en,Asana® XL Insecticide | epa: 59639-209,evViewPage,2021-05-28T22:26:16.512Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:26:47.520Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,70506-339,ACENTHRIN INSECTICIDE,,evViewPICOL,2021-05-28T22:26:49.295Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,ACENTHRIN INSECTICIDE | epa: 70506-339,evViewPage,2021-05-28T22:26:49.960Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,91234-62-92735,ACORA INSECTICIDE,,evViewPICOL,2021-05-28T22:26:55.031Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,ACORA INSECTICIDE | epa: 91234-62-92735,evViewPage,2021-05-28T22:26:55.660Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,400-514,ACRAMITE -4SC,,evViewPICOL,2021-05-28T22:26:59.154Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,ACRAMITE -4SC | epa: 400-514,evViewPage,2021-05-28T22:26:59.794Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:28:03.183Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:28:04.830Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,33270-21,"2,4-D /AMINE 4 HERBICIDE",,evViewPICOL,2021-05-28T22:28:19.730Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,"2,4-D /AMINE 4 HERBICIDE | epa: 33270-21",evViewPage,2021-05-28T22:28:20.389Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,2935-546,470 SUPREME SPRAY OIL,,evViewPICOL,2021-05-28T22:28:31.475Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,470 SUPREME SPRAY OIL | epa: 2935-546,evViewPage,2021-05-28T22:28:32.138Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,66222-226,ABBA ULTRA MITICIDE/INSECTICIDE,,evViewPICOL,2021-05-28T22:29:52.114Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,ABBA ULTRA MITICIDE/INSECTICIDE | epa: 66222-226,evViewPage,2021-05-28T22:29:52.750Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:32:05.169Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:37:39.788Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:38:45.173Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:43:00.092Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:43:02.333Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,2935-546,440 Superior Spray Oil,,evViewHS,2021-05-28T22:43:04.844Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en,440 Superior Spray Oil | epa: 2935-546,evViewPage,2021-05-28T22:43:05.524Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:44:33.710Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:50:29.269Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:50:29.601Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:50:39.718Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,352-834,DuPont™ Fontelis® FUNGICIDE,,evViewHS,2021-05-28T22:50:44.457Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en,DuPont™ Fontelis® FUNGICIDE | epa: 352-834,evViewPage,2021-05-28T22:50:45.120Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,DuPont™ Fontelis® FUNGICIDE | epa: 352-834,Category: Pesticide Labels,evCategoryOpen,2021-05-28T22:50:47.354Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,352-834,DuPont™ Fontelis® FUNGICIDE,H&S,evDownloadLabel,2021-05-28T22:50:48.410Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:50:48.463Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:50:56.725Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,DuPont™ Fontelis® FUNGICIDE | epa: 352-834,Category: Engineering Controls,evCategoryOpen,2021-05-28T22:50:57.920Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,DuPont™ Fontelis® FUNGICIDE | epa: 352-834,Category: Product Information,evCategoryOpen,2021-05-28T22:51:00.427Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HSLabel,DuPont™ Fontelis® FUNGICIDE | epa: 352-834,Category: Storage and Disposal,evCategoryOpen,2021-05-28T22:51:04.561Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:51:08.969Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,1381-103,"2,4-D AMINE 4",,evViewPICOL,2021-05-28T22:51:10.374Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,"2,4-D AMINE 4 | epa: 1381-103",evViewPage,2021-05-28T22:51:11.090Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:51:43.901Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:51:59.506Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:52:16.751Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:52:35.643Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:53:26.415Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:53:31.693Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:53:33.439Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:54:30.855Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,61842-37,SEVIN BRAND XLR PLUS,sev,evViewPICOL,2021-05-28T22:54:36.288Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,SEVIN BRAND XLR PLUS | epa: 61842-37,evViewPage,2021-05-28T22:54:36.920Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:54:46.309Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,71096-6,Rex Lime Sulfur Solution,sevin,evViewHS,2021-05-28T22:54:54.635Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,HS Label,en,Rex Lime Sulfur Solution | epa: 71096-6,evViewPage,2021-05-28T22:54:55.278Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Search,en,,evViewPage,2021-05-28T22:55:05.467Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,70506-339,ACENTHRIN INSECTICIDE,,evViewPICOL,2021-05-28T22:55:09.571Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,PICOL Label,en,ACENTHRIN INSECTICIDE | epa: 70506-339,evViewPage,2021-05-28T22:55:10.207Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,70506-339,ACENTHRIN INSECTICIDE,PICOL,evDownloadLabel,2021-05-28T22:55:10.891Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,Labels Search,en,,evViewPage,2021-05-28T22:55:17.511Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:55:21.214Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-28T22:55:21.558Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-28T22:55:55.903Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,inactive => active,,,evStateChange,2021-05-29T00:15:02.983Z
+f9acc7ef8766482a70d696db7a15616a07d6fa8fc8bca7b88980e98999cb0ee4,active => inactive,,,evStateChange,2021-05-29T00:15:03.305Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-29T01:41:40.861Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,Labels Search,es,,evViewPage,2021-05-29T01:41:40.954Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,More,en,,evViewPage,2021-05-29T01:41:47.362Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,PICOL Search,es,,evViewPage,2021-05-29T01:41:51.396Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,66222-151,ETHEPHON 2 SL,ethep,evViewPICOL,2021-05-29T01:42:03.172Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,PICOL Label,es,ETHEPHON 2 SL | epa: 66222-151,evViewPage,2021-05-29T01:42:03.794Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,66222-151,ETHEPHON 2 SL,PICOL,evDownloadLabel,2021-05-29T01:42:06.456Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,active => inactive,,,evStateChange,2021-05-29T01:42:32.173Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,inactive => active,,,evStateChange,2021-05-29T01:42:32.215Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,active => inactive,,,evStateChange,2021-05-29T01:42:32.756Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-29T03:36:49.223Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,Labels Search,en,,evViewPage,2021-05-29T03:36:49.418Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,active => inactive,,,evStateChange,2021-05-29T03:37:02.541Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,inactive => active,,,evStateChange,2021-05-29T03:37:02.652Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,active => inactive,,,evStateChange,2021-05-29T03:37:03.322Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,QuestionPage1,en,,evViewPage,2021-05-29T12:33:33.256Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios","(29.701932885853385,-95.78347514714574)",evStart,2021-05-29T12:33:40.276Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,Labels Search,en,,evViewPage,2021-05-29T12:33:40.361Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,Resources,en,,evViewPage,2021-05-29T12:33:52.784Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,More,en,,evViewPage,2021-05-29T12:34:00.489Z
+ff8355f80d6900b96bd6ab7ab5fccdc4c9d71ca34385ce635447131946d2dfdd,active => inactive,,,evStateChange,2021-05-29T12:34:02.002Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios","(46.303460528714766,-119.52730265286522)",evStart,2021-05-29T15:04:26.706Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,Labels Search,es,,evViewPage,2021-05-29T15:04:26.796Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,62719-292,Success® NATURALYTE® INSECT CONTROL,success,evViewHS,2021-05-29T15:04:41.368Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,HS Label,es,Success® NATURALYTE® INSECT CONTROL | epa: 62719-292,evViewPage,2021-05-29T15:04:42.008Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,HSLabel,Success® NATURALYTE® INSECT CONTROL | epa: 62719-292,Category: Pesticide Labels,evCategoryOpen,2021-05-29T15:04:51.976Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,62719-292,Success® NATURALYTE® INSECT CONTROL,H&S,evDownloadLabel,2021-05-29T15:04:55.368Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,active => inactive,,,evStateChange,2021-05-29T15:04:55.871Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,inactive => active,,,evStateChange,2021-05-29T15:13:16.716Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,62719-292,Success® NATURALYTE® INSECT CONTROL,H&S,evDownloadLabel,2021-05-29T15:13:17.587Z
+d8eefb20e4173e7783a606413c32d17e41b7968069de4e5d5b5ce63e8089a1a2,active => inactive,,,evStateChange,2021-05-29T15:13:17.635Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,61842-18,Surround® WP Crop Protectant,,evViewHS,2021-05-30T02:41:25.361Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,HS Label,es,Surround® WP Crop Protectant | epa: 61842-18,evViewPage,2021-05-30T02:41:26.335Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,HSLabel,Surround® WP Crop Protectant | epa: 61842-18,Category: Product Information,evCategoryOpen,2021-05-30T02:41:28.568Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,Resources,es,,evViewPage,2021-05-30T02:41:42.245Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,Labels Search,es,,evViewPage,2021-05-30T02:41:49.005Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,More,en,,evViewPage,2021-05-30T02:41:50.105Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,Labels Search,es,,evViewPage,2021-05-30T02:41:54.537Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,264-1090,Luna® SENSATION,bayer,evViewHS,2021-05-30T02:42:08.321Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,HS Label,es,Luna® SENSATION | epa: 264-1090,evViewPage,2021-05-30T02:42:09.047Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,HSLabel,Luna® SENSATION | epa: 264-1090,Category: PPE,evCategoryOpen,2021-05-30T02:42:13.779Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,264-1090,Luna® SENSATION,bayer,evViewHS,2021-05-30T02:42:19.117Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,HS Label,es,Luna® SENSATION | epa: 264-1090,evViewPage,2021-05-30T02:42:19.847Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Physical or Chemical Hazards,evCategoryOpen,2021-05-30T02:42:23.641Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Storage and Disposal,evCategoryOpen,2021-05-30T02:42:25.079Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,HSLabel,Luna® SENSATION | epa: 264-1090,Category: Pesticide Labels,evCategoryOpen,2021-05-30T02:42:33.631Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,264-1090,Luna® SENSATION,H&S,evDownloadLabel,2021-05-30T02:42:35.452Z
+cfd3172c0fcc8be6a17233e4b813d8a5c086f95dbfbf109f484fbb4d8d1c6d7a,active => inactive,,,evStateChange,2021-05-30T02:42:35.789Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-31T19:26:52.919Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,Labels Search,es,,evViewPage,2021-05-31T19:26:53.004Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,More,en,,evViewPage,2021-05-31T19:26:55.352Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,Partners,es,,evViewPage,2021-05-31T19:27:16.367Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,Privacy,es,,evViewPage,2021-05-31T19:28:59.829Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,EULA,en,,evViewPage,2021-05-31T19:30:23.092Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,Contact,es,,evViewPage,2021-05-31T19:31:58.655Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,EULA,en,,evViewPage,2021-05-31T19:32:12.961Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,EULA,es=>en,,evLanguageToggle,2021-05-31T19:33:00.382Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,EULA,en=>es,,evLanguageToggle,2021-05-31T19:34:28.965Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,EULA,en,,evViewPage,2021-05-31T19:37:24.536Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,active => inactive,,,evStateChange,2021-05-31T19:37:59.987Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,1.0.14 (46),"iphone,ios,cordova,capacitor,mobile,hybrid,Apple,iPhone,ios,14.4.2,ios",n/a,evStart,2021-05-31T19:44:38.402Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,Labels Search,es,,evViewPage,2021-05-31T19:44:38.484Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,More,en,,evViewPage,2021-05-31T19:44:48.102Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,About,es,,evViewPage,2021-05-31T19:44:54.316Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,active => inactive,,,evStateChange,2021-05-31T19:45:37.620Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,inactive => active,,,evStateChange,2021-05-31T19:46:02.644Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,EULA,en,,evViewPage,2021-05-31T19:46:11.240Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,Disclaimer,es,,evViewPage,2021-05-31T19:46:29.274Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,EULA,en,,evViewPage,2021-05-31T19:47:23.284Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,Update News,es,,evViewPage,2021-05-31T19:47:27.811Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,About,es,,evViewPage,2021-05-31T19:47:31.238Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,Contact,es,,evViewPage,2021-05-31T19:47:34.332Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,Feedback,es,,evViewPage,2021-05-31T19:47:37.224Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,Feedback,es,,evViewPage,2021-05-31T19:47:55.537Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,Partners,es,,evViewPage,2021-05-31T19:47:58.109Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,active => inactive,,,evStateChange,2021-05-31T19:48:14.357Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,inactive => active,,,evStateChange,2021-05-31T19:48:15.063Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,Partners,es=>en,,evLanguageToggle,2021-05-31T19:48:17.980Z
+521f95e3e2a87e139591470794454771c8833801dec76e63da3e429e53ac8153,active => inactive,,,evStateChange,2021-05-31T19:48:29.495Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,inactive => active,,,evStateChange,2021-05-31T20:00:11.140Z
+47e1a8e0cb96b48d07385585ee90f88688855ef79096d3b5b873955423312827,active => inactive,,,evStateChange,2021-05-31T20:00:12.847Z
