@@ -806,6 +806,7 @@ z
 
 ```
 
+# Number of Sessions Each Month 
 ```{r updated-data-sessions-each-month, warning=F, message=F, echo=F, results=T, eval=T}
 
 #Number of sessions each month 

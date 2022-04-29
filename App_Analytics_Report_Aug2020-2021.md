@@ -432,6 +432,8 @@ looked at pesticide among users from August 2020-2021.
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-heatmap-1.png)
 
+# Number of Sessions Each Month
+
 <table>
 <thead>
 <tr>
