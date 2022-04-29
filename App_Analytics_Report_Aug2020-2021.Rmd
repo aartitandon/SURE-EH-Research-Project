@@ -301,6 +301,22 @@ wa_study_counties <- wa_county %>%
 <figcaption align = "center"><b>Figure 2 - App Utilization in Washington </b></figcaption>
 Predominant use is concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.
 
+# Chloropeth Map of Washington
+```{r chloropeth-map-wa-allcounties, echo=F, warning=F, message=F, eval=F, out.width = "100%"}
+
+chloropeth <- ggplot()
+chloropeth <-chloropeth + geom_polygon(data=pln_sf_t, aes(x=long, y=lat, group=group))
+chloropeth                                
+
+
+p <- ggplot()
+p <- p + geom_polygon( data=MergedStates, 
+          aes(x=long, y=lat, group=group, fill = population/1000000), 
+          color="white", size = 0.2) 
+p
+```
+
+
 ```{r heat-map-time-series, warning=F, message=F, echo=F} 
 
 #all accesses by date
@@ -806,22 +822,13 @@ z
 
 ```
 
-## Table Looking at Number of Sessions Each Month 
-```{r updated-data-sessions-each-month-table, warning=F, message=F, echo=F, results=T, eval=T}
-
-#Number of sessions each month - table
-
-monthly_sessions <- updated_sessions %>% select(sessionid, Month_Yr)
-monthly_sessions_table <- table(monthly_sessions$Month_Yr)
-
-kable(monthly_sessions_table)
-
-```
-
 ## Plot Looking at Number of Sessions Each Month 
-```{r updated-data-sessions-each-month-plot, warning=F, message=F, echo=F, results=F, eval=T}
+```{r updated-data-sessions-each-month-plot, warning=F, message=F, echo=F, results="hide", eval=F}
 
 #Number of sessions each month - plot
+
+library(ggplot2)
+library(tidyverse)
 
 ggplot(monthly_sessions, aes(Month_Yr, ..count..)) +
   geom_bar(aes(fill = sessionid), position = "dodge", fill="black") +
@@ -830,9 +837,21 @@ ggplot(monthly_sessions, aes(Month_Yr, ..count..)) +
   xlab("Year & Month") + 
   ylab("Count (n) of Sessions") +
   coord_flip()
-
 ```
 
+## Table of Top 5 Performing Months
+```{r updated-data-sessions-each-month-table, warning=F, message=F, echo=F, results=T, eval=T}
+
+#Number of sessions each month - table
+
+monthly_sessions <- updated_sessions %>% select(sessionid, Month_Yr)
+monthly_sessions_table <- table(monthly_sessions$Month_Yr)
+monthly_sessions_table <- table[order(monthly_sessions_table, decreasing = TRUE)]
+monthly_sessions_table <- monthly_sessions_table [1:5]
+kable(monthly_sessions_table)
+
+
+```
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
 
 

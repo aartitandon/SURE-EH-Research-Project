@@ -154,6 +154,8 @@ scattered usage throughout the Eastern coast and California.
 Predominant use is concentrated in central Washington, which is part of
 the Columbia Basin, and has very productive agricultural land.
 
+# Chloropeth Map of Washington
+
 # App Use by Device
 
 ## Devices Utilized to Access the Application in 2020-2021
@@ -432,7 +434,9 @@ looked at pesticide among users from August 2020-2021.
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-heatmap-1.png)
 
-## Table Looking at Number of Sessions Each Month
+## Plot Looking at Number of Sessions Each Month
+
+## Table of Top 5 Performing Months
 
 <table>
 <thead>
@@ -448,169 +452,45 @@ Freq
 <tbody>
 <tr>
 <td style="text-align:left;">
-2020-08
+440 Superior Spray Oil
 </td>
 <td style="text-align:right;">
-40
+8
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-2020-09
+440 SUPERIOR SPRAY OIL
 </td>
 <td style="text-align:right;">
-88
+11
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-2020-10
+3336 F TURF & ORNAMENTAL FUNGICIDE
 </td>
 <td style="text-align:right;">
-41
+6
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-2020-11
+ACEPHATE 97UP INSECTICIDE
 </td>
 <td style="text-align:right;">
-37
+1
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-2020-12
+470 SUPREME SPRAY OIL
 </td>
 <td style="text-align:right;">
-55
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-01
-</td>
-<td style="text-align:right;">
-148
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-02
-</td>
-<td style="text-align:right;">
-279
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-03
-</td>
-<td style="text-align:right;">
-201
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-04
-</td>
-<td style="text-align:right;">
-125
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05
-</td>
-<td style="text-align:right;">
-93
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-06
-</td>
-<td style="text-align:right;">
-91
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-07
-</td>
-<td style="text-align:right;">
-84
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-08
-</td>
-<td style="text-align:right;">
-46
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-09
-</td>
-<td style="text-align:right;">
-57
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-10
-</td>
-<td style="text-align:right;">
-46
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-11
-</td>
-<td style="text-align:right;">
-32
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-12
-</td>
-<td style="text-align:right;">
-49
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-01
-</td>
-<td style="text-align:right;">
-50
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-02
-</td>
-<td style="text-align:right;">
-89
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-03
-</td>
-<td style="text-align:right;">
-139
+3
 </td>
 </tr>
 </tbody>
 </table>
-
-## Plot Looking at Number of Sessions Each Month
-
-![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-sessions-each-month-plot-1.png)
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
