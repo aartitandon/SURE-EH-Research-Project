@@ -611,12 +611,6 @@ Freq
 
 ## Plot Looking at Number of Sessions Each Month
 
-    ggplot(monthly_sessions, aes(Month_Yr, ..count..)) +
-      geom_bar(aes(fill = sessionid), position = "dodge", color="black") +
-      xlab("Year & Month") + 
-      ylab("Count (n) of Sessions") + 
-      coord_flip()
-
-![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-sessions-each-month-plot-1.png)
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
