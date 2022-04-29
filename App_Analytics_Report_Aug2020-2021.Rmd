@@ -720,7 +720,7 @@ Amongst 129 total pesticides in the application, Table 1 displays the top ten se
 #90.11
 ```
 
-# Looking at New Data...
+# Looking at New Data
 ```{r updated-merged-monthly-csvs, warning=F, message=F, echo=F, results=F}
 # updated.csv dataframe 
 
@@ -806,7 +806,7 @@ z
 
 ```
 
-## Number of Sessions Each Month 
+## Table Looking at Number of Sessions Each Month 
 ```{r updated-data-sessions-each-month, warning=F, message=F, echo=F, results=T, eval=T}
 
 #Number of sessions each month 
@@ -817,6 +817,15 @@ kable(monthly_sessions_table)
 
 ```
 
+## Plot Looking at Number of Sessions Each Month 
+```{r}
+ggplot(monthly_sessions, aes(Month_Yr, ..count..)) +
+  geom_bar(aes(fill = sessionid), position = "dodge", color="black") +
+  xlab("Year & Month") + 
+  ylab("Count (n) of Sessions") + 
+  coord_flip()
+
+```
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
 

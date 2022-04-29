@@ -426,13 +426,13 @@ looked at pesticide among users from August 2020-2021.
 
 ## 90.11 minutes
 
-# Looking at New Data…
+# Looking at New Data
 
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-heatmap-1.png)
 
-## Number of Sessions Each Month
+## Table Looking at Number of Sessions Each Month
 
 <table>
 <thead>
@@ -608,5 +608,15 @@ Freq
 </tr>
 </tbody>
 </table>
+
+## Plot Looking at Number of Sessions Each Month
+
+    ggplot(monthly_sessions, aes(Month_Yr, ..count..)) +
+      geom_bar(aes(fill = sessionid), position = "dodge", color="black") +
+      xlab("Year & Month") + 
+      ylab("Count (n) of Sessions") + 
+      coord_flip()
+
+![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/unnamed-chunk-2-1.png)
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
