@@ -733,6 +733,78 @@ ignores <- read.csv("ignores.csv")
 updated.csv <- filter(updated.csv,!(aid %in% ignores$aid))
 ```
 ```
+```{r updated-data-sessions, warning=F, message=F, echo=F, results=F}
+
+# creating sessions for updated.csv dataframe
+library("dplyr")
+library("lubridate")
+
+#filter updated.csv from aid's first "evStart" to the next "evStart"
+updated.csv.dedup <- unique(updated.csv)
+
+updated_sessions <- updated.csv.dedup %>% 
+  group_by(sessionid = cumsum(evType == 'evStart')) %>% 
+  mutate(sessioneventno = row_number())
+  
+updated_sessions$ts <- ymd_hms(updated_sessions$ts)
+updated_sessions$ts <- force_tz(updated_sessions$ts, "UTC")
+
+setDT(updated_sessions)
+updated_sessions <- updated_sessions[ , .(session_start = min(ts), session_end = max(ts), num_occurance = .N), by = sessionid]
+
+#'session time' column is added 
+updated_sessions$session_start <- with_tz(updated_sessions$session_start, tzone = "America/Los_Angeles")
+updated_sessions$session_end <- with_tz(updated_sessions$session_end, tzone = "America/Los_Angeles")
+
+updated_sessions$sessiontime <- ymd_hms(updated_sessions$session_end) - ymd_hms(updated_sessions$session_start)
+updated_sessions$sessiontime2 <- as.double(updated_sessions$sessiontime)
+updated_sessions$sessiontimemin <- updated_sessions$sessiontime2/60
+
+updated_sessions$hour <- hour(updated_sessions$session_start)
+updated_sessions$day <- day(updated_sessions$session_start)
+updated_sessions$week <- week(updated_sessions$session_start)
+updated_sessions$month <- month(updated_sessions$session_start)
+updated_sessions$month <- month.abb[as.numeric(updated_sessions$month)]
+# (the line above converts month number to month name)
+updated_sessions$year <- year(updated_sessions$session_start)
+updated_sessions$month = factor(updated_sessions$month, levels = month.abb)
+updated_sessions$Month_Yr <- format(as.Date(updated_sessions$session_start), "%Y-%m")
+
+```
+
+## Comparing User Sessions by 'Hour of the Month', 'Day of the Month', 'Month', and 'Year'
+```{r updated-data-heatmap, warning=F, message=F, echo=F, results=F, eval=T}
+
+library(ggplot2)
+library(dplyr) #easier data wrangling 
+library(viridis) #colour blind friendly palette, works in B&W also
+library(lubridate) 
+library(ggExtra) #because remembering ggplot theme options is beyond me
+library(tidyr) 
+
+updated_df <-updated_sessions %>% select(sessionid,day,hour,month,year)
+z <-ggplot(updated_df,aes(day,hour))+
+  geom_tile(color= "white",size=0.1) + 
+  scale_fill_viridis(name="Hrly Temps C",option ="C")
+z <-z + facet_grid(year~month)
+z <-z + scale_y_continuous(trans = "reverse", breaks = unique(df$hour))
+z <-z + scale_x_continuous(breaks =c(1,10,20,31))
+z <-z + theme_minimal(base_size = 8)
+z <-z + labs(title= paste("2020-2022 Session Analytics"), x="Day of the Month", y="Hour Commencing")
+z <-z + theme(legend.position = "bottom")+
+  theme(plot.title=element_text(size = 14))+
+  theme(axis.text.y=element_text(size=6)) +
+  theme(strip.background = element_rect(colour="white"))+
+  theme(plot.title=element_text(hjust=0))+
+  theme(axis.ticks=element_blank())+
+  theme(axis.text=element_text(size=7))+
+  theme(legend.title=element_text(size=8))+
+  theme(legend.text=element_text(size=6))
+
+z
+
+```
+
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
 

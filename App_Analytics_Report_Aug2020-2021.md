@@ -170,7 +170,7 @@ accessing the app through an Android system.
 
 # App Use by Language
 
-## Frequency of Each Language Accessed on the Application in 2020-2021
+## Each Language Accessed on the Application in 2020-2021
 
 <img src="App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/analyzing-language-frequency-1.png" style="display: block; margin: auto;" />
 <figcaption align="center">
@@ -183,9 +183,7 @@ Since the ’Pesticides Labels Now! application initially asks the user
 which language they wish to proceed in, there is no “default” language
 and the results can be concluded as reliable and robust.
 
-# Sessions in Each Language (Not Finalized)
-
-## Frequency of Different Languages by Operating System in 2020-2021
+## Different Languages by Operating System in 2020-2021 (N = 67,\_\_\_ clicks)
 
 ![iOS users are more likely to access the information in English than
 Spanish. Android users are more likely to access the information in
@@ -193,13 +191,14 @@ Spanish than English. This raises the question why Spanish-speaking
 users are more likely to have an Android
 device.](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/freq-of-lang-by-operating-system-1.png "fig:")
 <figcaption align="center">
-<b>Figure 5 - Bar Chart of Language Frequency by Operating System </b>
+<b>Figure 5 - Bar Chart of Language by Operating System </b>
 </figcaption>
 
 iOS users are more likely to access the information in English than
 Spanish. Android users are more likely to access the information in
 Spanish than English. This raises the question of why Spanish-speaking
-users are more likely to have an Android device.
+users are more likely to have an Android device. \*language selection
+clicks;
 
 # App Use By Time
 
@@ -223,7 +222,8 @@ User’ </b>
 Growing season starts around mid-March till the end of November. This
 figure depicts the increase in session duration mid-year. The rise in
 activity at this time conveys the success of the application targeting
-this specific population of farmworkers.
+this specific population of farmworkers. (include one more sentence
+about pesticide training from Jan-March)
 
 ## Comparing User Sessions by ‘Hour of the Day’, ‘Day of the Month’, and ‘Activity of the User’
 
@@ -236,7 +236,8 @@ of the User’ </b>
 
 In regards to the ‘Day of the Month’, the usage remains relatively
 consistent. However, there is a spike in usage of the application each
-day from 12-3 PM.
+day from 12-3 PM. (include sentence about user clicks per session at end
+of workday)
 
 ## Comparing User Sessions by ‘Month’, ‘Day of the Month’, and ‘Session Time (in minutes)’
 
@@ -304,7 +305,7 @@ The frequency of each ‘Link’ accessed on the ‘Pesticides Labels Now’
 application was analyzed. ‘Labels Search’ was the most popularly viewed
 section by all users.
 
-## Frequency of Different Links by Language in 2020-2021
+## Different Links by Language in 2020-2021
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/freq-diff-links-by-language-1.png)
 <figcaption align="center">
@@ -424,5 +425,13 @@ looked at pesticide among users from August 2020-2021.
 # Average Session Duration
 
 ## 90.11 minutes
+
+#Looking at New Data…
+
+\`\`\`
+
+## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
+
+![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-heatmap-1.png)
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
