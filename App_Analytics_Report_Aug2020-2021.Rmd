@@ -909,8 +909,9 @@ z
 
 monthly_sessions <- updated_sessions %>% select(sessionid, Month_Yr)
 monthly_sessions_table <- table(monthly_sessions$Month_Yr)
-monthly_sessions_table <- monthly_sessions_table [1:5]
-kable(monthly_sessions_table)
+monthly_sessions_table_final <- monthly_sessions_table[order(monthly_sessions_table, decreasing = TRUE)]
+monthly_sessions_table_final <- monthly_sessions_table_final[1:5]
+kable(monthly_sessions_table_final)
 
 ```
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
