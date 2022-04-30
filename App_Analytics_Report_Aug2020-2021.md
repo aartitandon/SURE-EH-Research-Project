@@ -430,19 +430,15 @@ looked at pesticide among users from August 2020-2021.
 
 # Looking at New Data
 
+## Number of Sessions Each Month
+
+![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-sessions-each-month-plot-1.png)
+
 ## Comparing User Sessions by ‘Hour of the Month’, ‘Day of the Month’, ‘Month’, and ‘Year’
 
 ![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-heatmap-1.png)
 
-## Plot Looking at Number of Sessions Each Month
-
-![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-sessions-each-month-plot-1.png)
-
-## Table of Top 5 Performing Months
-
-    ## 
-    ## 2020-08 2020-09 2020-10 2020-11 2020-12 
-    ##      40      88      41      37      55
+## Table of Top 5 Performing Months on the Application from August 2020 to March 2022
 
 <table>
 <thead>
