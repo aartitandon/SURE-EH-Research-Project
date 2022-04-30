@@ -154,7 +154,7 @@ scattered usage throughout the Eastern coast and California.
 Predominant use is concentrated in central Washington, which is part of
 the Columbia Basin, and has very productive agricultural land.
 
-# Chloropeth Map of Washington
+# Chloropeth Map of United States
 
 # App Use by Device
 
@@ -436,7 +436,13 @@ looked at pesticide among users from August 2020-2021.
 
 ## Plot Looking at Number of Sessions Each Month
 
+![](App_Analytics_Report_Aug2020-2021_files/figure-markdown_strict/updated-data-sessions-each-month-plot-1.png)
+
 ## Table of Top 5 Performing Months
+
+    ## 
+    ## 2020-08 2020-09 2020-10 2020-11 2020-12 
+    ##      40      88      41      37      55
 
 <table>
 <thead>
@@ -452,42 +458,42 @@ Freq
 <tbody>
 <tr>
 <td style="text-align:left;">
-440 Superior Spray Oil
+2020-08
 </td>
 <td style="text-align:right;">
-8
+40
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-440 SUPERIOR SPRAY OIL
+2020-09
 </td>
 <td style="text-align:right;">
-11
+88
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-3336 F TURF & ORNAMENTAL FUNGICIDE
+2020-10
 </td>
 <td style="text-align:right;">
-6
+41
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-ACEPHATE 97UP INSECTICIDE
+2020-11
 </td>
 <td style="text-align:right;">
-1
+37
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-470 SUPREME SPRAY OIL
+2020-12
 </td>
 <td style="text-align:right;">
-3
+55
 </td>
 </tr>
 </tbody>

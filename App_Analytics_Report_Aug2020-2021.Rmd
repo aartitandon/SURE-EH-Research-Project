@@ -301,19 +301,78 @@ wa_study_counties <- wa_county %>%
 <figcaption align = "center"><b>Figure 2 - App Utilization in Washington </b></figcaption>
 Predominant use is concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.
 
-# Chloropeth Map of Washington
+# Chloropeth Map of United States
 ```{r chloropeth-map-wa-allcounties, echo=F, warning=F, message=F, eval=F, out.width = "100%"}
 
-chloropeth <- ggplot()
-chloropeth <-chloropeth + geom_polygon(data=pln_sf_t, aes(x=long, y=lat, group=group))
-chloropeth                                
+# Load package
+library(tidyverse)
+library(ggmap)
+library(maps)
+library(maptools)
+library(sf)
 
+# Create point data as a data frame
+point_data <- gps
 
-p <- ggplot()
-p <- p + geom_polygon( data=MergedStates, 
-          aes(x=long, y=lat, group=group, fill = population/1000000), 
-          color="white", size = 0.2) 
-p
+# Geocode a series of cities
+city <- c("Detroit", "Seattle", "Toranto", "Denver", "Mexico City", "Paris", "New Orleans",
+          "Tokyo", "Osaka", "Beijing", "Canberra", "New York", "Istanbul", "New Delhi",
+          "London", "Taipei", "Seoul", "Manila", "Bangkok", "Lagos", "Chicago", "Shanghai")
+point_data2 <- geocode(city)
+
+# Combine OP's example and the geocoding result
+point_data3 <- bind_rows(point_data, point_data2)
+
+# Convert to simple feature object
+point_sf <- st_as_sf(point_data3, coords = c("lon", "lat"), crs = 4326)
+
+# Get world map data
+worldmap <- maps::map("world", fill = TRUE, plot = FALSE)
+
+# Convert world to sp class
+IDs <- sapply(strsplit(worldmap$names, ":"), "[", 1L)
+world_sp <- map2SpatialPolygons(worldmap, IDs = IDs, 
+                                proj4string = CRS("+proj=longlat +datum=WGS84"))
+
+# Convert world_sp to simple feature object
+world_sf <- st_as_sf(world_sp)
+
+# Add country ID
+world_sf <- world_sf %>%
+  mutate(region = map_chr(1:length(world_sp@polygons), function(i){
+    world_sp@polygons[[i]]@ID
+  }))
+
+# Use st_within
+result <- st_within(point_sf, world_sf, sparse = FALSE)
+
+# Calculate the total count of each polygon
+# Store the result as a new column "Count" in world_sf
+world_sf <- world_sf %>%
+  mutate(Count = apply(result, 2, sum))
+
+# Convert world_sf to a data frame world_df 
+world_df <- world_sf
+st_geometry(world_df) <- NULL
+
+# Get world data frame
+world_data <- map_data("world")
+
+# Merge world_data and world_df
+world_data2 <- world_data %>%
+  left_join(world_df, by = c("region"))
+
+ggplot() + 
+  geom_polygon(data = world_data2, aes(x = long, y = lat, group = group, fill = Count)) +
+  coord_fixed(1.3)
+
+# Trial attempt 
+ggplot() + 
+  geom_polygon(data = states_sf, aes(x = long, y = lat, group = group, fill = Count)) +
+  coord_fixed(1.3)
+
+states_sf
+
 ```
 
 
@@ -823,12 +882,15 @@ z
 ```
 
 ## Plot Looking at Number of Sessions Each Month 
-```{r updated-data-sessions-each-month-plot, warning=F, message=F, echo=F, results="hide", eval=F}
+```{r updated-data-sessions-each-month-plot, warning=F, message=F, echo=F, results="hide", eval=T}
 
 #Number of sessions each month - plot
 
 library(ggplot2)
 library(tidyverse)
+library(dplyr)
+
+monthly_sessions <- updated_sessions %>% select(sessionid, Month_Yr)
 
 ggplot(monthly_sessions, aes(Month_Yr, ..count..)) +
   geom_bar(aes(fill = sessionid), position = "dodge", fill="black") +
@@ -846,10 +908,9 @@ ggplot(monthly_sessions, aes(Month_Yr, ..count..)) +
 
 monthly_sessions <- updated_sessions %>% select(sessionid, Month_Yr)
 monthly_sessions_table <- table(monthly_sessions$Month_Yr)
-monthly_sessions_table <- table[order(monthly_sessions_table, decreasing = TRUE)]
 monthly_sessions_table <- monthly_sessions_table [1:5]
+monthly_sessions_table
 kable(monthly_sessions_table)
-
 
 ```
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
