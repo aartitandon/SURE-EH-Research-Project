@@ -115,6 +115,10 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Frequency of Links Utilized](#frequency-of-links-utilized)     
     -   [Frequency of Different Links by Language](#frequency-of-different-links-by-language)     
 -   [Average Session Duration](#average-session-duration)       
+-   [Looking at New Data](#looking-at-new-data)
+    -   [Number of Sessions Each Month](#number-of-sessions-each-month)
+    -   [Table of Top 5 Performing Months on the Application from August 2020 to March 2022](#table-of-top-5-performing-months-on-the-application-from-august-2020-to-march-2022)
+    
 -   [Appendix](#appendix)   
 <br>
 
@@ -902,7 +906,7 @@ z
 ```
 
 
-## Table of Top 5 Performing Months on the Application from August 2020 to March 2022
+## Top 5 Performing Months on the Application from August 2020 to March 2022
 ```{r updated-data-sessions-each-month-table, warning=F, message=F, echo=F, results=T, eval=T}
 
 #Number of sessions each month - table
