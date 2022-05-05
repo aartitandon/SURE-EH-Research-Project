@@ -477,7 +477,7 @@ ggplot(per_data, aes(x = reorder(n, -per), y=per)) +
 The three devices utilized to access the application were an iPhone, Android, or iPad. Approximately 75% of users were accessing the app through an iOS system (e.g. iPhone, iPad) and 25% of users were accessing the app through an Android system.
 
 # App Use by Language
-## Each Language Accessed on the Application in 2020-2021
+## Each Language Accessed on the Application in 2020-2021 (N = 67,754)
 ```{r analyzing-language-frequency, warning=F, message=F, echo=F, results=F, eval=T, fig.align='center'}
 # SubQuestion #2: Which language is more frequently utilized with the 'Pesticide Labels Now' application? 
 
@@ -633,8 +633,6 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
        
 ```
 <figcaption align = "center"><b>Figure 6 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Day of the Month', 'Month', and 'Activity of the User' </b></figcaption>
-Pesticide training occurs from January to M
-
 Growing season starts around mid-March till the end of November. This figure depicts the increase in session activity (i.e. clicks) mid-year. It is also important to note that pesticide training occurs from January to March and the application's peak activity occurs in February. The rise in activity at this time conveys the success of the application targeting this specific population of farm workers. 
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
