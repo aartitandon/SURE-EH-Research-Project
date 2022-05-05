@@ -117,7 +117,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
 -   [Average Session Duration](#average-session-duration)       
 -   [Looking at New Data](#looking-at-new-data)
     -   [Number of Sessions Each Month](#number-of-sessions-each-month)
-    -   [Table of Top 5 Performing Months on the Application from August 2020 to March 2022](#table-of-top-5-performing-months-on-the-application-from-august-2020-to-march-2022)
+    -   [Top 5 Performing Months on the Application from August 2020 to March 2022](#top-5-performing-months-on-the-application-from-august-2020-to-march-2022)
     
 -   [Appendix](#appendix)   
 <br>
@@ -259,12 +259,13 @@ counties_sf_t <- st_transform(counties_sf, crs=2285)
 t <- counties_sf_t %>%
   filter(state_name == "Washington")
 
-#ggplot() + 
-  #geom_sf(data = pln_sf_t, color="red", size=1) + 
-  #geom_sf(data = t, fill=NA, color="black", size=0.1, alpha=0) +
-  #coord_sf(datum = st_crs(2285)) +
-  #labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
-    #scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
+ggplot() + 
+  geom_sf(data = pln_sf_t, color="red", size=1) + 
+  geom_sf(data = t, fill=NA, color="black", size=0.5, alpha=0) +
+  coord_sf(datum = st_crs(2285)) +
+  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
+    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
+
 
 ```
 
@@ -305,7 +306,7 @@ wa_study_counties <- wa_county %>%
 <figcaption align = "center"><b>Figure 2 - App Utilization in Washington </b></figcaption>
 Predominant use is concentrated in central Washington, which is part of the Columbia Basin, and has very productive agricultural land.
 
-# Chloropeth Map of United States
+
 ```{r chloropeth-map-wa-allcounties, echo=F, warning=F, message=F, eval=F, out.width = "100%"}
 
 # Load package
@@ -535,7 +536,7 @@ ggplot(aid_device_language, aes(x=evDesc2)) +
 ```
 
 
-## Different Languages by Operating System in 2020-2021 (N = 67,___ clicks)
+## Different Languages by Operating System in 2020-2021 (N = 67,754 clicks)
 ```{r freq-of-lang-by-operating-system, warning=F, message=F, echo=F, results=F, eval=T, fig.cap="iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question why Spanish-speaking users are more likely to have an Android device."}
 #Without percentage labels 
 library(car)
@@ -552,9 +553,10 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
   geom_bar(position = "fill") + 
   scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
    labs(x = "Language", 
-       y = "Percentage") +
+       y = "Percentage", 
+       title = "Different Languages by Operating System in 2020-2021 (N = 67,754 clicks)") +
       scale_x_discrete(labels = c("English", "Spanish")) +
-      scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS"))  
+      scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS")) 
 ```
 <figcaption align = "center"><b>Figure 5 - Bar Chart of Language by Operating System </b></figcaption>
 iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question of why Spanish-speaking users are more likely to have an Android device. 
