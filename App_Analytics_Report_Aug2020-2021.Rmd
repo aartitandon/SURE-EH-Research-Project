@@ -259,12 +259,12 @@ counties_sf_t <- st_transform(counties_sf, crs=2285)
 t <- counties_sf_t %>%
   filter(state_name == "Washington")
 
-ggplot() + 
-  geom_sf(data = pln_sf_t, color="red", size=1) + 
-  geom_sf(data = t, fill=NA, color="black", size=0.5, alpha=0) +
-  coord_sf(datum = st_crs(2285)) +
-  labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
-    scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
+#ggplot() + 
+  #geom_sf(data = pln_sf_t, color="red", size=1) + 
+  #geom_sf(data = t, fill=NA, color="black", size=0.5, alpha=0) +
+  #coord_sf(datum = st_crs(2285)) +
+  #labs(fill = "", title="", caption="") + scale_x_continuous(limits = c(0.6e+06, 2.7e+06)) +
+    #scale_y_continuous(limits = c(-0.7e+06, 0.8e+06)) + theme_nothing()
 
 
 ```
@@ -553,14 +553,12 @@ ggplot(data = aid_device_language2, aes(x = evDesc2, fill = device_cat)) +
   geom_bar(position = "fill") + 
   scale_y_continuous(labels = function(x) paste0(x*100, "%")) + 
    labs(x = "Language", 
-       y = "Percentage", 
-       title = "Different Languages by Operating System in 2020-2021 (N = 67,754 clicks)") +
+       y = "Percentage") +
       scale_x_discrete(labels = c("English", "Spanish")) +
       scale_fill_discrete(name = "Operating System", labels = c("Android", "iOS")) 
 ```
 <figcaption align = "center"><b>Figure 5 - Bar Chart of Language by Operating System </b></figcaption>
 iOS users are more likely to access the information in English than Spanish. Android users are more likely to access the information in Spanish than English. This raises the question of why Spanish-speaking users are more likely to have an Android device. 
-*language selection clicks; 
 
 ```{r, eval=F, echo=F}
 # Subquestion #4: What is the average number of labels looked at per session? 
@@ -635,7 +633,9 @@ ggplot(y, aes(x=day, y=Month_Yr)) + geom_tile(aes(fill=num_occurance)) +
        
 ```
 <figcaption align = "center"><b>Figure 6 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Day of the Month', 'Month', and 'Activity of the User' </b></figcaption>
-Growing season starts around mid-March till the end of November. This figure depicts the increase in session duration mid-year. The rise in activity at this time conveys the success of the application targeting this specific population of  farmworkers. (include one more sentence about pesticide training from Jan-March)
+Pesticide training occurs from January to M
+
+Growing season starts around mid-March till the end of November. This figure depicts the increase in session activity (i.e. clicks) mid-year. It is also important to note that pesticide training occurs from January to March and the application's peak activity occurs in February. The rise in activity at this time conveys the success of the application targeting this specific population of farm workers. 
 
 ## Comparing User Sessions by 'Hour of the Day', 'Day of the Month', and 'Activity of the User'
 ```{r heatmap2, warning=F, message=F, echo=F, results=F, eval=T}
@@ -649,7 +649,7 @@ ggplot(y, aes(x=hour, y=day)) + geom_tile(aes(fill=num_occurance)) +
        
 ```
 <figcaption align = "center"><b>Figure 7 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the 'Hour of the Day', 'Day of the Month', and 'Activity of the User' </b></figcaption>
-In regards to the 'Day of the Month', the usage remains relatively consistent. However, there is a spike in usage of the application each day from 12-3 PM. (include sentence about user clicks per session at end of workday)
+In regards to the 'Day of the Month', the usage remains relatively consistent. However, there is a spike in usage of the application each day from 12-3 PM. The rise in activity (i.e. clicks) at this time conveys farm workers are looking at this information after work. A future update would be to introduce notifications on the application to remind farm workers to review safety information prior to their working day. 
 
 ## Comparing User Sessions by 'Month', 'Day of the Month', and 'Session Time (in minutes)'
 ```{r heatmap3, warning=F, message=F, echo=F, results=F, eval=T, fig.width=10}
@@ -698,7 +698,7 @@ p
 
 ```
 <figcaption align = "center"><b>Figure 9 - Calendar HeatMap Analyzing Each Session’s Duration in Comparison to the Hour of the Month, Day of the Month, Month, and Year </b></figcaption>
-It is important to note here that each line represents an individual session. Starting from August 2020, the app utilization rises each month as indicated by the increasing amount of lines(sessions). January through April 2021 can be seen as the most successful months for the application due to its popular activity during growing season. 
+It is important to note here that each line represents an individual session. Starting from August 2020, the app utilization rises each month as indicated by the increasing amount of lines (i.e. sessions). January through April 2021 can be seen as the most successful months for the application due to its popular activity during growing season. 
 
 # App Use By Activity 
 ## Frequency of Each Source Page Accessed on the Application in 2020-2021
@@ -789,7 +789,7 @@ my_table <- my_table[1:10]
 kable(my_table)
 ```
 <figcaption align = "center"><b>Table 1 - Top Ten Searched Pesticides </b></figcaption>
-Amongst 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.
+Amongt 129 total pesticides in the application, Table 1 displays the top ten searched pesticides. 'Lorsban® Advanced' was the most popularly looked at pesticide among users from August 2020-2021.
 
 # Average Session Duration 
 ## 90.11 minutes
@@ -801,7 +801,7 @@ Amongst 129 total pesticides in the application, Table 1 displays the top ten se
 #90.11
 ```
 
-# Looking at New Data
+# Looking at New Data From August 2020-March 2022
 ```{r updated-merged-monthly-csvs, warning=F, message=F, echo=F, results=F}
 # updated.csv dataframe 
 
