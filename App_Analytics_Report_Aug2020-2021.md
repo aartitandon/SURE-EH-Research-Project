@@ -526,5 +526,6 @@ and a better user experience till this status quo is relinquished.
 # Undergraduate Research Symposium - Poster
 
 <img src="(draft) DEOHS-ResearchPoster-40x32_0 .pptx.jpg" alt="drawing" width="400"/>
+<img src="me_URS.JPG" alt="drawing" width="400"/>
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
