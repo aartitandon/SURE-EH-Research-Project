@@ -119,7 +119,7 @@ rm(Outputs.evDownload.01, Outputs.evStart, Outputs.evViewPage.01)
     -   [Number of Sessions Each Month](#number-of-sessions-each-month)
     -   [Top 5 Performing Months on the Application from August 2020 to March 2022](#top-5-performing-months-on-the-application-from-august-2020-to-march-2022)
 -   [Suggestions for Future Work](#suggestions-for-future-work)  
--   [What's Next for my Research and for PLN?](#suggestions-for-future-work)  
+-   [What's next for my research and for PLN?](#whats-next-for-my-research-and-for-pln)  
 -   [Appendix](#appendix)   
 <br>
 
@@ -922,7 +922,7 @@ kable(monthly_sessions_table_final)
 # Suggestions for Future Work 
 In this research study, I found the biggest limitation to be the manual analysis of data. For future work, I would suggest taking advantage of R-Studio and automate the analysis process. This will allow future data to be seamlessly included in the analysis reports as needed. 
 
-# What's Next for my Research and for PLN?
+# What's next for my research and for PLN?
 With a total of 503 unique users, 1328 sessions, and over 67,000 interactions (i.e. clicks) within a span of one year, the application’s success speaks for itself. Its increasing user activity each month, especially during growing season, conveys the success of the application targeting this specific population of farmworkers. However, the ‘Pesticides Labels Now!’ application is not quite done making their impact on the agricultural community. The team continues to work on delivering up-to-date safety information, an expanding pesticide list, and a better user experience till this status quo is relinquished. 
 
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
