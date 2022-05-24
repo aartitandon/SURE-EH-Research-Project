@@ -523,4 +523,8 @@ impact on the agricultural community. The team continues to work on
 delivering up-to-date safety information, an expanding pesticide list,
 and a better user experience till this status quo is relinquished.
 
+# Undergraduate Research Symposium - Poster
+
+<img src="(draft) DEOHS-ResearchPoster-40x32_0 .pptx.jpg" alt="drawing" width="400"/>
+
 # [Appendix](https://github.com/aartitandon/SURE-EH-Research-Project/blob/main/Appendix.md)
