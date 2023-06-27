@@ -1,6 +1,6 @@
 # How do user characteristics inform or explain their interaction with the ‘[Pesticides Labels Now!](https://deohs.washington.edu/pnash/LabelsNow)’ application?
 
-## Authors: Aarti Tandon, Eddie Kasner, Kit Galvin, Pablo Palmández
+## Authors: Aarti Tandon, Eddie Kasner, Kit Galvin, Pablo Palmández, Michael Yost
 
 <br>
 
